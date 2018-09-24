@@ -1,0 +1,467 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[600]OT[10x30 byo-yomi]
+PW[ume8]PB[oubeika]WR[6d]BR[5d]DT[2012-02-01]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: h
+oubeika [5d\]: hi
+]RE[B+Resign]
+;B[pd]BL[583.944]C[ume8 [6d\]: hi
+]
+;W[dd]WL[586.526]
+;B[pq]BL[581.257]
+;W[dp]WL[582.597]
+;B[qk]BL[578.694]
+;W[fq]WL[576.095]
+;B[np]BL[568.732]
+;W[nc]WL[562.48]
+;B[pf]BL[564.663]
+;W[jd]WL[555.356]
+;B[cf]BL[561.545]
+;W[fc]WL[526.789]
+;B[ci]BL[547.286]
+;W[ok]WL[515.648]
+;B[me]BL[531.196]
+;W[qo]WL[489.98]C[sn9 [1k\]: hoya
+aasdas: hi sn9
+]
+;B[pn]BL[500.583]
+;W[qq]WL[481.21]C[sn9 [1k\]: ty
+]
+;B[qr]BL[495.249]
+;W[rr]WL[477.871]
+;B[qp]BL[488.936]
+;W[rq]WL[474.04]
+;B[pp]BL[477.352]
+;W[rp]WL[464.223]
+;B[qn]BL[473.988]
+;W[rn]WL[451.732]
+;B[po]BL[468.808]
+;W[ro]WL[447.819]C[Coal: hello.
+aasdas: hi Coal
+]
+;B[jq]BL[447.599]C[sn9 [1k\]: go raku yan
+]
+;W[qj]WL[369.182]
+;B[pj]BL[437.321]
+;W[pk]WL[365.451]
+;B[qi]BL[434.61]
+;W[rj]WL[361.817]
+;B[ql]BL[428.782]
+;W[pi]WL[358.132]
+;B[oj]BL[425.602]
+;W[oh]WL[345.056]
+;B[oi]BL[400.332]C[GriGriGo [2k\]: me like p12 :-)
+]
+;W[ph]WL[340.101]
+;B[nk]BL[397.279]
+;W[nh]WL[330.652]
+;B[mi]BL[385.918]C[richilue [2k\]: seems just making b center a LOT stronger
+]
+;W[mh]WL[311.626]
+;B[li]BL[383.28]C[richilue [2k\]: and regardless w lost sente
+oonicks [?\]: after o12 you have to play r12
+GriGriGo [2k\]: indeed, I was just talking about the move locally,
+]
+;W[lh]WL[236.127]
+;B[ki]BL[372.253]
+;W[pc]WL[219.977]
+;B[qc]BL[368.02]
+;W[od]WL[215.226]
+;B[pb]BL[362.662]
+;W[pe]WL[203.741]C[oonicks [?\]: white is 6d he should live with m7 or so
+]
+;B[oc]BL[342.679]
+;W[qd]WL[198.589]
+;B[pc]BL[336.93]C[richilue [2k\]: he may not have that chance
+]
+;W[oe]WL[172.131]C[richilue [2k\]: and  anything inside the K3 k11 line is risky
+oonicks [?\]: not that it is the most urgent
+]
+;B[qe]BL[317.263]
+;W[qf]WL[168.325]
+;B[rd]BL[314.06]
+;W[md]WL[142.297]C[richilue [2k\]: i was wondering how w would protect M17
+]
+;B[bp]BL[289.439]C[umgalaxys [9k\]: K13?
+]
+;W[cn]WL[119.83]
+;B[cq]BL[276.125]
+;W[dq]WL[113.328]C[richilue [2k\]: feels like b is behind  
+]
+;B[bn]BL[266.954]C[sn9 [1k\]: its now on never
+]
+;W[io]WL[59.371]C[issaqueena: i think b is leading
+indianayk [4d\]: m17 is just a contribution at this stage
+MitaniKun [4k\]: C7
+richilue [2k\]: now yes
+issaqueena: i think h4
+]
+;B[jo]BL[208.891]
+;W[jn]WL[41.936]
+;B[in]BL[206.23]C[MitaniKun [4k\]: L6
+richilue [2k\]: k7
+oonicks [?\]: not very secure lead it's rather decisive around k5, allthough w has some great potential maybe around g15 still
+sn9 [1k\]: splendid
+]
+;W[jp]WL[30]OW[10]
+;B[ko]BL[201.88]
+;W[ip]WL[30]OW[10]
+;B[kp]BL[196.747]
+;W[iq]WL[30]OW[10]
+;B[im]BL[178.282]
+;W[kq]WL[30]OW[10]C[sentra [2d\]: this is ideal for b
+]
+;B[lq]BL[173.473]
+;W[jr]WL[30]OW[10]
+;B[bd]BL[163.561]
+;W[cm]WL[30]OW[10]
+;B[nb]BL[140.053]C[richilue [2k\]: b looking to make a ko?
+]
+;W[cr]WL[30]OW[10]
+;B[br]BL[134.068]
+;W[cp]WL[30]OW[10]
+;B[bq]BL[131.945]C[indianayk [4d\]: while L3 was big, c16 was bigger 
+richilue [2k\]: o18 
+MitaniKun [4k\]: D2
+indianayk [4d\]: b16 rather
+]
+;W[dr]WL[30]OW[9]C[richilue [2k\]: why o18?   and give up sente to do it?
+]
+;B[bo]BL[125.576]C[MitaniKun [4k\]: B7
+]
+;W[cj]WL[30]OW[9]C[skillup [6d\]: c10 best
+]
+;B[bj]BL[112.835]
+;W[bk]WL[30]OW[9]C[rsez [1d\]: b9
+RuediRf [3k\]: b3 will die
+sentra [2d\]: ko?
+skillup [6d\]: very hard for b:D
+indianayk [4d\]: o18 was big point and created aji
+]
+;B[bs]BL[51.163]
+;W[bi]WL[30]OW[9]
+;B[dj]BL[35.676]C[richilue [2k\]: wont do any good without a decent ko somewhere
+]
+;W[aj]WL[30]OW[9]
+;B[ck]BL[26.83]C[iTengen [2k\]: here's one
+]
+;W[ch]WL[30]OW[9]C[iTengen [2k\]: decent though?
+]
+;B[di]BL[18.432]
+;W[dh]WL[30]OW[9]
+;B[eh]BL[10.276]C[richilue [2k\]: b trying to find time for c17?
+]
+;W[eg]WL[30]OW[9]C[dpdemick [6k\]: and making thickness meanwhile
+sentra [2d\]: cut
+]
+;B[fh]BL[30]OB[10]C[indianayk [4d\]: c17
+]
+;W[df]WL[30]OW[9]
+;B[bg]BL[30]OB[10]
+;W[bh]WL[30]OW[8]C[dpdemick [6k\]: still c17?
+]
+;B[cc]BL[30]OB[10]C[dpdemick [6k\]: guess not
+richilue [2k\]: b at b12 was too good
+dpdemick [6k\]: but ko...
+richilue [2k\]: w would have to protect the snapback and still a ko
+]
+;W[db]WL[30]OW[7]
+;B[cb]BL[30]OB[10]C[dpdemick [6k\]: good point
+indianayk [4d\]: c17, d13,b13 ,e14,f13 sequence was better for w 
+]
+;W[fj]WL[30]OW[7]
+;B[fi]BL[30]OB[10]
+;W[hj]WL[30]OW[7]C[aasdas: b winning?
+]
+;B[hh]BL[30]OB[10]C[dpdemick [6k\]: whoops thickness now heaviness?
+]
+;W[ih]WL[30]OW[7]C[richilue [2k\]: w might have played d14 thinking to gain sente and  f8 or so?
+]
+;B[ii]BL[30]OB[10]
+;W[hi]WL[30]OW[7]C[farmer [4d\]: B1 living is that big? why not c9 atari
+richilue [2k\]: f10 in this case?
+]
+;B[ig]BL[30]OB[10]
+;W[jh]WL[30]OW[7]C[indianayk [4d\]: b plays a dangerous game
+bogo1234 [15k\]: sure
+]
+;B[ij]BL[30]OB[10]
+;W[hg]WL[30]OW[7]C[bogo1234 [15k\]: he is behind or not?
+]
+;B[gh]BL[30]OB[10]C[dpdemick [6k\]: b has bad shape there
+]
+;W[hk]WL[30]OW[7]C[sentra [2d\]: nice attack by w
+richilue [2k\]: yah  not sure what happened but after b played o18  its all sorta slipped out of his control
+]
+;B[bl]BL[30]OB[10]
+;W[cl]WL[30]OW[7]C[oonicks [?\]: if he dies or w gets everything at the top and rescues the stones b surely lost
+dpdemick [6k\]: ahh, kooo
+]
+;B[bj]BL[30]OB[10]
+;W[ak]WL[30]OW[7]C[dpdemick [6k\]: hmm, nope
+indianayk [4d\]: h14?
+]
+;B[fk]BL[30]OB[10]
+;W[hm]WL[30]OW[7]C[richilue [2k\]: looks like w can g8  let b live in gote  and win easily
+]
+;B[hn]BL[30]OB[10]C[richilue [2k\]: this is more sneaky of w tho
+]
+;W[gm]WL[30]OW[7]
+;B[hf]BL[30]OB[10]C[iTengen [2k\]: end in sente and get n18?
+]
+;W[jg]WL[30]OW[7]C[mbai [4d\]: b Should K13 first 
+sentra [2d\]: g13 now
+]
+;B[if]BL[30]OB[10]
+;W[gf]WL[30]OW[7]C[indianayk [4d\]: why didn't he take it? 
+issaqueena: complicated here
+]
+;B[gg]BL[30]OB[10]
+;W[ff]WL[30]OW[7]C[goahead [?\]: j14 bad
+issaqueena: hard to catch such a part
+dpdemick [6k\]: j16?
+]
+;B[jf]BL[30]OB[10]C[socro [12k\]: escape to the top?
+indianayk [4d\]: h16
+gnrlyscn [8k\]: no chance
+]
+;W[lf]WL[30]OW[6]C[oonicks [?\]: i think if b lives now he won
+sentra [2d\]: one gote eye
+]
+;B[le]BL[30]OB[10]C[issaqueena: m15 is ood
+]
+;W[kf]WL[30]OW[6]
+;B[ke]BL[30]OB[10]
+;W[je]WL[30]OW[6]C[dpdemick [6k\]: something to push against
+]
+;B[mf]BL[30]OB[10]
+;W[he]WL[30]OW[6]
+;B[kg]BL[30]OB[10]C[sentra [2d\]: ?
+imuyk [1d\]: omg
+indianayk [4d\]: wow! b must have 9 lives
+dpdemick [6k\]: still not alive
+iTengen [2k\]: nice
+socro [12k\]: blunder?
+]
+;W[lg]WL[30]OW[6]C[iTengen [2k\]: NICE
+dpdemick [6k\]: oof
+dpdemick [6k\]: now is
+]
+;B[kh]BL[30]OB[10]C[goahead [?\]: w lost
+unorthodox [-\]: ...
+iTengen [2k\]: that was wild
+sentra [2d\]: w topright too weak, 
+goahead [?\]: over
+]
+;W[lc]WL[30]OW[5]
+;B[of]BL[30]OB[10]
+;W[re]WL[30]OW[5]C[farmer [4d\]: white toast
+skillup [6d\]: m17 looks overplay
+]
+;B[qd]BL[30]OB[10]C[gnrlyscn [8k\]: S15 overplay
+goahead [?\]: just r16
+indianayk [4d\]: w now lost 
+farmer [4d\]: just toast
+socro [12k\]: what about to try to kill B n14?
+]
+;W[nd]WL[30]OW[4]C[issaqueena: lomg way to go
+gnrlyscn [8k\]: n14 dead
+sentra [2d\]: w's attack slipped away so easily
+sentra [2d\]: o15
+]
+;B[ne]BL[30]OB[9]C[skillup [6d\]: OK
+oonicks [?\]: h14 worked well
+skillup [6d\]: b wins
+Matt [5k\]: why h15 ?
+unorthodox [-\]: he was goinf for gold but got grass
+unorthodox [-\]: going*
+]
+;W[kd]WL[30]OW[4]C[gnrlyscn [8k\]: S15 terrible move
+]
+;B[qg]BL[30]OB[9]
+;W[qh]WL[30]OW[4]C[skillup [6d\]: w cant but resign,,
+]
+;B[rk]BL[30]OB[9]C[unorthodox [-\]: when do we get to start crying?
+goahead [?\]: b too greedy
+aasdas: who is winning?
+]
+;W[nf]WL[30]OW[4]
+;B[ng]BL[30]OB[9]C[SXJLove [5d\]: hm since it doesnt cost 6lack anything to ko here he can 6e greedy
+]
+;W[rg]WL[30]OW[4]C[aasdas: hi kotomi
+aasdas: :D
+]
+;B[rf]BL[30]OB[9]
+;W[ri]WL[30]OW[4]C[SXJLove [5d\]: hi aasdas
+]
+;B[sg]BL[30]OB[9]
+;W[sh]WL[30]OW[4]
+;B[rh]BL[30]OB[9]C[oonicks [?\]: if we had s14 first i think it worked
+unorthodox [-\]: game
+]
+;W[ni]WL[30]OW[4]C[gnrlyscn [8k\]: terrible terrible terrible move
+]
+;B[nj]BL[30]OB[9]
+;W[rg]WL[30]OW[4]C[unorthodox [-\]: beyond a doubt
+dpdemick [6k\]: why ko here, no need
+b8matt [3k\]: kinda needed
+]
+;B[ld]BL[30]OB[9]
+;W[mc]WL[30]OW[4]C[dpdemick [6k\]: for white
+]
+;B[rh]BL[30]OB[9]
+;W[mg]WL[30]OW[4]C[aasdas: why not?
+b8matt [3k\]: for b to kill
+]
+;B[nf]BL[30]OB[9]
+;W[rg]WL[30]OW[4]
+;B[kc]BL[30]OB[9]C[dpdemick [6k\]: right, sorry, misspoke
+]
+;W[kb]WL[30]OW[4]C[gnrlyscn [8k\]: w going to die
+]
+;B[rh]BL[30]OB[9]C[unorthodox [-\]: t10
+ohmachi [11k\]: heck yeah i love ko wars there always really intresting
+]
+;W[ce]WL[30]OW[4]C[SXJLove [5d\]: well it doesnt really cost 6lack anything to ko 
+b8matt [3k\]: take
+SXJLove [5d\]: while it cost white something
+aasdas: hey, what about the new keyboard? :P
+dpdemick [6k\]: true
+]
+;B[rg]BL[30]OB[9]
+;W[be]WL[30]OW[4]C[b8matt [3k\]: ignore c15!
+b8matt [3k\]: hahaha
+SXJLove [5d\]: aasdas you know how many people ask me that in one day : P
+aasdas: lol sorry
+]
+;B[ik]BL[30]OB[9]
+;W[lr]WL[30]OW[4]
+;B[mq]BL[30]OB[9]C[gnrlyscn [8k\]: G6
+dpdemick [6k\]: b winning by 30?
+SXJLove [5d\]: id say pay for it 6ut last time i said that someone said they would XD
+]
+;W[dk]WL[30]OW[4]
+;B[ek]BL[30]OB[9]
+;W[cj]WL[30]OW[4]
+;B[gj]BL[30]OB[9]C[alcatrazz [3k\]: judging by se i would say more like 15
+]
+;W[el]WL[30]OW[4]C[ohmachi [11k\]: is white going to kill j 14 now?
+dpdemick [6k\]: w has so many holse
+dpdemick [6k\]: *holes
+]
+;B[lb]BL[30]OB[9]
+;W[jc]WL[30]OW[4]
+;B[mb]BL[30]OB[9]
+;W[kc]WL[30]OW[4]
+;B[gn]BL[30]OB[9]C[gnrlyscn [8k\]: why not
+]
+;W[gk]WL[30]OW[4]
+;B[ej]BL[30]OB[9]
+;W[rm]WL[30]OW[4]C[davideo [2k\]: all white can do now is resign
+ohmachi [11k\]: he had to play g 11 right?
+farmer [4d\]: s7 q2
+]
+;B[fl]BL[30]OB[9]C[ohmachi [11k\]: oh? how come he didnt block the eyes?
+gnrlyscn [8k\]: no reason to resign
+]
+;W[fm]WL[30]OW[4]C[gnrlyscn [8k\]: still a good game
+]
+;B[em]BL[30]OB[9]
+;W[fn]WL[30]OW[4]
+;B[dl]BL[30]OB[9]C[SXJLove [5d\]: hmm that depends if losing 6y 25+ is a good game
+ohmachi [11k\]: how come black didnt make eyes? at h 11?
+]
+;W[en]WL[30]OW[4]C[gnrlyscn [8k\]: the score doesn't always determine the quality
+]
+;B[gp]BL[30]OB[9]C[kuzu [4k\]: ohmachi he doesnt need
+koticgood [3k\]: ohmachi, k12 is dead mang
+kuzu [4k\]: k12 dead
+ohmachi [11k\]: ahh gotchya
+]
+;W[gq]WL[30]OW[4]C[socro [12k\]: black has atari k12
+SXJLove [5d\]: true gn 6ut when a game is clearly o\\/er its not fun for all : )
+]
+;B[mr]BL[30]OB[9]C[gnrlyscn [8k\]: then close screen!
+]
+;W[qm]WL[30]OW[4]C[ohmachi [11k\]: oh im stupid i didnt see that
+dpdemick [6k\]: only not fun for one :)
+]
+;B[pm]BL[30]OB[9]
+;W[sl]WL[30]OW[4]C[SXJLove [5d\]: i didnt say i wasnt enjoying it may6e you should try less assuming and more thinking?
+]
+;B[sk]BL[30]OB[9]C[gnrlyscn [8k\]: ?
+aasdas: fun for kyus, boring for dans :) 
+]
+;W[pr]WL[30]OW[4]C[aasdas: XD
+]
+;B[or]BL[30]OB[9]
+;W[qs]WL[30]OW[4]
+;B[ls]BL[30]OB[9]C[gnrlyscn [8k\]: your sarcasm is useless
+SXJLove [5d\]: gnrly i dont like sarcasm sorry to disapoint you
+]
+;W[kr]WL[30]OW[4]C[aasdas: all enjoyed this game, just this final he should resign ;P
+]
+;B[ie]BL[30]OB[9]C[farmer [4d\]: j15 still big
+]
+;W[id]WL[30]OW[4]C[gnrlyscn [8k\]: no reason to be frustrated
+]
+;B[ji]BL[30]OB[9]
+;W[hd]WL[30]OW[4]C[aasdas: dont fight please
+aasdas: :(
+socro [12k\]: b7
+SXJLove [5d\]: i dont think anyone is ....
+SXJLove [5d\]: o O 
+aasdas: :-D
+gnrlyscn [8k\]: i mean i'm not any dissapointed
+]
+;B[cs]BL[30]OB[8]C[SXJLove [5d\]: ok than thats all you had to say..... lol......
+]
+;W[ds]WL[30]OW[4]C[gnrlyscn [8k\]: basically a way of saying exactly that
+SXJLove [5d\]: i didnt know it was that hard for you haha
+gnrlyscn [8k\]: lol
+farmer [4d\]: white will resign sfter count
+koticgood [3k\]: maybe he thinks l15 is a w stone
+]
+;B[bm]BL[30]OB[7]C[socro [12k\]: is it bad habit, farmer?
+Newtown [3k\]: gg
+SXJLove [5d\]: lol
+]
+;W[il]WL[30]OW[4]
+;B[jl]BL[30]OB[7]
+;W[hl]WL[30]OW[4]
+;B[go]BL[30]OB[7]
+;W[dm]WL[30]OW[4]
+;B[ck]BL[30]OB[7]
+;W[jm]WL[30]OW[4]
+;B[km]BL[30]OB[7]C[gnrlyscn [8k\]: C5!
+]
+;W[dk]WL[30]OW[4]
+;B[dc]BL[30]OB[7]
+;W[eb]WL[30]OW[4]
+;B[ck]BL[30]OB[7]
+;W[el]WL[30]OW[4]
+;B[dk]BL[30]OB[7]
+;W[co]WL[30]OW[4]
+;B[fp]BL[30]OB[7]
+;W[ep]WL[30]OW[4]C[dpdemick [6k\]: finally figured out why white didn't play g13, it turned into a ko for the side
+]
+;B[hp]BL[30]OB[7]
+;W[hq]WL[30]OW[4]
+;B[os]BL[30]OB[7]
+;W[ks]WL[30]OW[4]
+;B[ms]BL[30]OB[7]
+;W[al]WL[30]OW[4]
+;B[am]BL[30]OB[7]
+;W[bj]WL[30]OW[4]
+;B[ps]BL[30]OB[7]
+;W[qr]WL[30]OW[4]
+;B[rl]BL[30]OB[7]
+;W[sm]WL[30]OW[4]
+;B[ka]BL[30]OB[7]
+;W[ja]WL[30]OW[4]
+;B[la]BL[30]OB[7]
+;W[gi]WL[30]OW[4]
+;B[fj]BL[30]OB[7]
+;W[fo]WL[30]OW[4]
+;B[kn]BL[30]OB[7]C[anago4 [?\]: ...
+oubeika [5d\]: thx
+aasdas: gg
+])

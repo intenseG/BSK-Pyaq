@@ -1,0 +1,360 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[60]OT[5x30 byo-yomi]
+PW[intenseG]PB[jim]WR[6d]BR[5d]DT[2015-11-09]PC[The KGS Go Server at http://www.gokgs.com/]C[intenseG [6d\]: hi gg
+jim [5d\]: hi
+jim [5d\]: hi
+]RE[W+10.50]
+;B[pd]BL[25.745]C[jim [5d\]: hi
+]
+;W[dp]WL[57.365]
+;B[pq]BL[21.249]
+;W[dc]WL[49.627]
+;B[df]BL[17.976]
+;W[ch]WL[43.251]
+;B[fd]BL[30]OB[5]
+;W[cd]WL[28.301]
+;B[ff]BL[30]OB[5]
+;W[po]WL[9.179]
+;B[qm]BL[30]OB[4]
+;W[qq]WL[4.274]
+;B[mq]BL[30]OB[4]
+;W[np]WL[30]OW[5]
+;B[or]BL[30]OB[4]
+;W[qn]WL[30]OW[5]
+;B[pm]BL[30]OB[4]
+;W[qr]WL[30]OW[5]
+;B[jq]BL[30]OB[4]
+;W[nc]WL[30]OW[5]
+;B[pf]BL[30]OB[4]
+;W[pb]WL[30]OW[5]
+;B[qc]BL[30]OB[4]
+;W[kc]WL[30]OW[5]
+;B[pi]BL[30]OB[4]
+;W[cm]WL[30]OW[5]
+;B[bf]BL[30]OB[4]
+;W[dj]WL[30]OW[5]
+;B[ec]BL[30]OB[4]
+;W[eb]WL[30]OW[5]
+;B[fb]BL[30]OB[4]
+;W[ed]WL[30]OW[5]
+;B[fc]BL[30]OB[4]
+;W[ee]WL[30]OW[5]
+;B[ef]BL[30]OB[4]
+;W[cb]WL[30]OW[5]
+;B[ce]BL[30]OB[4]
+;W[eq]WL[30]OW[4]
+;B[bd]BL[30]OB[4]
+;W[bc]WL[30]OW[4]
+;B[fe]BL[30]OB[4]
+;W[dd]WL[30]OW[4]
+;B[ea]BL[30]OB[4]
+;W[db]WL[30]OW[4]
+;B[cq]BL[30]OB[4]
+;W[cp]WL[30]OW[4]
+;B[er]BL[30]OB[4]
+;W[fr]WL[30]OW[4]
+;B[dr]BL[30]OB[4]
+;W[bp]WL[30]OW[4]
+;B[gr]BL[30]OB[4]
+;W[fs]WL[30]OW[4]
+;B[fq]BL[30]OB[4]
+;W[gq]WL[30]OW[4]
+;B[fp]BL[30]OB[4]
+;W[hr]WL[30]OW[4]
+;B[gp]BL[30]OB[4]
+;W[hq]WL[30]OW[4]
+;B[hp]BL[30]OB[4]
+;W[iq]WL[30]OW[4]
+;B[ip]BL[30]OB[4]
+;W[jr]WL[30]OW[4]
+;B[kq]BL[30]OB[4]
+;W[kr]WL[30]OW[4]
+;B[lr]BL[30]OB[4]
+;W[gs]WL[30]OW[4]
+;B[rm]BL[30]OB[4]
+;W[rn]WL[30]OW[4]
+;B[el]BL[30]OB[4]
+;W[dl]WL[30]OW[4]
+;B[di]BL[30]OB[4]
+;W[ci]WL[30]OW[4]
+;B[ej]BL[30]OB[4]
+;W[ek]WL[30]OW[4]
+;B[fk]BL[30]OB[4]
+;W[dk]WL[30]OW[4]
+;B[fj]BL[30]OB[4]
+;W[md]WL[30]OW[4]
+;B[mn]BL[30]OB[4]
+;W[lp]WL[30]OW[4]
+;B[lq]BL[30]OB[4]
+;W[on]WL[30]OW[4]
+;B[pp]BL[30]OB[4]
+;W[qp]WL[30]OW[4]
+;B[mp]BL[30]OB[4]
+;W[om]WL[30]OW[4]
+;B[ol]BL[30]OB[4]
+;W[nl]WL[30]OW[4]
+;B[nm]BL[30]OB[4]
+;W[ok]WL[30]OW[4]
+;B[pl]BL[30]OB[4]
+;W[ml]WL[30]OW[4]
+;B[pk]BL[30]OB[4]
+;W[ln]WL[30]OW[4]
+;B[lm]BL[30]OB[4]
+;W[mm]WL[30]OW[4]
+;B[kn]BL[30]OB[4]
+;W[nn]WL[30]OW[4]
+;B[lo]BL[30]OB[4]
+;W[oj]WL[30]OW[4]
+;B[pj]BL[30]OB[4]
+;W[em]WL[30]OW[4]
+;B[fl]BL[30]OB[4]
+;W[kk]WL[30]OW[4]
+;B[qb]BL[30]OB[3]
+;W[ic]WL[30]OW[4]
+;B[ai]BL[30]OB[3]
+;W[bj]WL[30]OW[4]
+;B[aj]BL[30]OB[3]
+;W[ak]WL[30]OW[4]
+;B[ag]BL[30]OB[3]
+;W[bi]WL[30]OW[4]
+;B[ah]BL[30]OB[3]
+;W[bk]WL[30]OW[4]C[Deegan [7k\]: ouch
+]
+;B[jk]BL[30]OB[3]
+;W[jj]WL[30]OW[4]
+;B[kj]BL[30]OB[3]C[Dana [5k\]: ouch is the b center evaporating
+]
+;W[ki]WL[30]OW[4]C[Deegan [7k\]: ouch because b could make monkey jump in sente
+]
+;B[lj]BL[30]OB[3]
+;W[lk]WL[30]OW[4]
+;B[ji]BL[30]OB[3]
+;W[ij]WL[30]OW[4]
+;B[li]BL[30]OB[3]
+;W[kh]WL[30]OW[4]
+;B[jh]BL[30]OB[3]
+;W[kg]WL[30]OW[4]
+;B[ik]BL[30]OB[3]C[K5 [5k?\]: h9?
+]
+;W[hj]WL[30]OW[4]C[realtony [2d\]: b res soon
+mogoyo: ouch
+]
+;B[lh]BL[30]OB[2]
+;W[lg]WL[30]OW[4]
+;B[mg]BL[30]OB[2]
+;W[ig]WL[30]OW[4]
+;B[jg]BL[30]OB[2]
+;W[jf]WL[30]OW[4]
+;B[kf]BL[30]OB[2]
+;W[lf]WL[30]OW[4]
+;B[if]BL[30]OB[2]
+;W[ke]WL[30]OW[4]
+;B[ih]BL[30]OB[2]
+;W[hk]WL[30]OW[4]
+;B[jl]BL[30]OB[2]
+;W[hg]WL[30]OW[3]
+;B[hh]BL[30]OB[2]
+;W[gh]WL[30]OW[3]
+;B[gg]BL[30]OB[2]
+;W[gi]WL[30]OW[3]
+;B[hf]BL[30]OB[2]
+;W[eh]WL[30]OW[3]
+;B[fh]BL[30]OB[2]
+;W[fi]WL[30]OW[3]
+;B[ei]BL[30]OB[2]
+;W[dh]WL[30]OW[3]
+;B[fg]BL[30]OB[1]
+;W[gm]WL[30]OW[3]
+;B[fm]BL[30]OB[1]
+;W[fn]WL[30]OW[3]
+;B[gn]BL[30]OB[1]
+;W[jm]WL[30]OW[2]
+;B[im]BL[30]OB[1]
+;W[kl]WL[30]OW[2]
+;B[il]BL[30]OB[1]
+;W[hl]WL[30]OW[2]
+;B[hm]BL[30]OB[1]
+;W[gl]WL[30]OW[2]
+;B[en]BL[30]OB[1]
+;W[hn]WL[30]OW[2]
+;B[in]BL[30]OB[1]
+;W[go]WL[30]OW[2]
+;B[fo]BL[30]OB[1]
+;W[gn]WL[30]OW[2]
+;B[dm]BL[30]OB[1]
+;W[dn]WL[30]OW[2]
+;B[do]BL[30]OB[1]
+;W[em]WL[30]OW[2]C[Fate [3d\]: b wishes he played e5 before
+]
+;B[is]BL[30]OB[1]C[Unstable [3k\]: Q6
+Fate [3d\]: e4*
+woebegone [-\]: small?
+K5 [5k?\]: ignore
+]
+;W[eo]WL[30]OW[2]
+;B[ks]BL[30]OB[1]
+;W[ir]WL[30]OW[2]
+;B[js]BL[30]OB[1]
+;W[cr]WL[30]OW[2]C[K5 [5k?\]: j5
+]
+;B[br]BL[30]OB[1]
+;W[dq]WL[30]OW[2]
+;B[cs]BL[30]OB[1]
+;W[bq]WL[30]OW[2]
+;B[cr]BL[30]OB[1]
+;W[ar]WL[30]OW[2]
+;B[ls]BL[30]OB[1]C[woebegone [-\]: anoter ko?
+]
+;W[es]WL[30]OW[2]C[suiram [2k\]: no
+]
+;B[hs]BL[30]OB[1]
+;W[bs]WL[30]OW[2]
+;B[as]BL[30]OB[1]C[Unstable [3k\]: Yes :o
+K5 [5k?\]: seppuko 
+suiram [2k\]: just part of the group
+]
+;W[nh]WL[30]OW[2]C[Unstable [3k\]: Ko is ko
+TTL [1d\]: Heh, 2k can't even read 1 move ahead.
+]
+;B[aq]BL[30]OB[1]
+;W[og]WL[30]OW[2]
+;B[pg]BL[30]OB[1]
+;W[of]WL[30]OW[2]C[r0n1n [1d\]: That's not nice, missread happens everyday :<
+]
+;B[oe]BL[30]OB[1]
+;W[ne]WL[30]OW[2]C[TTL [1d\]: Why should I be nice to her when she isn't nice to me?
+]
+;B[oh]BL[30]OB[1]
+;W[oi]WL[30]OW[2]
+;B[ph]BL[30]OB[1]
+;W[ng]WL[30]OW[2]
+;B[ob]BL[30]OB[1]
+;W[oc]WL[30]OW[2]C[woebegone [-\]: i'm 3k or 4k, sometimes i can read one move ahead, sometimes i can't
+]
+;B[pc]BL[30]OB[1]
+;W[nb]WL[30]OW[2]
+;B[pa]BL[30]OB[1]
+;W[sm]WL[30]OW[2]C[K5 [5k?\]: threat was big, but w stole a lot of center
+]
+;B[sl]BL[30]OB[1]
+;W[sn]WL[30]OW[2]C[Seakay [4k\]: because go is suppose to be a friendly competitive community
+]
+;B[rl]BL[30]OB[1]
+;W[op]WL[30]OW[2]
+;B[hb]BL[30]OB[1]
+;W[nr]WL[30]OW[2]C[woebegone [-\]: i +1 on this last comment :-)
+]
+;B[ad]BL[30]OB[1]
+;W[ac]WL[30]OW[2]C[TTL [1d\]: But when Miss Read isn't nice to anybody, why would you not tell the exact same thing to her?
+]
+;B[km]BL[30]OB[1]
+;W[ll]WL[30]OW[2]C[Unstable [3k\]: ~.^
+Seakay [4k\]: a lot of things in go is a "maybe"
+]
+;B[je]BL[30]OB[1]
+;W[ap]WL[30]OW[2]C[Syxok [2d\]: its funny how 1d talking **** about someone only two stones weaker
+Unstable [3k\]: Unless you're Lee chang-ho
+]
+;B[kf]BL[30]OB[1]
+;W[kd]WL[30]OW[2]
+;B[jb]BL[30]OB[1]
+;W[ib]WL[30]OW[2]C[TTL [1d\]: Please don't swear, this is a family server.
+]
+;B[ia]BL[30]OB[1]
+;W[kb]WL[30]OW[2]C[Seakay [4k\]: so even if it seems unfriendly at first... maybe it's really not that way
+]
+;B[nq]BL[30]OB[1]
+;W[oq]WL[30]OW[2]
+;B[ns]BL[30]OB[1]
+;W[pr]WL[30]OW[2]
+;B[mr]BL[30]OB[1]
+;W[ar]WL[30]OW[2]
+;B[gr]BL[30]OB[1]C[Syxok [2d\]: then you shouldnt offend other family members
+]
+;W[io]WL[30]OW[2]
+;B[jn]BL[30]OB[1]
+;W[bs]WL[30]OW[2]C[Kotonoha [3d\]: go IntenseG!
+Unstable [3k\]: Trolls. Trolls everywhere!
+Seakay [4k\]: go elephant ^^
+]
+;B[ni]BL[30]OB[1]
+;W[nj]WL[30]OW[2]C[Kotonoha [3d\]: You two should go out and fight 
+]
+;B[as]BL[30]OB[1]C[K5 [5k?\]: unplayable ko
+]
+;W[hc]WL[30]OW[2]
+;B[gc]BL[30]OB[1]
+;W[bs]WL[30]OW[2]
+;B[ds]BL[30]OB[1]C[woebegone [-\]: b18
+]
+;W[jc]WL[30]OW[2]C[Kotonoha [3d\]: more impressive thing is 
+]
+;B[mf]BL[30]OB[1]
+;W[le]WL[30]OW[2]C[Kotonoha [3d\]: white is broadcasting in a internet site while playing this game
+]
+;B[ep]BL[30]OB[1]C[frooper [1d\]: link?
+Kotonoha [3d\]: so if he don't talk while playing maybe 7D!!!!
+frooper [1d\]: twitch?
+]
+;W[co]WL[30]OW[2]C[Kotonoha [3d\]: ended
+Kotonoha [3d\]: he didn't talk after the ko in middle 
+]
+;B[ja]BL[30]OB[1]
+;W[ka]WL[30]OW[2]
+;B[ha]BL[30]OB[1]
+;W[od]WL[30]OW[2]C[K5 [5k?\]: c5 should be e6
+]
+;B[ho]BL[30]OB[1]
+;W[pe]WL[30]OW[2]
+;B[qe]BL[30]OB[1]C[Unstable [3k\]: Don't peer pressure poor c5
+]
+;W[da]WL[30]OW[2]
+;B[fa]BL[30]OB[1]C[UNARAZZA [1d?\]: link? 
+]
+;W[hd]WL[30]OW[2]
+;B[cg]BL[30]OB[1]C[Seakay [4k\]: c13
+]
+;W[bh]WL[30]OW[2]C[Seakay [4k\]: yea
+Kotonoha [3d\]: NicoNico UNARA
+]
+;B[bg]BL[30]OB[1]
+;W[na]WL[30]OW[2]C[UNARAZZA [1d?\]: ty
+]
+;B[oa]BL[30]OB[1]C[Kotonoha [3d\]: well I said it is ended as he felt bored after the ko in exchange middle with the corner
+]
+;W[no]WL[30]OW[2]
+;B[hi]BL[30]OB[1]
+;W[gj]WL[30]OW[2]
+;B[mo]BL[30]OB[1]C[Kotonoha [3d\]: K7 was his very happy place 
+Kotonoha [3d\]: he don't take a second to think out that 
+Kotonoha [3d\]: lol
+]
+;W[ps]WL[30]OW[2]
+;B[os]BL[30]OB[1]C[hymeio: lol
+]
+;W[ge]WL[30]OW[2]
+;B[he]BL[30]OB[1]
+;W[gd]WL[30]OW[2]C[Kotonoha [3d\]: well after watching his live I think I should retire go
+]
+;B[as]BL[30]OB[1]C[hymeio: Noooo
+Kotonoha [3d\]: he play pretty well while keep talking with people lol lol 
+]
+;W[aq]WL[30]OW[2]
+;B[bs]BL[30]OB[1]C[realtony [2d\]: don't compare :)
+]
+;W[gf]WL[30]OW[2]
+;B[jf]BL[30]OB[1]
+;W[oe]WL[30]OW[2]C[hymeio: beating an elephant is never easy
+realtony [2d\]: everyone has his go life ^^
+]
+;B[hg]BL[30]OB[1]C[Kotonoha [3d\]: I want intenseG be my wife ^^
+]
+;W[]WL[30]OW[2]
+;B[]BL[30]OB[1]TW[aa][ba][ca][la][ma][ab][bb][lb][mb][cc][lc][mc][ld][nd][me][mf][nf][mg][lh][mh][di][ei][li][mi][ni][cj][ej][fj][kj][lj][mj][ck][fk][gk][mk][nk][al][bl][cl][el][fl][am][bm][dm][fm][nm][an][bn][cn][en][ao][bo][do][oo][qo][ro][so][pp][rp][sp][pq][rq][sq][rr][sr][qs][rs][ss]TB[ga][qa][ra][sa][gb][pb][rb][sb][rc][sc][qd][rd][sd][ae][be][re][se][af][cf][qf][rf][sf][ig][qg][rg][sg][qh][rh][sh][qi][ri][si][qj][rj][sj][qk][rk][sk][ql][jm][ln][io][jo][ko][jp][kp][lp][gq][hq][iq][fr][hr][ir][jr][kr][nr][es][fs][gs][ms]C[intenseG [6d\]: thx
+jim [4d\]: thx
+hymeio: thx
+Kotonoha [3d\]: otuotu !!!!!!
+realtony [2d\]: oh, that's another topic man ~
+Kotonoha [3d\]: We love IntenseG 
+RiverSheep [5d\]: k7 doesn't work
+])

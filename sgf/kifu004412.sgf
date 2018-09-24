@@ -1,0 +1,293 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+PW[doctorslip]PB[Zen19L]BR[9d]DT[2016-12-10]PC[The KGS Go Server at http://www.gokgs.com/]C[Zen19L [9d\]: GTP Engine for Zen19L (black): Zen version 13.2
+doctorslip [?\]: hi gg
+]RE[B+Resign]
+;B[pd]BL[1789.619]
+;W[dp]WL[1792.885]
+;B[qp]BL[1772.922]
+;W[ec]WL[1780.931]C[Gintama22: Lol
+]
+;B[cc]BL[1760.818]C[Gintama22: he can't win
+selena [3d\]: lol
+]
+;W[de]WL[1771.349]
+;B[ce]BL[1755.635]
+;W[df]WL[1768.164]
+;B[cf]BL[1745.344]
+;W[dg]WL[1765.932]
+;B[cg]BL[1742.141]
+;W[dh]WL[1753.386]
+;B[nq]BL[1739.329]
+;W[nc]WL[1729.715]
+;B[pf]BL[1725.584]
+;W[kd]WL[1720.499]
+;B[fq]BL[1720.7]
+;W[cn]WL[1686.823]
+;B[ip]BL[1709.576]C[badgod [-\]: Def = 0 ... 
+]
+;W[qh]WL[1664.371]
+;B[qj]BL[1701.797]C[zen19waifu [?\]: Berserker
+Gintama22: He think attack is 100, but actually 15
+Ootakamoku [?\]: r10 rly_
+Gintama22: compare to zen
+Ootakamoku [?\]: r10 looks too close, p12 willi be annoying now
+]
+;W[oh]WL[1640.619]
+;B[oj]BL[1698.947]C[Ootakamoku [?\]: w r17
+]
+;W[qe]WL[1626.449]
+;B[qd]BL[1688.402]
+;W[pe]WL[1618.034]
+;B[oe]BL[1678.319]
+;W[qf]WL[1615.617]
+;B[oc]BL[1669.965]C[Gintama22: r13 
+]
+;W[nd]WL[1606.932]
+;B[od]BL[1667.094]C[muramasa00 [?\]: doctorstop?
+Gintama22: doctor silly
+Ootakamoku [?\]: p14?
+]
+;W[pg]WL[1533.108]
+;B[of]BL[1653.856]C[Ootakamoku [?\]: why is q13 better than p14?
+Kellan [2d?\]: I also thought p14
+senkise [3k\]: n14
+badgod [-\]: n12
+]
+;W[mh]WL[1503.434]C[Gintama22: n14 l13 m17 
+Ootakamoku [?\]: senkise, player from weaker side :)
+]
+;B[me]BL[1640.64]C[Ootakamoku [?\]: play*
+Gintama22: m17 
+Gintama22: black aim
+]
+;W[lf]WL[1491.536]C[senkise [3k\]: o
+]
+;B[mf]BL[1627.512]
+;W[lg]WL[1476.997]C[senkise [3k\]: you've just found the reason why i'm stuck at kyu level
+senkise [3k\]: ty
+Ootakamoku [?\]: :)
+]
+;B[ni]BL[1611.873]
+;W[nh]WL[1466.254]C[senkise [3k\]: r14 
+]
+;B[lj]BL[1606.907]C[muramasa00 [?\]: bog moyo
+senkise [3k\]: i mean, r14 looked expendible
+badgod [-\]: k10
+senkise [3k\]: why did w connect?
+Ootakamoku [?\]: w moyo looks a bit disapointing
+]
+;W[ko]WL[1397.837]C[Gintama22: we can calculate white moyo accurately
+Gintama22: by using cramer rule
+badgod [-\]: yes
+badgod [-\]: w is good
+Gintama22: no
+]
+;B[mn]BL[1587.172]C[Gintama22: white moyo is 25 territory
+badgod [-\]: but he is not bad...?
+]
+;W[nk]WL[1335.996]
+;B[ll]BL[1571.619]C[Ootakamoku [?\]: I think b is leading a bit
+]
+;W[qk]WL[1328.293]
+;B[pk]BL[1561.13]
+;W[ql]WL[1325.431]
+;B[rj]BL[1557.257]
+;W[pl]WL[1302.522]C[badgod [-\]: If white crashes here, it's going to hurt
+]
+;B[ol]BL[1554.332]
+;W[om]WL[1288.753]
+;B[nl]BL[1544.161]
+;W[ok]WL[1280.47]
+;B[pj]BL[1533.862]C[Ootakamoku [?\]: if w crashes here, he resigns
+]
+;W[qo]WL[1251.33]
+;B[pp]BL[1522.573]C[YoungPro [-\]: even if this live
+YoungPro [-\]: i would still bet all my money on b
+Weiss [3d\]: doctorsleep ?
+]
+;W[np]WL[1190.095]
+;B[mp]BL[1511.699]C[Ootakamoku [?\]: if w dies, it close enough to even position that game continues
+]
+;W[nn]WL[1168.394]C[Ootakamoku [?\]: err.. if w lives*
+]
+;B[nm]BL[1500.801]C[YoungPro [-\]: wut
+badgod [-\]: not me... zen can make a bot mistake... 
+Gigot [2k\]: Zen won 90% of his games (and 100% of his previous games against doctorslip): http://kgs.gosquares.net/index.rhtml.en?id=zen19L
+]
+;W[mm]WL[1141.318]
+;B[ml]BL[1497.896]
+;W[mo]WL[1138.766]
+;B[on]BL[1495.045]
+;W[ln]WL[1123.496]
+;B[oo]BL[1482.099]C[Ootakamoku [?\]: I have real trouble, my fingers are typing something sort of related to what Im thinking, but some words get switched to similar words, sort of like autocorrection except the similiarity between words may be symbolic too
+Ootakamoku [?\]: in general I dont watch what I type, doesnt really help here.
+]
+;W[jq]WL[1087.914]C[Ootakamoku [?\]: well, w found some sort of compromise
+]
+;B[lp]BL[1473.783]C[Ootakamoku [?\]: j5?
+Nectaris [1k\]: ^-^
+]
+;W[iq]WL[1071.184]
+;B[hp]BL[1470.98]
+;W[hq]WL[1058.212]
+;B[gq]BL[1468.216]C[Weiss [3d\]: 3 stones look heavy now
+badgod [-\]: zen odd is 1.01
+]
+;W[lr]WL[947.669]
+;B[do]BL[1465.096]
+;W[co]WL[899.948]
+;B[dq]BL[1462.237]C[Ootakamoku [?\]: d5 has become really popular over the last year or to
+Ootakamoku [?\]: so*
+Gigot [2k\]: odd=1.01 means he belives hz is winning?
+]
+;W[ep]WL[891.888]
+;B[eq]BL[1459.291]
+;W[cq]WL[888.528]
+;B[cr]BL[1456.414]C[Weiss [3d\]: g4 
+]
+;W[gp]WL[826.819]C[badgod [-\]: yes if you bet 100$ you won 1$
+]
+;B[fp]BL[1446.09]
+;W[go]WL[825.617]
+;B[eo]BL[1440.02]
+;W[cp]WL[823.657]
+;B[gn]BL[1435.74]
+;W[ho]WL[798.042]
+;B[fo]BL[1432.828]C[Gigot [2k\]: time for b2?
+]
+;W[io]WL[767.249]C[Weiss [3d\]: 2 stones are bigger
+]
+;B[br]BL[1430.031]C[Ootakamoku [?\]: probabilities are much more practical than odds
+snow [3d\]: this looks over for white no?
+Ootakamoku [?\]: why not just say white has 1% chance of winning
+]
+;W[ch]WL[740.693]C[Weiss [3d\]: odd are for betting
+Scrognegne [3d\]: top could still be huge
+snow [3d\]: I don't see where the 1 percent comes from
+]
+;B[dl]BL[1420.464]C[Ootakamoku [?\]: yes, betting for those who cant handle probabilities
+]
+;W[cl]WL[734.988]
+;B[ck]BL[1410.521]C[Ten [1p\]: Alien attack, nuclear war, meteor strike, electric outage,...
+IA [8d\]: o.o
+Weiss [3d\]: c12 is too greedy 
+Gigot [2k\]: bug
+]
+;W[dk]WL[639.654]
+;B[el]BL[1407.701]
+;W[dm]WL[616.191]
+;B[bl]BL[1402.785]
+;W[cm]WL[614.351]
+;B[dj]BL[1399.01]
+;W[ek]WL[577.27]
+;B[bj]BL[1396.213]C[Gigot [2k\]: simple and solid moves
+]
+;W[ej]WL[506.452]
+;B[bh]BL[1386.271]C[gogogo1771 [2d\]: too simple w move, not thoughtful
+]
+;W[bi]WL[477.071]C[bigstar [3k\]: hey Ten's here
+bigstar [3k\]: cool
+]
+;B[ci]BL[1375.865]
+;W[di]WL[470.921]
+;B[cj]BL[1372.961]
+;W[em]WL[453.961]C[Gigot [2k\]: why was b11 needed?
+]
+;B[lc]BL[1353.364]C[gogogo1771 [2d\]: not thoughtful
+]
+;W[kc]WL[433.712]
+;B[kb]BL[1348.03]C[bigstar [3k\]: b11 was just a doctor slip
+asgardia: Did Ten play with Zen19L?
+gogogo1771 [2d\]: don't think so
+]
+;W[lb]WL[395.321]
+;B[mb]BL[1337.683]
+;W[ld]WL[393.146]
+;B[la]BL[1333.324]C[Gigot [2k\]: not with this account
+]
+;W[jb]WL[377.36]C[Lessingham [1d\]: most of the time a doctor slip portends a lawsui
+]
+;B[md]BL[1314.691]C[gogogo1771 [2d\]: w good move here
+gogogo1771 [2d\]: not really good
+]
+;W[mc]WL[349.418]
+;B[lb]BL[1309.699]
+;W[nb]WL[346.447]
+;B[ib]BL[1298.947]
+;W[jc]WL[300.518]
+;B[ob]BL[1296.138]
+;W[ja]WL[293.916]
+;B[ne]BL[1293.327]
+;W[cd]WL[266.836]
+;B[bd]BL[1290.556]
+;W[dd]WL[266.002]
+;B[bf]BL[1287.642]C[gogogo1771 [2d\]: f8?
+]
+;W[nr]WL[212.724]C[Scrognegne [3d\]: is f8 enough to win?
+]
+;B[no]BL[1284.843]C[ama [2k\]: Nice site for KGS game statistic: http://kgs.gosquares.net
+gogogo1771 [2d\]: no, 
+gogogo1771 [2d\]: but got to make some moves here
+]
+;W[oq]WL[197.896]
+;B[op]BL[1277.547]
+;W[pr]WL[196.29]
+;B[qr]BL[1269.382]
+;W[rr]WL[188.222]
+;B[rq]BL[1261.11]
+;W[qs]WL[179.499]
+;B[pq]BL[1252.25]
+;W[or]WL[177.665]
+;B[ij]BL[1245.303]C[Gigot [2k\]: white is playing a good yose
+Scrognegne [3d\]: j10 doesn't look like a yose move
+Gigot [2k\]: it is not?
+Scrognegne [3d\]: threatens f8 while reducing moyo, I'd say it's still chuban move
+Gigot [2k\]: ok, I forgot F8
+]
+;W[ro]WL[62.706]
+;B[rp]BL[1242.44]
+;W[lm]WL[58.795]
+;B[kl]BL[1231.75]C[gogogo1771 [2d\]: w very bad move
+]
+;W[jm]WL[31.833]C[Scrognegne [3d\]: I guess w wants to force b q7
+]
+;B[ih]BL[1219.854]C[Scrognegne [3d\]: or to make ko at n6
+Scrognegne [3d\]: but I'm not sure he has enough liberties if he plays q7
+]
+;W[pm]WL[30]OW[5]C[gogogo1771 [2d\]: seems, but he forgot
+]
+;B[rm]BL[1217.045]
+;W[pn]WL[30]OW[5]C[Gigot [2k\]: last chance
+Scrognegne [3d\]: otherwise m7 and k7 are not very valuable
+VovaDeMort [22k\]: gg
+]
+;B[rl]BL[1207.143]C[Ootakamoku [?\]: gg indeed
+gogogo1771 [2d\]: only can say w is crazy here
+]
+;W[so]WL[30]OW[4]
+;B[mn]BL[1196.286]C[Ootakamoku [?\]: o9 is only one eye! kill it all!
+Ootakamoku [?\]: XD
+]
+;W[bg]WL[30]OW[4]
+;B[ai]BL[1182.481]
+;W[nn]WL[30]OW[4]
+;B[sr]BL[1172.766]
+;W[rs]WL[30]OW[4]
+;B[mn]BL[1163.279]
+;W[ji]WL[30]OW[4]C[Ootakamoku [?\]: dont think this is actually enugh
+]
+;B[hk]BL[1151.583]C[gogogo1771 [2d\]: my godness, 
+gogogo1771 [2d\]: this is evil
+]
+;W[fl]WL[30]OW[4]C[Gigot [2k\]: F8 enough
+]
+;B[lo]BL[1141.26]C[gogogo1771 [2d\]: w purpose?
+gogogo1771 [2d\]: j12 is free
+]
+;W[ii]WL[30]OW[3]
+;B[hi]BL[1138.455]
+;W[hh]WL[30]OW[3]
+;B[gh]BL[1134.931]
+;W[hg]WL[30]OW[3]
+;B[gi]BL[1132.016])

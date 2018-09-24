@@ -1,0 +1,437 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[80x10 byo-yomi]
+PW[twoeye]PB[doctorslip]WR[7d]BR[6d]DT[2013-12-17]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [6d\]: hi gg
+twoeye [7d\]: hi
+]RE[W+10.50]
+;B[pd]BL[10]OB[80]
+;W[dp]WL[10]OW[80]
+;B[pq]BL[10]OB[80]
+;W[cd]WL[10]OW[80]
+;B[qk]BL[10]OB[80]
+;W[mp]WL[10]OW[80]
+;B[po]BL[10]OB[80]
+;W[jp]WL[10]OW[80]
+;B[ed]BL[10]OB[80]
+;W[ec]WL[10]OW[80]
+;B[fc]BL[10]OB[80]
+;W[dc]WL[10]OW[80]
+;B[gd]BL[10]OB[80]
+;W[nc]WL[10]OW[80]
+;B[pf]BL[10]OB[80]
+;W[pb]WL[10]OW[79]
+;B[mc]BL[10]OB[80]
+;W[md]WL[10]OW[79]
+;B[lc]BL[10]OB[79]
+;W[nd]WL[10]OW[79]
+;B[qc]BL[10]OB[79]
+;W[ld]WL[10]OW[78]
+;B[jc]BL[10]OB[79]
+;W[kc]WL[10]OW[78]
+;B[kb]BL[10]OB[79]
+;W[kd]WL[10]OW[78]
+;B[nb]BL[10]OB[79]
+;W[jb]WL[10]OW[78]
+;B[lb]BL[10]OB[79]
+;W[ib]WL[10]OW[78]
+;B[ob]BL[10]OB[79]
+;W[id]WL[10]OW[76]
+;B[eg]BL[10]OB[79]
+;W[cg]WL[10]OW[75]
+;B[di]BL[10]OB[79]
+;W[eh]WL[10]OW[75]
+;B[dh]BL[10]OB[79]
+;W[dg]WL[10]OW[75]
+;B[fg]BL[10]OB[79]
+;W[fh]WL[10]OW[75]
+;B[gg]BL[10]OB[79]
+;W[ej]WL[10]OW[75]
+;B[ei]BL[10]OB[79]
+;W[fi]WL[10]OW[75]
+;B[fj]BL[10]OB[79]
+;W[hh]WL[10]OW[75]
+;B[ek]BL[10]OB[79]
+;W[hg]WL[10]OW[75]
+;B[hf]BL[10]OB[79]
+;W[if]WL[10]OW[75]
+;B[he]BL[10]OB[79]
+;W[gj]WL[10]OW[74]
+;B[fk]BL[10]OB[79]
+;W[ck]WL[10]OW[74]
+;B[dk]BL[10]OB[79]
+;W[cj]WL[10]OW[74]
+;B[dj]BL[10]OB[79]
+;W[hi]WL[10]OW[70]
+;B[de]BL[10]OB[79]
+;W[ce]WL[10]OW[70]
+;B[hc]BL[10]OB[79]
+;W[ic]WL[10]OW[70]
+;B[ie]BL[10]OB[79]
+;W[je]WL[10]OW[70]
+;B[fe]BL[10]OB[79]
+;W[cm]WL[10]OW[70]
+;B[hl]BL[10]OB[79]
+;W[em]WL[10]OW[70]
+;B[gk]BL[10]OB[79]
+;W[eq]WL[10]OW[70]
+;B[jf]BL[10]OB[79]C[rats [2d?\]: massive cut
+]
+;W[ig]WL[10]OW[67]C[arbas [2d?\]: ye
+arbas [2d?\]: yes
+]
+;B[kf]BL[10]OB[79]
+;W[gb]WL[10]OW[65]
+;B[hb]BL[10]OB[79]
+;W[fb]WL[10]OW[65]
+;B[ha]BL[10]OB[79]
+;W[mf]WL[10]OW[64]
+;B[jh]BL[10]OB[79]
+;W[jg]WL[10]OW[62]
+;B[kg]BL[10]OB[79]
+;W[kh]WL[10]OW[62]
+;B[mg]BL[10]OB[79]
+;W[ki]WL[10]OW[62]
+;B[nf]BL[10]OB[78]
+;W[lf]WL[10]OW[61]
+;B[lg]BL[10]OB[78]
+;W[ng]WL[10]OW[61]C[Step [5d\]: o12 
+]
+;B[nh]BL[10]OB[76]
+;W[og]WL[10]OW[60]
+;B[of]BL[10]OB[76]
+;W[mh]WL[10]OW[59]
+;B[oh]BL[10]OB[75]
+;W[lh]WL[10]OW[59]
+;B[pg]BL[10]OB[75]
+;W[ng]WL[10]OW[59]
+;B[og]BL[10]OB[75]
+;W[ke]WL[10]OW[59]
+;B[ng]BL[10]OB[75]
+;W[ne]WL[10]OW[59]
+;B[ij]BL[10]OB[75]C[plotzo [6k\]: by a whisker
+]
+;W[ii]WL[10]OW[57]C[q15p17r14 [3d\]: In cases like this, I wonder if white would be better to play o15 at n15, since it gives black a nearly absolute ko threat
+]
+;B[jk]BL[10]OB[73]
+;W[kj]WL[10]OW[53]C[Matt [2k\]: good point
+]
+;B[ll]BL[10]OB[72]C[Kmar [2d\]: man at the end if you win the ko but lose from 0.5 point
+]
+;W[lk]WL[10]OW[47]C[Krapsman [1k\]: but 1 pt can win the game
+Kmar [2d\]: u'll have regrets
+Matt [2k\]: but if no ko appears and you lose by.05
+]
+;B[ml]BL[10]OB[71]C[Matt [2k\]: that suxx too ^^
+]
+;W[nj]WL[10]OW[47]C[RiverSheep [5d\]: why did b have to help w live
+RiverSheep [5d\]: surely many things better to do
+q15p17r14 [3d\]: That would be heartbreaking
+]
+;B[mk]BL[10]OB[68]
+;W[mj]WL[10]OW[47]
+;B[kk]BL[10]OB[68]
+;W[lj]WL[10]OW[47]
+;B[or]BL[10]OB[68]C[RiverSheep [5d\]: achieved nothing
+RiverSheep [5d\]: and what is p2?
+rats [2d?\]: defends the corner
+]
+;W[hn]WL[10]OW[45]C[Kmar [2d\]: yeah missclick ? ^^
+]
+;B[cq]BL[10]OB[68]C[q15p17r14 [3d\]: As far as I can gather, the pro philosophy is to take definite points rather than prepare for a ko that may never happen
+]
+;W[dr]WL[10]OW[44]C[Kmar [2d\]: yes I think u are right
+]
+;B[hp]BL[10]OB[65]C[Kmar [2d\]: b has to do smth
+Kmar [2d\]: otherwise it'll not be enough
+]
+;W[jm]WL[10]OW[43]
+;B[cn]BL[10]OB[63]
+;W[bm]WL[10]OW[41]
+;B[en]BL[10]OB[62]C[Kmar [2d\]: f7 
+]
+;W[fm]WL[10]OW[39]C[rubicon [3d\]: b is gonna get owned
+RiverSheep [5d\]: what is b doing
+]
+;B[io]BL[10]OB[59]C[Kmar [2d\]: filling the dames
+]
+;W[kn]WL[10]OW[37]C[Bakhor [10k\]: x')
+]
+;B[gn]BL[10]OB[58]C[plotzo [6k\]: hoping 2i will get too clever and mess up
+]
+;W[gm]WL[10]OW[35]
+;B[in]BL[10]OB[58]
+;W[go]WL[10]OW[35]C[Kmar [2d\]: g6 was nice :)
+]
+;B[ko]BL[10]OB[57]
+;W[jo]WL[10]OW[34]
+;B[jn]BL[10]OB[57]C[RiverSheep [5d\]: w should have answered with g5
+]
+;W[lo]WL[10]OW[30]
+;B[km]BL[10]OB[57]
+;W[kp]WL[10]OW[30]
+;B[gp]BL[10]OB[56]
+;W[lm]WL[10]OW[29]
+;B[kl]BL[10]OB[56]
+;W[fp]WL[10]OW[29]
+;B[lq]BL[10]OB[56]
+;W[gq]WL[10]OW[26]
+;B[hq]BL[10]OB[56]
+;W[hr]WL[10]OW[26]
+;B[ho]BL[10]OB[54]
+;W[fn]WL[10]OW[25]C[rats [2d?\]: tada
+]
+;B[ir]BL[10]OB[53]
+;W[gr]WL[10]OW[24]
+;B[iq]BL[10]OB[53]C[hernan1987 [1k\]: still m3 looks 
+rats [2d?\]: i'm sure b cannot believe his luck
+]
+;W[jr]WL[10]OW[23]C[hernan1987 [1k\]: sharp
+]
+;B[kr]BL[10]OB[52]
+;W[kq]WL[10]OW[22]
+;B[lr]BL[10]OB[52]C[Soulbend [2k\]: resignation is coming
+rubicon [3d\]: how did this happen?
+hernan1987 [1k\]: n7
+]
+;W[ol]WL[10]OW[18]C[hernan1987 [1k\]: it happened since b played m3
+]
+;B[nn]BL[10]OB[51]C[Soulbend [2k\]: I think it was g3 
+hernan1987 [1k\]: long ago
+hernan1987 [1k\]: XD
+]
+;W[ql]WL[10]OW[17]
+;B[pk]BL[10]OB[51]C[bbred [3k\]: the cat has lives
+hernan1987 [1k\]: not here
+]
+;W[on]WL[10]OW[14]
+;B[oo]BL[10]OB[50]C[hernan1987 [1k\]: just p5
+]
+;W[qn]WL[10]OW[13]C[Yaruki [5k\]: cat trying to be tricky
+]
+;B[ok]BL[10]OB[50]
+;W[rp]WL[10]OW[13]C[rats [2d?\]: woot
+hernan1987 [1k\]: :S
+hernan1987 [1k\]: w will live
+maxkoehl [7k\]: s3
+]
+;B[rq]BL[10]OB[48]
+;W[qp]WL[10]OW[13]
+;B[qq]BL[10]OB[48]
+;W[rk]WL[10]OW[13]
+;B[rm]BL[10]OB[48]
+;W[rl]WL[10]OW[12]
+;B[rn]BL[10]OB[48]
+;W[nk]WL[10]OW[12]
+;B[nl]BL[10]OB[48]C[hernan1987 [1k\]: poor b here u.u
+bbred [3k\]: r11
+]
+;W[qm]WL[10]OW[10]C[hernan1987 [1k\]: q8
+kcharris12 [1k\]: s5
+hernan1987 [1k\]: s10
+plotzo [6k\]: w's turn to make the opponent sweat
+maxkoehl [7k\]: r11
+RiverSheep [5d\]: has to s10
+]
+;B[rj]BL[10]OB[45]C[RiverSheep [5d\]: w probably could have r10
+]
+;W[sp]WL[10]OW[8]
+;B[qo]BL[10]OB[44]
+;W[ro]WL[10]OW[8]
+;B[sn]BL[10]OB[44]
+;W[sm]WL[10]OW[8]
+;B[sl]BL[10]OB[44]
+;W[sk]WL[10]OW[8]C[hernan1987 [1k\]: t7
+]
+;B[sm]BL[10]OB[44]C[hernan1987 [1k\]: game over
+]
+;W[qi]WL[10]OW[8]
+;B[qj]BL[10]OB[44]
+;W[so]WL[10]OW[8]
+;B[sm]BL[10]OB[44]
+;W[pi]WL[10]OW[8]
+;B[ri]BL[10]OB[44]
+;W[rh]WL[10]OW[8]C[hernan1987 [1k\]: r12
+fiver [5d\]: t9 instead of t8 made this a lot simpler?
+]
+;B[qh]BL[10]OB[43]C[hernan1987 [1k\]: res
+]
+;W[no]WL[10]OW[6]C[hernan1987 [1k\]: n6
+]
+;B[mn]BL[10]OB[40]
+;W[nq]WL[10]OW[6]
+;B[oq]BL[10]OB[39]
+;W[is]WL[10]OW[6]
+;B[jq]BL[10]OB[37]
+;W[js]WL[10]OW[6]
+;B[hs]BL[10]OB[37]
+;W[gs]WL[10]OW[6]
+;B[im]BL[10]OB[37]
+;W[nr]WL[10]OW[6]C[hernan1987 [1k\]: o2
+hernan1987 [1k\]: was safer instead of p3
+]
+;B[mo]BL[10]OB[35]
+;W[lp]WL[10]OW[6]
+;B[np]BL[10]OB[35]
+;W[mq]WL[10]OW[6]C[rats [2d?\]: that would have been much much worse
+hernan1987 [1k\]: still not enough for w
+q15p17r14 [3d\]: Safer in what manner?
+]
+;B[bi]BL[10]OB[33]
+;W[qb]WL[10]OW[5]
+;B[pc]BL[10]OB[32]
+;W[rc]WL[10]OW[5]C[hernan1987 [1k\]: o2
+hernan1987 [1k\]: is secure
+]
+;B[rd]BL[10]OB[30]
+;W[ra]WL[10]OW[5]
+;B[sb]BL[10]OB[30]
+;W[sc]WL[10]OW[5]C[endersgame [1d\]: o2 would let q5 be cut off
+]
+;B[sd]BL[10]OB[30]
+;W[rb]WL[10]OW[5]
+;B[pa]BL[10]OB[30]
+;W[oc]WL[10]OW[5]
+;B[ma]BL[10]OB[29]
+;W[qe]WL[10]OW[4]C[hernan1987 [1k\]: D:
+]
+;B[pe]BL[10]OB[27]C[Yaruki [5k\]: meow
+hernan1987 [1k\]: thats why im still 1k -.-
+rats [2d?\]: nevermind endersgame, i'm sure he will debate that being safer
+Matt [2k\]: oh man, 7d and abuse aji, must be hell to play against ^^
+]
+;W[qg]WL[10]OW[3]C[RiverSheep [5d\]: b mistake after mistake
+]
+;B[ph]BL[10]OB[26]
+;W[rg]WL[10]OW[3]
+;B[qf]BL[10]OB[26]
+;W[oj]WL[10]OW[3]
+;B[rf]BL[10]OB[26]
+;W[ka]WL[10]OW[3]
+;B[oa]BL[10]OB[26]
+;W[gc]WL[10]OW[3]C[Mukti [4d\]: Where? B seems to be doing fine to me.
+]
+;B[hd]BL[10]OB[26]C[RiverSheep [5d\]: wtf
+]
+;W[df]WL[10]OW[3]C[RiverSheep [5d\]: no he is not
+]
+;B[ef]BL[10]OB[26]
+;W[gf]WL[10]OW[3]C[Jacaranda [2d\]: what mistake?
+RiverSheep [5d\]: first mistake was q17
+Jacaranda [2d\]: other than t8
+RiverSheep [5d\]: should just p17
+]
+;B[dd]BL[10]OB[24]C[rayray321 [4k\]: ko threat
+]
+;W[fd]WL[10]OW[3]C[RiverSheep [5d\]: then t16
+rayray321 [4k\]: omg 
+sfhfg: q17 was never played
+hernan1987 [1k\]: massive ko
+RiverSheep [5d\]: then now h16
+RiverSheep [5d\]: too many miss
+]
+;B[ks]BL[10]OB[19]
+;W[hs]WL[10]OW[3]
+;B[fc]BL[10]OB[19]
+;W[rm]WL[10]OW[3]
+;B[sn]BL[10]OB[18]
+;W[fd]WL[10]OW[3]
+;B[fq]BL[10]OB[17]
+;W[fr]WL[10]OW[3]
+;B[fc]BL[10]OB[17]
+;W[si]WL[10]OW[3]C[Dino9 [-\]: M19 double threat
+]
+;B[sg]BL[10]OB[16]
+;W[fd]WL[10]OW[3]C[rats [2d?\]: b crying
+hernan1987 [1k\]: g12'
+Botu [4k\]: O15
+Holub [3k\]: nieje m19 trosku picovina za bieleho pali ? :D
+huggy [2k\]: k10
+hernan1987 [1k\]: or k19
+Dino9 [-\]: K19, ale nie je to moc hrozba :D
+maxkoehl [7k\]: k10
+MXHero [4d\]: m19 yes
+Holub [3k\]: j 19 ci nie ? za č :D
+Dino9 [-\]: alebo aj m19
+]
+;B[ia]BL[10]OB[9]
+;W[ja]WL[10]OW[3]
+;B[la]BL[10]OB[9]
+;W[jd]WL[10]OW[3]C[MXHero [4d\]: gross
+]
+;B[fc]BL[10]OB[9]C[Holub [3k\]: ok ok D :D
+]
+;W[nm]WL[10]OW[2]C[MXHero [4d\]: oh j19 is ok nvm
+MooDoGo [4k\]: M19 REDUNDANT?!
+Mukti [4d\]: No
+MooDoGo [4k\]: 9sorry
+]
+;B[mm]BL[10]OB[7]
+;W[fd]WL[10]OW[2]C[q15p17r14 [3d\]: I think m19 first was better
+Mukti [4d\]: Otherwise K16 woudl eb a white threat
+iphone4 [4d\]: m19 give 1 more kothreat
+hernan1987 [1k\]: g2
+endersgame [1d\]: m19 gives 2 threats I think
+]
+;B[ji]BL[10]OB[5]C[hernan1987 [1k\]: g12
+MXHero [4d\]: m19 first invites a good trade for w
+BagaLutti [4d?\]: not really, k16 just threatens m18
+]
+;W[jj]WL[10]OW[1]
+;B[fc]BL[10]OB[5]
+;W[sj]WL[10]OW[1]C[rubicon [3d\]: m19 is the ideal move
+]
+;B[sh]BL[10]OB[5]C[MXHero [4d\]: apparently b didn't like the trade
+hernan1987 [1k\]: k11
+]
+;W[fd]WL[10]OW[1]C[rubicon [3d\]: it was very good
+]
+;B[hj]BL[10]OB[5]
+;W[ee]WL[10]OW[1]C[hernan1987 [1k\]: ^¡
+q15p17r14 [3d\]: Now, I do not think n15 is a threat
+]
+;B[gi]BL[10]OB[4]C[rats [2d?\]: enough for w
+]
+;W[ga]WL[10]OW[1]
+;B[gh]BL[10]OB[4]
+;W[ge]WL[10]OW[1]C[Mukti [4d\]: Yuck.
+]
+;B[bh]BL[10]OB[4]
+;W[ag]WL[10]OW[1]
+;B[bg]BL[10]OB[4]
+;W[bf]WL[10]OW[1]
+;B[dl]BL[10]OB[4]
+;W[dm]WL[10]OW[1]
+;B[cl]BL[10]OB[4]
+;W[bl]WL[10]OW[1]
+;B[bj]BL[10]OB[4]
+;W[bk]WL[10]OW[1]C[Jacaranda [2d\]: doctor slipped up
+typr: j19 bad
+RiverSheep [5d\]: maybe not enough
+]
+;B[ns]BL[10]OB[3]
+;W[ms]WL[10]OW[1]C[maxkoehl [7k\]: M4 1 or 2 eyes
+]
+;B[os]BL[10]OB[3]C[RiverSheep [5d\]: m6 is big
+]
+;W[ln]WL[10]OW[1]
+;B[ah]BL[10]OB[3]
+;W[hm]WL[10]OW[1]
+;B[af]BL[10]OB[3]
+;W[ae]WL[10]OW[1]C[Goreon [2d\]: doctor came in // stinking of gin //....
+]
+;B[ak]BL[10]OB[3]
+;W[al]WL[10]OW[1]
+;B[aj]BL[10]OB[3]
+;W[ni]WL[10]OW[1]C[padrag [3k\]: sminking...
+]
+;B[ag]BL[10]OB[3]
+;W[ff]WL[10]OW[1]
+;B[il]BL[10]OB[3]
+;W[]WL[10]OW[1]
+;B[]BL[10]OB[3]TW[aa][ba][ca][da][ea][fa][ha][ia][ab][bb][cb][db][eb][hb][ac][bc][cc][fc][hc][jc][ad][bd][dd][ed][gd][hd][be][de][fe][he][ie][le][me][cf][hf][ih][jh][ji][li][mi][am][an][bn][cn][dn][en][gn][ao][bo][co][do][eo][fo][ko][ap][bp][cp][ep][aq][bq][cq][dq][fq][lq][ar][br][cr][er][kr][lr][mr][as][bs][cs][ds][es][fs][ks][ls]TB[na][qa][ra][sa][mb][pb][qb][rb][rc][sc][qd][qe][re][se][sf][qg][rg][eh][fh][rh][ai][fi][si][ej][gj][sj][hk][ik][rk][sk][jl][ol][pl][ql][rl][sl][jm][nm][om][pm][qm][rm][on][pn][qn][rn][no][ro][so][op][pp][qp][rp][sp][sq][pr][qr][rr][sr][ps][qs][rs][ss]C[doctorslip [6d\]: thx
+twoeye [7d\]: thx
+hernan1987 [1k\]: quite sad
+hernan1987 [1k\]: for b
+hernan1987 [1k\]: XD
+arbas [2d?\]: great
+MooDoGo [4k\]: eventualy hover m18 (b r19 ) is smaller?!
+])

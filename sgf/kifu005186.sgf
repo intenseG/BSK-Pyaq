@@ -1,0 +1,275 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[300]OT[3x20 byo-yomi]
+PW[oubeika]PB[wanghd]WR[5d]BR[4d]DT[2012-10-19]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+Resign]
+;B[pc]BL[298.285]C[wanghd [4d\]: hi
+oubeika [5d\]: hi
+]
+;W[dq]WL[294.7]
+;B[do]BL[295.169]
+;W[pp]WL[291.076]
+;B[gq]BL[292.733]
+;W[fq]WL[269.166]
+;B[fp]BL[290.252]
+;W[ep]WL[267.339]
+;B[eo]BL[288.133]
+;W[gp]WL[265.689]
+;B[fo]BL[286.632]
+;W[hq]WL[264.508]
+;B[gr]BL[285.106]
+;W[hp]WL[262.641]
+;B[cq]BL[282.956]
+;W[fr]WL[258.939]
+;B[dr]BL[281.107]
+;W[cd]WL[254.836]
+;B[qn]BL[278.653]
+;W[np]WL[239.162]
+;B[qi]BL[273.915]
+;W[pe]WL[222.859]
+;B[md]BL[269.188]
+;W[ne]WL[190.275]
+;B[nd]BL[265.715]
+;W[qc]WL[189.419]
+;B[qb]BL[263.81]
+;W[pb]WL[188.158]
+;B[ob]BL[255.229]
+;W[pd]WL[186.082]
+;B[pa]BL[253.48]
+;W[oc]WL[184.567]
+;B[pb]BL[252.095]
+;W[qg]WL[167.432]
+;B[rc]BL[247.925]
+;W[me]WL[157.312]
+;B[le]BL[240.381]
+;W[ld]WL[150.491]
+;B[kd]BL[238.38]
+;W[lc]WL[148.385]
+;B[mb]BL[236.915]
+;W[ke]WL[140.997]
+;B[lf]BL[234.145]
+;W[jd]WL[139.735]
+;B[kf]BL[232.062]
+;W[je]WL[138.159]
+;B[ng]BL[217.692]
+;W[ph]WL[111.236]
+;B[pj]BL[196.188]
+;W[oj]WL[94.812]
+;B[ok]BL[184.743]
+;W[oi]WL[89.617]
+;B[li]BL[175.386]
+;W[pk]WL[75.705]
+;B[pl]BL[173.022]
+;W[qk]WL[74.312]
+;B[ql]BL[171.664]
+;W[nk]WL[72.381]
+;B[ol]BL[169.981]
+;W[qj]WL[70.923]
+;B[ri]BL[168.177]
+;W[pi]WL[62.687]
+;B[rk]BL[166.662]
+;W[mj]WL[48.453]
+;B[kk]BL[159.657]
+;W[lj]WL[30.11]
+;B[kj]BL[157.412]
+;W[ki]WL[29.065]
+;B[lh]BL[156.023]
+;W[ji]WL[12.183]
+;B[ig]BL[153.778]
+;W[hi]WL[20]OW[3]
+;B[hf]BL[151.379]
+;W[hd]WL[20]OW[3]
+;B[gd]BL[140.729]
+;W[ge]WL[20]OW[3]
+;B[he]BL[139.069]
+;W[fd]WL[20]OW[3]
+;B[gc]BL[137.401]
+;W[hc]WL[20]OW[3]
+;B[fc]BL[135.143]
+;W[fe]WL[20]OW[3]
+;B[dc]BL[131.838]
+;W[gg]WL[20]OW[3]
+;B[jb]BL[129.531]
+;W[ib]WL[20]OW[2]
+;B[jc]BL[118.707]
+;W[kb]WL[20]OW[2]
+;B[id]BL[110.02]
+;W[gb]WL[20]OW[1]C[sn9 [1k\]: someone bad
+]
+;B[hb]BL[13.852]
+;W[ha]WL[20]OW[1]
+;B[ic]BL[1.145]
+;W[hb]WL[20]OW[1]
+;B[jf]BL[20]OB[3]
+;W[ec]WL[20]OW[1]C[jyka [4k\]: e17 big
+]
+;B[hk]BL[20]OB[3]C[Galarun [11k\]: indeed
+]
+;W[mm]WL[20]OW[1]
+;B[bd]BL[20]OB[3]
+;W[be]WL[20]OW[1]
+;B[ce]BL[20]OB[3]
+;W[cf]WL[20]OW[1]
+;B[de]BL[20]OB[3]
+;W[bf]WL[20]OW[1]
+;B[cc]BL[20]OB[3]
+;W[cj]WL[20]OW[1]
+;B[cl]BL[20]OB[3]
+;W[bc]WL[20]OW[1]
+;B[ad]BL[20]OB[3]
+;W[ac]WL[20]OW[1]
+;B[dd]BL[20]OB[3]
+;W[ae]WL[20]OW[1]
+;B[cd]BL[20]OB[3]
+;W[ea]WL[20]OW[1]C[Galarun [11k\]: o.O
+]
+;B[df]BL[20]OB[3]
+;W[ch]WL[20]OW[1]
+;B[dh]BL[20]OB[3]
+;W[ci]WL[20]OW[1]
+;B[fh]BL[20]OB[3]
+;W[eg]WL[20]OW[1]
+;B[dg]BL[20]OB[3]
+;W[eh]WL[20]OW[1]
+;B[db]BL[20]OB[2]
+;W[da]WL[20]OW[1]
+;B[ca]BL[20]OB[2]
+;W[bb]WL[20]OW[1]
+;B[di]BL[20]OB[2]C[jyka [4k\]: e18
+sponkatron [2k\]: e18 is double atari
+]
+;W[gk]WL[20]OW[1]
+;B[ei]BL[20]OB[2]
+;W[hl]WL[20]OW[1]
+;B[gj]BL[20]OB[2]C[sponkatron [2k\]: but b needs to stretch his reach first
+]
+;W[ik]WL[20]OW[1]C[jyka [4k\]: but d19 is eye after
+]
+;B[hj]BL[20]OB[2]
+;W[ij]WL[20]OW[1]
+;B[gl]BL[20]OB[2]
+;W[hm]WL[20]OW[1]
+;B[bk]BL[20]OB[2]
+;W[bj]WL[20]OW[1]
+;B[qq]BL[20]OB[1]
+;W[qp]WL[20]OW[1]C[berniefu [3d\]: a11?
+]
+;B[rp]BL[20]OB[1]
+;W[pq]WL[20]OW[1]
+;B[rr]BL[20]OB[1]
+;W[qr]WL[20]OW[1]C[berniefu [3d\]: oh, never mind
+]
+;B[rq]BL[20]OB[1]C[jyka [4k\]: a11, a10
+]
+;W[fj]WL[20]OW[1]
+;B[gi]BL[20]OB[1]
+;W[fk]WL[20]OW[1]
+;B[hh]BL[20]OB[1]C[berniefu [3d\]: b12
+]
+;W[fi]WL[20]OW[1]
+;B[gh]BL[20]OB[1]C[jyka [4k\]: a13
+]
+;W[dj]WL[20]OW[1]
+;B[ej]BL[20]OB[1]
+;W[ek]WL[20]OW[1]
+;B[dk]BL[20]OB[1]
+;W[fm]WL[20]OW[1]
+;B[il]BL[20]OB[1]C[sponkatron [2k\]: now e18 threatens white
+]
+;W[jl]WL[20]OW[1]
+;B[im]BL[20]OB[1]
+;W[hn]WL[20]OW[1]
+;B[jm]BL[20]OB[1]
+;W[kl]WL[20]OW[1]C[jyka [4k\]: e18, f18
+]
+;B[ho]BL[20]OB[1]C[sponkatron [2k\]: f19
+]
+;W[go]WL[20]OW[1]C[jyka [4k\]: e19
+sponkatron [2k\]: if w e19, b g17
+]
+;B[mn]BL[20]OB[1]
+;W[nn]WL[20]OW[1]
+;B[nm]BL[20]OB[1]
+;W[ln]WL[20]OW[1]
+;B[mo]BL[20]OB[1]
+;W[no]WL[20]OW[1]
+;B[lm]BL[20]OB[1]
+;W[ml]WL[20]OW[1]C[jyka [4k\]: they forgot this i think
+]
+;B[lo]BL[20]OB[1]C[sponkatron [2k\]: yeah lol
+]
+;W[kn]WL[20]OW[1]
+;B[io]BL[20]OB[1]
+;W[km]WL[20]OW[1]C[sponkatron [2k\]: b wont survive on bottom
+]
+;B[hr]BL[20]OB[1]
+;W[iq]WL[20]OW[1]
+;B[ir]BL[20]OB[1]C[sponkatron [2k\]: hm w mistake?
+jyka [4k\]: chuck orris can live with one eye
+]
+;W[jq]WL[20]OW[1]
+;B[jr]BL[20]OB[1]C[sponkatron [2k\]: yes there are one eyed sekis
+]
+;W[kr]WL[20]OW[1]
+;B[kq]BL[20]OB[1]
+;W[lr]WL[20]OW[1]C[Galarun [11k\]: w now dead on bottom left?
+]
+;B[fg]BL[20]OB[1]
+;W[ef]WL[20]OW[1]C[sponkatron [2k\]: yeah. bad aji for w
+]
+;B[mq]BL[20]OB[1]
+;W[lq]WL[20]OW[1]
+;B[kp]BL[20]OB[1]
+;W[mp]WL[20]OW[1]C[reckful [1d\]: why isn't anybody playing e18 or am i just blind
+]
+;B[eb]BL[20]OB[1]C[Galarun [11k\]: LOL
+jyka [4k\]: ah
+]
+;W[fb]WL[20]OW[1]C[sponkatron [2k\]: lol
+]
+;B[fa]BL[20]OB[1]
+;W[ea]WL[20]OW[1]C[jyka [4k\]: wait & see
+jyka [4k\]: ;)
+berniefu [3d\]: g6
+Galarun [11k\]: ooooh the throw in
+jyka [4k\]: go w
+jyka [4k\]: kill !
+]
+;B[ja]BL[20]OB[1]C[jyka [4k\]: lol
+]
+;W[er]WL[20]OW[1]
+;B[dp]BL[20]OB[1]C[jyka [4k\]: ?
+berniefu [3d\]: time
+]
+;W[ed]WL[20]OW[1]
+;B[gc]BL[20]OB[1]
+;W[cg]WL[20]OW[1]
+;B[ba]BL[20]OB[1]
+;W[ab]WL[20]OW[1]C[Galarun [11k\]: i love that shape
+]
+;B[gf]BL[20]OB[1]C[sponkatron [2k\]: b has more liberties I think
+jyka [4k\]: yes
+]
+;W[ga]WL[20]OW[1]C[jyka [4k\]: probaly
+]
+;B[ff]BL[20]OB[1]
+;W[ee]WL[20]OW[1]
+;B[da]BL[20]OB[1]
+;W[aa]WL[20]OW[1]
+;B[cb]BL[20]OB[1]
+;W[ab]WL[20]OW[1]
+;B[ia]BL[20]OB[1]C[jyka [4k\]: ko
+jyka [4k\]: ?
+Galarun [11k\]: yep
+reckful [1d\]: impossible for w
+]
+;W[ac]WL[20]OW[1]C[sponkatron [2k\]: not really ko 
+sponkatron [2k\]: w cant win this ko
+]
+;B[fa]BL[20]OB[1]
+;W[js]WL[20]OW[1]
+;B[eq]BL[20]OB[1]
+;W[ea]WL[20]OW[1]
+;B[rj]BL[20]OB[1]C[jyka [4k\]: sure
+jyka [4k\]: so biggest
+oubeika [5d\]: thx
+wanghd [4d\]: ty
+])

@@ -1,0 +1,157 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[300]OT[3x20 byo-yomi]
+PW[zarusoba]PB[oubeika]BR[6d]DT[2014-02-08]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [6d\]: お願いしますー
+]RE[B+Time]
+;B[pd]BL[292.712]
+;W[pq]WL[296.152]
+;B[cd]BL[289.848]C[zarusoba: onegaisimasu
+]
+;W[dp]WL[290.475]
+;B[qn]BL[285.133]
+;W[pl]WL[275.352]C[Ootakamoku [-\]: q4?
+]
+;B[qj]BL[269.271]
+;W[pn]WL[233.841]
+;B[po]BL[246.518]
+;W[oo]WL[189.408]
+;B[qo]BL[232.645]
+;W[on]WL[185.498]
+;B[qm]BL[220.642]C[Ootakamoku [-\]: b will p4 next unless w protects against it?
+]
+;W[ed]WL[169.689]C[Ootakamoku [-\]: e17 and take sente
+Ootakamoku [-\]: then use it to play p4
+]
+;B[gc]BL[204.013]
+;W[ce]WL[152.959]
+;B[be]BL[193.758]
+;W[cf]WL[141.766]
+;B[dd]BL[192.062]
+;W[ee]WL[127.054]
+;B[ec]BL[189.876]C[Ootakamoku [-\]: what a horrible result for w
+]
+;W[bf]WL[71.99]
+;B[op]BL[171.598]
+;W[pp]WL[30.954]
+;B[oq]BL[168.57]
+;W[or]WL[28.526]
+;B[mq]BL[149.557]
+;W[nr]WL[12.849]
+;B[mo]BL[141.879]
+;W[lq]WL[20]OW[3]
+;B[mp]BL[98.1]
+;W[mr]WL[20]OW[3]C[Ootakamoku [-\]: squeeze with q2?
+Ootakamoku [-\]: then n7
+]
+;B[ml]BL[82.121]
+;W[pj]WL[20]OW[3]
+;B[pi]BL[67.939]
+;W[oj]WL[20]OW[3]C[Ootakamoku [-\]: b r9 then b has option of p8 later for funny tesuji
+]
+;B[mj]BL[30.207]
+;W[ni]WL[20]OW[3]
+;B[qh]BL[20]OB[3]
+;W[nl]WL[20]OW[3]
+;B[mm]BL[20]OB[3]
+;W[ql]WL[20]OW[3]
+;B[qr]BL[20]OB[3]
+;W[rq]WL[20]OW[2]
+;B[qq]BL[20]OB[3]
+;W[pr]WL[20]OW[2]
+;B[qp]BL[20]OB[3]
+;W[qs]WL[20]OW[2]
+;B[rr]BL[20]OB[3]C[Ootakamoku [-\]: m11 and k3 miai for b?
+]
+;W[rl]WL[20]OW[2]C[RobertT [-\]: I wonder if b is streaming
+]
+;B[rm]BL[20]OB[3]C[Ootakamoku [-\]: b does live streams of his play?
+]
+;W[bd]WL[20]OW[2]C[RobertT [-\]: yes on niconico
+]
+;B[bc]BL[20]OB[3]C[Ootakamoku [-\]: ah
+]
+;W[dj]WL[20]OW[2]
+;B[lh]BL[20]OB[3]
+;W[nk]WL[20]OW[2]
+;B[ng]BL[20]OB[3]
+;W[mk]WL[20]OW[2]
+;B[lk]BL[20]OB[3]C[RobertT [-\]: I assume its the same person. that pic is used on all his accounts and on his niconico account
+]
+;W[oh]WL[20]OW[2]
+;B[pf]BL[20]OB[3]
+;W[og]WL[20]OW[2]
+;B[of]BL[20]OB[3]C[RobertT [-\]: he doesn't seem to be right now
+]
+;W[li]WL[20]OW[2]
+;B[mi]BL[20]OB[3]
+;W[mh]WL[20]OW[2]
+;B[ki]BL[20]OB[3]
+;W[mg]WL[20]OW[2]
+;B[nf]BL[20]OB[3]
+;W[nh]WL[20]OW[2]
+;B[kg]BL[20]OB[3]
+;W[lg]WL[20]OW[2]
+;B[lj]BL[20]OB[3]
+;W[le]WL[20]OW[2]
+;B[kf]BL[20]OB[3]
+;W[me]WL[20]OW[2]
+;B[lc]BL[20]OB[3]C[RobertT [-\]: nm he is streaming. he was just restarting the stream
+]
+;W[mc]WL[20]OW[2]C[RobertT [-\]: niconico has a 30 minute limit so every 30 min you have to restart the stream
+]
+;B[mb]BL[20]OB[3]C[Ootakamoku [-\]: >.<
+RobertT [-\]: ya, stupid limit
+]
+;W[nc]WL[20]OW[2]
+;B[nd]BL[20]OB[3]
+;W[kc]WL[20]OW[2]
+;B[lb]BL[20]OB[3]
+;W[ke]WL[20]OW[2]
+;B[ic]BL[20]OB[3]
+;W[ie]WL[20]OW[2]
+;B[he]BL[20]OB[3]
+;W[id]WL[20]OW[2]C[marukome [6d\]: nihonkiin is not utilizing niconico good, compared to shogi
+]
+;B[hd]BL[20]OB[2]
+;W[jc]WL[20]OW[2]C[RobertT [-\]: his name on niconico is パナップ
+]
+;B[oc]BL[20]OB[2]
+;W[ib]WL[20]OW[2]
+;B[hb]BL[20]OB[2]
+;W[kb]WL[20]OW[2]
+;B[ld]BL[20]OB[2]
+;W[kd]WL[20]OW[2]
+;B[je]BL[20]OB[2]C[RobertT [-\]: yes, I see much more shogi than igo
+]
+;W[if]WL[20]OW[2]
+;B[jf]BL[20]OB[2]
+;W[hc]WL[20]OW[2]C[Noblesse [?\]: Better stream on Twitch.
+]
+;B[cq]BL[20]OB[2]C[Noblesse [?\]: Simple and quality.
+RobertT [-\]: yes, twitch is better but isn't as well known in jjapan I guess
+]
+;W[ic]WL[20]OW[1]
+;B[kr]BL[20]OB[2]
+;W[lr]WL[20]OW[1]
+;B[jq]BL[20]OB[2]
+;W[kq]WL[20]OW[1]
+;B[ir]BL[20]OB[2]
+;W[ko]WL[20]OW[1]
+;B[jp]BL[20]OB[2]
+;W[lo]WL[20]OW[1]C[hikarugo [1d\]: another target for b
+]
+;B[ln]BL[20]OB[2]
+;W[jo]WL[20]OW[1]
+;B[io]BL[20]OB[2]
+;W[jm]WL[20]OW[1]C[Ootakamoku [-\]: b playing like nothing less than a kill will do
+]
+;B[im]BL[20]OB[2]C[Noblesse [?\]: Gotta entertain the viewers.
+zarusoba: あ
+zarusoba: ｗｗ
+oubeika [6d\]: thx
+zarusoba: ありがとうございましたｗ
+zarusoba: おとがないとあれだねｗ
+zarusoba: わかんないねｗ
+oubeika [6d\]: 音ないと気づきにくいね
+zarusoba: ありがとうございました
+oubeika [6d\]: こちらこそー
+])

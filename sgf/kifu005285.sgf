@@ -1,0 +1,458 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[600]OT[5x30 byo-yomi]
+PW[Tiger2d]PB[oubeika]WR[5d]BR[5d]DT[2011-12-13]PC[The KGS Go Server at http://www.gokgs.com/]C[Tiger2d [5d\]: hi
+oubeika [5d\]: hi
+]RE[W+Time]
+;B[pd]BL[588.537]
+;W[dp]WL[597.967]
+;B[pq]BL[586.115]
+;W[dd]WL[596.275]
+;B[qk]BL[582.224]
+;W[qf]WL[593.413]
+;B[qe]BL[576.498]
+;W[pf]WL[591.985]
+;B[nd]BL[574.878]
+;W[qi]WL[590.595]
+;B[ok]BL[572.926]
+;W[po]WL[577.546]
+;B[np]BL[567.687]
+;W[no]WL[572.63]
+;B[mp]BL[554.697]
+;W[qq]WL[569.382]
+;B[qr]BL[550.647]
+;W[qp]WL[567.304]
+;B[rr]BL[548.348]
+;W[qm]WL[565.322]
+;B[oi]BL[536.148]
+;W[nf]WL[558.994]
+;B[om]BL[521.824]
+;W[mo]WL[546.044]
+;B[lp]BL[514.831]
+;W[mm]WL[542.372]
+;B[fq]BL[489.449]
+;W[cn]WL[538.488]
+;B[cf]BL[472.533]
+;W[fc]WL[527.747]
+;B[ci]BL[463.338]
+;W[lc]WL[522.027]
+;B[ld]BL[440.793]
+;W[kd]WL[518.635]
+;B[le]BL[437.821]
+;W[mc]WL[516.071]
+;B[nc]BL[432.391]
+;W[md]WL[500.107]
+;B[me]BL[426.439]
+;W[ne]WL[498.689]
+;B[kc]BL[423.489]
+;W[kb]WL[497.253]
+;B[jc]BL[421.682]
+;W[nb]WL[495.18]
+;B[ob]BL[419.352]
+;W[jb]WL[474.556]
+;B[ic]BL[388.384]
+;W[ib]WL[424.04]
+;B[je]BL[380.813]
+;W[mj]WL[417.803]
+;B[nh]BL[370.463]
+;W[lf]WL[412.945]
+;B[ke]BL[364.065]
+;W[mg]WL[411.116]
+;B[mk]BL[356.166]
+;W[lk]WL[374.855]
+;B[ml]BL[301.297]
+;W[ll]WL[371.802]
+;B[mi]BL[299.057]
+;W[li]WL[368.232]
+;B[nj]BL[296.445]
+;W[lj]WL[366.772]
+;B[mh]BL[292.983]
+;W[lh]WL[364.827]
+;B[qj]BL[287.901]
+;W[pi]WL[362.866]
+;B[pj]BL[284.123]
+;W[dh]WL[344.228]C[JoseQi [2k?\]: lets see how w uses this wall
+]
+;B[ef]BL[260.082]
+;W[ch]WL[341.658]
+;B[bd]BL[256.451]
+;W[cc]WL[339.512]
+;B[fe]BL[252.402]C[Muttley [3k\]: I would put 10 green bottles on it
+]
+;W[hc]WL[329.759]C[JoseQi [2k?\]: interesting idea
+JoseQi [2k?\]: but not useful
+]
+;B[cl]BL[230.201]
+;W[he]WL[326.359]C[JoseQi [2k?\]: nice splitting attack
+]
+;B[fh]BL[203.936]
+;W[cj]WL[290.197]
+;B[el]BL[150.528]
+;W[bi]WL[275.843]
+;B[dr]BL[95.407]
+;W[fp]WL[270.64]
+;B[gq]BL[81.988]
+;W[fi]WL[267.722]C[grooviest [4k\]: letting k15 die?
+Garen [8d?\]: oubeika's picture gives me the chills
+popkins [10k\]: e11
+wampleek [?\]: he may give it up
+AndEdhel [2k\]: depends on sente
+]
+;B[gi]BL[22.782]C[wampleek [?\]: its not terribly big
+]
+;W[fj]WL[264.062]C[JoseQi [2k?\]: what do the letters ,ean garen?
+JoseQi [2k?\]: mean
+]
+;B[hh]BL[30]OB[5]C[Garen [8d?\]: it is what his name says
+]
+;W[gl]WL[244.32]C[JoseQi [2k?\]: and that means?
+]
+;B[en]BL[30]OB[5]C[computer3k [1k\]: l13
+popkins [10k\]: e4
+Garen [8d?\]: i think its a name
+alekhine [6k\]: e3
+]
+;W[cq]WL[178.157]C[grooviest [4k\]: g4
+]
+;B[gj]BL[30]OB[4]C[Garen [8d?\]: idk what oubeika means though
+]
+;W[eh]WL[172.951]C[Matty [4d\]: oubei (first two characters) = Europe and America
+]
+;B[hf]BL[30]OB[4]C[Garen [8d?\]: it isnt really a common thing
+]
+;W[fg]WL[163.948]
+;B[gg]BL[30]OB[4]
+;W[gh]WL[159.622]C[wampleek [?\]: h14 is nice
+Garen [8d?\]: there u go
+JoseQi [2k?\]: matty, and ka?
+JoseQi [2k?\]: union?
+]
+;B[fk]BL[30]OB[3]C[alekhine [6k\]: "suck"
+]
+;W[gf]WL[145.159]
+;B[fh]BL[30]OB[3]C[Garen [8d?\]: it depends
+]
+;W[ge]WL[137.532]C[Garen [8d?\]: at the end it is used to state a question
+JoseQi [2k?\]: ah
+grooviest [4k\]: uh, i beg your pardon¿?
+]
+;B[bc]BL[30]OB[3]C[Garen [8d?\]: but
+wampleek [?\]: hmm ... b in trouble?
+]
+;W[bb]WL[134.66]C[Garen [8d?\]: it is also used in words and such, here idk though lol
+Garen [8d?\]: cause im not sure of oubei-
+JoseQi [2k?\]: creative anyway
+]
+;B[lm]BL[30]OB[3]
+;W[nl]WL[126.755]C[Garen [8d?\]: words like baka
+Matty [4d\]: Maybe some kind of ending... Like "-person"
+]
+;B[nk]BL[30]OB[3]
+;W[nm]WL[125.23]C[Stormer [1k?\]: oubei = foreigner  oubeika = are you a foreigner
+Garen [8d?\]: meaning stupid-doesn't mean its a question like stupid?
+]
+;B[km]BL[30]OB[3]C[Garen [8d?\]: yah
+Matty [4d\]: Similar to "karateka", for example..?
+]
+;W[ol]WL[118.241]C[Muttley [3k\]: my friends had one of my puppies, and they named him "Baka John"
+Muttley [3k\]: he was too
+]
+;B[kg]BL[30]OB[3]C[Garen [8d?\]: im no japanese expert, i only know every languague a little bit
+]
+;W[lg]WL[114.333]
+;B[jk]BL[30]OB[3]C[Matty [4d\]: Actually it is "oubeikatsu" on his pic
+]
+;W[jj]WL[110.196]C[Garen [8d?\]: i wasn't sure if it was a little tsu though
+]
+;B[jh]BL[30]OB[3]C[Garen [8d?\]: cause then it would be different
+Matty [4d\]: Me too
+Muttley [3k\]: Matty, isn't "Karateka" in this context "Student of Karete"?
+]
+;W[ik]WL[99.046]C[Matty [4d\]: Yes, I meant that
+]
+;B[jl]BL[30]OB[3]C[Muttley [3k\]: right :)
+Matty [4d\]: So maybe "Western person"...
+Garen [8d?\]: i only studied japanese for like 2 months
+grooviest [4k\]: p12?
+Garen [8d?\]: Matty is a pro
+Muttley [3k\]: right, I got you, the question mark earlier threw me :)
+Garen [8d?\]: im a 15kyu at japanese
+Muttley [3k\]: Garen, I can teach you all you need in Japanese
+]
+;W[ji]WL[32.35]C[Kotomi [-\]: hi garen : D
+Kotomi [-\]: hi muttley : D
+Muttley [3k\]: "Sumi masen, nihongo wacari masen"
+Muttley [3k\]: hi K :)
+Kotomi [-\]: woah XD what?
+]
+;B[il]BL[30]OB[3]C[Garen [8d?\]: hi kotomi
+Muttley [3k\]: that will be $70 please
+]
+;W[kf]WL[24.96]C[Garen [8d?\]: are u like my follower or something?
+Kotomi [-\]: how are you guys ^ ^
+]
+;B[jf]BL[30]OB[3]C[Kotomi [-\]: lol what ? no o . o
+Garen [8d?\]: oh kotomi im lvl'n a new account
+Kotomi [-\]: i say hi to everyone i know
+Kotomi [-\]: really what is it
+Garen [8d?\]: did we used to hang out or something kotomi?
+Muttley [3k\]: fine, wondering if white actually dies here
+Kotomi [-\]: nope 
+wampleek [?\]: w wont die
+Muttley [3k\]: Kotomi is just a sweet person, Garen :)
+Kotomi [-\]: i just saw you in a chat one time kibtizing and sai hi : )
+]
+;W[kh]WL[30]OW[5]C[Muttley [3k\]: hmmm, you're right, there's an eye in the centre
+Kotomi [-\]: yeah same happend to muttley just decided one day after seing him in chat to say hi XD
+JoseQi [2k?\]: such a flirt
+]
+;B[fo]BL[30]OB[3]
+;W[hk]WL[30]OW[5]C[Kotomi [-\]: hi jose : O i seen you in chat a lot to i just never get to say hi to you o . o 
+]
+;B[gk]BL[30]OB[3]
+;W[hl]WL[30]OW[5]C[JoseQi [2k?\]: multi-tasking flirt  ;-)
+]
+;B[ij]BL[30]OB[3]C[Kotomi [-\]: anyway lols - . - i cant tell whose ahead
+]
+;W[kn]WL[30]OW[5]C[JoseQi [2k?\]: b dead in NW
+BlitzCraig [2d\]: It would appear the dwarves mined too greedily
+wampleek [?\]: w may die here though
+MarineKing [4d?\]: j13
+Muttley [3k\]: gum, I still wondere about S12
+MarineKing [4d?\]: maybe something
+]
+;B[ko]BL[30]OB[2]C[Doomkid [8k\]: b may die here as well
+]
+;W[jn]WL[30]OW[5]
+;B[ln]BL[30]OB[2]
+;W[lo]WL[30]OW[5]C[Muttley [3k\]: b stones .... must die
+]
+;B[im]BL[30]OB[2]C[Muttley [3k\]: must die ... black stones
+Kotomi [-\]: white and black= greedy
+Jenny22 [4k\]: dont think they die
+]
+;W[jo]WL[30]OW[5]C[Indignus [9k\]: b stones lives, w gets a reduction?
+Muttley [3k\]: hard to die when G8 have been eaten
+]
+;B[kp]BL[30]OB[2]
+;W[hn]WL[30]OW[5]C[Muttley [3k\]: and then K5 stones die
+JoseQi [2k?\]: nah
+]
+;B[in]BL[30]OB[2]
+;W[io]WL[30]OW[5]C[BlitzCraig [2d\]: Perhaps the eater has become the eaten
+]
+;B[ho]BL[30]OB[2]
+;W[go]WL[30]OW[5]C[Muttley [3k\]: don't think so :)
+Muttley [3k\]: but my reading is pretty poor
+Doomkid [8k\]: om noms are everywhere
+]
+;B[hp]BL[30]OB[2]C[Muttley [3k\]: I on;y saw the sort of ko at F12
+BlitzCraig [2d\]: Confound these plays ruining my poetry!
+Kotomi [-\]: XP
+]
+;W[hm]WL[30]OW[5]C[Muttley [3k\]: but I couldn't see how to make it lose libs to F9
+Garen [8d?\]: people seem to constantly want to talk to me
+Kotomi [-\]: white dieded
+]
+;B[ip]BL[30]OB[2]C[Muttley [3k\]: Hi Garen, how am I today?
+Kotomi [-\]: lol
+nachodude [-\]: hey garen
+Kotomi [-\]: i want to talk to everyone and anyone
+Garen [8d?\]: see
+]
+;W[em]WL[30]OW[5]C[Kotomi [-\]: except 1 person > . >
+Garen [8d?\]: people just greeting me
+]
+;B[fm]BL[30]OB[2]C[Muttley [3k\]: well, seriously, what do you expect :)
+Kotomi [-\]: maybebecause your awesome
+Doomkid [8k\]: eh garen is ok
+]
+;W[eo]WL[30]OW[5]C[Muttley [3k\]: this invasion is turning into a Romero moving
+nachodude [-\]: garen, i like you more than ayabot...
+Muttley [3k\]: movie
+]
+;B[fn]BL[30]OB[2]C[Garen [8d?\]: someone just turn my coolness factor up and broke off the knob
+Kotomi [-\]: shhh dont ruin his moment
+Garen [8d?\]: woah
+Matty [4d\]: Greed leads to envy. Envy leads to hate... etc
+Kotomi [-\]: lol
+Garen [8d?\]: im loved more than ayabot
+BlitzCraig [2d\]: My heart says w, but my mind knows b
+Muttley [3k\]: Garen!  I want to have your baby!
+Verse [2k\]: j12
+Kotomi [-\]: woah
+Muttley [3k\]: despite being male!
+nachodude [-\]: well.. i ment more than ayabot likes you
+Kotomi [-\]: muttley thats scary XD
+]
+;W[fl]WL[30]OW[4]C[nachodude [-\]: but yes, i do like you more than ayabot, sure
+]
+;B[dm]BL[30]OB[2]C[wampleek [?\]: w play made more sense to me ... kinda sad he lost
+Garen [8d?\]: yup, me and ayabot do some sweet stuff together
+Indignus [9k\]: e9?
+]
+;W[kk]WL[30]OW[4]C[Garen [8d?\]: she enjoys my oversized RAM
+Kotomi [-\]: lol
+]
+;B[jp]BL[30]OB[2]C[Kotomi [-\]: ew XD
+Garen [8d?\]: white doesn't look so good here
+]
+;W[ih]WL[30]OW[4]C[Kotomi [-\]: garen ruined my innocent mind > . > 
+Verse [2k\]: ok now he plays j12 :P
+Kotomi [-\]: white needs to resign : S
+]
+;B[ig]BL[30]OB[2]C[Kotomi [-\]: he lacks the libs and black is connected
+Kotomi [-\]: and white is disconnected from connection
+Garen [8d?\]: wait wat
+]
+;W[ii]WL[30]OW[3]C[Kotomi [-\]: lol
+]
+;B[hj]BL[30]OB[2]C[Garen [8d?\]: interesting move
+]
+;W[gh]WL[30]OW[3]C[Moroz [3k\]: disconnected from connection ?
+Verse [2k\]: big ko
+Moroz [3k\]: wow
+Kotomi [-\]: nothing im tired : S
+Garen [8d?\]: XBOX big
+]
+;B[hg]BL[30]OB[2]C[JoseQi [2k?\]: kotomi, ur fired
+]
+;W[hi]WL[30]OW[3]C[Kotomi [-\]: i already was
+]
+;B[fh]BL[30]OB[2]C[BlitzCraig [2d\]: Threaten ALL the connections
+Kotomi [-\]: but j11 isntead of j13
+Tetriste [-\]: e9 
+Doomkid [8k\]: all of zem
+AmerBeton [4k\]: e9
+Garen [8d?\]: i think black is fine though
+]
+;W[kl]WL[30]OW[2]C[wampleek [?\]: e8
+Tetriste [-\]: oh I missed a lib
+Kotomi [-\]: e9 is bad
+Tetriste [-\]: at n14
+Kotomi [-\]: like really bad
+Kotomi [-\]: XD
+Doomkid [8k\]: n6 better?
+]
+;B[jm]BL[30]OB[1]
+;W[gh]WL[30]OW[2]C[Kotomi [-\]: no black actually dodsnt have
+Verse [2k\]: can't see how black avoids connecting here
+Kotomi [-\]: any ko threats
+]
+;B[ek]BL[30]OB[1]
+;W[fh]WL[30]OW[2]
+;B[cr]BL[30]OB[1]C[Verse [2k\]: nice trade for white
+]
+;W[bm]WL[30]OW[2]C[Moroz [3k\]: wooooooooow
+Kotomi [-\]: black j11 earlier instead of j13 woulda been fine : S
+Verse [2k\]: fixes white's aji on the left too
+]
+;B[bp]BL[30]OB[1]C[Tetriste [-\]: b3 
+]
+;W[dn]WL[30]OW[2]C[Doomkid [8k\]: b wants b3
+kevinwm [2k\]: b3 b8 
+]
+;B[bl]BL[30]OB[1]
+;W[bq]WL[30]OW[2]
+;B[bo]BL[30]OB[1]C[kevinwm [2k\]: b2...
+]
+;W[al]WL[30]OW[2]C[Verse [2k\]: wasn't d6 forcing?
+Verse [2k\]: nvm
+AndEdhel [2k\]: w should have b8
+Verse [2k\]: I'm blind
+Tetriste [-\]: c5 
+]
+;B[ak]BL[30]OB[1]
+;W[am]WL[30]OW[2]
+;B[bj]BL[30]OB[1]
+;W[br]WL[30]OW[2]C[Garen [8d?\]: this game has gone Crazeh
+]
+;B[bs]BL[30]OB[1]
+;W[ar]WL[30]OW[2]C[wampleek [?\]: yes
+kevinwm [2k\]: This is looking like seki
+kevinwm [2k\]: c7
+Verse [2k\]: nah
+]
+;B[eq]BL[30]OB[1]
+;W[ep]WL[30]OW[2]C[kevinwm [2k\]: nonono
+Tetriste [-\]: wtf
+kevinwm [2k\]: c7
+]
+;B[co]BL[30]OB[1]C[BlitzCraig [2d\]: Remove ALL the eyespace
+]
+;W[do]WL[30]OW[2]C[Stormer [1k?\]: looking sekiish
+kevinwm [2k\]: c7 - reduce eyespace
+Tetriste [-\]: wasnt c5 simple life instead of a2?
+]
+;B[bn]BL[30]OB[1]
+;W[cm]WL[30]OW[2]C[kevinwm [2k\]: b6 mistake
+kevinwm [2k\]: cloning in kgs teaching.
+Kotomi [-\]: a5
+indianayk [4d\]: agree
+]
+;B[ap]BL[30]OB[1]C[Kotomi [-\]: b6not a mistake : )
+Garen [8d?\]: wat is black thinking
+kevinwm [2k\]: seki now
+Kotomi [-\]: - . - though a4 is
+Tetriste [-\]: a5 
+kevinwm [2k\]: a6
+kevinwm [2k\]: not even - w alive
+]
+;W[ao]WL[30]OW[2]C[Kotomi [-\]: no a5 not a6
+Tetriste [-\]: a6 and w dies
+]
+;B[an]BL[30]OB[1]C[Moroz [3k\]: kotomi : stop trolling
+Kotomi [-\]: a5 d3 makes ko for black later on
+Garen [8d?\]: WHAT IS WHITE THINKING
+Tetriste [-\]: he's not trolling
+AndEdhel [2k\]: otherwise rabitty 6
+kevinwm [2k\]: b gets d3 and g4 in sente
+Kotomi [-\]: w t h??? im not trolling...........
+]
+;W[cp]WL[30]OW[2]C[Verse [2k\]: black can't play a1
+Kotomi [-\]: im talking about the game
+Tetriste [-\]: a6 then b a5 and gets flower 8
+Kotomi [-\]: oh wait i just got trolled - . -
+Tetriste [-\]: simple life and death shape
+Kotomi [-\]: sorry anyway 
+computer3k [1k\]: a5
+]
+;B[bh]BL[30]OB[1]C[Garen [8d?\]: its alive
+]
+;W[ai]WL[30]OW[2]
+;B[cd]BL[30]OB[1]C[Kotomi [-\]: yeah but the flower 8 is what i waas talkign abotu tet
+]
+;W[dc]WL[30]OW[2]C[Kotomi [-\]: or no rabbity 6 i think it was
+Tetriste [-\]: yes that's what I said
+Garen [8d?\]: yup
+computer3k [1k\]: live then lose 
+Garen [8d?\]: black derp'd
+Tetriste [-\]: if w had played a6 instead of a5, it would be dead
+]
+;B[ah]BL[30]OB[1]
+;W[di]WL[30]OW[2]
+;B[bg]BL[30]OB[1]C[Tetriste [-\]: besides, thats why I called a5
+Verse [2k\]: heh
+Verse [2k\]: this can't live
+]
+;W[af]WL[30]OW[2]C[computer3k [1k\]: so good game 
+Garen [8d?\]: isn't
+]
+;B[ab]BL[30]OB[1]C[Kotomi [-\]: no no a6 would be the same as a4
+goemblem [5k\]: black g4
+Garen [8d?\]: nvm
+Tetriste [-\]: f14 ?
+Kotomi [-\]: b6 c7 a6 a5
+]
+;W[ba]WL[30]OW[2]C[Tetriste [-\]: huh nvm
+Kotomi [-\]: so black would have to b6 c7 a5
+Tetriste [-\]: f14 not needed -.-
+AroundOneD [2d\]: ko
+AroundOneD [2d\]: a15
+kevinwm [2k\]: I'm too seki for this game, too seki for this game...
+Tiger2d [5d\]: thx
+Doomkid [8k\]: a5 doesnt kill?
+oubeika [4d\]: thx 
+kevinwm [2k\]: Nope Doom
+Tetriste [-\]: no
+Tetriste [-\]: a5 isnt a killing shape
+])

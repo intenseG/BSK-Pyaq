@@ -1,0 +1,453 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[80x10 byo-yomi]
+PW[doctorslip]PB[twoeye]WR[7d]BR[7d]DT[2013-10-18]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [7d\]: hi gg
+]RE[W+Resign]
+;B[pp]BL[10]OB[80]C[twoeye [7d\]: hi
+]
+;W[dd]WL[10]OW[80]
+;B[pc]BL[10]OB[80]
+;W[dq]WL[10]OW[80]
+;B[do]BL[10]OB[80]
+;W[pe]WL[10]OW[80]
+;B[qe]BL[10]OB[80]
+;W[qf]WL[10]OW[80]
+;B[qd]BL[10]OB[80]
+;W[pf]WL[10]OW[80]
+;B[nc]BL[10]OB[80]
+;W[pj]WL[10]OW[80]
+;B[cf]BL[10]OB[80]
+;W[cj]WL[10]OW[80]
+;B[fd]BL[10]OB[80]
+;W[ce]WL[10]OW[80]
+;B[df]BL[10]OB[80]
+;W[ee]WL[10]OW[80]
+;B[cc]BL[10]OB[78]
+;W[dc]WL[10]OW[80]
+;B[db]BL[10]OB[78]
+;W[eb]WL[10]OW[78]
+;B[cb]BL[10]OB[77]
+;W[fc]WL[10]OW[78]C[choutoshio [2k\]: twoeye as black :O
+]
+;B[cd]BL[10]OB[76]
+;W[cm]WL[10]OW[78]
+;B[cq]BL[10]OB[75]
+;W[cp]WL[10]OW[78]
+;B[dp]BL[10]OB[75]
+;W[co]WL[10]OW[78]
+;B[cn]BL[10]OB[75]
+;W[bn]WL[10]OW[78]
+;B[eq]BL[10]OB[75]
+;W[dr]WL[10]OW[78]
+;B[dn]BL[10]OB[75]
+;W[bp]WL[10]OW[77]
+;B[er]BL[10]OB[75]
+;W[cr]WL[10]OW[77]
+;B[dm]BL[10]OB[75]
+;W[fp]WL[10]OW[76]
+;B[ep]BL[10]OB[75]
+;W[nq]WL[10]OW[76]
+;B[kq]BL[10]OB[75]
+;W[no]WL[10]OW[75]
+;B[pn]BL[10]OB[75]
+;W[ql]WL[10]OW[75]
+;B[oq]BL[10]OB[75]
+;W[or]WL[10]OW[74]
+;B[pr]BL[10]OB[75]
+;W[mr]WL[10]OW[74]
+;B[rm]BL[10]OB[73]
+;W[rl]WL[10]OW[73]C[Epithany [3k?\]: r3?
+]
+;B[cl]BL[10]OB[73]
+;W[bm]WL[10]OW[73]
+;B[lq]BL[10]OB[72]
+;W[qo]WL[10]OW[73]C[okiol [1d\]: not sure if it can live now, i don't think so
+]
+;B[po]BL[10]OB[71]
+;W[rn]WL[10]OW[73]C[way2good [?\]: what now ?
+]
+;B[qm]BL[10]OB[71]C[way2good [?\]: dead or not ?
+]
+;W[qq]WL[10]OW[73]
+;B[pq]BL[10]OB[70]
+;W[sm]WL[10]OW[72]C[quark01fr [4k\]: alive white not enough stong on left
+]
+;B[pl]BL[10]OB[70]
+;W[pk]WL[10]OW[72]
+;B[ol]BL[10]OB[70]
+;W[lo]WL[10]OW[72]
+;B[mp]BL[10]OB[70]
+;W[np]WL[10]OW[72]
+;B[mo]BL[10]OB[70]
+;W[nn]WL[10]OW[72]C[Luigi [2d\]: w position is worst actually
+way2good [?\]: yeah
+]
+;B[mn]BL[10]OB[70]
+;W[nm]WL[10]OW[72]C[way2good [?\]: o9 
+BinX [?\]: m5 sad
+]
+;B[ll]BL[10]OB[69]
+;W[mk]WL[10]OW[71]
+;B[ok]BL[10]OB[69]C[way2good [?\]: mistake by b
+]
+;W[ml]WL[10]OW[71]
+;B[mm]BL[10]OB[69]
+;W[oj]WL[10]OW[70]
+;B[qp]BL[10]OB[69]
+;W[rp]WL[10]OW[70]
+;B[rq]BL[10]OB[69]
+;W[sq]WL[10]OW[70]C[goo [4k\]: where?
+way2good [?\]: s2 
+]
+;B[rr]BL[10]OB[69]C[way2good [?\]: he will die
+BinX [?\]: r9 will become interesting if w careless
+]
+;W[nl]WL[10]OW[68]
+;B[qn]BL[10]OB[69]C[goo [4k\]: b will die?
+]
+;W[ro]WL[10]OW[68]
+;B[sn]BL[10]OB[69]
+;W[so]WL[10]OW[68]
+;B[sr]BL[10]OB[69]C[way2good [?\]: yeah
+goo [4k\]: where?
+]
+;W[lk]WL[10]OW[68]
+;B[kl]BL[10]OB[69]
+;W[ek]WL[10]OW[68]C[way2good [?\]: everywhere
+]
+;B[el]BL[10]OB[69]
+;W[fk]WL[10]OW[68]
+;B[hl]BL[10]OB[69]C[goo [4k\]: ah right
+]
+;W[gm]WL[10]OW[67]C[Nuko [1k\]: res
+]
+;B[gl]BL[10]OB[69]
+;W[fl]WL[10]OW[67]
+;B[fm]BL[10]OB[69]
+;W[fn]WL[10]OW[67]
+;B[em]BL[10]OB[69]
+;W[hm]WL[10]OW[67]
+;B[im]BL[10]OB[69]
+;W[in]WL[10]OW[67]
+;B[jm]BL[10]OB[69]
+;W[il]WL[10]OW[67]
+;B[gj]BL[10]OB[69]C[goo [4k\]: perhaps you meant w instead of b
+BinX [?\]: of course
+]
+;W[hq]WL[10]OW[67]C[q15p17r14 [3d\]: If this lives, I'll eat my trousers
+]
+;B[gr]BL[10]OB[68]
+;W[hr]WL[10]OW[67]C[Koukkaaja [3d\]: Happy meal
+Climax [5d\]: lol
+Muttley [2k\]: mmm, zipper and chips
+okiol [1d\]: i'd be surprised if it doesn't live tbh
+okiol [1d\]: living by killing
+Prometey [4k\]: do u have webcam?
+]
+;B[gp]BL[10]OB[65]C[q15p17r14 [3d\]: Pants would be the absolute worst happy meal toy
+Muttley [2k\]: I don't know, the Al Gore talking head took some beating
+nhr: resign?
+quark01fr [4k\]: w is brave
+Koukkaaja [3d\]: Smarty pants maybe?
+]
+;W[go]WL[10]OW[62]
+;B[hp]BL[10]OB[65]
+;W[gq]WL[10]OW[62]
+;B[fq]BL[10]OB[65]C[Muttley [2k\]: every so often w does this thing called "reading"
+]
+;W[ip]WL[10]OW[62]C[Muttley [2k\]: I have heard of this
+]
+;B[fo]BL[10]OB[65]
+;W[ho]WL[10]OW[62]
+;B[fp]BL[10]OB[65]C[goo [4k\]: how does 'brave' apply to an electronic board game?
+]
+;W[jr]WL[10]OW[62]
+;B[gn]BL[10]OB[64]
+;W[hn]WL[10]OW[62]C[way2good [?\]: goes is not invented for internet
+]
+;B[iq]BL[10]OB[63]
+;W[jq]WL[10]OW[62]
+;B[jp]BL[10]OB[63]C[goo [4k\]: or any game
+]
+;W[io]WL[10]OW[62]
+;B[hs]BL[10]OB[63]
+;W[ir]WL[10]OW[62]
+;B[kr]BL[10]OB[63]C[Yaruki [5k\]: j9
+]
+;W[ks]WL[10]OW[61]
+;B[ls]BL[10]OB[63]
+;W[is]WL[10]OW[61]
+;B[br]BL[10]OB[62]C[greenway [1d\]: w good
+Icare [1d\]: l4 do the job no ?
+]
+;W[bq]WL[10]OW[60]C[StuUngar [1d\]: w lose
+]
+;B[cs]BL[10]OB[62]C[way2good [?\]: he will live
+q15p17r14 [3d\]: l4 l5
+nhr: brave means not afraid of all the pieces be killed 
+Icare [1d\]: l4 l5 then w has at least one eye and then semeai
+quark01fr [4k\]: e1 seems the only move
+]
+;W[lr]WL[10]OW[55]
+;B[ds]BL[10]OB[62]
+;W[cq]WL[10]OW[53]
+;B[bl]BL[10]OB[62]C[ErdDrache [1k\]: alive now u have to eat your trousers
+]
+;W[ao]WL[10]OW[52]
+;B[gs]BL[10]OB[62]C[TurtleDove [3k?\]: ketchup ?
+q15p17r14 [3d\]: Readying the dish as we speak
+]
+;W[kp]WL[10]OW[51]C[goo [4k\]: you should have said, if w wins
+Climax [5d\]: lol
+]
+;B[hj]BL[10]OB[59]C[Muttley [2k\]: you should have said, "if man walks on the moon"
+Muttley [2k\]: fat chance of that
+goo [4k\]: lol
+]
+;W[dk]WL[10]OW[50]C[Koukkaaja [3d\]: If u live after ur meal, i'll eat my pants
+]
+;B[dl]BL[10]OB[59]C[okiol [1d\]: haha
+Climax [5d\]: tell me if how your pants taste then
+ranyee [4k\]: b dead?
+Muttley [2k\]: public warning: eating trousers is dangerous to your health.
+Muttley [2k\]: Just in case.
+Climax [5d\]: lol
+way2good [?\]: b will die everywhere
+]
+;W[bj]WL[10]OW[46]C[burtabel [3d\]: finally someone putting their admin power to use for a good cause
+q15p17r14 [3d\]: They are delicious and surprisingly difficult to chew through, like a rare steak
+Muttley [2k\]: damn straight.
+quark01fr [4k\]: sad for black
+]
+;B[en]BL[10]OB[58]
+;W[ef]WL[10]OW[45]
+;B[de]BL[10]OB[57]C[Muttley [2k\]: unfortunately, now d9 will scramble for white
+psai [7k\]: w seems to be a veterinary
+]
+;W[eg]WL[10]OW[44]C[Dowon [1d\]: F1 ?
+Epithany [3k?\]: e13
+]
+;B[ed]BL[10]OB[57]C[Climax [5d\]: lol
+]
+;W[ec]WL[10]OW[44]
+;B[gd]BL[10]OB[57]C[ka [2d?\]: B  L5
+]
+;W[hc]WL[10]OW[43]C[Muttley [2k\]: a minute's silence for q15p17r14 [3d\] and the pants, please
+]
+;B[gc]BL[10]OB[57]C[Muttley [2k\]: Now available on YouTube.
+]
+;W[gb]WL[10]OW[43]
+;B[ea]BL[10]OB[57]
+;W[fb]WL[10]OW[43]
+;B[hd]BL[10]OB[57]
+;W[ic]WL[10]OW[43]
+;B[id]BL[10]OB[57]
+;W[kc]WL[10]OW[43]
+;B[jc]BL[10]OB[57]
+;W[jb]WL[10]OW[43]
+;B[jd]BL[10]OB[57]
+;W[lb]WL[10]OW[43]
+;B[dh]BL[10]OB[57]
+;W[eh]WL[10]OW[42]
+;B[ch]BL[10]OB[57]C[sinand [9k\]: why not k1
+sinand [9k\]: ?
+]
+;W[hh]WL[10]OW[41]C[Climax [5d\]: w already alive
+Muttley [2k\]: k1 L5 alive
+sinand [9k\]: but white will be kill?
+Yaruki [5k\]: l5
+burtabel [3d\]: e11?
+Icare [1d\]: w like to be in danger
+]
+;B[ei]BL[10]OB[55]C[q15p17r14 [3d\]: It may be useful in yose, but white is alive
+]
+;W[fi]WL[10]OW[41]
+;B[fj]BL[10]OB[55]
+;W[ej]WL[10]OW[41]C[Muttley [2k\]: k5 sorry, makes the two eyes at J3 and k4, Sinand
+]
+;B[di]BL[10]OB[55]C[Icare [1d\]: lol
+]
+;W[ig]WL[10]OW[40]
+;B[ji]BL[10]OB[55]C[goo [4k\]: w should have resigned, this is sad
+]
+;W[kg]WL[10]OW[40]
+;B[jf]BL[10]OB[55]
+;W[jg]WL[10]OW[40]C[Muttley [2k\]: don't know, K16 aren't exactly healthy this way
+]
+;B[le]BL[10]OB[55]
+;W[md]WL[10]OW[39]
+;B[me]BL[10]OB[55]
+;W[nd]WL[10]OW[39]C[FlipFlops: twoeye never loses
+]
+;B[lh]BL[10]OB[55]
+;W[lg]WL[10]OW[39]
+;B[mg]BL[10]OB[55]C[Muttley [2k\]: no, that is "captain"
+]
+;W[mh]WL[10]OW[39]
+;B[mi]BL[10]OB[54]
+;W[nh]WL[10]OW[39]C[q15p17r14 [3d\]: O twoeye, my twoeye
+zyklop [1k\]: champion of experience?
+Yaruki [5k\]: lol
+ranyee [4k\]: k1 still playable?
+]
+;B[ki]BL[10]OB[52]C[Muttley [2k\]: people obsessed with k1 :)
+Icare [1d\]: playable yes, useful no
+Muttley [2k\]: waste of a ko threat
+sinand [9k\]: no
+ranyee [4k\]: o10?
+sinand [9k\]: k1 is nothing
+q15p17r14 [3d\]: k1 k5 lives. Black will save it for a ko threat and yose
+sinand [9k\]: k1
+sinand [9k\]: and k5
+sinand [9k\]: yes
+sinand [9k\]: :)
+WenHui [5k\]: o13 ?
+txtiger [3k\]: w o8 group will die?
+quark01fr [4k\]: not obsessed by K1 but by health ok G16 group
+Muttley [2k\]: when o4 are truly threatened, then off you go
+zyklop [1k\]: b upper side dead?
+Epithany [3k?\]: W need only take m1
+stewball [5k\]: one foot in the grave
+Muttley [2k\]: I reckon it will resolve into a seki where b has an eye and w doesn't
+quark01fr [4k\]: I don't no but it seems in trouble
+Muttley [2k\]: at which point, we all say "Ko"
+]
+;W[ij]WL[10]OW[31]C[FlipFlops: twoeye will win
+]
+;B[ik]BL[10]OB[51]
+;W[jj]WL[10]OW[30]
+;B[ii]BL[10]OB[51]C[sinand [9k\]: white
+]
+;W[jk]WL[10]OW[29]C[sinand [9k\]: time for resign?
+Korf [1d\]: doesn't l5 kill white now?
+]
+;B[jl]BL[10]OB[49]
+;W[lj]WL[10]OW[29]C[Korf [1d\]: ouou, k1 :(
+newguy [8k?\]: b has a chance to kill o3 after k1?
+Muttley [2k\]: w reads nice variations :)
+goo [4k\]: maybe
+zyklop [1k\]: k1 k5 and then?
+FlipFlops: H11
+newguy [8k?\]: o10/09
+newguy [8k?\]: right now it's tight
+newguy [8k?\]: but seems plosible
+]
+;B[ng]BL[10]OB[38]C[quark01fr [4k\]: ik K1 M4 N3 M7 and black can't connect the ko
+ranyee [4k\]: wow
+sinand [9k\]: why wow
+Yaruki [5k\]: i don't think b can cut. plus w connected i think
+sinand [9k\]: ?
+sinand [9k\]: what is this?
+]
+;W[li]WL[10]OW[27]
+;B[ne]BL[10]OB[38]
+;W[od]WL[10]OW[27]C[goo [4k\]: whoa
+]
+;B[hf]BL[10]OB[37]C[goo [4k\]: b decided game too boring
+shore: lol
+sinand [9k\]: white win )
+sinand [9k\]: :D
+shore: yeah
+goo [4k\]: as if
+FlipFlops: no
+FlipFlops: twoeye cant lose
+Epithany [3k?\]: h11 would seem obvious
+fy [1d\]: best move
+fy [1d\]: i have
+Yaruki [5k\]: l12
+sinand [9k\]: twoeye lose
+sinand [9k\]: look he profile
+sinand [9k\]: he have very loses game
+sinand [9k\]: !
+fy [1d\]: can not tell
+]
+;W[gh]WL[10]OW[22]C[shore: h11 is better than l12
+FlipFlops: not with this pic
+]
+;B[kd]BL[10]OB[36]C[fy [1d\]: h11
+fy [1d\]: is the best
+LosingisOK [5d\]: h11 l12 miai
+sinand [9k\]: why?
+shore: he will m16
+]
+;W[gk]WL[10]OW[20]C[LosingisOK [5d\]: w just need to focus on killl
+]
+;B[hk]BL[10]OB[35]
+;W[hi]WL[10]OW[20]C[fy [1d\]: now too late
+]
+;B[lc]BL[10]OB[33]
+;W[kb]WL[10]OW[20]
+;B[oh]BL[10]OB[33]C[Epithany [3k?\]: r12
+]
+;W[kh]WL[10]OW[19]C[shore: "b+221,5"
+]
+;B[lf]BL[10]OB[33]C[Icare [1d\]: alive :)
+shore: b w is ahead on territory
+Kaito [2k\]: b+ time
+misor [3k\]: n17 ?
+Icare [1d\]: p13 
+sandking [1k\]: live
+shore: p13 yeah
+goo [4k\]: come on w, move!
+]
+;W[lm]WL[10]OW[10]C[sandking [1k\]: p13 godd for w
+]
+;B[kn]BL[10]OB[33]
+;W[ln]WL[10]OW[9]
+;B[ko]BL[10]OB[32]
+;W[gi]WL[10]OW[9]
+;B[il]BL[10]OB[32]C[sinand [9k\]: n3?
+shore: looks good for w
+FlipFlops: ko
+]
+;W[mq]WL[10]OW[9]C[sinand [9k\]: nothing ko
+Kaito [2k\]: k1
+Yaruki [5k\]: ko
+ErrorGo [1k\]: nop
+SColbert [4d\]: 4 vs 3
+ErrorGo [1k\]: b dead
+sertal [2k\]: nop indeed
+sinand [9k\]: black dead
+FlipFlops: no
+Telemarket [6d\]: b super dead
+isa [3k\]: k1 k5
+Yaruki [5k\]: gg
+shore: lol flipflops
+FlipFlops: no
+germinon: no'
+FlipFlops: he wont lose
+Climax [5d\]: gosh...
+sandking [1k\]: ko
+shore: "he cant lose"
+sinand [9k\]: i say
+newguy [8k?\]: k1 k5 m4 ko
+sinand [9k\]: before 20 move
+zyklop [1k\]: b looks dead
+sinand [9k\]: black will be lose
+goo [4k\]: silly b
+SColbert [4d\]: b dead every where
+]
+;B[js]BL[10]OB[26]C[sinand [9k\]: but flipflops say black win
+shore: yeah
+sinand [9k\]: okey
+sinand [9k\]: see final
+Latias [-\]: w should cut at p13 in sente before though
+WenHui [5k\]: b res >.<
+]
+;W[jo]WL[10]OW[8]C[Kaito [2k\]: ^^
+twoeye [7d\]: thx
+doctorslip [7d\]: thx
+shore: see?
+isa [3k\]: nice game
+goo [4k\]: waste of a game
+sinand [9k\]: flipflops
+sinand [9k\]: now what?
+WenHui [5k\]: w really tricky.. thx for the game :D
+FlipFlops: NO
+sinand [9k\]: twoeye win? :d
+bahaaomar [11k\]: d 10
+FlipFlops: he isnt sober
+fy [1d\]: simply h11
+goo [4k\]: worst game ive ever seen
+LosingisOK [5d\]: he certainly managed to slip out of that one well
+fy [1d\]: will be a pro
+])

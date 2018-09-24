@@ -1,0 +1,235 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[600]OT[6x30 byo-yomi]
+PW[sanamkuta]PB[oubeika]WR[5d]BR[5d]DT[2013-01-19]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: hi
+]RE[B+Resign]
+;B[pd]BL[595.594]C[sanamkuta [5d\]: hi
+]
+;W[dp]WL[593.469]
+;B[pq]BL[593.045]
+;W[dc]WL[590.572]
+;B[fq]BL[591.044]
+;W[ip]WL[582.724]
+;B[fo]BL[574.052]
+;W[dn]WL[579.615]
+;B[lp]BL[572.352]
+;W[in]WL[574.794]
+;B[fm]BL[570.163]
+;W[dk]WL[566.066]
+;B[jo]BL[515.898]
+;W[io]WL[560.078]
+;B[km]BL[514.356]
+;W[il]WL[546.956]
+;B[fk]BL[506.39]
+;W[ij]WL[537.505]
+;B[fi]BL[500.673]C[okm [3k\]: this game needs more jumping
+]
+;W[kk]WL[496.95]C[alpena [2d\]: is that you spoon?
+okm [3k\]: you can't see me
+Muttley [2k\]: b should play F1
+okm [3k\]: spoons are invisible
+Muttley [2k\]: though, perhaps not yet
+]
+;B[jc]BL[455.468]C[okm [3k\]: f1 tesuji
+]
+;W[qf]WL[478.203]
+;B[qh]BL[450.293]
+;W[of]WL[473.969]C[okm [3k\]: if b f1, w resign
+]
+;B[nd]BL[448.07]C[alpena [2d\]: f1 tesuji in hopes w responds with a1?
+]
+;W[rd]WL[466.39]
+;B[qk]BL[435.344]
+;W[qc]WL[464.308]C[radpi3 [2k\]: f19 will be very promising, after f1 is played
+]
+;B[de]BL[424.537]C[okm [3k\]: hmm
+okm [3k\]: b f1, w f19?
+Muttley [2k\]: I think I've only ever seen one game where one side got 19 stones in a line :)
+wampleek [?\]: f19 is too far to jump
+]
+;W[lc]WL[435.818]
+;B[ld]BL[412.754]
+;W[md]WL[430.695]
+;B[mc]BL[411.347]
+;W[me]WL[428.965]
+;B[lb]BL[409.708]
+;W[nc]WL[426.105]
+;B[mb]BL[407.295]
+;W[od]WL[424.511]
+;B[nb]BL[402.569]C[Muttley [2k\]: I feeling "good result white" here
+despot [2k\]: I don't
+]
+;W[oc]WL[406.152]
+;B[fc]BL[395.815]
+;W[ce]WL[400.542]C[Muttley [2k\]: get G17 w and its - oh
+]
+;B[cf]BL[393.585]
+;W[cd]WL[397.354]
+;B[bf]BL[389.178]C[Muttley [2k\]: F17, should have known
+alpena [2d\]: i think these guys play too subtle for me to tell you who has better posiyion
+radpi3 [2k\]: just 4 moves away from f19
+]
+;W[di]WL[349.78]C[Muttley [2k\]: F15 = thick now
+Muttley [2k\]: so it is actually plausible
+alpena [2d\]: e 13 seems very solid
+]
+;B[cj]BL[353.832]
+;W[dj]WL[334.986]
+;B[ck]BL[350.616]C[despot [2k\]: the 4 w stones are so thin, it's screaming to be attacked somehow
+]
+;W[ci]WL[312.805]
+;B[cm]BL[343.644]C[wampleek [?\]: b has heard their siren song
+Muttley [2k\]: shouldn't white be able to cut with the wedge?
+]
+;W[dl]WL[293.935]C[Muttley [2k\]: F4 for example, or F6
+despot [2k\]: this is a better cut
+alpena [2d\]: i think b moves this forward too quickly
+]
+;B[dm]BL[328.96]C[okm [3k\]: someone should jump soon
+okm [3k\]: not enough jumping for my liking
+]
+;W[cl]WL[285.094]
+;B[cn]BL[317.208]C[Muttley [2k\]: b gets 30 point corner
+despot [2k\]: w in so much pain
+alpena [2d\]: i like blacks result after all
+wampleek [?\]: w not dead yet
+despot [2k\]: d9 was likely a mistake.. not solid enough
+]
+;W[eq]WL[252.136]C[Muttley [2k\]: C3 and it's not pretty
+radpi3 [2k\]: H3
+]
+;B[do]BL[278.892]C[despot [2k\]: c3 is not right here
+wampleek [?\]: w can live
+]
+;W[bk]WL[235.62]
+;B[bh]BL[263.775]
+;W[bm]WL[220.591]C[Muttley [2k\]: B7 is fine if you just want life
+]
+;B[bn]BL[258.122]
+;W[an]WL[213.875]
+;B[ao]BL[253.054]
+;W[am]WL[212.063]C[despot [2k\]: c3
+]
+;B[ep]BL[241.839]
+;W[co]WL[186.734]
+;B[en]BL[231.97]
+;W[dq]WL[176.41]
+;B[fr]BL[221.728]
+;W[bq]WL[145.538]C[wampleek [?\]: b didnt get enough i think
+ilium [3k\]: b5
+Muttley [2k\]: b5 baad
+]
+;B[cp]BL[210.94]C[Muttley [2k\]: this way, white happy
+ilium [3k\]: b5 saves corner for w; now he dies
+Muttley [2k\]: white survived and now only 40 points behind because of the right
+]
+;W[df]WL[89.926]C[alpena [2d\]: that's gotts hurt
+]
+;B[dg]BL[187.751]C[alpena [2d\]: gotta
+]
+;W[ef]WL[82.171]
+;B[eg]BL[184.345]
+;W[ee]WL[79.744]C[Muttley [2k\]: R4
+alpena [2d\]: r5
+]
+;B[po]BL[166.148]
+;W[hc]WL[68.093]
+;B[hd]BL[155.782]
+;W[gd]WL[48.538]
+;B[gc]BL[153.647]
+;W[id]WL[46.429]
+;B[hb]BL[151.835]
+;W[he]WL[43.007]
+;B[ic]BL[150.641]
+;W[fj]WL[27.876]
+;B[gj]BL[146.115]
+;W[fh]WL[22.075]
+;B[fg]BL[132.123]C[Ganga [2k\]: how does white respond to c1?
+]
+;W[gi]WL[4.968]
+;B[ej]BL[108.718]C[Muttley [2k\]: C2
+]
+;W[gh]WL[30]OW[6]C[Muttley [2k\]: die, basically
+]
+;B[bi]BL[101.884]
+;W[bj]WL[30]OW[6]
+;B[fe]BL[82.845]
+;W[fd]WL[30]OW[6]
+;B[ed]BL[75.256]
+;W[dd]WL[30]OW[6]C[Muttley [2k\]: A13 live?
+Muttley [2k\]: no
+]
+;B[ff]BL[60.956]
+;W[ec]WL[30]OW[6]
+;B[hf]BL[42.854]
+;W[if]WL[30]OW[5]
+;B[hg]BL[13.428]C[glasszee [6k\]: ko fight
+glasszee [6k\]: if w protects escape
+Muttley [2k\]: no
+Ganga [2k\]: mmh what about white c2 for live?
+glasszee [6k\]: j12 g15 g13 h16 
+glasszee [6k\]: J12 can be anything
+Ganga [2k\]: there is a seki
+]
+;W[jh]WL[30]OW[4]C[glasszee [6k\]: b G15
+]
+;B[hi]BL[30]OB[6]
+;W[hj]WL[30]OW[4]C[Muttley [2k\]: more interesting
+]
+;B[eh]BL[30]OB[6]
+;W[ei]WL[30]OW[4]C[radpi3 [2k\]: nice
+glasszee [6k\]: aw i guess this is a better result
+]
+;B[hh]BL[30]OB[6]
+;W[fj]WL[30]OW[4]C[Muttley [2k\]: now your moves up top are internal ko threats
+uiyui: live
+]
+;B[gg]BL[30]OB[6]
+;W[gk]WL[30]OW[4]C[Muttley [2k\]: oh, b isn't even interested in the ko :)
+glasszee [6k\]: haha
+]
+;B[ge]BL[30]OB[6]
+;W[qm]WL[30]OW[4]
+;B[qo]BL[30]OB[6]
+;W[pl]WL[30]OW[4]
+;B[pk]BL[30]OB[6]
+;W[nl]WL[30]OW[4]
+;B[ok]BL[30]OB[6]
+;W[ol]WL[30]OW[4]
+;B[nk]BL[30]OB[6]
+;W[ml]WL[30]OW[4]
+;B[oh]BL[30]OB[6]
+;W[rl]WL[30]OW[4]
+;B[rk]BL[30]OB[6]
+;W[mp]WL[30]OW[4]
+;B[mq]BL[30]OB[6]
+;W[lq]WL[30]OW[4]
+;B[mo]BL[30]OB[6]
+;W[np]WL[30]OW[4]
+;B[nq]BL[30]OB[6]
+;W[kq]WL[30]OW[4]
+;B[no]BL[30]OB[6]
+;W[be]WL[30]OW[3]
+;B[ch]BL[30]OB[6]
+;W[gp]WL[30]OW[3]
+;B[fp]BL[30]OB[6]
+;W[er]WL[30]OW[3]
+;B[cr]BL[30]OB[6]
+;W[cq]WL[30]OW[3]
+;B[br]BL[30]OB[6]
+;W[ar]WL[30]OW[3]
+;B[bs]BL[30]OB[6]
+;W[ap]WL[30]OW[3]
+;B[bo]BL[30]OB[6]
+;W[bp]WL[30]OW[3]
+;B[ds]BL[30]OB[6]
+;W[es]WL[30]OW[3]
+;B[dr]BL[30]OB[6]
+;W[co]WL[30]OW[3]C[Wirtuoosi [2d\]: c5 death in gote?
+]
+;B[ob]BL[30]OB[6]C[Muttley [2k\]: I'm not sure w can atari that
+psun: gote die
+ilium [3k\]: f1
+sanamkuta [4d\]: tx
+oubeika [5d\]: thx
+radpi3 [2k\]: no need for f1
+])

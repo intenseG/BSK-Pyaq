@@ -1,0 +1,283 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[80x10 byo-yomi]
+PW[twoeye]PB[doctorslip]WR[7d]BR[6d]DT[2014-02-06]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [6d\]: hi gg
+twoeye [7d\]: hi
+]RE[W+Resign]
+;B[qd]BL[10]OB[80]
+;W[dc]WL[10]OW[80]
+;B[oq]BL[10]OB[80]
+;W[dp]WL[10]OW[80]
+;B[pk]BL[10]OB[80]
+;W[qp]WL[10]OW[80]
+;B[qn]BL[10]OB[80]
+;W[op]WL[10]OW[80]
+;B[np]BL[10]OB[80]
+;W[oo]WL[10]OW[80]
+;B[pq]BL[10]OB[80]
+;W[qo]WL[10]OW[80]
+;B[qq]BL[10]OB[80]
+;W[qm]WL[10]OW[80]
+;B[pn]BL[10]OB[77]
+;W[rn]WL[10]OW[80]
+;B[ro]BL[10]OB[77]
+;W[rp]WL[10]OW[80]
+;B[rm]BL[10]OB[77]
+;W[so]WL[10]OW[80]
+;B[ql]BL[10]OB[77]
+;W[lq]WL[10]OW[80]
+;B[mo]BL[10]OB[77]
+;W[od]WL[10]OW[80]
+;B[md]BL[10]OB[77]
+;W[rq]WL[10]OW[80]
+;B[rr]BL[10]OB[77]
+;W[of]WL[10]OW[80]
+;B[qf]BL[10]OB[77]
+;W[qc]WL[10]OW[80]
+;B[rc]BL[10]OB[77]
+;W[pc]WL[10]OW[80]
+;B[rb]BL[10]OB[77]
+;W[mf]WL[10]OW[80]
+;B[kd]BL[10]OB[77]
+;W[ic]WL[10]OW[80]
+;B[ne]BL[10]OB[77]
+;W[oe]WL[10]OW[77]
+;B[nf]BL[10]OB[77]
+;W[ng]WL[10]OW[77]
+;B[og]BL[10]OB[76]
+;W[lc]WL[10]OW[77]
+;B[ld]BL[10]OB[76]
+;W[mc]WL[10]OW[77]
+;B[kc]BL[10]OB[76]
+;W[nd]WL[10]OW[77]
+;B[me]BL[10]OB[75]
+;W[kb]WL[10]OW[77]
+;B[jb]BL[10]OB[74]
+;W[lb]WL[10]OW[77]
+;B[jc]BL[10]OB[74]
+;W[pg]WL[10]OW[77]
+;B[oh]BL[10]OB[74]
+;W[pf]WL[10]OW[77]
+;B[rg]BL[10]OB[72]
+;W[qe]WL[10]OW[77]
+;B[re]BL[10]OB[72]
+;W[pd]WL[10]OW[77]
+;B[pe]BL[10]OB[72]
+;W[rh]WL[10]OW[76]
+;B[nb]BL[10]OB[71]
+;W[ob]WL[10]OW[76]
+;B[nc]BL[10]OB[71]
+;W[qe]WL[10]OW[76]
+;B[rd]BL[10]OB[71]
+;W[qg]WL[10]OW[76]
+;B[rf]BL[10]OB[71]
+;W[na]WL[10]OW[76]
+;B[ka]BL[10]OB[71]C[TheThe [5k\]: ded
+]
+;W[mb]WL[10]OW[72]
+;B[pa]BL[10]OB[70]
+;W[qi]WL[10]OW[71]C[Ootakamoku [-\]: messy
+]
+;B[ph]BL[10]OB[62]C[Ootakamoku [-\]: can't read a kill
+]
+;W[qh]WL[10]OW[71]C[TheThe [5k\]: s10 ?
+]
+;B[rj]BL[10]OB[61]C[simplet [2d\]: )
+Ootakamoku [-\]: p11
+kishambo [3k\]: p11
+]
+;W[qj]WL[10]OW[69]
+;B[qk]BL[10]OB[61]
+;W[oi]WL[10]OW[69]
+;B[nh]BL[10]OB[61]
+;W[ni]WL[10]OW[69]
+;B[mg]BL[10]OB[60]
+;W[ok]WL[10]OW[69]C[Ootakamoku [-\]: p9
+]
+;B[nk]BL[10]OB[59]C[hho: o9
+]
+;W[ol]WL[10]OW[68]C[Ootakamoku [-\]: this continues and soon I can read b death
+]
+;B[pj]BL[10]OB[58]
+;W[pi]WL[10]OW[68]
+;B[oj]BL[10]OB[58]
+;W[mh]WL[10]OW[68]
+;B[ng]BL[10]OB[58]
+;W[nj]WL[10]OW[68]
+;B[nl]BL[10]OB[58]
+;W[om]WL[10]OW[68]C[TheThe [5k\]: well cat looks like he is out
+Babibo [1d?\]: b can play the hard drive tesuji
+]
+;B[on]BL[10]OB[56]
+;W[nm]WL[10]OW[68]C[Babibo [1d?\]: and he does
+simplet [2d\]: i have a bad feeling about p7
+plotzo [6k\]: can't drive too far though
+]
+;B[mm]BL[10]OB[54]
+;W[nn]WL[10]OW[68]
+;B[pm]BL[10]OB[54]
+;W[no]WL[10]OW[68]C[rats [1d?\]: lol @ b's shape
+Ootakamoku [-\]: q8
+simplet [2d\]: n6 fine
+]
+;B[si]BL[10]OB[51]C[KBAC [3d\]: b collapsed
+K5 [?\]: Hmm, B's outside influence there not perfect
+]
+;W[mp]WL[10]OW[65]C[Kuroda [10k\]: has white survived?
+kishambo [3k\]: b got no points, no influence and no sente
+]
+;B[lk]BL[10]OB[50]C[plotzo [6k\]: but can both groups be saved?
+]
+;W[li]WL[10]OW[64]C[Ootakamoku [-\]: b has an attack
+]
+;B[lh]BL[10]OB[50]C[Ootakamoku [-\]: cat greedy, not fixing weak group
+]
+;W[lj]WL[10]OW[64]
+;B[kk]BL[10]OB[50]
+;W[ji]WL[10]OW[64]C[rats [1d?\]: group is out
+]
+;B[ik]BL[10]OB[48]C[K5 [?\]: this attack threatens to kill R3
+plotzo [6k\]: running like a wounded fox with the hounds on its trail
+]
+;W[nq]WL[10]OW[63]C[Ootakamoku [-\]: h11
+]
+;B[hi]BL[10]OB[47]
+;W[ih]WL[10]OW[63]
+;B[kj]BL[10]OB[46]
+;W[ki]WL[10]OW[63]
+;B[gg]BL[10]OB[44]C[hho: if b surround j12, k17 will be surrouded as well
+aira [-\]: amazing magic moves  of twoeye
+]
+;W[if]WL[10]OW[62]C[plotzo [6k\]: looks like a second eye will be made
+]
+;B[id]BL[10]OB[42]C[Kuroda [10k\]: dont forget the ko
+]
+;W[hd]WL[10]OW[61]C[hho: a ko ?
+K5 [?\]: forget the ko
+]
+;B[hg]BL[10]OB[41]
+;W[ig]WL[10]OW[60]C[gogonuts [4d\]: it would have been better for b, if he didnt have the technique to reduce w to one eye at the top :-)
+kishambo [3k\]: w should be out
+]
+;B[hc]BL[10]OB[39]
+;W[ie]WL[10]OW[60]
+;B[ib]BL[10]OB[39]
+;W[gd]WL[10]OW[60]C[Gaos [3k\]: he is...
+]
+;B[ed]BL[10]OB[37]C[padawan [5k\]: b hould have killed
+]
+;W[dd]WL[10]OW[59]C[padawan [5k\]: according to my poor kyu sight
+]
+;B[ee]BL[10]OB[36]
+;W[ec]WL[10]OW[58]
+;B[fc]BL[10]OB[36]
+;W[kh]WL[10]OW[58]
+;B[mi]BL[10]OB[36]C[hho: b still want to kill
+]
+;W[mj]WL[10]OW[58]C[simplet [2d\]: of course
+norsu [2d?\]: b should just win
+]
+;B[de]BL[10]OB[31]C[gogonuts [4d\]: w winning
+padawan [5k\]: cats have 9 lives
+]
+;W[fb]WL[10]OW[58]
+;B[gb]BL[10]OB[31]
+;W[fd]WL[10]OW[58]C[gogonuts [4d\]: k13 impossible
+]
+;B[gc]BL[10]OB[31]
+;W[ce]WL[10]OW[58]
+;B[cf]BL[10]OB[31]
+;W[bf]WL[10]OW[58]
+;B[be]BL[10]OB[31]
+;W[cd]WL[10]OW[58]C[simplet [2d\]: f14 soon
+]
+;B[bg]BL[10]OB[29]C[simplet [2d\]: now
+]
+;W[df]WL[10]OW[58]C[gogonuts [4d\]: w always a step ahead
+jiraad4: L13
+]
+;B[cg]BL[10]OB[27]
+;W[ef]WL[10]OW[58]
+;B[fe]BL[10]OB[25]
+;W[gf]WL[10]OW[58]
+;B[he]BL[10]OB[25]
+;W[ge]WL[10]OW[58]
+;B[hf]BL[10]OB[25]C[jiraad4: g14
+]
+;W[ff]WL[10]OW[58]C[BullShark [3d\]: this is just awfull
+gogonuts [4d\]: misreading k13?
+gogonuts [4d\]: this is useless for b
+simplet [2d\]: white is alive
+]
+;B[hj]BL[10]OB[23]C[jiraad4: l13 for both...
+gogonuts [4d\]: sente
+]
+;W[fi]WL[10]OW[57]C[plotzo [6k\]: b l13 doesn't work?
+]
+;B[eh]BL[10]OB[22]C[simplet [2d\]: l13 j11
+gogonuts [4d\]: b threatening L13
+]
+;W[jl]WL[10]OW[57]C[t3suji [2d\]: bl13 does not work until b fixes outside; this is what he's doing
+gogonuts [4d\]: yes
+Kuroda [10k\]: why doesnt just white live
+padawan [5k\]: resignnnn
+gogonuts [4d\]: w making J11 sente :-)
+]
+;B[jm]BL[10]OB[20]
+;W[mk]WL[10]OW[56]C[kishambo [3k\]: nice
+]
+;B[ml]BL[10]OB[19]
+;W[ll]WL[10]OW[56]
+;B[lm]BL[10]OB[19]C[jiraad4: m13 for w isn't better?
+]
+;W[kl]WL[10]OW[56]C[simplet [2d\]: take 3 more stones
+jiraad4: spliting attack with this l8...
+padawan [5k\]: h10 was an empty move ƒ± suppose
+]
+;B[jk]BL[10]OB[15]
+;W[km]WL[10]OW[55]
+;B[kn]BL[10]OB[15]
+;W[il]WL[10]OW[55]
+;B[ln]BL[10]OB[15]
+;W[jn]WL[10]OW[55]
+;B[im]BL[10]OB[14]C[ofbusy [1d\]: not really a fight
+]
+;W[hl]WL[10]OW[55]
+;B[jo]BL[10]OB[14]
+;W[hh]WL[10]OW[54]
+;B[hm]BL[10]OB[14]C[kishambo [3k\]: hehe
+]
+;W[gl]WL[10]OW[54]
+;B[fj]BL[10]OB[14]
+;W[gm]WL[10]OW[54]C[gogonuts [4d\]: w having such a good time
+]
+;B[ho]BL[10]OB[14]
+;W[ip]WL[10]OW[54]C[simplet [2d\]: yes
+]
+;B[io]BL[10]OB[14]C[ofbusy [1d\]: maybe he s bored now
+]
+;W[gh]WL[10]OW[54]
+;B[ek]BL[10]OB[14]C[idazuwaika [5d\]: black not an eye doctor
+gogonuts [4d\]: lol
+]
+;W[el]WL[10]OW[53]
+;B[ei]BL[10]OB[14]C[K5 [?\]: E9 needs resignsuji badly?
+]
+;W[fo]WL[10]OW[52]
+;B[dl]BL[10]OB[9]
+;W[dm]WL[10]OW[52]C[gogonuts [4d\]: cant even pull out at f13
+Kuroda [10k\]: f9
+Weishenme [4d\]: wL4 will hurt
+jiraad4: no more trouble for white dragon...
+]
+;B[em]BL[10]OB[8]C[gogonuts [4d\]: becuase then f12 is sente fo rw
+t3suji [2d\]: well, he can but in gote
+]
+;W[en]WL[10]OW[52]
+;B[fl]BL[10]OB[8]
+;W[fm]WL[10]OW[52]
+;B[cm]BL[10]OB[8]
+;W[el]WL[10]OW[52]C[simplet [2d\]: if saves g13, loses j9
+kcharris12 [1k\]: w can play l4 anyway now?
+doctorslip [6d\]: thx
+twoeye [7d\]: thx
+])

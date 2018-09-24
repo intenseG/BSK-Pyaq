@@ -1,0 +1,836 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[300]OT[5x30 byo-yomi]
+PW[doctorslip]PB[Cornel]WR[7d]BR[6d]DT[2013-11-28]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [7d\]: hi gg
+Cornel [6d\]: hi have fun
+]RE[B+23.50]
+;B[pd]BL[290.215]
+;W[dc]WL[292.949]
+;B[de]BL[287.514]
+;W[ce]WL[282.353]
+;B[cf]BL[285.083]
+;W[cd]WL[281.632]
+;B[dp]BL[272.753]
+;W[df]WL[277.921]
+;B[qp]BL[267.488]
+;W[cg]WL[263.911]
+;B[ef]BL[264.032]
+;W[dg]WL[260.977]
+;B[oq]BL[257.212]
+;W[qj]WL[250.907]
+;B[ql]BL[253.427]
+;W[qg]WL[245.658]
+;B[mc]BL[250.469]C[Zahlman [1k\]: is this fair for b?
+sabaki [-\]: b is ok
+]
+;W[qc]WL[183.225]C[BenDover [7k\]: i need to get to 9d fast
+BenDover [7k\]: any tips
+]
+;B[qd]BL[241.49]
+;W[pc]WL[181.419]C[Zahlman [1k\]: hmm, I thought s16 rather than r17... doesn't this hurt the outside pair of stones?
+]
+;B[od]BL[225.721]C[sabaki [-\]: yea, i agree
+]
+;W[nb]WL[174.372]
+;B[nc]BL[222.212]
+;W[mb]WL[168.799]
+;B[rc]BL[219.876]
+;W[rb]WL[155.458]
+;B[ob]BL[218.437]
+;W[rd]WL[154.289]
+;B[lb]BL[217.085]C[Zahlman [1k\]: o_O
+]
+;W[sc]WL[142.235]
+;B[cn]BL[211.301]C[Zahlman [1k\]: I don't know this variation
+Zahlman [1k\]: it feels like n18 was not possible and this is just trying to salvage it..
+]
+;W[er]WL[124.915]
+;B[eq]BL[203.865]
+;W[dr]WL[119.757]
+;B[fr]BL[201.592]
+;W[fq]WL[118.731]C[BenDover [7k\]: turn out to be ok
+Zahlman [1k\]: ... yeah
+sabaki [-\]: possibly r13 makes it possible
+]
+;B[gq]BL[187.878]
+;W[fp]WL[115.976]
+;B[hr]BL[186.222]
+;W[cp]WL[109.727]C[Zahlman [1k\]: what about t17 at s15?
+]
+;B[cq]BL[159.625]
+;W[dq]WL[92.787]
+;B[bp]BL[153.681]
+;W[ep]WL[89.683]
+;B[co]BL[149.493]
+;W[em]WL[79.47]C[sabaki [-\]: this way has aji in p17/o16 cut, i guess
+hibagon [2d?\]: feels better to just take it
+Zahlman [1k\]: mm
+]
+;B[ck]BL[109.808]C[Zahlman [1k\]: ahh, b can't cut with s15 anyway due to the clamp, I'm silly :)
+sabaki [-\]: yea, but aji
+sabaki [-\]: for exampl, b q14 threatens the cut
+Zahlman [1k\]: mhm
+Zahlman [1k\]: I guess could be a way to press w down later?
+Zahlman [1k\]: depending what else happens on the outsided
+]
+;W[iq]WL[4.317]
+;B[gp]BL[105.525]
+;W[io]WL[1.72]
+;B[gn]BL[95.687]
+;W[fn]WL[30]OW[5]
+;B[gm]BL[79.859]
+;W[ek]WL[30]OW[5]
+;B[kq]BL[72.672]
+;W[ir]WL[30]OW[5]
+;B[im]BL[66.917]
+;W[kp]WL[30]OW[5]
+;B[lq]BL[62.823]
+;W[kn]WL[30]OW[5]
+;B[km]BL[34.238]
+;W[lm]WL[30]OW[5]
+;B[kl]BL[26.049]
+;W[mn]WL[30]OW[5]
+;B[mk]BL[30]OB[5]
+;W[om]WL[30]OW[5]
+;B[ph]BL[30]OB[5]
+;W[pl]WL[30]OW[5]
+;B[qm]BL[30]OB[5]
+;W[oj]WL[30]OW[5]
+;B[nl]BL[30]OB[5]
+;W[nm]WL[30]OW[5]
+;B[lo]BL[30]OB[5]
+;W[ln]WL[30]OW[5]
+;B[pk]BL[30]OB[5]
+;W[ok]WL[30]OW[5]
+;B[ol]BL[30]OB[5]
+;W[pm]WL[30]OW[5]
+;B[pj]BL[30]OB[5]
+;W[ll]WL[30]OW[5]
+;B[oi]BL[30]OB[5]
+;W[qk]WL[30]OW[5]
+;B[pi]BL[30]OB[5]
+;W[qn]WL[30]OW[5]
+;B[rn]BL[30]OB[5]
+;W[rm]WL[30]OW[5]
+;B[rl]BL[30]OB[5]
+;W[ro]WL[30]OW[5]
+;B[sm]BL[30]OB[5]
+;W[qo]WL[30]OW[5]
+;B[qi]BL[30]OB[5]
+;W[qq]WL[30]OW[5]
+;B[qr]BL[30]OB[5]
+;W[rq]WL[30]OW[5]
+;B[pq]BL[30]OB[5]
+;W[rr]WL[30]OW[5]
+;B[jr]BL[30]OB[5]
+;W[is]WL[30]OW[5]C[aweful: bad for b isnt it?
+aweful: the attack went poorly
+tonyho [1d\]: yes
+]
+;B[ps]BL[30]OB[5]C[tonyho [1d\]: r13 cannot cut
+]
+;W[mr]WL[30]OW[5]
+;B[mq]BL[30]OB[5]
+;W[nr]WL[30]OW[5]
+;B[or]BL[30]OB[5]C[BenBabo [4d?\]: if b s14 how does w connect?
+]
+;W[js]WL[30]OW[5]C[ErrorGo [1d\]: s14 like cut
+]
+;B[ks]BL[30]OB[5]
+;W[lr]WL[30]OW[4]
+;B[kr]BL[30]OB[5]C[BenDover [7k\]: o3
+BenDover [7k\]: ogogog
+overtyped [3k\]: o3 is bad
+]
+;W[nq]WL[30]OW[3]C[ErrorGo [1d\]: lol !
+]
+;B[np]BL[30]OB[5]C[overtyped [3k\]: 0.0
+]
+;W[mp]WL[30]OW[3]
+;B[ns]BL[30]OB[5]C[overtyped [3k\]: i woulda thought o4 
+]
+;W[lp]WL[30]OW[3]
+;B[ms]BL[30]OB[5]
+;W[kk]WL[30]OW[3]C[sixrusses [5k\]: o4 bad, haha :-)
+]
+;B[jk]BL[30]OB[5]
+;W[jj]WL[30]OW[3]
+;B[kj]BL[30]OB[5]C[sixrusses [5k\]: easy one i admit
+]
+;W[lk]WL[30]OW[3]
+;B[ik]BL[30]OB[5]C[Muttley [2k\]: w has a nice approach- live small everywhere, invade and get chased around, turn on your chasers :)
+]
+;W[ji]WL[30]OW[3]C[aweful: when my students do that i yell at them :)
+Muttley [2k\]: most inconsiderate :)
+]
+;B[gj]BL[30]OB[5]C[Muttley [2k\]: why can't they just die like they are supposed to?
+ErrorGo [1d\]: w17 ? 
+]
+;W[dk]WL[30]OW[3]
+;B[cj]BL[30]OB[5]C[ErrorGo [1d\]: w j17 **
+]
+;W[cl]WL[30]OW[3]
+;B[bl]BL[30]OB[5]
+;W[ei]WL[30]OW[3]
+;B[gh]BL[30]OB[5]C[Muttley [2k\]: can't really just tenuki here
+]
+;W[hi]WL[30]OW[3]
+;B[gi]BL[30]OB[5]
+;W[gk]WL[30]OW[3]
+;B[hj]BL[30]OB[5]
+;W[cm]WL[30]OW[3]
+;B[bm]BL[30]OB[5]C[yakito [1k\]: oh ! corned 6d :(
+Zuruck: j17 seems to close with b group
+]
+;W[gf]WL[30]OW[3]
+;B[eh]BL[30]OB[5]C[Muttley [2k\]: cornered, do you mean yakito?
+]
+;W[di]WL[30]OW[3]
+;B[ig]BL[30]OB[5]C[yakito [1k\]: huh? 
+yakito [1k\]: didnt get it XD
+]
+;W[jg]WL[30]OW[3]
+;B[jf]BL[30]OB[5]C[Muttley [2k\]: "oh! corned 6d :("   I didn't understand "corned" :)
+brume [8k\]: i think he meant cornel
+]
+;W[ih]WL[30]OW[3]C[yakito [1k\]: ..........\\o/ cornel sry xD
+Muttley [2k\]: ah!  hehe, right
+]
+;B[hg]BL[30]OB[5]C[aweful: i think mut made a joke
+Zuruck: Cornel is Cornel :-)
+yakito [1k\]: ^^
+yakito [1k\]: was 7d last week ? 
+]
+;W[kf]WL[30]OW[3]
+;B[kg]BL[30]OB[5]
+;W[jh]WL[30]OW[3]C[Muttley [2k\]: no joke, I'm just focused on killing that b group :)
+]
+;B[lj]BL[30]OB[5]C[Muttley [2k\]: and a cornered 6d is a dangerous 6d :)
+yakito [1k\]: gl to kill it :x 
+]
+;W[je]WL[30]OW[3]
+;B[if]BL[30]OB[5]C[aweful: later d12 c12 c11 f12 e13 f13 e15 f11 b14  ?
+DrSmiley [5k\]: i like that pic doctorslip =D
+BenDover [7k\]: comet is the thing that destroyed dinosaur
+Muttley [2k\]: looks like some manga character
+]
+;W[lg]WL[30]OW[3]C[DrSmiley [5k\]: yeah
+]
+;B[ke]BL[30]OB[5]
+;W[lf]WL[30]OW[3]
+;B[li]BL[30]OB[5]C[RalfH [4k\]: nice
+]
+;W[lh]WL[30]OW[3]
+;B[of]BL[30]OB[5]C[aweful: h12 
+Zuruck: manga charactor is doctor slump :-)
+Kanin [-\]: yes h12 is ok
+yakito [1k\]: see...w will die :D
+aweful: h12 j10 k16 l16 g13 j15 j16 h15 ...
+Kanin [-\]: or I would o13 first, to ask black
+]
+;W[mi]WL[30]OW[2]
+;B[mj]BL[30]OB[5]
+;W[ni]WL[30]OW[2]C[Kanin [-\]: this order is good too!
+]
+;B[nh]BL[30]OB[5]C[aweful: o13 
+yakito [1k\]: erf its alive
+]
+;W[mh]WL[30]OW[2]
+;B[nj]BL[30]OB[5]
+;W[jd]WL[30]OW[2]C[yakito [1k\]: o_O
+]
+;B[kd]BL[30]OB[5]C[yakito [1k\]: riskyyyyy
+erf [6k\]: :)
+]
+;W[kc]WL[30]OW[2]
+;B[me]BL[30]OB[5]C[Kanin [-\]: ofc alive
+yakito [1k\]: how? 
+kmlck [1d\]: now it might dei
+Kanin [-\]: h12
+kmlck [1d\]: die*
+aweful: not of course
+yakito [1k\]: xD
+ErrorGo [1d\]: g12 ?
+Muttley [2k\]: w must be behind, so he does have to do as much damage as possible before living
+yakito [1k\]: w so greedy .........
+ErrorGo [1d\]: h12* 
+]
+;W[ng]WL[30]OW[2]C[BenDover [7k\]: wuts a live
+]
+;B[mf]BL[30]OB[5]C[yakito [1k\]: cant be alive man
+sixrusses [5k\]: h12 
+go7734 [3d\]: it can live
+aweful: depends how j14 runs
+yakito [1k\]: could* ^^
+Zuruck: resign
+]
+;W[pg]WL[30]OW[2]
+;B[og]BL[30]OB[5]
+;W[oh]WL[30]OW[2]C[aweful: w found a better way
+yakito [1k\]: tell me how its alive here? :p
+]
+;B[ri]BL[30]OB[5]C[aweful: yakito read my seq
+aweful: ^^
+hutong6 [1d\]: h2 then g13 only chance?
+hutong6 [1d\]: h12*
+sixrusses [5k\]: has to
+kmlck [1d\]: b can still run
+yakito [1k\]: your sequence is like 20 moves ago xD
+]
+;W[ij]WL[30]OW[2]C[aweful: the idea still applies
+]
+;B[hh]BL[30]OB[5]C[patrickn [2k\]: wrong
+]
+;W[hk]WL[30]OW[2]
+;B[hl]BL[30]OB[5]C[ErrorGo [1d\]: let's see 
+yakito [1k\]: ?????
+BenDover [7k\]: k8
+patrickn [2k\]: k8 4 points
+aweful: k8 is useless
+BenDover [7k\]: na
+yakito [1k\]: k8 j8 :p
+kmlck [1d\]: l7 stones arent important
+lucasr [1k\]: k7
+]
+;W[fj]WL[30]OW[2]C[hutong6 [1d\]: k8=useless
+lucasr [1k\]: lah
+]
+;B[gl]BL[30]OB[5]
+;W[fk]WL[30]OW[2]C[aweful: w has less libs
+hutong6 [1d\]: should've h12
+yakito [1k\]: w cries
+lucasr [1k\]: ys
+]
+;B[ki]BL[30]OB[5]C[lucasr [1k\]: wah
+]
+;W[kh]WL[30]OW[2]C[kmlck [1d\]: with h12 b would have less libs
+patrickn [2k\]: h12 was  the move
+hutong6 [1d\]: now that's the price for greed
+aweful: h12 may have failed clearly
+aweful: im not sure
+Muttley [2k\]: BenDover please answer my private message to you
+yakito [1k\]: h12 didnt work for me :x
+kmlck [1d\]: its better than this variation
+]
+;B[hd]BL[30]OB[4]C[patrickn [2k\]: this variation definitely fails dearly lol
+aweful: probably this is worse than h12^^
+]
+;W[ic]WL[30]OW[2]C[kmlck [1d\]: with h12 w had chance
+hutong6 [1d\]: it's definitely worse than h12
+yakito [1k\]: sure ^^ but h12 dont work
+Muttley [2k\]: Bendover please answer my private message to you
+aweful: yakito did you even read it?^^
+yakito [1k\]: i have done the sequence :p
+yakito [1k\]: yeah
+]
+;B[hc]BL[30]OB[4]
+;W[ie]WL[30]OW[2]
+;B[he]BL[30]OB[4]
+;W[hf]WL[30]OW[2]C[BMaRi [8d\]: goooo cornel
+patrickn [2k\]: what is b doing
+hutong6 [1d\]: AH OH
+]
+;B[fh]BL[30]OB[4]C[yakito [1k\]: greed will work ?xD
+kmlck [1d\]: w might still win if he gets top
+Zahlman [1k\]: hmm, this cut isn't a problem for b is it?
+Zuruck: w desparate :-)
+Zahlman [1k\]: oh, I thought nose tesuji
+yakito [1k\]: f15 ???
+]
+;W[lc]WL[30]OW[2]C[Zahlman [1k\]: f14, then net, doesn't that work instead of f12?
+]
+;B[ld]BL[30]OB[4]C[Zahlman [1k\]: oh, I guess not enough libs
+BMaRi [8d\]: not a lot white could do here >.<
+Zahlman [1k\]: or at least it would kick the ko into action right away
+patrickn [2k\]: f15?
+]
+;W[kb]WL[30]OW[2]
+;B[fe]BL[30]OB[4]C[yakito [1k\]: lame move
+yakito [1k\]: tss :d
+hutong6 [1d\]: ........
+patrickn [2k\]: lol
+BMaRi [8d\]: if white played f15 black would k18 :D
+yakito [1k\]: sure ^^
+BMaRi [8d\]: k16 woudl lack the liberties to kill g12 
+yakito [1k\]: but what is better :p
+BMaRi [8d\]: :o m17 or f15? m17 defenitly :)
+]
+;W[nf]WL[30]OW[1]
+;B[ne]BL[30]OB[4]
+;W[pf]WL[30]OW[1]C[yakito [1k\]: ok =)
+]
+;B[nh]BL[30]OB[4]
+;W[ml]WL[30]OW[1]
+;B[nk]BL[30]OB[4]
+;W[oh]WL[30]OW[1]
+;B[oe]BL[30]OB[4]
+;W[md]WL[30]OW[1]C[Kanin [-\]: a ko
+kmlck [1d\]: wow
+]
+;B[le]BL[30]OB[4]C[BMaRi [8d\]: very nice by white
+hutong6 [1d\]: hmmm this is interesting
+]
+;W[oc]WL[30]OW[1]
+;B[nh]BL[30]OB[4]C[brume [8k\]:  daaaang
+]
+;W[ok]WL[30]OW[1]C[kmlck [1d\]: e13
+hutong6 [1d\]: dictatorship has got some moves
+]
+;B[oj]BL[30]OB[4]
+;W[oh]WL[30]OW[1]
+;B[qe]BL[30]OB[4]C[hutong6 [1d\]: *doctorslip...
+patrickn [2k\]: lol
+]
+;W[re]WL[30]OW[1]C[zum [2d?\]: w lost
+]
+;B[nh]BL[30]OB[4]C[Zahlman [1k\]: n13...
+kmlck [1d\]: n13 is still ko
+patrickn [2k\]: k8
+Zahlman [1k\]: yes
+patrickn [2k\]: or j8 
+]
+;W[jq]WL[30]OW[1]
+;B[ls]BL[30]OB[4]C[Zahlman [1k\]: still multistage, and that's b's fallback plan
+]
+;W[oh]WL[30]OW[1]C[Zahlman [1k\]: conclusion: almost impossible for w
+kmlck [1d\]: w still has threats around e13
+]
+;B[mg]BL[30]OB[4]
+;W[nh]WL[30]OW[1]
+;B[ii]BL[30]OB[4]C[hutong6 [1d\]: not anymore
+zum [2d?\]: with n3 safe, nothing left to w as a threat
+NoobieGo [4k\]: this has to be some kickass ko threat
+Kanin [-\]: e13 and f14 are threats
+kmlck [1d\]: b cant ignore e13
+]
+;W[eg]WL[30]OW[1]C[yakito [1k\]: =)
+]
+;B[fg]BL[30]OB[4]
+;W[hi]WL[30]OW[1]C[Zahlman [1k\]: k17
+BMaRi [8d\]: hiya kanin :D
+brume [8k\]: why couldnt black ignore e13
+]
+;B[no]BL[30]OB[4]C[Kanin [-\]: hi BMaRi
+kmlck [1d\]: cuz its lotsa points
+patrickn [2k\]: caue it huge
+Alexei [10k\]: Hi!
+BMaRi [8d\]: because than h17 would die brume
+Alexei [10k\]: Happy Thanksgiving
+Gabriel [1k\]: Hi Alexei :P
+brume [8k\]: oh right right
+ErrorGo [1d\]: o16
+]
+;W[qf]WL[30]OW[1]C[BMaRi [8d\]: while k12 is a big kill losing h17 would also be big death 
+]
+;B[ii]BL[30]OB[4]C[BMaRi [8d\]: thanks alexei :D
+kmlck [1d\]: f14
+]
+;W[ff]WL[30]OW[1]C[FreshTooth [3d\]: o5 so lame
+Kanin [-\]: w is winning
+BMaRi [8d\]: l13 e15 d12 
+BMaRi [8d\]: can cut i think?
+yakito [1k\]: b will die xDD
+]
+;B[kg]BL[30]OB[4]
+;W[ee]WL[30]OW[1]C[yakito [1k\]: ah 
+Zahlman [1k\]: kompromise
+NoobieGo [4k\]: hey ho
+yakito [1k\]: HURTS
+Alexei [10k\]: bam!
+ErrorGo [1d\]: q6
+hutong6 [1d\]: hmmm
+]
+;B[pn]BL[30]OB[4]C[BMaRi [8d\]: doesnt seem he can take the eyes though from it
+yakito [1k\]: what a deal ...
+zum [2d?\]: just flashed before my eyes
+FreshTooth [3d\]: q5 
+]
+;W[po]WL[30]OW[1]C[yakito [1k\]: wahhh it will die oO
+FreshTooth [3d\]: ah w still dies
+]
+;B[on]BL[30]OB[4]C[zum [2d?\]: q5 not good enuf
+yakito [1k\]: so good move
+ErrorGo [1d\]: o6
+]
+;W[nn]WL[30]OW[1]C[klai [2k\]: q5 is suicide
+BMaRi [8d\]: s3 cant live >.<
+]
+;B[oo]BL[30]OB[4]
+;W[pp]WL[30]OW[1]C[yakito [1k\]: yeah =)
+]
+;B[mo]BL[30]OB[4]C[yakito [1k\]: he wants :d
+zum [2d?\]: s3 dead
+Kanin [-\]: a ko
+yakito [1k\]: ouch now :d
+Kanin [-\]: for s3
+]
+;W[ko]WL[30]OW[1]C[hutong6 [1d\]: s1
+]
+;B[hp]BL[30]OB[4]C[FreshTooth [3d\]: no ko for s3
+hutong6 [1d\]: easy kill
+zum [2d?\]: and s3 bigger than h17
+]
+;W[ip]WL[30]OW[1]C[yakito [1k\]: hop hop hop
+Kanin [-\]: after bs1, white can T6
+kmlck [1d\]: s1?
+BMaRi [8d\]: s1 t6 t5 t4 t2 t6 
+Zahlman [1k\]: kikashi before killing?
+]
+;B[rs]BL[30]OB[4]C[BMaRi [8d\]: is ko
+kmlck [1d\]: nvm
+Kanin [-\]: funny ko
+Kanin [-\]: problem
+BMaRi [8d\]: it is 
+]
+;W[sp]WL[30]OW[1]
+;B[sr]BL[30]OB[4]C[Vortex [4d?\]: t6 was better
+]
+;W[sn]WL[30]OW[1]C[Kanin [-\]: should t6 first though
+BMaRi [8d\]: t6 was better than t4
+pancake [5d\]: why not t6 first? :/
+Kanin [-\]: to capture first
+BMaRi [8d\]: yeah xD
+]
+;B[so]BL[30]OB[4]C[Zahlman [1k\]: yes
+hutong6 [1d\]: lol
+Kanin [-\]: but
+yakito [1k\]: b woudl be angry if he cant kill 3 weak groups :d
+Kanin [-\]: can give it up?
+Kanin [-\]: and still be winning
+FreshTooth [3d\]: o3 
+Kanin [-\]: ah, maybe not :P
+]
+;W[nq]WL[30]OW[1]C[BMaRi [8d\]: lol
+]
+;B[op]BL[30]OB[4]
+;W[sn]WL[30]OW[1]C[ErrorGo [1d\]: a bad move xd? 
+BMaRi [8d\]: yeah hes def not winning if this dies
+BMaRi [8d\]: xD
+klai [2k\]: t8 
+]
+;B[nd]BL[30]OB[4]C[Kanin [-\]: B10 is threat?
+ErrorGo [1d\]: lol
+yakito [1k\]: ???????
+hutong6 [1d\]: o16????
+Muttley [2k\]: ko threats
+kmlck [1d\]: so b counted?
+pergolesi [4k?\]: not k17?
+klai [2k\]: j16 bigger
+Gabriel [1k\]: was that a threat?
+Kanin [-\]: this gives b multitude of threats
+]
+;W[rm]WL[30]OW[1]C[Kanin [-\]: good move
+Vortex [4d?\]: creates threats
+BMaRi [8d\]: even if wihte lives hes slightly behind?
+]
+;B[la]BL[30]OB[4]C[ErrorGo [1d\]: nice !
+Gabriel [1k\]: ah I seeee
+kmlck [1d\]: wow o16 is good
+Kanin [-\]: yes, well done cornel
+Kanin [-\]: wins the game
+Gabriel [1k\]: I could never think of that o.O
+zum [2d?\]: silence! 8d asked us a question
+]
+;W[sl]WL[30]OW[1]C[yakito [1k\]: :p
+BMaRi [8d\]: not 8d xD jsut overranked
+yakito [1k\]: wowwww
+]
+;B[na]BL[30]OB[4]C[zum [2d?\]: who answers?
+Vortex [4d?\]: w definitely loses now
+]
+;W[hb]WL[30]OW[1]C[BMaRi [8d\]: omg woah
+Kanin [-\]: ah, B should start with J18
+Kanin [-\]: for the kill
+yunYuki [1d\]: ah btw it´s manwha not manga^^
+yakito [1k\]: yeah ...thats the work ^^
+Kanin [-\]: instead of O19
+]
+;B[gb]BL[30]OB[4]
+;W[ib]WL[30]OW[1]C[Kanin [-\]: but maybe this works too
+]
+;B[fc]BL[30]OB[4]C[FreshTooth [3d\]: kanin, nice!
+yakito [1k\]: b alive too? \\o/
+kmlck [1d\]: e18
+FreshTooth [3d\]: f16 
+Oloril [-\]: I lump them all under 'comic books'
+]
+;W[ka]WL[30]OW[1]C[yakito [1k\]: l19 
+]
+;B[ma]BL[30]OB[4]C[Zuruck: w not alive
+]
+;W[fd]WL[30]OW[1]C[yakito [1k\]: yeah but semeai :x
+]
+;B[ha]BL[30]OB[4]C[BMaRi [8d\]: k18
+hutong6 [1d\]: haha waiting for b to g15
+yakito [1k\]: b won it
+hutong6 [1d\]: then w lives
+BMaRi [8d\]: or not ._.
+hutong6 [1d\]: but b doesn't take the bait
+hutong6 [1d\]: LOLOL
+kmlck [1d\]: g17
+]
+;W[gc]WL[30]OW[1]C[Luigi [2d\]: everything except j16 is ok
+Luigi [2d\]: for b
+]
+;B[gd]BL[30]OB[4]
+;W[ge]WL[30]OW[1]C[hutong6 [1d\]: fe18
+BMaRi [8d\]: seki?
+Gabriel [1k\]: J16 now \\o/
+hutong6 [1d\]: e18
+Kanin [-\]: haha, this is great
+Ekstre: k 17?
+FreshTooth [3d\]: e18 
+]
+;B[ia]BL[30]OB[4]C[BMaRi [8d\]: this is seki kanin?
+Muttley [2k\]: seki no good for white
+FreshTooth [3d\]: seki no good for b..
+zum [2d?\]: seems b kills
+Luigi [2d\]: cant be seki imo
+Kanin [-\]: no, w dies, to me
+Ekstre: +
+]
+;W[fa]WL[30]OW[1]C[Luigi [2d\]: and w looks dead
+Kanin [-\]: unleeeesss
+yakito [1k\]: k17 
+Kanin [-\]: seki is game over though
+Kanin [-\]: so, either way
+BMaRi [8d\]: k19 g19 e17 g17 f19 e18 d18 e19 
+Luigi [2d\]: k18
+BMaRi [8d\]: is seki?
+]
+;B[jc]BL[30]OB[4]C[IronCow [6k\]: killed
+Luigi [2d\]: well enything works again
+yakito [1k\]: done :p
+BMaRi [8d\]: still seki o-o
+]
+;W[jb]WL[30]OW[1]C[Vortex [4d?\]: seki?
+BMaRi [8d\]: mhm mhm
+patrickn [2k\]: g17
+SIscurge [5d\]: b dead 
+]
+;B[gc]BL[30]OB[4]C[kmlck [1d\]: how can it be seki?
+Luigi [2d\]: where is b eye???
+Backflash [6k?\]: b dead
+yakito [1k\]: how seki ??
+hutong6 [1d\]: b dead+1
+kmlck [1d\]: b no eyes
+FreshTooth [3d\]: b dies..
+Vortex [4d?\]: b will make an eye
+Oloril [-\]: seki is only for those who lack the guts to go all in
+hutong6 [1d\]: j16 then b dies
+zum [2d?\]: w dies
+FreshTooth [3d\]: ah no
+BMaRi [8d\]: black has an eye and white has an eye
+FreshTooth [3d\]: b lives
+Zahlman [1k\]: neat, w can't g19
+kmlck [1d\]: where is b eye?
+Ekstre: where w eye?
+ErrorGo [1d\]: seki 
+]
+;W[id]WL[30]OW[1]C[yakito [1k\]: here xD
+Muramasa [1d\]: j16 b dead
+]
+;B[ga]BL[30]OB[4]C[Vortex [4d?\]: g19
+Backflash [6k?\]: there it is
+]
+;W[ec]WL[30]OW[1]C[FreshTooth [3d\]: yes, seki
+]
+;B[eb]BL[30]OB[4]
+;W[db]WL[30]OW[1]C[BMaRi [8d\]: this is seki :D
+Vortex [4d?\]: here's your eye
+]
+;B[ea]BL[30]OB[4]
+;W[da]WL[30]OW[1]
+;B[fb]BL[30]OB[4]C[BMaRi [8d\]: lol
+Zahlman [1k\]: boom seki
+hutong6 [1d\]: seki..
+kmlck [1d\]: ok
+yakito [1k\]: hehe
+Luigi [2d\]: lol
+Greckozavr [5k\]: )
+yakito [1k\]: gj bmari =)
+IronCow [6k\]: sekiii)))
+Muramasa [1d\]: ooo nice
+ErrorGo [1d\]: s9 
+hutong6 [1d\]: game over~~~~~~~~~~~
+IronCow [6k\]: olololol
+plotzo [6k\]: seki is good
+Zahlman [1k\]: nice sequence
+NoobieGo [4k\]: that's harmony man
+yakito [1k\]: s9 
+]
+;W[br]WL[30]OW[1]C[hutong6 [1d\]: ivy leagues are good for a reason
+brume [8k\]: lol
+Luigi [2d\]: nice saving w, now you can resign :D
+brume [8k\]: true go
+]
+;B[cr]BL[30]OB[4]C[yakito [1k\]: b12 ?
+sisyphus [6k\]: theycan coexist
+]
+;W[cs]WL[30]OW[1]C[BMaRi [8d\]: how can you resign after saving your group like that :P
+Muttley [2k\]: Doctor, I think the patient is dead
+]
+;B[bh]BL[30]OB[4]C[sisyphus [6k\]: they can coexist
+klai [2k\]: s9 ??
+redEars [4d\]: s9 is big
+]
+;W[ci]WL[30]OW[1]C[yakito [1k\]: yeah
+zum [2d?\]: Mutt: the patient is seki
+]
+;B[bi]BL[30]OB[4]C[yakito [1k\]: after it
+]
+;W[rk]WL[30]OW[1]C[yakito [1k\]: now
+BMaRi [8d\]: the patient is in a coma xD
+BMaRi [8d\]: between 2 worlds
+Backflash [6k?\]: zum, you mean in coma?
+ErrorGo [1d\]: a15
+hutong6 [1d\]: let's see if w can kill the left
+Muttley [2k\]: the game is the patient :)
+BMaRi [8d\]: *stuck between 2 worlds
+Gabriel [1k\]: mid/high dan games look more interesting today than ususal xD
+]
+;B[bg]BL[30]OB[4]
+;W[bf]WL[30]OW[1]
+;B[bq]BL[30]OB[4]C[zum [2d?\]: seki is coma?
+NoobieGo [4k\]: Gabriel, people are growing everyday
+Backflash [6k?\]: yea
+kmlck [1d\]: anyway good game but cornel win
+]
+;W[pb]WL[30]OW[1]C[BMaRi [8d\]: seems like it would be
+]
+;B[eo]BL[30]OB[4]
+;W[fo]WL[30]OW[1]
+;B[fl]BL[30]OB[4]C[sisyphus [6k\]: until gravity starts taking over
+hutong6 [1d\]: just resign and start a new game~
+]
+;W[el]WL[30]OW[1]C[kmlck [1d\]: they can take it to counting
+yakito [1k\]: s13 
+ErrorGo [1d\]: t13 ?
+kmlck [1d\]: its less than 20 pts defeat
+hutong6 [1d\]: or wait for black to slip his mouse
+BMaRi [8d\]: is like 60 for white and 90 for black xD
+]
+;B[rg]BL[30]OB[4]
+;W[rf]WL[30]OW[1]C[BMaRi [8d\]: 85-90 for black :o
+]
+;B[rh]BL[30]OB[4]C[kmlck [1d\]: a13
+Muttley [2k\]: This is why you don't make small half-alive groups ;)
+]
+;W[hn]WL[30]OW[1]
+;B[go]BL[30]OB[4]
+;W[fs]WL[30]OW[1]
+;B[gr]BL[30]OB[4]C[Oloril [-\]: Only slightly less well known is that you don't go up against a sicilian when death is on the line
+Gabriel [1k\]: My count was B+22 ish :D
+sisyphus [6k\]: lol princess bride
+]
+;W[jm]WL[30]OW[1]C[sisyphus [6k\]: i love movie references
+]
+;B[jl]BL[30]OB[4]C[Gabriel [1k\]: time to see how much my counting fails~
+CrissAngel [-\]: b ahead by 25
+Gabriel [1k\]: hey sis
+]
+;W[jn]WL[30]OW[1]C[sisyphus [6k\]: what show is that reference from ? trivia
+Alexei [10k\]: Inconceivable!
+sisyphus [6k\]: hellothere gabriel
+sisyphus [6k\]: ;)
+plotzo [6k\]: b +20 in captured stones alone
+]
+;B[ag]BL[30]OB[4]C[hutong6 [1d\]: b ahead by 25-30
+]
+;W[en]WL[30]OW[1]C[BMaRi [8d\]: 60 w ~ 87b :D
+]
+;B[do]BL[30]OB[4]C[sisyphus [6k\]: you keep saying that word, I dont think it means what you think it means
+kmlck [1d\]: i still say its less then 20
+]
+;W[dn]WL[30]OW[1]
+;B[af]BL[30]OB[4]C[Gabriel [1k\]: I want B to win by 22.5 xD
+Muramasa [1d\]: but g1 b1 will be fine for b
+]
+;W[ae]WL[30]OW[1]C[hutong6 [1d\]: w is just waiting for b to slip his mouse to f19
+sisyphus [6k\]: is resignation infinity ?
+hutong6 [1d\]: patience is key
+]
+;B[pa]BL[30]OB[4]
+;W[qa]WL[30]OW[1]
+;B[oa]BL[30]OB[4]C[brume [8k\]: is precipitousness continuity?
+]
+;W[sj]WL[30]OW[1]C[sisyphus [6k\]: lol
+]
+;B[rj]BL[30]OB[4]
+;W[sg]WL[30]OW[1]C[brume [8k\]: is your name a camus ref
+]
+;B[dj]BL[30]OB[4]C[kmlck [1d\]: hehe
+]
+;W[bs]WL[30]OW[1]
+;B[ar]BL[30]OB[4]
+;W[sq]WL[30]OW[1]
+;B[qs]BL[30]OB[4]
+;W[aq]WL[30]OW[1]C[sisyphus [6k\]: if it is an infinite slope i suppose
+]
+;B[ap]BL[30]OB[4]C[sisyphus [6k\]: lol
+]
+;W[ss]WL[30]OW[1]C[NoobieGo [4k\]: one last ko to bring it home
+]
+;B[sh]BL[30]OB[4]
+;W[sf]WL[30]OW[1]
+;B[in]BL[30]OB[4]
+;W[ho]WL[30]OW[1]
+;B[si]BL[30]OB[4]
+;W[sk]WL[30]OW[1]
+;B[aq]BL[30]OB[4]C[kmlck [1d\]: does se still count sekis wrong?
+]
+;W[sr]WL[30]OW[1]C[sisyphus [6k\]: does .999 =1 ?
+]
+;B[gs]BL[30]OB[4]
+;W[ds]WL[30]OW[1]C[hutong6 [1d\]: nah
+brume [8k\]: yeah
+sisyphus [6k\]: :)
+kmlck [1d\]: ofc it isnt
+]
+;B[es]BL[30]OB[4]C[Gabriel [1k\]: only if it is recurring
+hutong6 [1d\]: but 0.9999999999999999999999999999999999999999999999999999999999999 to infinity does
+sisyphus [6k\]: yes it does
+]
+;W[eq]WL[30]OW[1]C[brume [8k\]: if it repeats then yeah
+Luigi [2d\]: no for mathematician, yes for physicist
+]
+;B[fs]BL[30]OB[4]C[sisyphus [6k\]: unless you make some assumptions
+]
+;W[hm]WL[30]OW[1]
+;B[il]BL[30]OB[4]C[YuBaba [2d\]: these go nerds....
+]
+;W[]WL[30]OW[1]C[sisyphus [6k\]: actually exact oposite
+hutong6 [1d\]: 1/3 = 0.3333 repeated
+sisyphus [6k\]: algebraically it does
+sisyphus [6k\]: =1
+RalfH [4k\]: why no resign?
+]
+;B[]BL[30]OB[4]TW[aa][ba][ca][ra][sa][ab][bb][cb][qb][sb][ac][bc][cc][rc][ad][bd][dd][ed][sd][be][de][fe][se][cf][ef][dl][ql][rl][dm][mm][qm][sm][rn][jo][so][jp][qp][rp]TB[mb][nb][md][kf][lf][nf][jg][lg][ng][ah][ih][jh][kh][lh][mh][nh][oh][ai][hi][ji][mi][ni][aj][bj][ij][jj][ak][bk][ok][al][am][an][bn][ao][bo][cp][nq][lr][mr][nr][pr][os]C[hutong6 [1d\]: multiply that by 3 yay
+kmlck [1d\]: 0.999 isnt recurring
+Oloril [-\]: for physicists .999 is roughly the same as 100
+kmlck [1d\]: so it doesnt
+sisyphus [6k\]: also in calculus it does
+sisyphus [6k\]: eries
+BMaRi [8d\]: :D
+doctorslip [6d\]: thx
+sisyphus [6k\]: series
+hutong6 [1d\]: you can use series
+sisyphus [6k\]: exaclty
+Gabriel [1k\]: ooh close to 22.5
+hutong6 [1d\]: to calculate that.
+Cornel [6d\]: thx
+BMaRi [8d\]: gj cornel :D
+obelisc [4k\]: bravo meseriasule!
+mimic [1k\]: great game 
+hutong6 [1d\]: funtastic game
+xDragon [?\]: sisy you cant even ask that question in a group of people, else itll start a 3 hour debate among a dozen people, half calling the other half stupid
+Cornel [6d\]: :)
+Gabriel [1k\]: that was fun to watch, thanks :)
+BMaRi [8d\]: lol you won 3 games against him xD
+xDragon [?\]: ive seen a lot of internet debates on that topic
+BMaRi [8d\]: in a row xDD
+obelisc [4k\]: arata-le cine e sefu in zona!
+sisyphus [6k\]: i know it is is advanced trolling
+sisyphus [6k\]: sorry
+hutong6 [1d\]: 有意思
+brume [8k\]: advanced darkness
+])

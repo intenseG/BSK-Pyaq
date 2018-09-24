@@ -1,0 +1,373 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[60]OT[3x20 byo-yomi]
+PW[supertjc]PB[doctorslip]WR[7d]BR[6d]DT[2014-04-05]PC[The KGS Go Server at http://www.gokgs.com/]C[supertjc [7d\]: hi
+doctorslip [6d\]: hi gg
+]RE[W+Resign]
+;B[pd]BL[54.67]
+;W[dp]WL[58.836]
+;B[qp]BL[52.571]
+;W[dc]WL[57.234]
+;B[oq]BL[49.921]
+;W[qj]WL[52.37]
+;B[qh]BL[43.731]
+;W[qo]WL[47.793]
+;B[pp]BL[27.192]
+;W[rp]WL[43.954]
+;B[rq]BL[26.029]
+;W[qm]WL[42.316]
+;B[de]BL[10.02]
+;W[cg]WL[40.131]
+;B[cc]BL[20]OB[3]
+;W[gc]WL[38.046]
+;B[fd]BL[20]OB[3]
+;W[eb]WL[35.488]
+;B[cf]BL[20]OB[3]
+;W[dg]WL[30.756]
+;B[cb]BL[20]OB[3]
+;W[ff]WL[29.699]
+;B[fq]BL[20]OB[3]
+;W[dn]WL[26.076]
+;B[cq]BL[20]OB[3]
+;W[dq]WL[21.862]
+;B[dr]BL[20]OB[3]
+;W[cp]WL[19.618]
+;B[br]BL[20]OB[3]
+;W[bq]WL[18.494]
+;B[cr]BL[20]OB[3]
+;W[go]WL[16.158]
+;B[dm]BL[20]OB[3]
+;W[dk]WL[7.468]
+;B[en]BL[20]OB[3]
+;W[eo]WL[5.128]
+;B[cn]BL[20]OB[3]
+;W[fn]WL[20]OW[3]
+;B[do]BL[20]OB[3]
+;W[co]WL[20]OW[3]
+;B[ek]BL[20]OB[3]
+;W[dj]WL[20]OW[3]
+;B[dl]BL[20]OB[3]
+;W[ej]WL[20]OW[3]
+;B[fk]BL[20]OB[3]
+;W[fm]WL[20]OW[3]
+;B[em]BL[20]OB[3]
+;W[cl]WL[20]OW[3]
+;B[bl]BL[20]OB[3]
+;W[ck]WL[20]OW[3]
+;B[cm]BL[20]OB[3]
+;W[fp]WL[20]OW[3]
+;B[gq]BL[20]OB[3]
+;W[hk]WL[20]OW[3]
+;B[fj]BL[20]OB[3]
+;W[hi]WL[20]OW[3]
+;B[bk]BL[20]OB[3]
+;W[bj]WL[20]OW[3]
+;B[ci]BL[20]OB[3]
+;W[bi]WL[20]OW[3]
+;B[fi]BL[20]OB[3]
+;W[gh]WL[20]OW[3]
+;B[di]BL[20]OB[3]
+;W[cj]WL[20]OW[3]
+;B[ei]BL[20]OB[3]
+;W[bg]WL[20]OW[3]
+;B[eg]BL[20]OB[3]
+;W[ef]WL[20]OW[3]
+;B[fg]BL[20]OB[3]
+;W[df]WL[20]OW[3]
+;B[gg]BL[20]OB[3]
+;W[bd]WL[20]OW[3]
+;B[aj]BL[20]OB[3]
+;W[bh]WL[20]OW[3]
+;B[cd]BL[20]OB[3]
+;W[be]WL[20]OW[3]
+;B[ce]BL[20]OB[3]
+;W[bf]WL[20]OW[3]
+;B[gd]BL[20]OB[3]
+;W[hc]WL[20]OW[3]
+;B[hd]BL[20]OB[3]
+;W[gf]WL[20]OW[3]
+;B[hg]BL[20]OB[3]
+;W[id]WL[20]OW[3]
+;B[ic]BL[20]OB[3]
+;W[fc]WL[20]OW[3]
+;B[ed]BL[20]OB[3]
+;W[jd]WL[20]OW[3]
+;B[hf]BL[20]OB[3]
+;W[he]WL[20]OW[3]
+;B[ie]BL[20]OB[3]
+;W[ge]WL[20]OW[3]
+;B[jc]BL[20]OB[3]
+;W[if]WL[20]OW[3]
+;B[je]BL[20]OB[3]
+;W[kd]WL[20]OW[3]
+;B[kc]BL[20]OB[3]
+;W[lc]WL[20]OW[3]
+;B[lb]BL[20]OB[3]
+;W[ld]WL[20]OW[3]
+;B[jf]BL[20]OB[2]
+;W[mb]WL[20]OW[3]
+;B[kb]BL[20]OB[2]
+;W[ib]WL[20]OW[3]
+;B[nb]BL[20]OB[2]
+;W[mc]WL[20]OW[3]
+;B[ma]BL[20]OB[2]
+;W[oc]WL[20]OW[3]
+;B[ob]BL[20]OB[2]
+;W[pc]WL[20]OW[3]
+;B[pb]BL[20]OB[2]
+;W[qc]WL[20]OW[3]
+;B[nc]BL[20]OB[2]
+;W[nd]WL[20]OW[3]
+;B[od]BL[20]OB[2]
+;W[ne]WL[20]OW[3]
+;B[qb]BL[20]OB[2]
+;W[qd]WL[20]OW[3]
+;B[rb]BL[20]OB[2]
+;W[ig]WL[20]OW[3]
+;B[le]BL[20]OB[2]
+;W[hh]WL[20]OW[3]
+;B[hl]BL[20]OB[2]
+;W[ik]WL[20]OW[3]
+;B[gl]BL[20]OB[2]
+;W[fl]WL[20]OW[3]
+;B[el]BL[20]OB[2]
+;W[gk]WL[20]OW[3]
+;B[bo]BL[20]OB[2]
+;W[bp]WL[20]OW[3]
+;B[am]BL[20]OB[2]
+;W[bn]WL[20]OW[3]
+;B[ao]BL[20]OB[2]
+;W[ap]WL[20]OW[3]
+;B[an]BL[20]OB[2]
+;W[ak]WL[20]OW[3]
+;B[eq]BL[20]OB[2]
+;W[ep]WL[20]OW[3]
+;B[hn]BL[20]OB[2]
+;W[ho]WL[20]OW[3]
+;B[fh]BL[20]OB[2]
+;W[dh]WL[20]OW[3]
+;B[ih]BL[20]OB[2]
+;W[jg]WL[20]OW[3]
+;B[ii]BL[20]OB[2]
+;W[ij]WL[20]OW[3]
+;B[hj]BL[20]OB[2]
+;W[gj]WL[20]OW[3]
+;B[gi]BL[20]OB[2]
+;W[hj]WL[20]OW[3]
+;B[kg]BL[20]OB[2]
+;W[jh]WL[20]OW[3]
+;B[ji]BL[20]OB[2]
+;W[kh]WL[20]OW[3]
+;B[ki]BL[20]OB[2]
+;W[lh]WL[20]OW[3]
+;B[li]BL[20]OB[2]
+;W[mh]WL[20]OW[3]
+;B[il]BL[20]OB[2]
+;W[jk]WL[20]OW[3]
+;B[io]BL[20]OB[2]
+;W[hp]WL[20]OW[3]
+;B[kl]BL[20]OB[2]
+;W[kk]WL[20]OW[3]
+;B[lk]BL[20]OB[2]
+;W[jl]WL[20]OW[3]
+;B[km]BL[20]OB[2]
+;W[jm]WL[20]OW[3]
+;B[jn]BL[20]OB[2]
+;W[db]WL[20]OW[3]
+;B[nf]BL[20]OB[2]
+;W[pe]WL[20]OW[3]
+;B[mf]BL[20]OB[2]
+;W[oe]WL[20]OW[3]
+;B[og]BL[20]OB[2]
+;W[oh]WL[20]OW[3]
+;B[ph]BL[20]OB[2]
+;W[oi]WL[20]OW[3]
+;B[qf]BL[20]OB[2]
+;W[rc]WL[20]OW[3]
+;B[la]BL[20]OB[2]
+;W[na]WL[20]OW[3]
+;B[ja]BL[20]OB[2]
+;W[jb]WL[20]OW[3]
+;B[oa]BL[20]OB[2]
+;W[hb]WL[20]OW[3]
+;B[sb]BL[20]OB[2]
+;W[rf]WL[20]OW[3]
+;B[rg]BL[20]OB[2]
+;W[re]WL[20]OW[3]
+;B[rj]BL[20]OB[2]
+;W[rk]WL[20]OW[3]
+;B[pj]BL[20]OB[2]
+;W[pi]WL[20]OW[3]
+;B[qi]BL[20]OB[2]
+;W[qk]WL[20]OW[3]
+;B[pk]BL[20]OB[2]
+;W[ol]WL[20]OW[3]
+;B[pl]BL[20]OB[2]
+;W[pm]WL[20]OW[3]
+;B[nj]BL[20]OB[2]
+;W[mi]WL[20]OW[3]
+;B[mj]BL[20]OB[2]
+;W[oj]WL[20]OW[3]
+;B[ke]BL[20]OB[2]
+;W[md]WL[20]OW[3]C[hierophant [1k\]: looks battlefieald
+]
+;B[lg]BL[20]OB[2]
+;W[nk]WL[20]OW[3]
+;B[bc]BL[20]OB[2]
+;W[ll]WL[20]OW[3]
+;B[im]BL[20]OB[2]
+;W[mk]WL[20]OW[3]C[hierophant [1k\]: nice!
+Unranked [?\]: What a seki
+hierophant [1k\]: superb
+]
+;B[lj]BL[20]OB[1]
+;W[ni]WL[20]OW[3]C[Muttley [2k\]: not really a seki if b4 dies
+]
+;B[ml]BL[20]OB[1]
+;W[lm]WL[20]OW[3]
+;B[kn]BL[20]OB[1]C[argqq: still a seki if b4 dies
+]
+;W[mn]WL[20]OW[3]C[Muttley [2k\]: oh, yeah, my bad
+Zaekk [1k\]: b5 will die first maybe
+radpi3 [2k\]: b should have played ko
+]
+;B[jq]BL[20]OB[1]C[Muttley [2k\]: outside liberties don't count
+]
+;W[ai]WL[20]OW[3]
+;B[hq]BL[20]OB[1]C[go2moon [2k\]: q`14, s11 die
+]
+;W[ch]WL[20]OW[3]
+;B[gn]BL[20]OB[1]C[hierophant [1k\]: so semiaful game :)
+]
+;W[aj]WL[20]OW[3]C[Muttley [2k\]: but if you want to be pedantic, by b4 I meant the group up to and including h14 :)
+]
+;B[ip]BL[20]OB[1]
+;W[al]WL[20]OW[3]
+;B[bm]BL[20]OB[1]
+;W[eh]WL[20]OW[3]C[Unranked [?\]: ha
+]
+;B[gm]BL[20]OB[1]
+;W[fo]WL[20]OW[3]C[Muttley [2k\]: lolko
+Gigot [2k\]: black will have one free move
+argqq: w wins this ko
+Muttley [2k\]: worth a lot
+]
+;B[gp]BL[20]OB[1]
+;W[dn]WL[20]OW[3]C[barty [2d\]: t17 
+hierophant [1k\]: nb lost
+]
+;B[sc]BL[20]OB[1]C[lam5k [1d\]: p9
+Zaekk [1k\]: P9
+lam5k [1d\]: not sente
+lam5k [1d\]: b17 dead
+hierophant [1k\]: kill
+barty [2d\]: no will be semai
+]
+;W[sd]WL[20]OW[2]
+;B[do]BL[20]OB[1]
+;W[qa]WL[20]OW[2]C[barty [2d\]: but looks like not good
+barty [2d\]: ignore
+hierophant [1k\]: ?????
+hierophant [1k\]: a3???
+]
+;B[aq]BL[20]OB[1]C[barty [2d\]: a3 sente
+]
+;W[ra]WL[20]OW[2]C[barty [2d\]: a16 
+goren2 [2k\]: a16
+barty [2d\]: kill
+]
+;B[ad]BL[20]OB[1]
+;W[ae]WL[20]OW[2]
+;B[ag]BL[20]OB[1]C[barty [2d\]: now white have problem
+]
+;W[ab]WL[20]OW[2]C[barty [2d\]: should ignore t17
+hierophant [1k\]: What W did??? Why not kill? 
+]
+;B[ac]BL[20]OB[1]C[manifolds [1d\]: almost like a captain game
+]
+;W[ca]WL[20]OW[2]
+;B[ba]BL[20]OB[1]
+;W[da]WL[20]OW[2]C[barty [2d\]: seki?
+lam5k [1d\]: d16
+]
+;B[fa]BL[20]OB[1]
+;W[ec]WL[20]OW[2]
+;B[ee]BL[20]OB[1]C[barty [2d\]: seki
+]
+;W[dd]WL[20]OW[2]C[barty [2d\]: q12 live?
+lam5k [1d\]: lol
+]
+;B[ah]BL[20]OB[1]
+;W[pg]WL[20]OW[2]C[barty [2d\]: we will se
+barty [2d\]: see*
+]
+;B[pf]BL[20]OB[1]
+;W[of]WL[20]OW[2]
+;B[ng]BL[20]OB[1]
+;W[ri]WL[20]OW[2]C[Gigot [2k\]: nice
+barty [2d\]: dead:)
+]
+;B[rh]BL[20]OB[1]C[go2moon [2k\]: b17 die
+]
+;W[sj]WL[20]OW[2]C[lam5k [1d\]: n5
+barty [2d\]: b17 ;ive
+saxo [3d\]: all die
+bestrong [5d\]: all dead
+barty [2d\]: seki
+]
+;B[ia]BL[20]OB[1]
+;W[ha]WL[20]OW[2]C[gofriend [2k\]: what a fight
+barty [2d\]: ahhh yes :)
+barty [2d\]: :P
+Ramza [3k\]: if k15 dies..
+lam5k [1d\]: koseki
+]
+;B[fb]BL[20]OB[1]
+;W[ka]WL[20]OW[2]
+;B[ja]BL[20]OB[1]
+;W[ia]WL[20]OW[2]C[barty [2d\]: hehe:)
+Gigot [2k\]: big eye kills small one
+]
+;B[gb]BL[20]OB[1]
+;W[sa]WL[20]OW[2]
+;B[ga]BL[20]OB[1]
+;W[ka]WL[20]OW[2]C[barty [2d\]: p9 
+]
+;B[pa]BL[20]OB[1]
+;W[ra]WL[20]OW[2]
+;B[ja]BL[20]OB[1]C[Jdisciple [5k?\]: o8
+hierophant [1k\]: o8
+]
+;W[ea]WL[20]OW[2]
+;B[gb]BL[20]OB[1]
+;W[ka]WL[20]OW[2]C[itoumakoto [4d\]: insane gameeeeeeeeeeeeeeeeeeeeeeee
+]
+;B[nl]BL[20]OB[1]
+;W[ok]WL[20]OW[2]
+;B[ja]BL[20]OB[1]
+;W[sa]WL[20]OW[2]
+;B[fb]BL[20]OB[1]
+;W[ka]WL[20]OW[2]
+;B[nm]BL[20]OB[1]
+;W[nn]WL[20]OW[2]
+;B[ja]BL[20]OB[1]
+;W[af]WL[20]OW[2]
+;B[ah]BL[20]OB[1]
+;W[ka]WL[20]OW[2]
+;B[ln]BL[20]OB[1]
+;W[mm]WL[20]OW[2]
+;B[ja]BL[20]OB[1]
+;W[bb]WL[20]OW[2]
+;B[aa]BL[20]OB[1]
+;W[bb]WL[20]OW[2]C[Monkeyfool [5k\]: why m6 not p7?
+]
+;B[ab]BL[20]OB[1]
+;W[ka]WL[20]OW[2]C[gru [2k\]: t11
+]
+;B[ro]BL[20]OB[1]
+;W[na]WL[20]OW[2]C[doctorslip [6d\]: thx
+supertjc [7d\]: thx
+hierophant [1k\]: supergame!!!
+Citronvert [1k\]: gg
+hierophant [1k\]: one more!!!
+doctorslip [6d\]: again?
+])

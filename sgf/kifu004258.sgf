@@ -1,0 +1,467 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[300]OT[3x20 byo-yomi]
+PW[aguilar1]PB[doctorslip]WR[6d]BR[6d]DT[2014-02-01]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [6d\]: hi gg
+]RE[W+7.50]
+;B[pd]BL[295.16]C[aguilar1 [6d\]: hi
+]
+;W[dd]WL[297.285]
+;B[pq]BL[292.051]
+;W[dp]WL[295.115]
+;B[fq]BL[289.118]
+;W[cn]WL[292.895]
+;B[qk]BL[284.736]
+;W[nc]WL[290.14]
+;B[pf]BL[281.505]
+;W[pb]WL[288.074]
+;B[qc]BL[279.624]
+;W[kc]WL[285.995]
+;B[jp]BL[273.673]
+;W[po]WL[284.089]
+;B[np]BL[252.188]
+;W[qq]WL[281.528]
+;B[qr]BL[250.225]
+;W[qp]WL[279.203]
+;B[rr]BL[249.151]
+;W[qm]WL[277.342]
+;B[nn]BL[247.222]
+;W[om]WL[275.527]
+;B[on]BL[242.402]
+;W[pn]WL[273.572]
+;B[pl]BL[241.557]
+;W[rk]WL[271.44]
+;B[rj]BL[240.208]
+;W[rl]WL[269.197]
+;B[qi]BL[239.103]
+;W[pj]WL[259.596]
+;B[qj]BL[237.484]
+;W[pm]WL[257.471]
+;B[cf]BL[232.582]
+;W[be]WL[254.349]
+;B[bf]BL[187.48]
+;W[ce]WL[247.52]
+;B[ef]BL[186.076]
+;W[fd]WL[245.676]
+;B[cj]BL[181.954]
+;W[hq]WL[242.766]
+;B[dq]BL[157.326]
+;W[cq]WL[239.276]
+;B[cr]BL[155.687]
+;W[eq]WL[223.34]
+;B[dr]BL[124.312]
+;W[ep]WL[183.072]
+;B[cp]BL[97.243]
+;W[bq]WL[145.845]
+;B[bp]BL[94.716]
+;W[br]WL[143.78]
+;B[bs]BL[93.556]
+;W[er]WL[141.539]
+;B[aq]BL[91.652]
+;W[lq]WL[138.106]
+;B[iq]BL[77.788]
+;W[oq]WL[132.9]
+;B[op]BL[74.123]
+;W[pr]WL[126.318]
+;B[pp]BL[72.801]
+;W[or]WL[108.338]
+;B[qo]BL[70.934]
+;W[ro]WL[106.532]
+;B[rp]BL[69.352]
+;W[qn]WL[104.849]
+;B[rq]BL[68.627]
+;W[qo]WL[103.228]
+;B[lr]BL[20]OB[3]
+;W[mq]WL[70.546]
+;B[kr]BL[20]OB[3]
+;W[nq]WL[68.145]
+;B[lo]BL[20]OB[3]
+;W[kq]WL[60.246]
+;B[jq]BL[20]OB[3]
+;W[hp]WL[33.515]
+;B[qs]BL[20]OB[3]
+;W[sp]WL[29.97]
+;B[sq]BL[20]OB[3]
+;W[ss]WL[28.179]
+;B[so]BL[20]OB[3]
+;W[sn]WL[26.5]
+;B[mr]BL[20]OB[3]
+;W[ps]WL[19.175]
+;B[sm]BL[20]OB[3]
+;W[sp]WL[16.61]
+;B[lc]BL[20]OB[3]
+;W[lb]WL[6.416]
+;B[so]BL[20]OB[3]
+;W[rn]WL[3.725]
+;B[kp]BL[20]OB[3]
+;W[sp]WL[0.159]
+;B[kb]BL[20]OB[3]
+;W[ld]WL[20]OW[3]
+;B[so]BL[20]OB[3]
+;W[sr]WL[20]OW[3]
+;B[lp]BL[20]OB[3]
+;W[sp]WL[20]OW[3]
+;B[jc]BL[20]OB[3]
+;W[mc]WL[20]OW[3]
+;B[so]BL[20]OB[3]
+;W[ph]WL[20]OW[2]
+;B[mp]BL[20]OB[3]
+;W[sp]WL[20]OW[2]
+;B[rs]BL[20]OB[3]
+;W[sr]WL[20]OW[2]
+;B[so]BL[20]OB[3]
+;W[ol]WL[20]OW[2]
+;B[nr]BL[20]OB[3]
+;W[qh]WL[20]OW[2]
+;B[rh]BL[20]OB[3]
+;W[pi]WL[20]OW[2]
+;B[qg]BL[20]OB[3]
+;W[jd]WL[20]OW[2]
+;B[ok]BL[20]OB[3]
+;W[pk]WL[20]OW[2]
+;B[nk]BL[20]OB[3]
+;W[sj]WL[20]OW[2]
+;B[ri]BL[20]OB[3]C[crunchy [-\]: what's black doing
+]
+;W[ql]WL[20]OW[2]
+;B[mj]BL[20]OB[3]C[crunchy [-\]: despairing?
+ratoum: surrounding a one eye w group
+rsun [5d\]: I see some beautiful shapes
+]
+;W[mh]WL[20]OW[2]C[ix7 [4k\]: woah, your name is making me want to eat something crunchy
+]
+;B[do]BL[20]OB[3]C[prime [-\]: haha
+manul [22k?\]: he's a doctor. he knows what he's doing
+]
+;W[en]WL[20]OW[2]
+;B[eo]BL[20]OB[3]
+;W[fo]WL[20]OW[2]C[ratoum: thats what she said
+]
+;B[dn]BL[20]OB[3]
+;W[dm]WL[20]OW[2]C[prime [-\]: lol wow
+]
+;B[co]BL[20]OB[3]C[Zuzanoo [13k?\]: jajaja
+]
+;W[fn]WL[20]OW[2]C[rsun [5d\]: e17 annoying
+]
+;B[cm]BL[20]OB[3]
+;W[cl]WL[20]OW[2]
+;B[bn]BL[20]OB[3]
+;W[dl]WL[20]OW[2]C[crunchy [-\]: ix7, i recommend macadamia nuts
+]
+;B[gf]BL[20]OB[3]
+;W[he]WL[20]OW[2]C[rsun [5d\]: all aji cleared
+]
+;B[ej]BL[20]OB[3]
+;W[bk]WL[20]OW[2]C[ix7 [4k\]: :D don't have any here, but they are tasty, indeed :)
+]
+;B[bl]BL[20]OB[3]
+;W[al]WL[20]OW[2]C[ratoum: theres always aji
+]
+;B[bm]BL[20]OB[3]
+;W[ck]WL[20]OW[2]
+;B[fl]BL[20]OB[3]
+;W[gl]WL[20]OW[2]
+;B[fk]BL[20]OB[3]
+;W[fm]WL[20]OW[2]C[ix7 [4k\]: you recommend them probably only because you don't want to be eaten by me :P
+]
+;B[fr]BL[20]OB[3]
+;W[ds]WL[20]OW[2]
+;B[ar]BL[20]OB[3]C[crunchy [-\]: i'm all carbs and fat
+]
+;W[fp]WL[20]OW[2]
+;B[hr]BL[20]OB[3]
+;W[ci]WL[20]OW[2]C[domie [2d?\]: B is not very nice with W
+inquire [-\]: w can get ko for f2 stones
+rsun [5d\]: the nice player loses
+]
+;B[bj]BL[20]OB[2]
+;W[dj]WL[20]OW[2]
+;B[di]BL[20]OB[2]
+;W[dk]WL[20]OW[2]
+;B[bi]BL[20]OB[2]
+;W[ei]WL[20]OW[2]C[prime [-\]: ehhhhh
+]
+;B[dh]BL[20]OB[2]C[domie [2d?\]: rsun, it was a kind of joke
+]
+;W[fj]WL[20]OW[2]
+;B[gk]BL[20]OB[2]
+;W[ek]WL[20]OW[2]
+;B[hl]BL[20]OB[2]
+;W[eh]WL[20]OW[2]
+;B[dg]BL[20]OB[2]
+;W[hi]WL[20]OW[2]
+;B[lh]BL[20]OB[2]
+;W[mg]WL[20]OW[2]
+;B[hh]BL[20]OB[2]
+;W[gh]WL[20]OW[2]
+;B[ii]BL[20]OB[2]
+;W[hj]WL[20]OW[2]
+;B[ih]BL[20]OB[2]
+;W[ij]WL[20]OW[2]
+;B[gi]BL[20]OB[2]
+;W[gj]WL[20]OW[2]
+;B[fh]BL[20]OB[2]
+;W[kj]WL[20]OW[2]
+;B[li]BL[20]OB[2]
+;W[im]WL[20]OW[2]C[prime [-\]: B has guts
+domie [2d?\]: perhaps B wants too much ?
+]
+;B[il]BL[20]OB[2]C[prime [-\]: i was thinking that too, domie
+]
+;W[jl]WL[20]OW[2]C[Lake [2k\]: no guts no glory
+prime [-\]: ^
+]
+;B[jk]BL[20]OB[2]C[ratoum: maybe b gone berserk ?
+domie [2d?\]: what does mean "guts" ?
+]
+;W[ik]WL[20]OW[2]
+;B[jm]BL[20]OB[2]C[Malingo [5d\]: no brain no win
+Lake [2k\]: testicles
+]
+;W[kl]WL[20]OW[2]C[domie [2d?\]: oh
+]
+;B[hn]BL[20]OB[2]C[inquire [-\]: i thought b had enough if he managed to surround the center while attacking w...
+]
+;W[in]WL[20]OW[2]
+;B[io]BL[20]OB[2]
+;W[hm]WL[20]OW[2]
+;B[gm]BL[20]OB[2]
+;W[jn]WL[20]OW[2]C[prime [-\]: l6?
+ratoum: not working
+]
+;B[ho]BL[20]OB[1]C[domie [2d?\]: inquire is wise, doctor is fool
+Lake [2k\]: sorry. guts = bowels. and willpower as secondary meaning which can be referred as ...)
+]
+;W[gn]WL[20]OW[2]
+;B[kn]BL[20]OB[1]
+;W[km]WL[20]OW[2]
+;B[jo]BL[20]OB[1]C[lance [1k\]: j12 yhank you move
+]
+;W[jm]WL[20]OW[2]C[hippomanes: W ahead on the board
+]
+;B[mf]BL[20]OB[1]
+;W[lf]WL[20]OW[2]C[prime [-\]: blacks guts has failed him
+domie [2d?\]: F12 losing move ?
+]
+;B[ni]BL[20]OB[1]C[jbhl: How is that a thank you move?
+]
+;W[og]WL[20]OW[2]C[lance [1k\]: killing attack failed
+]
+;B[ne]BL[20]OB[1]
+;W[lg]WL[20]OW[2]C[inquire [-\]: probably h12, just before that. that was already preparation to separate w rather than push him away and take center
+]
+;B[cc]BL[20]OB[1]
+;W[dc]WL[20]OW[2]
+;B[bd]BL[20]OB[1]
+;W[ae]WL[20]OW[2]
+;B[db]BL[20]OB[1]C[HaveFun00 [4k\]: important thing is the crayz guts that flood from your brain
+]
+;W[bb]WL[20]OW[2]
+;B[cb]BL[20]OB[1]
+;W[eb]WL[20]OW[2]
+;B[fb]BL[20]OB[1]
+;W[fc]WL[20]OW[2]
+;B[ea]BL[20]OB[1]
+;W[ec]WL[20]OW[2]
+;B[gb]BL[20]OB[1]
+;W[hc]WL[20]OW[2]C[ratoum: that doesnt look very alive
+]
+;B[hb]BL[20]OB[1]C[gogadget [1k\]: because its dead
+]
+;W[bc]WL[20]OW[2]
+;B[cd]BL[20]OB[1]C[domie [2d?\]: lol
+ratoum: maybe thats why
+rsun [5d\]: looks are deceptive
+]
+;W[ad]WL[20]OW[2]C[prime [-\]: B dead
+]
+;B[gc]BL[20]OB[1]C[gogadget [1k\]: but b needs this to work to win
+inquire [-\]: h16 is fine
+gogadget [1k\]: desperation
+may11 [1d\]: b16?
+prime [-\]: then he's not gonna win 
+prime [-\]: lol
+]
+;W[gd]WL[20]OW[1]
+;B[ic]BL[20]OB[1]C[rsun [5d\]: w must k18
+]
+;W[id]WL[20]OW[1]C[ratoum: b19 is sente ?
+]
+;B[hd]BL[20]OB[1]C[inquire [-\]: b19-d15 
+]
+;W[fa]WL[20]OW[1]C[inquire [-\]: just a ko threat
+]
+;B[ga]BL[20]OB[1]
+;W[hc]WL[20]OW[1]
+;B[ba]BL[20]OB[1]
+;W[de]WL[20]OW[1]
+;B[hd]BL[20]OB[1]C[readytogo [3k\]: humm\\
+inquire [-\]: w should k18...
+]
+;W[jb]WL[20]OW[1]C[rsun [5d\]: w in big trouble
+readytogo [3k\]: looks dead to me
+]
+;B[ge]BL[20]OB[1]C[ratoum: g15 j18 ?
+]
+;W[ib]WL[20]OW[1]C[rsun [5d\]: great
+]
+;B[hc]BL[20]OB[1]
+;W[ie]WL[20]OW[1]C[prime [-\]: "Doh" -- Homer Simpson
+]
+;B[ia]BL[20]OB[1]C[inquire [-\]: b can make this an approach-move ko with j19 l19 a18 
+]
+;W[ka]WL[20]OW[1]
+;B[ee]BL[20]OB[1]
+;W[da]WL[20]OW[1]C[readytogo [3k\]: d e a d
+]
+;B[ca]BL[20]OB[1]C[prime [-\]: yep
+]
+;W[ac]WL[20]OW[1]C[prime [-\]: in fact theres no ko, i think W can just go a18
+simplet [2d\]: double ko
+]
+;B[ke]BL[20]OB[1]C[rsun [5d\]: no ko here
+inquire [-\]: a18 f15 a17 e16 a19 was correct... w had a spare liberty
+]
+;W[le]WL[20]OW[1]C[theboot [2d\]: there nothing
+]
+;B[jf]BL[20]OB[1]
+;W[jg]WL[20]OW[1]
+;B[if]BL[20]OB[1]C[ratoum: l12 ?
+]
+;W[kf]WL[20]OW[1]C[lance [1k\]: black filling wrong liberties?
+domie [2d?\]: you can’t teach an old dog new tricks
+]
+;B[qb]BL[20]OB[1]C[ratoum: u can
+simplet [2d\]: lol domie
+]
+;W[oc]WL[20]OW[1]C[ratoum: with a cyborg dog
+]
+;B[pc]BL[20]OB[1]
+;W[ob]WL[20]OW[1]
+;B[gg]BL[20]OB[1]C[readytogo [3k\]: so with that b loses
+]
+;W[af]WL[20]OW[1]C[domie [2d?\]: I don't say aguilar is a dog ... this is just a saying
+]
+;B[bg]BL[20]OB[1]C[inquire [-\]: w can start a nice little ko with g2, but he's ahead anyway, so not necessary
+HaveFun00 [4k\]: proverb
+]
+;W[ml]WL[20]OW[1]
+;B[kh]BL[20]OB[1]C[blacklabel [1d\]: dont apply to white
+]
+;W[hf]WL[20]OW[1]
+;B[ig]BL[20]OB[1]
+;W[kg]WL[20]OW[1]
+;B[jh]BL[20]OB[1]
+;W[lk]WL[20]OW[1]
+;B[ag]BL[20]OB[1]C[readytogo [3k\]: b had such a nice leed too
+]
+;W[ab]WL[20]OW[1]
+;B[je]BL[20]OB[1]
+;W[kd]WL[20]OW[1]
+;B[gp]BL[20]OB[1]
+;W[gq]WL[20]OW[1]
+;B[gr]BL[20]OB[1]
+;W[go]WL[20]OW[1]
+;B[fs]BL[20]OB[1]
+;W[es]WL[20]OW[1]
+;B[cs]BL[20]OB[1]
+;W[qa]WL[20]OW[1]
+;B[ra]BL[20]OB[1]
+;W[pa]WL[20]OW[1]
+;B[rb]BL[20]OB[1]C[ratoum: s14 ?
+]
+;W[em]WL[20]OW[1]
+;B[lm]BL[20]OB[1]C[rsun [5d\]: when in doubt consult se
+readytogo [3k\]: d14 ?
+ratoum: d14 f15
+rsun [5d\]: w ran out of time, what a game
+readytogo [3k\]: wow
+Zuzanoo [13k?\]: wtf
+Zuzanoo [13k?\]: W had it
+ratoum: didnt he disconnected ?
+readytogo [3k\]: lag
+hugogogo [4k\]: i don't have se.. what does it says?
+prime [-\]: se is drunk right now
+readytogo [3k\]: it says dont trust me
+powerchord [7k\]: forget SE 
+ghiuj: gg btw
+]
+;W[mm]WL[20]OW[1]
+;B[aj]BL[20]OB[1]C[readytogo [3k\]: ok whohas counted?
+]
+;W[ak]WL[20]OW[1]
+;B[fe]BL[20]OB[1]
+;W[aa]WL[20]OW[1]C[aguilar1 [6d\]: sorry for discoonection
+]
+;B[jj]BL[20]OB[1]
+;W[kk]WL[20]OW[1]
+;B[ji]BL[20]OB[1]C[doctorslip [6d\]: no problem
+]
+;W[mn]WL[20]OW[1]C[rsun [5d\]: wms says, "I'll keep CGoban around until all its features are in the HTML client. Then it will be shut down.﻿"
+]
+;B[ln]BL[20]OB[1]
+;W[hk]WL[20]OW[1]C[rsun [5d\]: does that include SE in its current form?
+]
+;B[fi]BL[20]OB[1]
+;W[gl]WL[20]OW[1]
+;B[eg]BL[20]OB[1]C[readytogo [3k\]: when did he say that/
+]
+;W[nf]WL[20]OW[1]C[rsun [5d\]: Jan 18 on google plus
+]
+;B[me]BL[20]OB[1]
+;W[of]WL[20]OW[1]
+;B[oe]BL[20]OB[1]
+;W[nh]WL[20]OW[1]
+;B[oi]BL[20]OB[1]
+;W[pg]WL[20]OW[1]
+;B[rf]BL[20]OB[1]C[readytogo [3k\]: is there a way to talk with him?
+]
+;W[oj]WL[20]OW[1]C[rsun [5d\]: he is the dictator :)
+]
+;B[mi]BL[20]OB[1]
+;W[am]WL[20]OW[1]
+;B[si]BL[20]OB[1]
+;W[sk]WL[20]OW[1]
+;B[ej]BL[20]OB[1]
+;W[an]WL[20]OW[1]
+;B[ao]BL[20]OB[1]
+;W[ei]WL[20]OW[1]
+;B[od]BL[20]OB[1]
+;W[da]WL[20]OW[1]
+;B[os]BL[20]OB[1]
+;W[sp]WL[20]OW[1]
+;B[oo]BL[20]OB[1]
+;W[mo]WL[20]OW[1]
+;B[so]BL[20]OB[1]
+;W[qe]WL[20]OW[1]
+;B[qf]BL[20]OB[1]
+;W[sp]WL[20]OW[1]
+;B[eh]BL[20]OB[1]
+;W[ej]WL[20]OW[1]
+;B[so]BL[20]OB[1]
+;W[sg]WL[20]OW[1]
+;B[rg]BL[20]OB[1]
+;W[sp]WL[20]OW[1]
+;B[ip]BL[20]OB[1]
+;W[gp]WL[20]OW[1]
+;B[so]BL[20]OB[1]
+;W[re]WL[20]OW[1]
+;B[pe]BL[20]OB[1]
+;W[sp]WL[20]OW[1]
+;B[mk]BL[20]OB[1]
+;W[so]WL[20]OW[1]C[readytogo [3k\]: looks close
+]
+;B[hg]BL[20]OB[1]
+;W[ll]WL[20]OW[1]
+;B[]BL[20]OB[1]
+;W[]WL[20]OW[1]TW[ba][ca][ea][fa][ga][ha][ia][ja][la][ma][na][oa][cb][db][fb][gb][hb][kb][mb][nb][cc][gc][hc][ic][jc][lc][bd][cd][hd][ng][fk][gk][el][fl][hl][il][pl][sl][gm][rm][sm]TB[sa][sb][rc][sc][qd][rd][sd][qe][re][se][ff][sf][cg][fg][sg][ah][bh][ch][gh][sh][ai][ci][cn][bo][ko][ap][bq][cq][kq][lq][mq][nq][oq][br][ir][jr][or][pr][as][gs][hs][is][js][ks][ls][ms][ns][ps]C[rsun [5d\]: t2
+doctorslip [6d\]: thx
+fnixou [9k\]: xD
+aguilar1 [6d\]: thx
+hugogogo [4k\]: stone
+rsun [5d\]: not that it matters
+hugogogo [4k\]: it changes score...
+doctorslip [6d\]: t2 lol
+readytogo [3k\]: u sure?
+jasso: it doesn't change winner
+rsun [5d\]: w has 1 group only, in the old days B had to return 6 points
+])

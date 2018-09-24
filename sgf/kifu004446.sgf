@@ -1,0 +1,375 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[60]OT[5x30 byo-yomi]
+PW[Lukan]PB[doctorslip]WR[7d]BR[6d]DT[2013-12-05]PC[The KGS Go Server at http://www.gokgs.com/]C[Lukan [7d\]: hi
+doctorslip [6d\]: hi gg
+]RE[W+Resign]
+;B[pd]BL[55.294]
+;W[dd]WL[54.399]
+;B[pq]BL[51.142]
+;W[dq]WL[52.173]
+;B[qo]BL[47.214]
+;W[kq]WL[49.881]
+;B[do]BL[41.521]
+;W[fp]WL[46.4]
+;B[cf]BL[31.922]
+;W[fc]WL[27.415]
+;B[bd]BL[30]OB[5]C[creative1 [1d\]: Lukan is strong.
+]
+;W[cg]WL[3.93]
+;B[dg]BL[30]OB[5]
+;W[ch]WL[0.764]
+;B[df]BL[30]OB[5]
+;W[cc]WL[30]OW[5]
+;B[dj]BL[30]OB[5]
+;W[dh]WL[30]OW[5]
+;B[eh]BL[30]OB[5]
+;W[bf]WL[30]OW[5]
+;B[be]BL[30]OB[5]
+;W[bg]WL[30]OW[5]
+;B[ei]BL[30]OB[5]
+;W[ce]WL[30]OW[5]
+;B[bc]BL[30]OB[5]
+;W[cb]WL[30]OW[5]
+;B[bi]BL[30]OB[5]
+;W[eg]WL[30]OW[5]
+;B[ef]BL[30]OB[5]
+;W[fg]WL[30]OW[5]
+;B[ff]BL[30]OB[5]
+;W[cj]WL[30]OW[5]
+;B[ck]BL[30]OB[5]C[sandking [1k\]: where is he from ?
+]
+;W[bj]WL[30]OW[4]
+;B[bk]BL[30]OB[5]C[Korf [1d\]: Czech Republic
+idazuwaika [5d\]: lycans
+]
+;W[ci]WL[30]OW[4]
+;B[aj]BL[30]OB[5]
+;W[dk]WL[30]OW[4]C[Ootakamoku [5d\]: b not reading?
+sandking [1k\]: hımm good
+]
+;B[ek]BL[30]OB[5]
+;W[dl]WL[30]OW[4]
+;B[cl]BL[30]OB[5]C[Ootakamoku [5d\]: lol
+]
+;W[cm]WL[30]OW[4]
+;B[dm]BL[30]OB[5]
+;W[el]WL[30]OW[4]
+;B[bm]BL[30]OB[5]
+;W[fk]WL[30]OW[4]
+;B[gg]BL[30]OB[5]C[Ootakamoku [5d\]: w gets c6 too
+idazuwaika [5d\]: black only cares about killing left
+]
+;W[cn]WL[30]OW[3]C[Ootakamoku [5d\]: not a healthy attitude :P
+]
+;B[bn]BL[30]OB[5]
+;W[fh]WL[30]OW[3]C[quipu [2k\]: e10 
+]
+;B[fi]BL[30]OB[5]
+;W[gh]WL[30]OW[3]
+;B[gi]BL[30]OB[5]
+;W[hh]WL[30]OW[3]C[Ootakamoku [5d\]: g12, I dont understand..
+]
+;B[di]BL[30]OB[5]
+;W[hi]WL[30]OW[3]
+;B[gj]BL[30]OB[5]C[quipu [2k\]: w lost good chance?
+molix [2k\]: it's for pros
+coconut [3k\]: doctor sometimes wants to kill
+Ootakamoku [5d\]: h9 h10 j10 j11 g9 j12 h13 j14 h14 h15 
+Ootakamoku [5d\]: so looks like h9 fails
+]
+;W[gf]WL[30]OW[2]
+;B[ge]BL[30]OB[5]C[Ootakamoku [5d\]: oh, right, this sente too, fight too difficult
+]
+;W[hf]WL[30]OW[2]
+;B[fe]BL[30]OB[5]C[coconut [3k\]: h16 
+Ootakamoku [5d\]: tho b13 short on libs
+]
+;W[hk]WL[30]OW[2]C[coconut [3k\]: let's see
+Ootakamoku [5d\]: so b captures, w gets outside forcing
+]
+;B[af]BL[30]OB[5]C[molix [2k\]: b13 is dead 
+quipu [2k\]: fair trade
+Ootakamoku [5d\]: a12
+]
+;W[ah]WL[30]OW[2]
+;B[ai]BL[30]OB[5]
+;W[gk]WL[30]OW[2]C[coconut [3k\]: a15 
+Ootakamoku [5d\]: a15 e10 a13 h10 b12 c5
+]
+;B[ae]BL[30]OB[5]
+;W[co]WL[30]OW[2]
+;B[cp]BL[30]OB[5]
+;W[bo]WL[30]OW[2]
+;B[dn]BL[30]OB[5]
+;W[bp]WL[30]OW[2]
+;B[cq]BL[30]OB[5]
+;W[bq]WL[30]OW[2]
+;B[dp]BL[30]OB[5]
+;W[cr]WL[30]OW[2]
+;B[dr]BL[30]OB[5]
+;W[br]WL[30]OW[2]
+;B[eq]BL[30]OB[5]
+;W[al]WL[30]OW[2]C[coconut [3k\]: a5 
+coconut [3k\]: nice
+]
+;B[ak]BL[30]OB[5]C[Ootakamoku [5d\]: d6 looks like wrong choice, should be b4 instead?
+]
+;W[an]WL[30]OW[2]C[sinand [7k\]: a6
+]
+;B[hq]BL[30]OB[5]
+;W[gr]WL[30]OW[2]
+;B[gq]BL[30]OB[5]
+;W[hr]WL[30]OW[2]C[quipu [2k\]: bb8 sente?
+basilika: in my opinion this result is good for b
+sinand [7k\]: yes
+]
+;B[fq]BL[30]OB[5]C[sinand [7k\]: b8 sente :)
+]
+;W[iq]WL[30]OW[2]
+;B[ip]BL[30]OB[5]C[basilika: whites wall doesnt look too scary
+]
+;W[jp]WL[30]OW[2]
+;B[ir]BL[30]OB[5]C[sinand [7k\]: i think :)
+]
+;W[jq]WL[30]OW[2]
+;B[ao]BL[30]OB[5]
+;W[ap]WL[30]OW[2]C[molix [2k\]: you think .. therefore you exist
+]
+;B[bl]BL[30]OB[5]
+;W[ar]WL[30]OW[2]
+;B[fr]BL[30]OB[5]C[coconut [3k\]: yes .. b4 looks better than d6 :)
+]
+;W[io]WL[30]OW[2]
+;B[hd]BL[30]OB[5]
+;W[hb]WL[30]OW[2]C[goren2 [2k\]: q1o
+liptos [6k\]: what is the meaning of existence? what is the meaning of pizza?
+]
+;B[qg]BL[30]OB[5]
+;W[pc]WL[30]OW[2]C[Prometheus [2k?\]: there is no meaning to existence
+]
+;B[oc]BL[30]OB[5]C[Prometheus [2k?\]: but pizza means happy times
+]
+;W[qc]WL[30]OW[2]
+;B[qd]BL[30]OB[5]C[molix [2k\]: ha ha
+]
+;W[ob]WL[30]OW[2]
+;B[nb]BL[30]OB[5]
+;W[rd]WL[30]OW[2]
+;B[re]BL[30]OB[5]C[Minjhou [7k\]: 42
+]
+;W[qe]WL[30]OW[2]
+;B[pe]BL[30]OB[5]
+;W[nc]WL[30]OW[2]
+;B[od]BL[30]OB[5]C[Yaruki [5k\]: pizza is the devil
+]
+;W[mb]WL[30]OW[2]
+;B[pb]BL[30]OB[5]
+;W[na]WL[30]OW[2]
+;B[qb]BL[30]OB[5]
+;W[pn]WL[30]OW[2]
+;B[qn]BL[30]OB[5]C[Minjhou [7k\]: 42 is the ansewr liptos
+]
+;W[pl]WL[30]OW[2]C[liptos [6k\]: bobby bouche, ben franklin is the devil
+goren2 [2k\]: p7
+bolbi [-\]: could you continue elsewhere please ?
+]
+;B[on]BL[30]OB[5]
+;W[om]WL[30]OW[2]
+;B[oo]BL[30]OB[5]
+;W[mm]WL[30]OW[2]C[liptos [6k\]: ok, ill keep it to the game
+]
+;B[gs]BL[30]OB[5]C[goren2 [2k\]: n11 or n3
+bolbi [-\]: thx
+]
+;W[rc]WL[30]OW[2]
+;B[rb]BL[30]OB[5]
+;W[nd]WL[30]OW[2]C[minimalist [2k\]: g1 was needed?
+Yaruki [5k\]: didn't look like it
+]
+;B[pj]BL[30]OB[5]C[Babibo [2d?\]: g1 was : ok I don't see any place where I can develop. Let's play yose
+]
+;W[qf]WL[30]OW[2]
+;B[sc]BL[30]OB[5]
+;W[pf]WL[30]OW[2]
+;B[sd]BL[30]OB[5]
+;W[rf]WL[30]OW[2]
+;B[pg]BL[30]OB[5]
+;W[of]WL[30]OW[2]
+;B[og]BL[30]OB[5]C[minimalist [2k\]: thats an answer :)
+]
+;W[nf]WL[30]OW[2]C[Yaruki [5k\]: k17
+]
+;B[rg]BL[30]OB[5]
+;W[ic]WL[30]OW[2]
+;B[mj]BL[30]OB[5]C[indianayk [4d\]: w paid dearly for c5 to lose the initial gains and more
+]
+;W[oj]WL[30]OW[2]
+;B[ok]BL[30]OB[5]
+;W[pk]WL[30]OW[2]
+;B[oi]BL[30]OB[5]
+;W[qj]WL[30]OW[2]
+;B[nj]BL[30]OB[5]
+;W[pi]WL[30]OW[2]
+;B[nm]BL[30]OB[5]
+;W[nl]WL[30]OW[2]
+;B[nn]BL[30]OB[5]
+;W[oj]WL[30]OW[2]
+;B[nk]BL[30]OB[5]
+;W[ol]WL[30]OW[2]
+;B[ml]BL[30]OB[5]
+;W[ll]WL[30]OW[2]
+;B[mk]BL[30]OB[5]
+;W[oh]WL[30]OW[2]
+;B[ni]BL[30]OB[5]
+;W[nh]WL[30]OW[2]
+;B[ph]BL[30]OB[5]
+;W[mh]WL[30]OW[2]
+;B[qi]BL[30]OB[5]
+;W[pj]WL[30]OW[2]
+;B[rj]BL[30]OB[5]
+;W[rk]WL[30]OW[2]
+;B[ri]BL[30]OB[5]
+;W[rm]WL[30]OW[2]C[goren2 [2k\]: r8
+]
+;B[ql]BL[30]OB[5]
+;W[qm]WL[30]OW[2]
+;B[lm]BL[30]OB[5]
+;W[sf]WL[30]OW[2]
+;B[sl]BL[30]OB[5]
+;W[sk]WL[30]OW[2]
+;B[rl]BL[30]OB[5]C[Yaruki [5k\]: t12
+]
+;W[sm]WL[30]OW[2]
+;B[sj]BL[30]OB[5]
+;W[qk]WL[30]OW[2]
+;B[sg]BL[30]OB[5]C[flashcro [-\]: nope
+]
+;W[mn]WL[30]OW[2]C[dropstone [11k\]: b s8 too slow?
+annika97 [1d\]: it's the kind of move strong players hate with a passion
+]
+;B[km]BL[30]OB[4]C[annika97 [1d\]: living in gote, playing in your own territory
+]
+;W[mo]WL[30]OW[2]C[Roosta [1k\]: b s8, not w
+annika97 [1d\]: but better than dying..
+annika97 [1d\]: oh
+yuiuyu: s8
+]
+;B[rl]BL[30]OB[4]C[annika97 [1d\]: yeah, white gambling here 
+alola [3k\]: m10
+goren2 [2k\]: that ko will be expensive however
+]
+;W[kk]WL[30]OW[2]C[indianayk [4d\]: now, w has a good chance to win due to o7 overplay
+]
+;B[li]BL[30]OB[4]
+;W[lh]WL[30]OW[2]C[flashcro [-\]: q5 later
+]
+;B[kj]BL[30]OB[4]C[Yaruki [5k\]: i would p4
+]
+;W[mi]WL[30]OW[2]C[annika97 [1d\]: b needs 5 moves till he has a direct ko, hm
+goren2 [2k\]: i would s5 at the end, thus having 2 ko's
+Pennylane [4d\]: b overplayed i think
+minimalist [2k\]: q5 q4 q7 p4 r4 s5 s4 s6 t5 ?
+Zimbabwe [6k?\]: l8
+minimalist [2k\]: and w live
+]
+;B[lj]BL[30]OB[3]
+;W[jk]WL[30]OW[2]
+;B[kh]BL[30]OB[3]
+;W[kg]WL[30]OW[2]
+;B[jg]BL[30]OB[3]
+;W[jh]WL[30]OW[2]
+;B[ji]BL[30]OB[3]
+;W[ki]WL[30]OW[2]C[goren2 [2k\]: c1
+]
+;B[jj]BL[30]OB[3]C[Roosta [1k\]: minimal: s5 @ s4
+]
+;W[ij]WL[30]OW[2]
+;B[kh]BL[30]OB[3]C[Roosta [1k\]: w can't finish the eye
+]
+;W[ih]WL[30]OW[2]
+;B[lg]BL[30]OB[3]
+;W[ki]WL[30]OW[2]
+;B[gc]BL[30]OB[3]C[minimalist [2k\]: ah, thx
+]
+;W[kh]WL[30]OW[2]C[annika97 [1d\]: going through variations here is such a pain..
+]
+;B[gb]BL[30]OB[3]C[minimalist [2k\]: how do you mean?
+]
+;W[pr]WL[30]OW[2]C[annika97 [1d\]: on ogs for example you can post variations in the chat that are clickable
+]
+;B[or]BL[30]OB[3]
+;W[qq]WL[30]OW[2]
+;B[qr]BL[30]OB[3]
+;W[pp]WL[30]OW[2]
+;B[oq]BL[30]OB[3]
+;W[rr]WL[30]OW[2]C[minimalist [2k\]: i see, yes here is less comfortable, sure
+]
+;B[ps]BL[30]OB[3]
+;W[qp]WL[30]OW[2]C[minimalist [2k\]: any developers here? ^^
+]
+;B[op]BL[30]OB[3]C[K5 [2d?\]: Developing what?
+]
+;W[po]WL[30]OW[2]C[minimalist [2k\]: the system
+]
+;B[mp]BL[30]OB[3]C[flashcro [-\]: wms doesn't let anyone tamper with his code 
+inectipon [3d\]: really nice here
+]
+;W[lp]WL[30]OW[2]
+;B[mq]BL[30]OB[3]
+;W[ga]WL[30]OW[2]
+;B[fb]BL[30]OB[3]
+;W[fa]WL[30]OW[2]C[annika97 [1d\]: I read your name as "inception".
+]
+;B[ea]BL[30]OB[3]
+;W[ha]WL[30]OW[2]
+;B[eb]BL[30]OB[3]C[kmlck [1d\]: haha me too
+]
+;W[id]WL[30]OW[2]C[annika97 [1d\]: Was that your inentino?
+indianayk [4d\]: over
+annika97 [1d\]: *intention
+]
+;B[he]BL[30]OB[3]C[kmlck [1d\]: why isnt n3 at m5?
+]
+;W[ie]WL[30]OW[2]C[dxxd [1d\]: yeah, wms should just let go
+]
+;B[lo]BL[30]OB[3]
+;W[lk]WL[30]OW[2]C[kmlck [1d\]: oh ok
+Q709878808 [3d\]: 。。。
+]
+;B[hn]BL[30]OB[3]
+;W[in]WL[30]OW[2]
+;B[im]BL[30]OB[3]C[DarkGrisen [2k\]: m9 ?
+]
+;W[hm]WL[30]OW[2]C[sinand [7k\]: black resign ?
+]
+;B[jn]BL[30]OB[3]C[DarkGrisen [2k\]: i see. m9 = resign please
+Yaruki [5k\]: honte
+]
+;W[ho]WL[30]OW[2]
+;B[ln]BL[30]OB[3]
+;W[ii]WL[30]OW[2]C[DarkGrisen [2k\]: oh lol
+Gailu [2k\]: no M9 is I take these stones
+DarkGrisen [2k\]: i didn't see that atari xD
+]
+;B[jo]BL[30]OB[3]
+;W[hp]WL[30]OW[2]
+;B[gn]BL[30]OB[3]
+;W[il]WL[30]OW[2]
+;B[jm]BL[30]OB[3]C[sinand [7k\]: what now /
+]
+;W[jr]WL[30]OW[2]C[sinand [7k\]: black resigh ?
+]
+;B[gm]BL[30]OB[3]
+;W[hl]WL[30]OW[2]
+;B[hs]BL[30]OB[3]
+;W[fo]WL[30]OW[2]C[dxxd [1d\]: now
+]
+;B[fn]BL[30]OB[3]C[sinand [7k\]: :D
+dxxd [1d\]: :(
+]
+;W[ko]WL[30]OW[2]
+;B[lq]BL[30]OB[3]C[DarkGrisen [2k\]: what is b thinking?
+]
+;W[kp]WL[30]OW[2]C[doctorslip [6d\]: thx
+Lukan [7d\]: thx
+])

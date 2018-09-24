@@ -1,0 +1,295 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[82x10 byo-yomi]
+PW[waage]PB[intenseG]WR[7d]BR[6d]DT[2015-03-23]PC[The KGS Go Server at http://www.gokgs.com/]C[intenseG [6d\]: hi gg
+waage [7d\]: hi gg
+]RE[W+Resign]
+;B[pd]BL[10]OB[82]
+;W[dd]WL[10]OW[82]
+;B[qp]BL[10]OB[82]
+;W[cq]WL[10]OW[82]
+;B[fp]BL[10]OB[82]
+;W[dn]WL[10]OW[82]
+;B[jq]BL[10]OB[82]
+;W[op]WL[10]OW[82]
+;B[pq]BL[10]OB[82]
+;W[po]WL[10]OW[82]
+;B[qo]BL[10]OB[82]
+;W[pm]WL[10]OW[82]
+;B[qn]BL[10]OB[82]
+;W[nl]WL[10]OW[82]
+;B[fc]BL[10]OB[80]
+;W[cf]WL[10]OW[82]
+;B[jc]BL[10]OB[80]
+;W[qf]WL[10]OW[82]
+;B[nd]BL[10]OB[80]
+;W[qc]WL[10]OW[82]
+;B[qd]BL[10]OB[80]
+;W[rd]WL[10]OW[82]
+;B[re]BL[10]OB[80]
+;W[rc]WL[10]OW[82]
+;B[qe]BL[10]OB[80]
+;W[ob]WL[10]OW[82]
+;B[pk]BL[10]OB[80]
+;W[pl]WL[10]OW[81]
+;B[ok]BL[10]OB[80]
+;W[rl]WL[10]OW[80]
+;B[qk]BL[10]OB[80]
+;W[rk]WL[10]OW[80]
+;B[rj]BL[10]OB[80]
+;W[ri]WL[10]OW[80]
+;B[qj]BL[10]OB[80]
+;W[sj]WL[10]OW[80]
+;B[nm]BL[10]OB[79]
+;W[ol]WL[10]OW[80]
+;B[mm]BL[10]OB[79]
+;W[pn]WL[10]OW[80]
+;B[qi]BL[10]OB[79]
+;W[rh]WL[10]OW[80]
+;B[lk]BL[10]OB[79]
+;W[qh]WL[10]OW[80]
+;B[mj]BL[10]OB[79]
+;W[og]WL[10]OW[80]
+;B[nb]BL[10]OB[79]
+;W[oc]WL[10]OW[80]
+;B[nc]BL[10]OB[79]
+;W[rf]WL[10]OW[80]
+;B[se]BL[10]OB[79]
+;W[oi]WL[10]OW[79]
+;B[nj]BL[10]OB[79]
+;W[mh]WL[10]OW[79]
+;B[od]BL[10]OB[79]
+;W[pc]WL[10]OW[79]
+;B[dg]BL[10]OB[79]
+;W[db]WL[10]OW[79]
+;B[cg]BL[10]OB[79]
+;W[df]WL[10]OW[79]
+;B[ck]BL[10]OB[79]
+;W[eg]WL[10]OW[79]
+;B[bf]BL[10]OB[79]
+;W[be]WL[10]OW[79]
+;B[bg]BL[10]OB[79]
+;W[eh]WL[10]OW[79]
+;B[ci]BL[10]OB[79]
+;W[hc]WL[10]OW[79]
+;B[hb]BL[10]OB[79]
+;W[fe]WL[10]OW[78]
+;B[co]BL[10]OB[79]
+;W[do]WL[10]OW[78]
+;B[cn]BL[10]OB[79]
+;W[cp]WL[10]OW[78]
+;B[eq]BL[10]OB[79]
+;W[cm]WL[10]OW[78]
+;B[bm]BL[10]OB[79]
+;W[bn]WL[10]OW[78]
+;B[bo]BL[10]OB[79]
+;W[bl]WL[10]OW[78]
+;B[an]BL[10]OB[79]
+;W[cl]WL[10]OW[78]
+;B[dp]BL[10]OB[78]
+;W[dk]WL[10]OW[77]
+;B[bp]BL[10]OB[76]
+;W[bq]WL[10]OW[77]
+;B[ap]BL[10]OB[76]
+;W[al]WL[10]OW[77]
+;B[am]BL[10]OB[76]
+;W[dj]WL[10]OW[77]
+;B[em]BL[10]OB[73]
+;W[dm]WL[10]OW[77]
+;B[el]BL[10]OB[73]
+;W[fo]WL[10]OW[75]
+;B[go]BL[10]OB[73]
+;W[fn]WL[10]OW[75]
+;B[gn]BL[10]OB[73]
+;W[gm]WL[10]OW[75]
+;B[hm]BL[10]OB[73]
+;W[hl]WL[10]OW[74]C[Muttley [2k\]: L3
+]
+;B[gl]BL[10]OB[73]
+;W[fm]WL[10]OW[74]C[Muttley [2k\]: go white, someone going to be disappointed with their territory
+]
+;B[im]BL[10]OB[72]
+;W[hk]WL[10]OW[72]
+;B[mg]BL[10]OB[71]
+;W[ng]WL[10]OW[71]
+;B[lh]BL[10]OB[70]
+;W[mi]WL[10]OW[71]
+;B[ni]BL[10]OB[70]
+;W[nh]WL[10]OW[71]
+;B[li]BL[10]OB[70]
+;W[mf]WL[10]OW[71]
+;B[lg]BL[10]OB[70]
+;W[ne]WL[10]OW[71]
+;B[pi]BL[10]OB[69]
+;W[md]WL[10]OW[71]
+;B[le]BL[10]OB[66]
+;W[lf]WL[10]OW[71]
+;B[ke]BL[10]OB[65]
+;W[me]WL[10]OW[71]
+;B[lc]BL[10]OB[64]
+;W[kf]WL[10]OW[71]
+;B[jf]BL[10]OB[64]
+;W[ml]WL[10]OW[70]
+;B[pf]BL[10]OB[63]
+;W[pg]WL[10]OW[70]C[rsun [4d\]: nani
+]
+;B[of]BL[10]OB[63]
+;W[nf]WL[10]OW[70]
+;B[ll]BL[10]OB[62]
+;W[rm]WL[10]OW[70]C[ataraf [7k\]: t9?
+]
+;B[sk]BL[10]OB[58]C[rsun [4d\]: strong!
+]
+;W[sl]WL[10]OW[70]C[ataraf [7k\]: n3?
+rsun [4d\]: no
+ataraf [7k\]: so?
+]
+;B[si]BL[10]OB[56]C[ataraf [7k\]: ok
+Muttley [2k\]: wants s6
+]
+;W[sh]WL[10]OW[68]C[rsun [4d\]: b is all in
+]
+;B[no]BL[10]OB[55]
+;W[oq]WL[10]OW[68]C[Muttley [2k\]: n3 now
+]
+;B[or]BL[10]OB[54]
+;W[nr]WL[10]OW[68]
+;B[pr]BL[10]OB[54]
+;W[mq]WL[10]OW[68]
+;B[np]BL[10]OB[54]C[rsun [4d\]: nobi like kobe
+]
+;W[nq]WL[10]OW[68]C[ataraf [7k\]: w moor solid then b
+]
+;B[lr]BL[10]OB[54]
+;W[rn]WL[10]OW[68]C[rsun [4d\]: t14
+]
+;B[ro]BL[10]OB[54]
+;W[sn]WL[10]OW[68]
+;B[sf]BL[10]OB[54]
+;W[rq]WL[10]OW[68]
+;B[rr]BL[10]OB[54]C[alienist [5k\]: love this/;>}
+ataraf [7k\]: t2?
+ataraf [7k\]: or t5?
+]
+;W[ln]WL[10]OW[64]C[ataraf [7k\]: or m6 lol
+]
+;B[lm]BL[10]OB[52]
+;W[sr]WL[10]OW[64]C[alienist [5k\]: both attacking with weak groups
+]
+;B[qq]BL[10]OB[51]C[letmewingo [2d\]: r3 is a must?
+letmewingo [2d\]: ah
+]
+;W[rs]WL[10]OW[62]
+;B[qr]BL[10]OB[51]C[letmewingo [2d\]: i often press enter with the move=.=
+]
+;W[kg]WL[10]OW[62]
+;B[ih]BL[10]OB[49]
+;W[jh]WL[10]OW[61]
+;B[ig]BL[10]OB[48]C[letmewingo [2d\]: still, the centre of b is not thick enough to kill w?
+letmewingo [2d\]: ah no
+]
+;W[ph]WL[10]OW[60]
+;B[rg]BL[10]OB[47]
+;W[qg]WL[10]OW[60]
+;B[sg]BL[10]OB[47]C[letmewingo [2d\]: still killable
+]
+;W[lq]WL[10]OW[60]
+;B[kq]BL[10]OB[47]
+;W[mc]WL[10]OW[58]
+;B[mb]BL[10]OB[47]
+;W[lb]WL[10]OW[58]
+;B[kc]BL[10]OB[47]
+;W[oe]WL[10]OW[58]
+;B[pe]BL[10]OB[47]
+;W[ji]WL[10]OW[57]C[PinotNoir [1d\]: really intense
+letmewingo [2d\]: well intenseG plays intense goXD
+PinotNoir [1d\]: w look alive
+PinotNoir [1d\]: L10 sente
+letmewingo [2d\]: not alive
+letmewingo [2d\]: ah
+ataraf [7k\]: not really
+PinotNoir [1d\]: w connect out
+letmewingo [2d\]: well actually j13 makes w alive
+letmewingo [2d\]: j11 is the strongest move
+ataraf [7k\]: in the end w will kill b r 10
+]
+;B[ce]BL[10]OB[38]
+;W[de]WL[10]OW[56]C[letmewingo [2d\]: well the only way to cut is j10 
+]
+;B[hj]BL[10]OB[35]C[letmewingo [2d\]: hehe
+]
+;W[kj]WL[10]OW[55]C[letmewingo [2d\]: that's why i am a 2d
+rsun [4d\]: sakata eio can live
+letmewingo [2d\]: capture 3 stones
+letmewingo [2d\]: 2stones
+]
+;B[lj]BL[10]OB[33]
+;W[ij]WL[10]OW[55]
+;B[gk]BL[10]OB[33]C[letmewingo [2d\]: h11 g10 j9 ...
+]
+;W[gj]WL[10]OW[52]
+;B[hi]BL[10]OB[33]
+;W[jl]WL[10]OW[52]C[PinotNoir [1d\]: game over
+letmewingo [2d\]: well his move is even stronger
+rsun [4d\]: strong like king kong
+]
+;B[ei]BL[10]OB[29]C[letmewingo [2d\]: stronger than that :D
+]
+;W[fi]WL[10]OW[51]
+;B[fj]BL[10]OB[29]
+;W[gi]WL[10]OW[51]
+;B[di]BL[10]OB[29]
+;W[fk]WL[10]OW[50]C[letmewingo [2d\]: l6 for w XD
+Muttley [2k\]: Rule number 4 of Muttley's 10 Commandments That Will Get You To 9D Guaranteed: do not attack with dead stones
+letmewingo [2d\]: directly ends the game
+letmewingo [2d\]: ......
+]
+;B[bd]BL[10]OB[26]
+;W[cd]WL[10]OW[50]
+;B[ae]BL[10]OB[26]
+;W[bc]WL[10]OW[49]
+;B[ce]BL[10]OB[26]C[Muttley [2k\]: worse to come, w L6
+]
+;W[kn]WL[10]OW[47]C[letmewingo [2d\]: ah no it cannot 
+]
+;B[jm]BL[10]OB[26]C[Muttley [2k\]: hehe
+letmewingo [2d\]: k9 
+Muttley [2k\]: its not a ko threat
+]
+;W[km]WL[10]OW[46]C[rsun [4d\]: k9 is canine
+]
+;B[kl]BL[10]OB[26]C[letmewingo [2d\]: ah no
+]
+;W[il]WL[10]OW[46]C[letmewingo [2d\]: i misread
+ataraf [7k\]: told you in the end w will kill b r 10
+]
+;B[lp]BL[10]OB[25]C[rsun [4d\]: really
+]
+;W[hn]WL[10]OW[45]C[letmewingo [2d\]: i am thinking of b l7 
+letmewingo [2d\]: after w l6
+ataraf [7k\]: hoops
+letmewingo [2d\]: well surely he has a wrong move
+letmewingo [2d\]: j6 only move?
+]
+;B[in]BL[10]OB[20]
+;W[ho]WL[10]OW[45]C[letmewingo [2d\]: but the corner...
+]
+;B[io]BL[10]OB[20]
+;W[gp]WL[10]OW[44]
+;B[ip]BL[10]OB[20]
+;W[bj]WL[10]OW[44]
+;B[bi]BL[10]OB[18]
+;W[dh]WL[10]OW[44]
+;B[ch]BL[10]OB[18]
+;W[ah]WL[10]OW[44]C[ataraf [7k\]: i jast love b 10
+]
+;B[fh]BL[10]OB[17]
+;W[gh]WL[10]OW[44]
+;B[bb]BL[10]OB[17]
+;W[cc]WL[10]OW[44]
+;B[fg]BL[10]OB[17]
+;W[ef]WL[10]OW[44]
+;B[gg]BL[10]OB[17]
+;W[ej]WL[10]OW[44]C[intenseG [6d\]: thx
+waage [7d\]: thx
+ataraf [7k\]: gg
+])

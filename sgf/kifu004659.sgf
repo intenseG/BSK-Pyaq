@@ -1,0 +1,175 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[300]OT[3x20 byo-yomi]
+PW[Dhalsim]PB[oubeika]BR[4d]DT[2012-12-09]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [4d\]: お願いします
+]RE[W+Resign]
+;B[pd]BL[289.349]C[Dhalsim: よろしくお願いします
+]
+;W[dp]WL[292.869]
+;B[pp]BL[282.275]
+;W[dc]WL[289.397]
+;B[pj]BL[278.639]
+;W[nc]WL[285.464]
+;B[lc]BL[275.311]
+;W[ne]WL[269.417]
+;B[pf]BL[247.077]
+;W[id]WL[265.128]
+;B[oc]BL[229.404]
+;W[mc]WL[246.44]
+;B[le]BL[205.986]
+;W[ng]WL[236.315]
+;B[ph]BL[175.414]
+;W[lg]WL[208.84]
+;B[je]BL[164.681]
+;W[jc]WL[185.322]
+;B[kc]BL[138.652]
+;W[jd]WL[154.75]
+;B[mf]BL[110.959]
+;W[nf]WL[144.786]
+;B[mg]BL[93.834]
+;W[mh]WL[142.854]
+;B[lh]BL[92.02]
+;W[kd]WL[131.956]
+;B[mi]BL[81.805]
+;W[nh]WL[127.057]
+;B[kg]BL[80.391]
+;W[ld]WL[116.342]
+;B[cn]BL[58.887]
+;W[fq]WL[94.005]
+;B[ci]BL[23.183]
+;W[cf]WL[66.987]
+;B[bp]BL[20]OB[3]
+;W[cm]WL[58.575]
+;B[dm]BL[20]OB[3]
+;W[cl]WL[56.581]
+;B[dl]BL[20]OB[3]
+;W[bj]WL[30.883]
+;B[cj]BL[20]OB[3]
+;W[bi]WL[28.964]
+;B[ck]BL[20]OB[3]
+;W[bk]WL[11.045]
+;B[bn]BL[20]OB[3]
+;W[al]WL[20]OW[3]
+;B[bm]BL[20]OB[3]
+;W[bl]WL[20]OW[3]
+;B[en]BL[20]OB[3]
+;W[iq]WL[20]OW[3]
+;B[ce]BL[20]OB[3]
+;W[ch]WL[20]OW[2]
+;B[df]BL[20]OB[3]
+;W[cg]WL[20]OW[2]
+;B[cc]BL[20]OB[3]
+;W[cb]WL[20]OW[2]
+;B[dd]BL[20]OB[3]
+;W[bc]WL[20]OW[2]
+;B[bd]BL[20]OB[3]
+;W[cd]WL[20]OW[2]
+;B[bf]BL[20]OB[3]
+;W[ed]WL[20]OW[2]
+;B[de]BL[20]OB[3]
+;W[ei]WL[20]OW[2]
+;B[ec]BL[20]OB[3]
+;W[fc]WL[20]OW[2]
+;B[eb]BL[20]OB[3]
+;W[fb]WL[20]OW[2]
+;B[fd]BL[20]OB[3]
+;W[ea]WL[20]OW[2]
+;B[ee]BL[20]OB[3]
+;W[db]WL[20]OW[2]
+;B[dh]BL[20]OB[3]
+;W[dk]WL[20]OW[2]
+;B[ek]BL[20]OB[3]
+;W[dg]WL[20]OW[2]
+;B[eh]BL[20]OB[3]
+;W[eg]WL[20]OW[2]
+;B[fh]BL[20]OB[3]
+;W[fg]WL[20]OW[2]
+;B[bg]BL[20]OB[3]
+;W[bh]WL[20]OW[2]
+;B[he]BL[20]OB[3]
+;W[gh]WL[20]OW[2]
+;B[fi]BL[20]OB[3]
+;W[hg]WL[20]OW[2]
+;B[gf]BL[20]OB[3]
+;W[fj]WL[20]OW[2]
+;B[gi]BL[20]OB[3]
+;W[gg]WL[20]OW[2]
+;B[hi]BL[20]OB[2]
+;W[ie]WL[20]OW[2]
+;B[if]BL[20]OB[2]
+;W[hf]WL[20]OW[2]
+;B[ge]BL[20]OB[2]
+;W[ih]WL[20]OW[1]
+;B[jg]BL[20]OB[2]
+;W[ii]WL[20]OW[1]
+;B[gk]BL[20]OB[2]
+;W[li]WL[20]OW[1]
+;B[ki]BL[20]OB[1]
+;W[kh]WL[20]OW[1]
+;B[jh]BL[20]OB[1]
+;W[lh]WL[20]OW[1]
+;B[ji]BL[20]OB[1]
+;W[ik]WL[20]OW[1]
+;B[kk]BL[20]OB[1]
+;W[hj]WL[20]OW[1]
+;B[gj]BL[20]OB[1]
+;W[im]WL[20]OW[1]
+;B[km]BL[20]OB[1]
+;W[ff]WL[20]OW[1]
+;B[cc]BL[20]OB[1]
+;W[bb]WL[20]OW[1]
+;B[ae]BL[20]OB[1]
+;W[ag]WL[20]OW[1]
+;B[il]BL[20]OB[1]
+;W[jl]WL[20]OW[1]
+;B[hl]BL[20]OB[1]
+;W[jk]WL[20]OW[1]
+;B[jm]BL[20]OB[1]
+;W[kl]WL[20]OW[1]
+;B[ll]BL[20]OB[1]
+;W[lk]WL[20]OW[1]
+;B[kj]BL[20]OB[1]
+;W[lj]WL[20]OW[1]
+;B[ig]BL[20]OB[1]
+;W[hh]WL[20]OW[1]C[oubeika [4d\]: ありがとうございました
+Dhalsim: ヨガのファイア！
+Dhalsim: ミス
+Kotonoha [3d\]: lol
+Dhalsim: ありがとうございました
+Dhalsim: 7段ですか？
+oubeika [4d\]: 7段です
+Dhalsim: ｆｍ
+Dhalsim: 攻めてるとき、読んでました？
+oubeika [4d\]: 読んでたけど
+oubeika [4d\]: 途中から混乱してきました
+Dhalsim: 勝てる図ぐらい考えとかないと　攻めは成功しませんよ
+oubeika [4d\]: とりあえず決勝進出おめです！
+Dhalsim: 無理に攻めなくても　悪くなかったし
+oubeika [4d\]: なるほど
+Kotonoha [3d\]: he....nano shiai desuga? kore..
+Kotonoha [3d\]: konichiwa
+Dhalsim: ただ、上辺　突きぬかれちゃ　あんまよくないような
+Dhalsim: konichiwa
+oubeika [4d\]: taikainosiai desu
+Dhalsim: oh yeah
+Kotonoha [3d\]: yes what taikai but
+oubeika [4d\]: taikai=event
+Kotonoha [3d\]: I opening a taikai too :3
+Kotonoha [3d\]: in akari no go
+Dhalsim: fmfm
+Kotonoha [3d\]: start interested about the taikais
+Kotonoha [3d\]: kono taikai no oh namai ha
+Dhalsim: ^^^;;
+Kotonoha [3d\]: saki
+Dhalsim: ヨガのファイア！
+Kotonoha [3d\]: 決勝進出おめ de ida janai desuga?
+Dhalsim: 間違えた
+oubeika [4d\]: 決勝　Dhalsim VS gsdgss
+Kotonoha [3d\]: . . .? 
+Kotonoha [3d\]: dakara . . .
+Kotonoha [3d\]: taikai no namai oh ohshiete kuremasenga.><
+xhetarex: oubeikahai desu
+oubeika [4d\]: oubeika cup
+Kotonoha [3d\]: (-O-) hou ! 
+Kotonoha [3d\]: (｢　´_ω`)｢ ｶﾞｵｰ
+Kotonoha [3d\]: otusama desu 
+])

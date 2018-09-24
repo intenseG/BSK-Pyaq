@@ -1,0 +1,518 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[3x20 byo-yomi]
+PW[oubeika]PB[newgo]WR[6d]BR[6d]DT[2013-10-10]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [6d\]: hi gg
+newgo [6d\]: hi
+]RE[B+45.50]
+;B[pd]BL[20]OB[3]
+;W[dp]WL[20]OW[3]
+;B[qp]BL[20]OB[3]
+;W[dc]WL[20]OW[3]
+;B[fq]BL[20]OB[3]
+;W[ip]WL[20]OW[3]
+;B[cn]BL[20]OB[3]
+;W[fp]WL[20]OW[3]
+;B[cq]BL[20]OB[3]
+;W[cp]WL[20]OW[3]
+;B[dq]BL[20]OB[3]
+;W[ep]WL[20]OW[3]
+;B[eq]BL[20]OB[3]
+;W[gq]WL[20]OW[3]
+;B[gr]BL[20]OB[3]
+;W[hr]WL[20]OW[3]
+;B[hq]BL[20]OB[3]
+;W[gp]WL[20]OW[3]
+;B[ir]BL[20]OB[3]
+;W[iq]WL[20]OW[3]
+;B[hs]BL[20]OB[3]
+;W[dj]WL[20]OW[3]
+;B[ce]BL[20]OB[3]
+;W[cg]WL[20]OW[3]
+;B[gc]BL[20]OB[2]
+;W[cd]WL[20]OW[3]
+;B[de]BL[20]OB[2]
+;W[ed]WL[20]OW[3]
+;B[dd]BL[20]OB[2]
+;W[cc]WL[20]OW[3]
+;B[dg]BL[20]OB[2]C[denver: here start to make territory.
+]
+;W[dh]WL[20]OW[3]C[ccsco [1d?\]: B looks kind of cramped
+]
+;B[eg]BL[20]OB[2]
+;W[ee]WL[20]OW[3]
+;B[cf]BL[20]OB[2]
+;W[bg]WL[20]OW[3]
+;B[bf]BL[20]OB[2]
+;W[eh]WL[20]OW[3]
+;B[fg]BL[20]OB[2]
+;W[ge]WL[20]OW[3]
+;B[fh]BL[20]OB[2]
+;W[fi]WL[20]OW[3]
+;B[gi]BL[20]OB[2]
+;W[fj]WL[20]OW[3]
+;B[id]BL[20]OB[2]
+;W[gj]WL[20]OW[3]C[ccsco [1d?\]: w's area is really big
+]
+;B[ch]BL[20]OB[1]
+;W[bh]WL[20]OW[3]
+;B[cl]BL[20]OB[1]
+;W[bk]WL[20]OW[3]
+;B[hf]BL[20]OB[1]
+;W[he]WL[20]OW[3]
+;B[ie]BL[20]OB[1]
+;W[gf]WL[20]OW[3]
+;B[hg]BL[20]OB[1]
+;W[hi]WL[20]OW[3]
+;B[gh]BL[20]OB[1]
+;W[fc]WL[20]OW[3]
+;B[hj]BL[20]OB[1]
+;W[hk]WL[20]OW[3]
+;B[ij]BL[20]OB[1]
+;W[ik]WL[20]OW[3]C[Muttley [2k\]: heheh
+]
+;B[jk]BL[20]OB[1]C[Muttley [2k\]: cut indeed
+]
+;W[jl]WL[20]OW[3]
+;B[jj]BL[20]OB[1]
+;W[kl]WL[20]OW[3]C[skillup [6d\]: w ahead
+]
+;B[fb]BL[20]OB[1]C[oliolioli [4k\]: g9
+]
+;W[eb]WL[20]OW[3]C[pancake [5d\]: b15 was doomed to fail
+]
+;B[fd]BL[20]OB[1]
+;W[ec]WL[20]OW[3]C[pancake [5d\]: C15*
+]
+;B[mj]BL[20]OB[1]
+;W[qj]WL[20]OW[3]C[ccsco [1d?\]: was c15 greedy?
+]
+;B[qh]BL[20]OB[1]
+;W[qm]WL[20]OW[3]C[pancake [5d\]: just bad, I think
+]
+;B[pl]BL[20]OB[1]C[ccsco [1d?\]: oh ok,   tx : )
+]
+;W[pm]WL[20]OW[3]C[LOADING [4k\]: c12 instead?
+]
+;B[ql]BL[20]OB[1]
+;W[ol]WL[20]OW[3]
+;B[rm]BL[20]OB[1]
+;W[rn]WL[20]OW[3]
+;B[rl]BL[20]OB[1]C[pancake [5d\]: C12 was a better option 
+]
+;W[qo]WL[20]OW[3]
+;B[ok]BL[20]OB[1]
+;W[pp]WL[20]OW[3]C[ccsco [1d?\]: g16 would have been too good for W?
+]
+;B[pc]BL[20]OB[1]
+;W[nk]WL[20]OW[3]
+;B[nl]BL[20]OB[1]
+;W[om]WL[20]OW[3]C[pancake [5d\]: also possible, maybe, w still needs more moves to finish it, but personally I find it rather scary to give w so much potential
+]
+;B[oj]BL[20]OB[1]C[ccsco [1d?\]: me too
+]
+;W[lj]WL[20]OW[3]
+;B[li]BL[20]OB[1]C[jivablitz [1d\]: comes with the territory
+]
+;W[kj]WL[20]OW[3]
+;B[ki]BL[20]OB[1]
+;W[mk]WL[20]OW[3]C[ccsco [1d?\]: hoho
+xio [4k\]: it looks like 9x9
+]
+;B[nj]BL[20]OB[1]C[Krapsman [1k\]: k2
+]
+;W[kk]WL[20]OW[3]C[jivablitz [1d\]: sorry, haha
+ccsco [1d?\]: the top right corner is scarily big.
+]
+;B[ih]BL[20]OB[1]
+;W[kq]WL[20]OW[3]
+;B[ml]BL[20]OB[1]
+;W[lk]WL[20]OW[3]C[ccsco [1d?\]: m1?
+]
+;B[ci]BL[20]OB[1]C[jivablitz [1d\]: Big versus big
+]
+;W[bi]WL[20]OW[3]C[fixD [4k\]: black is confident as hell
+oliolioli [4k\]: he sees aji
+]
+;B[pq]BL[20]OB[1]
+;W[oq]WL[20]OW[3]
+;B[il]BL[20]OB[1]C[ccsco [1d?\]: I think B is dreaming here
+]
+;W[im]WL[20]OW[3]C[chinwa [4k\]: my my my
+]
+;B[op]BL[20]OB[1]
+;W[po]WL[20]OW[3]C[hzvcxwmq: oh oh oh B ahead?
+]
+;B[or]BL[20]OB[1]
+;W[nq]WL[20]OW[3]C[xio [4k\]: kokoko
+chinwa [4k\]: 8h
+]
+;B[nr]BL[20]OB[1]
+;W[qq]WL[20]OW[3]
+;B[pr]BL[20]OB[1]C[LOADING [4k\]: 8h is too much..handi
+]
+;W[qr]WL[20]OW[3]
+;B[rp]BL[20]OB[1]
+;W[rq]WL[20]OW[3]C[xio [4k\]: 8h is time limit for proper game
+hzvcxwmq: how come 8h
+chinwa [4k\]: or f8
+]
+;B[lq]BL[20]OB[1]
+;W[lr]WL[20]OW[3]
+;B[mr]BL[20]OB[1]
+;W[lp]WL[20]OW[3]C[xio [4k\]: will be ko
+]
+;B[mq]BL[20]OB[1]C[bourbaki [2d?\]: nah b just dead
+kujhiuyg: or an excellent kill from w
+]
+;W[kr]WL[20]OW[3]C[jivablitz [1d\]: Fatality
+]
+;B[mp]BL[20]OB[1]
+;W[ps]WL[20]OW[3]C[hzvcxwmq: B win?B win?
+]
+;B[rs]BL[20]OB[1]C[LOADING [4k\]: even kyus...seeing its quite dead..
+ccsco [1d?\]: if B dies here, W wins?
+bourbaki [2d?\]: hmm
+]
+;W[sp]WL[20]OW[3]C[hzvcxwmq: s5 ?
+]
+;B[hl]BL[20]OB[1]
+;W[gk]WL[20]OW[3]C[plusguy [-\]: b dies or goes out with H4
+Muttley [2k\]: shame
+kujhiuyg: lots of aji
+Muttley [2k\]: I had my money on b living
+plusguy [-\]: either way,
+]
+;B[kp]BL[20]OB[1]C[plusguy [-\]: b gonna ruin w's buttom
+jivablitz [1d\]: b could have lived small
+ma [1d\]: l5
+]
+;W[ko]WL[20]OW[3]C[oliolioli [4k\]: i still think hes gonna live
+]
+;B[lo]BL[20]OB[1]
+;W[jo]WL[20]OW[3]C[ccsco [1d?\]: I wonder if B could have just reduced, since his own corner is so big.
+nops [1d\]: i have no money:(
+plusguy [-\]: N1 is sente now
+plusguy [-\]: b connect
+plusguy [-\]: or make life
+]
+;B[ms]BL[20]OB[1]C[kujhiuyg: erf
+hzvcxwmq: god
+xio [4k\]: nice
+hzvcxwmq: B lives
+]
+;W[qg]WL[20]OW[2]C[kujhiuyg: both are pro imho
+]
+;B[rh]BL[20]OB[1]C[hzvcxwmq: and whit e got angry
+LOADING [4k\]: mutt gets 4 bucks..
+ccsco [1d?\]: pro would be 9d on here, no?
+]
+;W[ph]WL[20]OW[2]C[xio [4k\]: 7d at least
+]
+;B[rg]BL[20]OB[1]C[plusguy [-\]: mm
+jivablitz [1d\]: Compared to us they are pro
+gadsden [3d\]: poor fella
+]
+;W[mi]WL[20]OW[2]C[plusguy [-\]: 7d's+ can play new pros evenly i think
+Muttley [2k\]: I won 50 KGS Megalollies!
+hzvcxwmq: crashing on the wall
+]
+;B[lg]BL[20]OB[1]C[Muttley [2k\]: The only internet currency worth investing in!
+melmak: why not w p1
+xio [4k\]: b can connect melmak
+plusguy [-\]: tho any mid-dan eastern pro if far beyong any amatures
+plusguy [-\]: :p
+]
+;W[mh]WL[20]OW[2]
+;B[mg]BL[20]OB[1]C[pancake [5d\]: L1 connects, melmak
+]
+;W[ng]WL[20]OW[2]C[ccsco [1d?\]: new Asian pros are often uber strong, as they've been so carefully selected.
+]
+;B[nf]BL[20]OB[1]C[plusguy [-\]: w's overplay cant work :p
+]
+;W[pk]WL[20]OW[2]
+;B[pj]BL[20]OB[1]C[nops [1d\]: is overplay?
+]
+;W[of]WL[20]OW[2]
+;B[ne]BL[20]OB[1]
+;W[pi]WL[20]OW[2]
+;B[qi]BL[20]OB[1]
+;W[rj]WL[20]OW[2]C[melmak: thanks pancake
+xio [4k\]: trying to turn tables not overplay
+]
+;B[qk]BL[20]OB[1]
+;W[oi]WL[20]OW[2]C[xio [4k\]: anything 
+plusguy [-\]: it is :p
+pancake [5d\]: ko here? :p
+]
+;B[rk]BL[20]OB[1]
+;W[ni]WL[20]OW[2]
+;B[pk]BL[20]OB[1]C[Greenfuse [1k\]: one eye made
+ccsco [1d?\]: overplay just means a play that really shouldn't work if answered correctly
+]
+;W[qf]WL[20]OW[2]
+;B[og]BL[20]OB[1]C[LOADING [4k\]: t10?
+]
+;W[oh]WL[20]OW[2]
+;B[pf]BL[20]OB[1]C[ccsco [1d?\]: wow
+plusguy [-\]: overplay = trying to gain too much, by moves that wont work if responded correctly
+plusguy [-\]: sort of like trickplay
+gvuhjkk: no
+]
+;W[pg]WL[20]OW[1]
+;B[pe]BL[20]OB[1]
+;W[sj]WL[20]OW[1]C[xio [4k\]: desperate play <> trickplay  <> overplay
+LOADING [4k\]: this pillar XD
+]
+;B[si]BL[20]OB[1]
+;W[rf]WL[20]OW[1]
+;B[sm]BL[20]OB[1]
+;W[rd]WL[20]OW[1]
+;B[rc]BL[20]OB[1]C[fixD [4k\]: omgggggggg
+]
+;W[rb]WL[20]OW[1]
+;B[qc]BL[20]OB[1]C[kujhiuyg: t14 lives imho
+]
+;W[sg]WL[20]OW[1]C[fixD [4k\]: no he deosnt
+]
+;B[sk]BL[20]OB[1]
+;W[lh]WL[20]OW[1]
+;B[kh]BL[20]OB[1]C[ccsco [1d?\]: w doesn't have an eye on the side
+]
+;W[kg]WL[20]OW[1]
+;B[jh]BL[20]OB[1]
+;W[ib]WL[20]OW[1]
+;B[hb]BL[20]OB[1]C[svenkramer: game effectively over
+]
+;W[ic]WL[20]OW[1]C[ccsco [1d?\]: might win on time
+]
+;B[hd]BL[20]OB[1]
+;W[sc]WL[20]OW[1]
+;B[qb]BL[20]OB[1]
+;W[mf]WL[20]OW[1]
+;B[lf]BL[20]OB[1]C[svenkramer: right did not consider time
+]
+;W[me]WL[20]OW[1]
+;B[md]BL[20]OB[1]
+;W[le]WL[20]OW[1]
+;B[kf]BL[20]OB[1]
+;W[nd]WL[20]OW[1]
+;B[oe]BL[20]OB[1]C[gvuhjkk: w just being unreasonable
+]
+;W[mc]WL[20]OW[1]C[nops [1d\]: w go home
+quark01fr [4k\]: P1 d'ont kill black ?
+ccsco [1d?\]: there's some chance on top
+]
+;B[nb]BL[20]OB[1]C[nops [1d\]: no
+ccsco [1d?\]: o18 is a very calm move, though
+]
+;W[sb]WL[20]OW[1]
+;B[ra]BL[20]OB[1]
+;W[mb]WL[20]OW[1]
+;B[og]BL[20]OB[1]C[fixD [4k\]: i am a noob but top looks pretty big potential
+pancake [5d\]: hmm, black having some trouble here..
+]
+;W[os]WL[20]OW[1]C[ccsco [1d?\]: exchange :p
+kujhiuyg: ask hard questions, hard to find answers
+fixD [4k\]: white lives no point to play
+]
+;B[qs]BL[20]OB[1]
+;W[rr]WL[20]OW[1]
+;B[nc]BL[20]OB[1]
+;W[ld]WL[20]OW[1]C[gvuhjkk: k3 ?
+]
+;B[ns]BL[20]OB[1]
+;W[ps]WL[20]OW[1]C[gvuhjkk: l1 
+LOADING [4k\]: seems w pretty big chances
+]
+;B[ks]BL[20]OB[1]
+;W[of]WL[20]OW[1]C[kujhiuyg: I thunk w should just kill under
+]
+;B[ob]BL[20]OB[1]
+;W[jf]WL[20]OW[1]C[ccsco [1d?\]: w can't cut B at M1 though.  Not enough libs
+]
+;B[ke]BL[20]OB[1]
+;W[je]WL[20]OW[1]C[fixD [4k\]: wow
+ccsco [1d?\]: oh - W is targetting j14 cut too
+]
+;B[jg]BL[20]OB[1]
+;W[kd]WL[20]OW[1]
+;B[kg]BL[20]OB[1]
+;W[jd]WL[20]OW[1]
+;B[if]BL[20]OB[1]C[goxc [3k?\]: l18
+]
+;W[od]WL[20]OW[1]
+;B[og]BL[20]OB[1]C[jivablitz [1d\]: Life
+fixD [4k\]: omg
+]
+;W[jq]WL[20]OW[1]
+;B[ls]BL[20]OB[1]C[fixD [4k\]: white just sent him home
+ccsco [1d?\]: I don't know how they play this at 20s/move
+]
+;W[of]WL[20]OW[1]
+;B[kb]BL[20]OB[1]C[goxc [3k?\]: should play at 10
+goxc [3k?\]: 10s/move
+ccsco [1d?\]: why
+goxc [3k?\]: thrilling
+]
+;W[pa]WL[20]OW[1]
+;B[og]BL[20]OB[1]C[ccsco [1d?\]: just less good go
+fixD [4k\]: white wants to show dominance now lol
+]
+;W[jr]WL[20]OW[1]
+;B[js]BL[20]OB[1]C[kujhiuyg: seems very complex semeai for 20s indeed
+]
+;W[of]WL[20]OW[1]
+;B[qe]BL[20]OB[1]C[LOADING [4k\]: i think its not that complex..for them
+]
+;W[re]WL[20]OW[1]
+;B[og]BL[20]OB[1]
+;W[jb]WL[20]OW[1]C[ccsco [1d?\]: is making N18 live a big enough threat?
+]
+;B[kc]BL[20]OB[1]
+;W[of]WL[20]OW[1]
+;B[sd]BL[20]OB[1]C[plusguy [-\]:  nope
+]
+;W[se]WL[20]OW[1]C[oliolioli [4k\]: white is short on libertys
+ccsco [1d?\]: I see..  Then W should kil O18 :p
+plusguy [-\]: w must kill or get some rly big ko threat
+]
+;B[og]BL[20]OB[1]C[kujhiuyg: could be huge seki?
+goxc [3k?\]: no
+]
+;W[sn]WL[20]OW[1]C[honza [5k\]: no
+]
+;B[ri]BL[20]OB[1]
+;W[of]WL[20]OW[1]
+;B[ma]BL[20]OB[1]
+;W[la]WL[20]OW[1]
+;B[ia]BL[20]OB[1]C[disturbing [1d\]: seki isn't impossible if W wins the ko and b gets r19
+]
+;W[ja]WL[20]OW[1]C[fixD [4k\]: these shapes are hurting my head
+]
+;B[og]BL[20]OB[1]C[kujhiuyg: nakade stones are annoying D:
+nops [1d\]: cool game
+]
+;W[ha]WL[20]OW[1]
+;B[gb]BL[20]OB[1]
+;W[of]WL[20]OW[1]
+;B[qa]BL[20]OB[1]C[fixD [4k\]: can a dan player tell me why he didnt simply live the l 18 group ahead of time?
+fixD [4k\]: was he being greedy or was it not big enough?
+]
+;W[na]WL[20]OW[1]C[plusguy [-\]: not big enought
+]
+;B[oa]BL[20]OB[1]C[fixD [4k\]: i see
+nops [1d\]: seki?
+]
+;W[md]WL[20]OW[1]C[ccsco [1d?\]: head hurts.  Why is this not seki
+]
+;B[og]BL[20]OB[1]C[jivablitz [1d\]: That is what I wonder fix D - punish/ greed?
+ccsco [1d?\]: if W gets an eye, I mean
+kujhiuyg: why w no play p13?!
+]
+;W[gd]WL[20]OW[1]
+;B[hc]BL[20]OB[1]
+;W[of]WL[20]OW[1]C[jivablitz [1d\]: I thought it was big enough
+ccsco [1d?\]: oh of course.  W dies above
+disturbing [1d\]: no sense in going for seki while m18 is dead
+nops [1d\]: w lost i think
+]
+;B[sh]BL[20]OB[1]
+;W[sd]WL[20]OW[1]
+;B[og]BL[20]OB[1]
+;W[fa]WL[20]OW[1]C[kujhiuyg: so its just hopeless for w without 18 threats
+]
+;B[ga]BL[20]OB[1]
+;W[of]WL[20]OW[1]
+;B[sf]BL[20]OB[1]C[ccsco [1d?\]: this is almost like double ko life for B
+]
+;W[ma]WL[20]OW[1]C[TheCoon [1d\]: wow
+TheCoon [1d\]: just got here
+]
+;B[bp]BL[20]OB[1]C[fixD [4k\]: this game is so messy
+fixD [4k\]: its like they just throwing stones on
+kujhiuyg: b4 is insult to injury
+]
+;W[qd]WL[20]OW[1]C[goxc [3k?\]: .
+]
+;B[og]BL[20]OB[1]
+;W[oc]WL[20]OW[1]C[ccsco [1d?\]: p17 
+]
+;B[pb]BL[20]OB[1]
+;W[of]WL[20]OW[1]C[fixD [4k\]: omg
+fixD [4k\]: seki if he wins
+jivablitz [1d\]: More like injury from insult
+]
+;B[ii]BL[20]OB[1]C[plusguy [-\]: no seki
+plusguy [-\]: because m19 is dead
+fixD [4k\]: oh
+fixD [4k\]: true
+]
+;W[sa]WL[20]OW[1]
+;B[og]BL[20]OB[1]C[ccsco [1d?\]: w has no threat :(
+]
+;W[bo]WL[20]OW[1]C[goxc [3k?\]: B+R soon
+]
+;B[nh]BL[20]OB[1]
+;W[bq]WL[20]OW[1]
+;B[br]BL[20]OB[1]C[nops [1d\]: now
+]
+;W[ap]WL[20]OW[1]C[oliolioli [4k\]: epic
+]
+;B[bd]BL[20]OB[1]
+;W[bc]WL[20]OW[1]C[nops [1d\]: was newgo an insei?
+]
+;B[kn]BL[20]OB[1]
+;W[jn]WL[20]OW[1]
+;B[ac]BL[20]OB[1]
+;W[ab]WL[20]OW[1]
+;B[ad]BL[20]OB[1]
+;W[af]WL[20]OW[1]C[Muttley [2k\]: S11 = tetris
+]
+;B[ag]BL[20]OB[1]
+;W[ah]WL[20]OW[1]
+;B[be]BL[20]OB[1]
+;W[hp]WL[20]OW[1]C[dechangsun [4d\]: Hi! I am a clerk from Rizhao Polytechnic, if anyone likes to teach English in Shandong China, Please email me.
+]
+;B[ar]BL[20]OB[1]
+;W[hr]WL[20]OW[1]
+;B[is]BL[20]OB[1]
+;W[no]WL[20]OW[1]
+;B[np]BL[20]OB[1]
+;W[ln]WL[20]OW[1]
+;B[mn]BL[20]OB[1]
+;W[lm]WL[20]OW[1]
+;B[bb]BL[20]OB[1]
+;W[cb]WL[20]OW[1]
+;B[aa]BL[20]OB[1]
+;W[ea]WL[20]OW[1]
+;B[nn]BL[20]OB[1]
+;W[oo]WL[20]OW[1]
+;B[mo]BL[20]OB[1]
+;W[ss]WL[20]OW[1]
+;B[aq]BL[20]OB[1]
+;W[bp]WL[20]OW[1]
+;B[ff]BL[20]OB[1]
+;W[fe]WL[20]OW[1]
+;B[on]BL[20]OB[1]
+;W[pn]WL[20]OW[1]
+;B[gg]BL[20]OB[1]
+;W[fr]WL[20]OW[1]
+;B[gs]BL[20]OB[1]
+;W[ll]WL[20]OW[1]
+;B[ca]BL[20]OB[1]
+;W[da]WL[20]OW[1]
+;B[ab]BL[20]OB[1]
+;W[cj]WL[20]OW[1]
+;B[ba]BL[20]OB[1]
+;W[hq]WL[20]OW[1]
+;B[lp]BL[20]OB[1]
+;W[ag]WL[20]OW[1]
+;B[df]BL[20]OB[1]C[Adras999: Do you speak russian?
+]
+;W[qs]WL[20]OW[1]
+;B[er]BL[20]OB[1]
+;W[]WL[20]OW[1]
+;B[]BL[20]OB[1]TW[db][fd][ch][ai][ci][di][ei][aj][bj][ej][ak][ck][dk][ek][fk][al][bl][cl][dl][el][fl][gl][hl][il][am][bm][cm][dm][em][fm][gm][hm][jm][km][an][bn][cn][dn][en][fn][gn][hn][in][kn][qn][ao][co][do][eo][fo][go][ho][io][ro][so][qp][rp][sq][sr][rs]TB[ha][ia][ja][ka][la][ma][na][pa][sa][ib][jb][lb][mb][rb][sb][ic][jc][lc][mc][oc][sc][jd][kd][ld][md][nd][od][qd][rd][sd][je][le][me][re][se][jf][mf][of][qf][rf][ig][ng][pg][qg][sg][hh][lh][mh][oh][ph][hi][ji][mi][ni][oi][pi][qj][rj][sj][sl][nq][oq][cr][dr][fr][as][bs][cs][ds][es][fs]C[oubeika [6d\]: thx
+newgo [6d\]: ty
+Adras999: Привет
+Adras999: Как делы?
+])

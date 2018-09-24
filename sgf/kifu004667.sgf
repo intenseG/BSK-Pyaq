@@ -1,0 +1,359 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[600]OT[5x30 byo-yomi]
+PW[f91]PB[oubeika]WR[6d]BR[5d]DT[2011-12-30]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: hi
+]RE[W+Resign]
+;B[pd]BL[595.906]C[f91 [6d\]: h
+]
+;W[dd]WL[592.961]
+;B[pq]BL[587.216]
+;W[dq]WL[587.923]
+;B[pk]BL[584.15]
+;W[mq]WL[585.405]
+;B[np]BL[576.178]
+;W[mp]WL[583.561]
+;B[nn]BL[574.702]
+;W[mo]WL[564.444]
+;B[mn]BL[557.474]
+;W[op]WL[557.037]
+;B[no]BL[548.607]
+;W[oq]WL[555.673]
+;B[nq]BL[523.848]
+;W[nr]WL[552.647]
+;B[mr]BL[513.77]
+;W[pr]WL[550.844]
+;B[lr]BL[511.435]
+;W[kp]WL[546.962]
+;B[kq]BL[505.226]
+;W[jp]WL[545.298]
+;B[iq]BL[503.603]
+;W[kn]WL[508.713]
+;B[ip]BL[483.321]
+;W[qo]WL[497.043]
+;B[kl]BL[465.886]
+;W[io]WL[487.95]
+;B[ho]BL[464.064]
+;W[in]WL[486.843]
+;B[gp]BL[462.084]
+;W[il]WL[485.071]
+;B[do]BL[447.712]
+;W[co]WL[480.86]
+;B[cn]BL[429.308]
+;W[cp]WL[478.96]
+;B[dn]BL[428.295]
+;W[lm]WL[434.845]
+;B[nl]BL[409.009]
+;W[ll]WL[430.532]
+;B[jc]BL[395.097]
+;W[cg]WL[408.726]
+;B[qf]BL[366.326]
+;W[ec]WL[372.002]
+;B[ci]BL[352.984]
+;W[hc]WL[361.016]
+;B[ei]BL[325.634]
+;W[lc]WL[354.326]
+;B[nc]BL[316.499]
+;W[kd]WL[352.666]
+;B[jd]BL[293.613]
+;W[ke]WL[345.097]
+;B[hd]BL[290.654]
+;W[gc]WL[327.96]
+;B[if]BL[284.22]
+;W[kg]WL[290.514]
+;B[kj]BL[268.424]
+;W[ih]WL[276.245]
+;B[jh]BL[241.325]
+;W[jg]WL[213.173]
+;B[ig]BL[237.932]
+;W[hh]WL[212.653]
+;B[gg]BL[223.269]
+;W[gh]WL[198.556]
+;B[fg]BL[205.515]
+;W[ij]WL[178.029]
+;B[kh]BL[163.319]
+;W[je]WL[172.034]
+;B[ie]BL[160.889]
+;W[mh]WL[150.277]
+;B[mi]BL[114.087]
+;W[ni]WL[146.538]
+;B[lh]BL[108.575]
+;W[mg]WL[145.025]
+;B[mj]BL[37.341]
+;W[fh]WL[86.821]
+;B[dg]BL[30]OB[5]
+;W[eh]WL[53.26]
+;B[df]BL[30]OB[5]
+;W[dh]WL[43.096]C[ptyrg: cut?
+]
+;B[cf]BL[30]OB[5]C[jauz: going for m13?
+gruenwald [-\]: isnt n13 too weak for this kind of play?
+]
+;W[fe]WL[2.139]
+;B[ff]BL[30]OB[5]
+;W[ge]WL[30]OW[5]C[bogo1234 [16k\]: no eyespace for b
+]
+;B[lb]BL[30]OB[5]C[blacklabel [1d\]: ?
+blacklabel [1d\]: sure
+]
+;W[mb]WL[30]OW[5]C[blacklabel [1d\]: lots
+]
+;B[kb]BL[30]OB[5]
+;W[mc]WL[30]OW[5]
+;B[nb]BL[30]OB[5]
+;W[na]WL[30]OW[5]
+;B[oa]BL[30]OB[5]C[SilkSaint [14k?\]: I was waiting for that fight that just occurred
+]
+;W[ma]WL[30]OW[5]
+;B[hg]BL[30]OB[5]C[gruenwald [-\]: b should be fine
+]
+;W[ch]WL[30]OW[5]
+;B[cc]BL[30]OB[5]
+;W[cd]WL[30]OW[5]C[blacklabel [1d\]: wow
+heather [1d\]: this seems to be asking a lot
+blacklabel [1d\]: b wants b14?
+heather [1d\]: seems so
+]
+;B[bf]BL[30]OB[4]
+;W[bd]WL[30]OW[5]C[SilkSaint [14k?\]: b16 seems useful to me, but I could be wrong
+]
+;B[bh]BL[30]OB[4]
+;W[bg]WL[30]OW[5]C[SilkSaint [14k?\]: oh doesnt matter now
+]
+;B[ag]BL[30]OB[4]C[blacklabel [1d\]: seems b is missng a astone at d11 ^^
+]
+;W[bi]WL[30]OW[5]
+;B[ah]BL[30]OB[4]C[gruenwald [-\]: b is a pure fighter
+heather [1d\]: this is ugly
+nucklehead [7k\]: Yes heather.
+]
+;W[bj]WL[30]OW[4]C[blacklabel [1d\]: well sure is fun go
+heather [1d\]: not my byo yomi to panic over, so yeah ^^
+invader [1d\]: too stress  not thing fun
+]
+;B[cj]BL[30]OB[4]
+;W[ck]WL[30]OW[4]
+;B[dj]BL[30]OB[4]
+;W[bl]WL[30]OW[4]C[SilkSaint [14k?\]: b6 might be decent for black
+blacklabel [1d\]: b shape suffer w miai
+]
+;B[lg]BL[30]OB[4]C[blacklabel [1d\]: now must semaie
+ptyrgg: B4 or E8
+jauz: n14 
+]
+;W[nd]WL[30]OW[4]C[heather [1d\]: painful
+blacklabel [1d\]: i say w plus one lib :D
+]
+;B[oc]BL[30]OB[4]
+;W[lf]WL[30]OW[4]
+;B[jf]BL[30]OB[4]C[heather [1d\]: I say w + 2 eyes
+]
+;W[kf]WL[30]OW[4]C[ptyrgg: black win?
+]
+;B[mf]BL[30]OB[4]C[blacklabel [1d\]: when everything fails, read the manual
+]
+;W[nf]WL[30]OW[4]
+;B[me]BL[30]OB[4]C[gruenwald [-\]:  w+res
+marukome [5d\]: difficult to kill
+gruenwald [-\]: p13 
+marukome [5d\]: yeah
+]
+;W[od]WL[30]OW[4]
+;B[pc]BL[30]OB[4]
+;W[og]WL[30]OW[4]C[blacklabel [1d\]: pretty much seppuku
+ptyrgg: Q14
+joadre [6k\]: m16
+justdidit [1k?\]: time to think
+blacklabel [1d\]: theres not on w stone not participating in the kill
+]
+;B[md]BL[30]OB[3]C[blacklabel [1d\]: except 5 lower corner ^^
+]
+;W[ne]WL[30]OW[4]
+;B[nh]BL[30]OB[3]
+;W[ng]WL[30]OW[4]C[heather [1d\]: b needs some super tesuji
+]
+;B[oi]BL[30]OB[3]C[marukome [5d\]: q15 almost one eye
+]
+;W[pf]WL[30]OW[4]
+;B[pe]BL[30]OB[3]
+;W[qg]WL[30]OW[4]C[gruenwald [-\]: ovver
+heather [1d\]: no way to stop this rampaging w
+jauz: p12 
+]
+;B[ph]BL[30]OB[2]
+;W[pg]WL[30]OW[4]C[blacklabel [1d\]: b did get l17 m19  sente
+justdidit [1k?\]: lol
+justdidit [1k?\]: w super alive
+SilkSaint [14k?\]: p15 can be important
+]
+;B[rf]BL[30]OB[2]
+;W[oh]WL[30]OW[4]
+;B[pi]BL[30]OB[2]
+;W[nj]WL[30]OW[4]
+;B[mk]BL[30]OB[2]C[marukome [5d\]: s11
+justdidit [1k?\]: p15 enough
+ptyrgg: c7?
+]
+;W[rg]WL[30]OW[4]
+;B[ri]BL[30]OB[2]
+;W[rd]WL[30]OW[4]C[blacklabel [1d\]: p15 also takes a acorner lib
+]
+;B[rc]BL[30]OB[2]
+;W[sf]WL[30]OW[4]C[gruenwald [-\]: ptyrgg: b7 e9 
+gruenwald [-\]: *c
+gruenwald [-\]: ah c
+]
+;B[qd]BL[30]OB[2]
+;W[se]WL[30]OW[4]C[ptyrgg: :D
+ptyrgg: thx
+justdidit [1k?\]: life in sente now
+]
+;B[el]BL[30]OB[2]C[waretsu: boring...
+nucklehead [7k\]: Bedlam
+SilkSaint [14k?\]: The bottom right doesn't seem completely settled
+waretsu: #Team Tiga !
+justdidit [1k?\]: s18
+waretsu: #Team Tyga !
+gruenwald [-\]: f10 
+]
+;W[fj]WL[30]OW[2]C[RobertT [-\]: bottom right is settled
+]
+;B[dk]BL[30]OB[2]C[waretsu: fala ae cambada de lixo
+waretsu: hehe
+]
+;W[bn]WL[30]OW[2]C[heather [1d\]: not sure inducing that b move was an awesome idea
+]
+;B[cl]BL[30]OB[2]
+;W[bk]WL[30]OW[2]
+;B[bm]BL[30]OB[2]
+;W[am]WL[30]OW[2]
+;B[cm]BL[30]OB[2]C[gruenwald [-\]: was w d8 forcing no good?
+]
+;W[ai]WL[30]OW[2]
+;B[af]BL[30]OB[2]
+;W[bo]WL[30]OW[2]C[kukulele [4k\]: now eat f12
+kukulele [4k\]: :)
+heather [1d\]: f12 pretty invincible
+blacklabel [1d\]: lol b
+blacklabel [1d\]: a14 was lol
+waretsu: b = lmfao
+waretsu: OMFG
+justdidit [1k?\]: f13 eaten before
+waretsu: HAHAHAHAHAH
+waretsu: OMFG HAHAHHAHAHAHA
+]
+;B[hk]BL[30]OB[1]C[waretsu: cya noobs
+]
+;W[ik]WL[30]OW[2]C[SilkSaint [14k?\]: would E2 get more black territory
+SilkSaint [14k?\]: or maybe F2
+waretsu: CYA NOOBS
+RobertT [-\]: why would you say cya to yourself?
+]
+;B[hj]BL[30]OB[1]C[justdidit [1k?\]: b should resign
+nucklehead [7k\]: mmm
+waretsu: CYA NOOBS KYUS AND ALL TRASH OF GO KGS HEHEHE BYE BYE I MUST PLAY GOLF =) BRB IN 5 HOURS
+]
+;W[ii]WL[30]OW[1]C[jauz: resign is for losers, b should escape
+gruenwald [-\]: b about 18 liberties
+nucklehead [7k\]: hehe
+justdidit [1k?\]: b shgould make a break
+]
+;B[jl]BL[30]OB[1]C[pflame [5k\]: m19 is a threat for b, could he do j18 and maybe get something
+]
+;W[hl]WL[30]OW[1]C[sn9 [1k\]: G8
+justdidit [1k?\]: no way to get 2 eyes for him
+gruenwald [-\]: w wins this semeai easily
+]
+;B[fk]BL[30]OB[1]
+;W[jm]WL[30]OW[1]C[SilkSaint [14k?\]: not is W self destructs
+heather [1d\]: w has nice forcing sequence k3 k2 m3 
+blacklabel [1d\]: b can make small life without tail
+RobertT [-\]: w just alive
+]
+;B[hm]BL[30]OB[1]C[rvf [-\]: if W makes to eyes in centre then no semeai
+]
+;W[im]WL[30]OW[1]C[rvf [-\]: two
+]
+;B[lo]BL[30]OB[1]
+;W[lp]WL[30]OW[1]
+;B[ln]BL[30]OB[1]C[gruenwald [-\]: m4 small imho
+]
+;W[km]WL[30]OW[1]
+;B[kk]BL[30]OB[1]C[blacklabel [1d\]: but  why not save it
+]
+;W[hn]WL[30]OW[1]
+;B[gm]BL[30]OB[1]
+;W[gl]WL[30]OW[1]C[justdidit [1k?\]: w too strong for b
+blacklabel [1d\]: ouch
+]
+;B[fi]BL[30]OB[1]C[blacklabel [1d\]: atari
+]
+;W[go]WL[30]OW[1]C[jauz: now
+heather [1d\]: seems it
+]
+;B[fm]BL[30]OB[1]C[gruenwald [-\]: b so done
+]
+;W[hp]WL[30]OW[1]C[RobertT [-\]: too much aji
+gruenwald [-\]: now m4 seems important
+gruenwald [-\]: :)
+justdidit [1k?\]: b wakes up too early, should go back to sleep
+heather [1d\]: yeah 
+]
+;B[hq]BL[30]OB[1]C[blacklabel [1d\]: ko?
+]
+;W[fp]WL[30]OW[1]C[blacklabel [1d\]: if theres ah ko, take it :D
+]
+;B[ho]BL[30]OB[1]C[RobertT [-\]: no ko
+blacklabel [1d\]: well
+RobertT [-\]: just atari 
+x0000 [1d\]: b dead
+blacklabel [1d\]: belgian ko counts too
+]
+;W[jq]WL[30]OW[1]C[gruenwald [-\]: k3 ?
+RobertT [-\]: w either connects out or blacks bottom dies
+gruenwald [-\]: :)
+]
+;B[jr]BL[30]OB[1]
+;W[lq]WL[30]OW[1]
+;B[kr]BL[30]OB[1]
+;W[gq]WL[30]OW[1]
+;B[hp]BL[30]OB[1]C[gruenwald [-\]: goodbye
+]
+;W[hr]WL[30]OW[1]
+;B[ir]BL[30]OB[1]
+;W[fr]WL[30]OW[1]C[RobertT [-\]: lol
+heather [1d\]: that's it
+justdidit [1k?\]: w+200
+heather [1d\]: pretty much
+RobertT [-\]: w+ the kitchen sink
+]
+;B[fo]BL[30]OB[1]C[blacklabel [1d\]: did center die too =?
+]
+;W[gn]WL[30]OW[1]C[gruenwald [-\]: +200 same as +1
+kukulele [4k\]: b go for p3 now
+blacklabel [1d\]: w can give up  p3 now
+RobertT [-\]: p3 has the problem of already being alive
+justdidit [1k?\]: same for the ranking yes but...
+]
+;B[eq]BL[30]OB[1]
+;W[er]WL[30]OW[1]C[cloudo [2k\]: enough allready
+RobertT [-\]: p3 has 2 eyes in corner :p
+Visionaire [2d\]: only 2?
+]
+;B[ep]BL[30]OB[1]C[blacklabel [1d\]: robert even if b killed it all, not enough
+]
+;W[fq]WL[30]OW[1]
+;B[fn]BL[30]OB[1]
+;W[is]WL[30]OW[1]
+;B[js]BL[30]OB[1]
+;W[hs]WL[30]OW[1]
+;B[ns]BL[30]OB[1]C[blacklabel [1d\]: as long as o2  lives :)
+]
+;W[or]WL[30]OW[1]C[RobertT [-\]: doesnt matter because it isnt killable
+gruenwald [-\]: w next m1 
+f91 [6d\]: m1 go go ko
+kukulele [4k\]: its over now
+justdidit [1k?\]: its over since long time ago
+RobertT [-\]: 14 step ko isnt ko
+oubeika [5d\]: thx
+f91 [6d\]: thx
+cloudo [2k\]: its allways ko
+])

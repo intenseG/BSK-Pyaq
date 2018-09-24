@@ -1,0 +1,235 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[AGA]SZ[19]KM[7.50]TM[2400]OT[5x30 byo-yomi]
+PW[Cassis0]PB[oubeika]WR[6d]BR[5d]DT[2012-04-15]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: hi good game!
+Cassis0 [6d\]: hi
+justice [1k\]: Fight!by anzai
+maxp73 [4d\]: this might be interesting
+]RE[B+Resign]
+;B[pd]BL[2370.694]
+;W[iq]WL[2386.406]C[meuns [2d\]: :O
+]
+;B[cd]BL[2351.619]C[meuns [2d\]: c4 ?
+elizondo [-\]: omg
+]
+;W[ed]WL[2369.178]
+;B[gc]BL[2343.206]C[meuns [2d\]: white is playing with a handicap
+TurtleDove [4k\]: j3 hmm
+]
+;W[cc]WL[2344.23]
+;B[dc]BL[2319.989]
+;W[dd]WL[2339.345]
+;B[ec]BL[2318.593]
+;W[fc]WL[2338.563]
+;B[fd]BL[2312.947]
+;W[fb]WL[2333.18]
+;B[cb]BL[2311.504]
+;W[bc]WL[2329.978]
+;B[eb]BL[2310.205]
+;W[ce]WL[2325.09]
+;B[gb]BL[2306.439]
+;W[fe]WL[2322.773]
+;B[gd]BL[2297.998]
+;W[cp]WL[2313.333]C[meuns [2d\]: b+
+]
+;B[op]BL[2247.753]
+;W[dj]WL[2291.244]
+;B[ep]BL[2216.806]C[elizondo [-\]: can w win this?
+]
+;W[dn]WL[2289.101]C[maxp73 [4d\]: why not?
+]
+;B[ho]BL[2209.552]
+;W[gq]WL[2248.551]C[meuns [2d\]: w+
+]
+;B[cq]BL[2161.385]C[meuns [2d\]: h5 is disturbing
+Matt [4k\]: h5 looks weird. bad shape
+]
+;W[bq]WL[2187.1]
+;B[en]BL[2136.521]
+;W[eq]WL[2142.943]
+;B[dp]BL[2120.891]
+;W[dq]WL[2141.111]
+;B[co]BL[2118.524]
+;W[cr]WL[2136.535]
+;B[dm]BL[2112.518]
+;W[qj]WL[2086.194]C[meuns [2d\]: even ?
+]
+;B[qg]BL[2096.131]C[meuns [2d\]: d10 is missplaced
+]
+;W[qm]WL[2076.005]C[Ootakamoku [4d\]: doesnt look missplaced to me
+]
+;B[qp]BL[2082.909]
+;W[mq]WL[2074.027]C[meuns [2d\]: seems far from d16
+meuns [2d\]: black can separate
+Ootakamoku [4d\]: I wonder if d4 is strong enough to enjoy that
+]
+;B[nr]BL[2036.694]C[meuns [2d\]: sure
+]
+;W[ef]WL[2047.643]C[meuns [2d\]: white fixed it ^^
+InsideJob: I would prefer d10 on 3rd line, too - seems too wide and too high
+InsideJob: Hmmm, d12 still seems like potential trouble
+meuns [2d\]: e14 reduces problems
+InsideJob: Now P17?
+]
+;B[pl]BL[1966.575]C[Ootakamoku [4d\]: p17 does look like by far biggest move on this board
+TurtleDove [4k\]: yeah, B needs prospects on the top side
+Ootakamoku [4d\]: its funny to see w isnt instantly responding to this
+]
+;W[ql]WL[1987.716]C[Ootakamoku [4d\]: this exchange in it self is bad for b, unless b continue, but I have a feeling b q10 would be gote..
+]
+;B[mc]BL[1913.161]
+;W[qc]WL[1984.118]
+;B[pc]BL[1907.807]C[Ootakamoku [4d\]: n17.. what?
+]
+;W[qd]WL[1981.109]
+;B[pe]BL[1894.572]
+;W[hf]WL[1959.83]C[InsideJob: n17 = emphasise top edge, offer ko in corner, I think
+Ootakamoku [4d\]: I think n17 should be m17 in that case
+InsideJob: Since B planned to play, he swapped Q8r8 so he had Q10 big outside option later
+]
+;B[qe]BL[1842.072]C[InsideJob: Was the corner ko is w played on?
+TurtleDove [4k\]: I would B k16. nowhere else B can make lot of points
+InsideJob: ^is^if
+Ootakamoku [4d\]: the corner was direct life after b played q15, but gote life
+InsideJob: I wonder why w abandoned it
+]
+;W[ck]WL[1858.42]C[Ootakamoku [4d\]: well, I guess the life there could hurt r10 somewhat...
+jchen85 [3d\]: corner is ko now?
+Ootakamoku [4d\]: since b would get s13
+Ootakamoku [4d\]: how do you make it a ko?
+InsideJob: Should be dead, I think
+Ootakamoku [4d\]: ya, I read it as dead too
+Ootakamoku [4d\]: b will answer almost anything with vital s18
+]
+;B[ge]BL[1714.627]
+;W[gf]WL[1854.796]
+;B[fg]BL[1712.687]
+;W[ff]WL[1853.338]
+;B[bl]BL[1697.654]C[jchen85 [3d\]: q18, s18;  
+jchen85 [3d\]: r18, p18
+InsideJob: I think I would b5 here
+jchen85 [3d\]: s19, t18
+jchen85 [3d\]: q19. w lives
+kyzma84 [1d\]: w have only ko
+]
+;W[pb]WL[1735.983]C[jchen85 [3d\]: q18, p18, s18, q19, ko
+]
+;B[rb]BL[1671.173]C[maxp73 [4d\]: w+life
+]
+;W[ld]WL[1652.324]
+;B[md]BL[1629.559]
+;W[le]WL[1632.793]
+;B[lc]BL[1620.704]
+;W[ro]WL[1598.197]
+;B[rp]BL[1599.123]
+;W[hk]WL[1593.048]C[InsideJob: K14.5
+]
+;B[hj]BL[1483.714]
+;W[ij]WL[1544.084]
+;B[bk]BL[1438.008]
+;W[bj]WL[1538.983]
+;B[fj]BL[1427.383]
+;W[dl]WL[1503.752]
+;B[el]BL[1392.642]
+;W[ek]WL[1501.554]
+;B[fk]BL[1376.295]
+;W[fl]WL[1487.971]
+;B[em]BL[1374.473]
+;W[gl]WL[1487.314]
+;B[ci]BL[1349.737]
+;W[di]WL[1467.005]
+;B[cj]BL[1326.381]
+;W[dh]WL[1428.337]
+;B[bi]BL[1263.232]C[chevelu [?\]: jchen85 [3d\]: q18, p18, s18, q19, ko  -  r18, t15 w dead  ?
+]
+;W[mr]WL[1394.799]
+;B[ri]BL[1235.279]
+;W[qi]WL[1373.334]C[LastAngel [?\]: which tournament is it?
+]
+;B[rj]BL[1224.675]C[maxp73 [4d\]: april kgs+
+]
+;W[rk]WL[1340.513]
+;B[qh]BL[1220.284]
+;W[oi]WL[1326.89]
+;B[ii]BL[1159.114]
+;W[jj]WL[1319.04]
+;B[jh]BL[1124.164]C[Ootakamoku [4d\]: assuming a reasonable cost for making this group alive, it would seem like b is leading..
+TurtleDove [4k\]: seems very hard to live after W k15 or so
+]
+;W[jf]WL[1196.565]
+;B[lh]BL[1029.441]
+;W[ng]WL[1171.269]
+;B[mi]BL[962.37]
+;W[hi]WL[1154.8]
+;B[hh]BL[957.747]
+;W[gj]WL[1140.461]
+;B[nk]BL[930.4]
+;W[on]WL[1135.117]
+;B[pk]BL[914.925]
+;W[qk]WL[1131.275]
+;B[oh]BL[900.197]
+;W[nj]WL[920.898]C[skillup [6d\]: Go go oubeika!
+]
+;B[mj]BL[804.703]
+;W[mk]WL[890.655]
+;B[nl]BL[744.35]
+;W[lk]WL[791.488]C[Oxymore [5k\]: P3 for white 
+]
+;B[nn]BL[644.208]C[Cava93 [4k\]: o12?
+]
+;W[nh]WL[744.365]
+;B[ni]BL[641.069]
+;W[oj]WL[743.129]C[anago4 [-\]: omg w is very strong
+]
+;B[mf]BL[548.347]
+;W[oo]WL[676.468]
+;B[no]BL[468.925]
+;W[np]WL[674.53]
+;B[pn]BL[451.017]C[kyzma84 [1d\]: big miss
+dogbert [4d\]: who
+kyzma84 [1d\]: b
+Kaptain85 [4k\]: q6 looks good
+kyzma84 [1d\]: q5
+]
+;W[po]WL[528.133]C[kyzma84 [1d\]: q4
+]
+;B[qo]BL[414.638]
+;W[pp]WL[526.596]C[psycroptic [1k\]: is n11 enough to kill r8 ?
+]
+;B[pm]BL[227.609]
+;W[qn]WL[488.316]
+;B[oq]BL[220.742]
+;W[pq]WL[486.413]
+;B[pr]BL[213.1]
+;W[qq]WL[484.954]
+;B[rq]BL[211.518]
+;W[qr]WL[476.398]
+;B[rr]BL[200.517]
+;W[or]WL[454.11]
+;B[os]BL[190.218]
+;W[nq]WL[453.215]C[dogbert [4d\]: looks like go
+psycroptic [1k\]: ko
+zife [-\]: what, how did this happen
+skillup [6d\]: ko
+idazuwaika [5d\]: always make me wonder why people think during obvious moves
+]
+;B[rn]BL[90.808]
+;W[mm]WL[428.075]C[MichaelSKY [4k\]: If black P2
+b3n [1d\]: p2
+MichaelSKY [4k\]: How can white make a ko?
+MichaelSKY [4k\]: P2
+]
+;B[or]BL[61.554]C[bisquit [2k\]: s1 
+zife [-\]: p2 s1 
+skillup [6d\]: lol
+MichaelSKY [4k\]: THX
+skillup [6d\]: w made big mistake
+zife [-\]: but idk if it works any longer
+zife [-\]: don't think it does
+bisquit [2k\]: it doesnt
+bisquit [2k\]: game over
+MichaelSKY [4k\]: why it does not work now?
+justice [1k\]: oubeika!oubeika!
+zife [-\]: because b can just t2 
+Cassis0 [6d\]: hx
+oubeika [5d\]: thx
+])

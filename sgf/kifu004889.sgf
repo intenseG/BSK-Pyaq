@@ -1,0 +1,387 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[600]OT[5x20 byo-yomi]
+PW[mi5103kann]PB[oubeika]WR[6d]BR[5d]DT[2012-01-07]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: hi
+mi5103kann [6d\]: hi
+]RE[W+Resign]
+;B[pd]BL[595.25]
+;W[dp]WL[596.39]
+;B[pq]BL[588.42]
+;W[dc]WL[592.836]
+;B[fq]BL[581.742]
+;W[cn]WL[574.313]
+;B[qk]BL[568.85]
+;W[jp]WL[555.758]
+;B[lp]BL[555.936]
+;W[kn]WL[544.791]
+;B[ln]BL[503.621]
+;W[lm]WL[531.441]C[robs [1k\]: ahh... ah.. b +2.5 ..
+]
+;B[mm]BL[482.938]
+;W[km]WL[511.633]
+;B[mn]BL[464.697]
+;W[eq]WL[505.042]
+;B[er]BL[455.245]
+;W[fp]WL[494.532]
+;B[dq]BL[450.464]
+;W[ep]WL[492.906]
+;B[cr]BL[441.042]
+;W[gq]WL[487.417]
+;B[cp]BL[434.009]
+;W[co]WL[482.374]
+;B[bp]BL[419.724]
+;W[de]WL[471.206]
+;B[jd]BL[394.616]C[sn9 [1k\]: venom
+]
+;W[jf]WL[462.637]
+;B[cg]BL[360.481]
+;W[nc]WL[456.841]C[sn9 [1k\]: suku ram
+]
+;B[nd]BL[327.403]
+;W[md]WL[453.982]
+;B[ne]BL[318.092]
+;W[oc]WL[449.518]
+;B[pc]BL[309.348]
+;W[me]WL[446.512]
+;B[mf]BL[291.697]
+;W[ke]WL[434.277]
+;B[gd]BL[256.818]
+;W[di]WL[423.544]
+;B[ci]BL[249.982]
+;W[cj]WL[420.806]
+;B[dj]BL[245.968]
+;W[ei]WL[415.742]
+;B[bj]BL[218.374]
+;W[ck]WL[413.922]
+;B[bh]BL[217.242]
+;W[dg]WL[409.291]C[robs [1k\]: can w hold big center?
+]
+;B[cf]BL[209.032]
+;W[df]WL[399.304]C[casimiro [6k\]: no
+]
+;B[fc]BL[173.993]C[Totti10 [2k\]: sure
+robs [1k\]: then b is ahead
+crocopfun [3k\]: depends how big is 'big'
+]
+;W[kc]WL[383.209]
+;B[jc]BL[168.734]
+;W[kb]WL[381.951]C[robs [1k\]: right side is big
+casimiro [6k\]: w will attack one cornner soon
+Totti10 [2k\]: invadable
+goffriller [7k\]: I see b ahead even if w goes lives in lower right
+LEIBNIZ [2k\]: w will attach SE
+FoH [5k\]: w's moyo is almost impressive
+]
+;B[hf]BL[118.118]C[FoH [5k\]: but i like b more
+]
+;W[od]WL[371.244]C[casimiro [6k\]: go go go
+]
+;B[oe]BL[101.439]
+;W[pe]WL[368.843]C[sn9 [1k\]: sneaky poisonous
+LEIBNIZ [2k\]: a weakness in b's shape here
+]
+;B[qe]BL[78.711]
+;W[pf]WL[365.269]
+;B[og]BL[77.507]C[Totti10 [2k\]: obviously
+robs [1k\]: b go 4 kill
+]
+;W[qf]WL[358.241]
+;B[re]BL[73.014]
+;W[rf]WL[347.592]
+;B[rc]BL[70.581]
+;W[ph]WL[317.411]
+;B[oh]BL[64.459]
+;W[pj]WL[312.166]
+;B[oi]BL[45.126]
+;W[qj]WL[306.827]C[sn9 [1k\]: its now on never#
+FoH [5k\]: now i like w more )
+]
+;B[rk]BL[14.832]
+;W[pk]WL[298.811]
+;B[pl]BL[20]OB[5]
+;W[ol]WL[295.527]
+;B[pm]BL[20]OB[5]
+;W[nk]WL[290.088]C[LEIBNIZ [2k\]: brilliant attack
+]
+;B[lf]BL[20]OB[5]C[FoH [5k\]: attack + running
+Totti10 [2k\]: pretty standard
+]
+;W[le]WL[271.719]C[FoH [5k\]: well running + attack correct
+]
+;B[mh]BL[20]OB[5]
+;W[om]WL[264.58]
+;B[pn]BL[20]OB[5]
+;W[ml]WL[257.286]
+;B[jg]BL[20]OB[5]
+;W[kg]WL[248.644]
+;B[kf]BL[20]OB[5]
+;W[je]WL[245.495]
+;B[jh]BL[20]OB[5]
+;W[jb]WL[230.334]
+;B[ib]BL[20]OB[5]
+;W[pb]WL[223.589]
+;B[qb]BL[20]OB[5]
+;W[se]WL[220.871]
+;B[ob]BL[20]OB[5]
+;W[nb]WL[217.612]
+;B[pa]BL[20]OB[5]
+;W[if]WL[215.918]
+;B[hg]BL[20]OB[5]
+;W[ig]WL[214.508]
+;B[ih]BL[20]OB[5]
+;W[hh]WL[203.779]
+;B[he]BL[20]OB[4]C[sanax [4d\]: h15 shud b h16
+]
+;W[mb]WL[178.304]C[robs [1k\]: arghhh.. w gote
+]
+;B[jj]BL[20]OB[4]
+;W[gh]WL[172.994]
+;B[hc]BL[20]OB[4]C[robs [1k\]: J8 and moyo gone
+]
+;W[li]WL[159.21]
+;B[lh]BL[20]OB[4]
+;W[pr]WL[144.435]
+;B[qq]BL[20]OB[4]C[FoH [5k\]: overplay?
+Totti10 [2k\]: probe
+]
+;W[on]WL[130.97]
+;B[oo]BL[20]OB[4]
+;W[be]WL[106.9]
+;B[ce]BL[20]OB[4]
+;W[cd]WL[105.003]
+;B[bk]BL[20]OB[4]
+;W[cl]WL[103]
+;B[ik]BL[20]OB[4]
+;W[bf]WL[99.319]
+;B[ai]BL[20]OB[4]
+;W[bl]WL[91.334]
+;B[bg]BL[20]OB[4]
+;W[fr]WL[86.539]C[Totti10 [2k\]: l3
+]
+;B[rj]BL[20]OB[4]
+;W[ri]WL[71.286]
+;B[kr]BL[20]OB[4]
+;W[es]WL[68.077]
+;B[ar]BL[20]OB[2]
+;W[dr]WL[55.143]C[Totti10 [2k\]: h8 and e18 are big
+]
+;B[bs]BL[20]OB[2]
+;W[dh]WL[50.741]
+;B[ak]BL[20]OB[2]
+;W[ch]WL[47.217]C[sanax [4d\]: what was a1..
+]
+;B[ag]BL[20]OB[2]
+;W[bi]WL[44.264]
+;B[bd]BL[20]OB[2]
+;W[bc]WL[41.21]
+;B[ci]BL[20]OB[2]
+;W[ki]WL[39.96]
+;B[kh]BL[20]OB[2]
+;W[bi]WL[35.888]C[Totti10 [2k\]: why ko?
+]
+;B[kd]BL[20]OB[2]C[FoH [5k\]: why not?
+]
+;W[ld]WL[32.632]
+;B[ci]BL[20]OB[2]
+;W[cq]WL[31.811]C[Totti10 [2k\]: didnt need to
+]
+;B[bq]BL[20]OB[2]C[kanaga: play miss
+uqx [5k?\]: Black has two threats around A16 still too?
+]
+;W[bi]WL[29.389]
+;B[lc]BL[20]OB[2]C[FoH [5k\]: this ko good 4 w
+FoH [5k\]: he doesnt lose anything
+]
+;W[lb]WL[14.192]
+;B[ci]BL[20]OB[2]C[Totti10 [2k\]: it wasnt necessary
+]
+;W[id]WL[10.66]
+;B[ic]BL[20]OB[2]
+;W[bi]WL[9.938]
+;B[ie]BL[20]OB[2]
+;W[mc]WL[8.467]
+;B[ci]BL[20]OB[2]C[FoH [5k\]: it is big
+]
+;W[cs]WL[4.426]C[Montchik [-\]: b was alive without it
+bert [3d\]: :-)
+robs [1k\]: triple ko
+]
+;B[bi]BL[20]OB[2]
+;W[br]WL[2.427]
+;B[ja]BL[20]OB[2]
+;W[ka]WL[20]OW[5]
+;B[cr]BL[20]OB[2]
+;W[no]WL[20]OW[5]
+;B[op]BL[20]OB[2]
+;W[br]WL[20]OW[5]
+;B[ll]BL[20]OB[2]
+;W[kk]WL[20]OW[5]
+;B[cr]BL[20]OB[2]
+;W[nn]WL[20]OW[5]
+;B[br]BL[20]OB[2]
+;W[eb]WL[20]OW[5]
+;B[im]BL[20]OB[2]
+;W[gb]WL[20]OW[5]
+;B[fb]BL[20]OB[2]
+;W[fa]WL[20]OW[5]
+;B[ec]BL[20]OB[2]C[mikkibro [14k\]: die...
+]
+;W[cb]WL[20]OW[5]
+;B[fe]BL[20]OB[2]
+;W[hj]WL[20]OW[5]
+;B[kj]BL[20]OB[2]
+;W[lj]WL[20]OW[5]C[robs [1k\]: J0
+]
+;B[fh]BL[20]OB[1]C[robs [1k\]: J10
+]
+;W[ji]WL[20]OW[5]
+;B[ii]BL[20]OB[1]
+;W[ij]WL[20]OW[5]C[uqx [5k?\]: strange choice by black
+Totti10 [2k\]: why not connect
+]
+;B[hi]BL[20]OB[1]C[mikkibro [14k\]: ???
+]
+;W[gj]WL[20]OW[5]C[lebenou [2d?\]: time choice
+mikkibro [14k\]: he should connect!!
+FoH [5k\]: how can l9 works ?
+]
+;B[gi]BL[20]OB[1]C[FoH [5k\]: when it was lonelo stone
+Totti10 [2k\]: connecting is to much bigger
+uqx [5k?\]: he was m=hoping for wG11 instead w G10?
+FoH [5k\]: lonely*
+]
+;W[ko]WL[20]OW[5]C[higoodgame [9k\]: f10
+]
+;B[mp]BL[20]OB[1]C[mikkibro [14k\]: white win?
+]
+;W[jr]WL[20]OW[5]
+;B[kq]BL[20]OB[1]
+;W[jq]WL[20]OW[5]C[lebenou [2d?\]: now y
+illyrio [-\]: f10 f11
+]
+;B[fj]BL[20]OB[1]
+;W[fi]WL[20]OW[5]
+;B[jk]BL[20]OB[1]
+;W[fk]WL[20]OW[5]C[Totti10 [2k\]: strange choices by b
+]
+;B[lk]BL[20]OB[1]
+;W[kl]WL[20]OW[5]
+;B[mj]BL[20]OB[1]
+;W[mk]WL[20]OW[5]
+;B[lk]BL[20]OB[1]
+;W[ll]WL[20]OW[5]
+;B[mi]BL[20]OB[1]
+;W[lk]WL[20]OW[5]C[mikkibro [14k\]: whats he doing
+]
+;B[oj]BL[20]OB[1]
+;W[ok]WL[20]OW[5]C[mikkibro [14k\]: lol play inside
+norsu [2k\]: super size B2 for w
+]
+;B[rh]BL[20]OB[1]
+;W[qh]WL[20]OW[5]
+;B[si]BL[20]OB[1]
+;W[of]WL[20]OW[5]
+;B[nf]BL[20]OB[1]
+;W[np]WL[20]OW[5]
+;B[nq]BL[20]OB[1]
+;W[ks]WL[20]OW[5]
+;B[ls]BL[20]OB[1]
+;W[js]WL[20]OW[5]
+;B[mr]BL[20]OB[1]
+;W[bo]WL[20]OW[5]
+;B[ap]BL[20]OB[1]
+;W[qi]WL[20]OW[5]
+;B[pg]BL[20]OB[1]
+;W[qg]WL[20]OW[5]C[Tfp [2d\]: f10 is like ...... not thinking move
+mikkibro [14k\]: why did he play inside
+]
+;B[fg]BL[20]OB[1]
+;W[rg]WL[20]OW[5]C[prysm [6k\]: was buying time
+]
+;B[sh]BL[20]OB[1]
+;W[sj]WL[20]OW[5]C[Totti10 [2k\]: b did a lot of not thinking
+]
+;B[sk]BL[20]OB[1]
+;W[sg]WL[20]OW[5]
+;B[af]BL[20]OB[1]
+;W[ad]WL[20]OW[5]
+;B[ia]BL[20]OB[1]
+;W[sj]WL[20]OW[5]
+;B[si]BL[20]OB[1]C[Tfp [2d\]: mikkibro, no one knows
+]
+;W[sd]WL[20]OW[5]C[Tfp [2d\]: he prob doesn't know it himself
+uqx [5k?\]: Probably just too rushed on time
+mikkibro [14k\]: t11...
+mikkibro [14k\]: dead
+]
+;B[ao]BL[20]OB[1]
+;W[kp]WL[20]OW[5]
+;B[ae]BL[20]OB[1]
+;W[bd]WL[20]OW[5]C[mikkibro [14k\]: b is weird for a 6d
+]
+;B[sc]BL[20]OB[1]C[Tfp [2d\]: wouldn't call it disgrace
+illyrio [-\]: no wonder, he is only 5d
+]
+;W[na]WL[20]OW[5]
+;B[rd]BL[20]OB[1]C[mikkibro [14k\]: 5
+]
+;W[oa]WL[20]OW[5]
+;B[pb]BL[20]OB[1]C[test1246 [4k\]: lol "only"
+]
+;W[lo]WL[20]OW[5]C[mikkibro [14k\]: but 5d is so good
+]
+;B[mo]BL[20]OB[1]
+;W[nm]WL[20]OW[5]
+;B[lq]BL[20]OB[1]
+;W[sf]WL[20]OW[5]C[Tfp [2d\]: comparative
+]
+;B[al]BL[20]OB[1]
+;W[ef]WL[20]OW[5]C[illyrio [-\]: nah, 5d is only beginning to undeerstand this game
+]
+;B[bm]BL[20]OB[1]
+;W[cm]WL[20]OW[5]C[Tfp [2d\]: again comparative
+mikkibro [14k\]: ...
+lumieres [-\]: xD
+]
+;B[ff]BL[20]OB[1]
+;W[nj]WL[20]OW[5]C[mikkibro [14k\]: then whats 
+]
+;B[bn]BL[20]OB[1]C[mikkibro [14k\]: 30k
+]
+;W[ni]WL[20]OW[5]
+;B[nh]BL[20]OB[1]
+;W[ed]WL[20]OW[5]C[Serafin [18k\]: 5 dan is only understandig this gaem ? who wrote this ?
+illyrio [-\]: 30k is playing with round stones ;)
+]
+;B[gc]BL[20]OB[1]C[Tfp [2d\]: you can say "no one understands the game"
+gradedgo [4d\]: a 5d
+]
+;W[ea]WL[20]OW[5]C[Tfp [2d\]: which would be true also
+trippin [4k\]: i was thinking th esame thing as tfp
+]
+;B[gk]BL[20]OB[1]
+;W[ej]WL[20]OW[5]C[mikkibro [14k\]: then whats 9d
+]
+;B[sh]BL[20]OB[1]C[blurb1: lot of 4-5 dans here play just one trashy 10sec game aftre the other
+Gougoule [2k\]: seems like b is drunk ^^
+illyrio [-\]: 9d are usually pro
+]
+;W[rh]WL[20]OW[5]
+;B[sj]BL[20]OB[1]C[mikkibro [14k\]: 5d is good
+]
+;W[ql]WL[20]OW[5]C[prysm [6k\]: no, buying time
+mikkibro [14k\]: .....
+mikkibro [14k\]: black
+Tfp [2d\]: most 9ds are not pros
+Serafin [18k\]: the guy who wrote a 5 dan is going too undestand this game have to say me which dan he is !
+diongun: ...
+oubeika [5d\]: thx
+Tfp [2d\]: most pros are 9d
+trippin [4k\]: 9d is someone who has reached or exceeded high rank availabe to  amateurs
+mi5103kann [6d\]: tx
+mikkibro [14k\]: what happened
+mikkibro [14k\]: b
+uqx [5k?\]: oops
+Pottu [3k\]: suicide move
+Totti10 [2k\]: b definitely drunk
+illyrio [-\]: eh, Serafin I didnt write this exactly - but im 3d
+])

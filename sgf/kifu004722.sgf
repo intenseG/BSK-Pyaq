@@ -1,0 +1,319 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[60]OT[20x20 byo-yomi]
+PW[intenseG]PB[Gamureg]WR[7d]BR[6d]DT[2014-12-01]PC[The KGS Go Server at http://www.gokgs.com/]C[intenseG [7d\]: hi gg
+]RE[B+Resign]
+;B[pd]BL[52.268]C[Gamureg [6d\]: hi
+Gamureg [6d\]: gg
+]
+;W[dp]WL[53.637]
+;B[op]BL[26.128]
+;W[dc]WL[41.833]
+;B[fq]BL[23.748]
+;W[dn]WL[37.844]
+;B[ip]BL[19.48]
+;W[qj]WL[19.8]
+;B[qp]BL[7.691]C[troll [2d\]: q9 instead of r4 would be cool
+]
+;W[qf]WL[12.723]
+;B[de]BL[4.646]
+;W[cg]WL[20]OW[20]
+;B[cc]BL[1.147]
+;W[cd]WL[20]OW[20]
+;B[dd]BL[20]OB[20]
+;W[ce]WL[20]OW[20]
+;B[cf]BL[20]OB[20]
+;W[df]WL[20]OW[20]
+;B[bf]BL[20]OB[20]
+;W[bc]WL[20]OW[20]
+;B[cb]BL[20]OB[20]
+;W[be]WL[20]OW[20]
+;B[ec]BL[20]OB[20]
+;W[ef]WL[20]OW[20]
+;B[ae]BL[20]OB[20]
+;W[bd]WL[20]OW[20]C[Ootakamoku [3d\]: wut..
+Ootakamoku [3d\]: e14 trolling?
+]
+;B[bg]BL[20]OB[20]
+;W[bb]WL[20]OW[20]
+;B[ch]BL[20]OB[20]
+;W[db]WL[20]OW[20]
+;B[eb]BL[20]OB[20]
+;W[ca]WL[20]OW[20]
+;B[fe]BL[20]OB[20]
+;W[eh]WL[20]OW[20]
+;B[ck]BL[20]OB[20]
+;W[he]WL[20]OW[20]
+;B[gc]BL[20]OB[19]
+;W[gg]WL[20]OW[20]
+;B[id]BL[20]OB[19]
+;W[nc]WL[20]OW[20]
+;B[nd]BL[20]OB[19]
+;W[md]WL[20]OW[20]
+;B[ne]BL[20]OB[19]
+;W[oc]WL[20]OW[20]
+;B[pf]BL[20]OB[19]
+;W[pg]WL[20]OW[20]
+;B[qe]BL[20]OB[19]
+;W[rf]WL[20]OW[20]
+;B[pc]BL[20]OB[19]C[faillen: w looks like in total control
+]
+;W[lc]WL[20]OW[20]
+;B[ie]BL[20]OB[18]C[Ootakamoku [3d\]:  w control feels a bit.. forced
+Becubio [4k\]: the intense is control ^^
+]
+;W[re]WL[20]OW[20]
+;B[rd]BL[20]OB[18]
+;W[rc]WL[20]OW[20]C[nonosse [2k\]: here comes the book
+]
+;B[og]BL[20]OB[17]C[faillen: the book ?
+]
+;W[ph]WL[20]OW[20]C[Becubio [4k\]: joseki book?
+]
+;B[pb]BL[20]OB[17]
+;W[sd]WL[20]OW[20]
+;B[me]BL[20]OB[17]C[nonosse [2k\]: yep
+]
+;W[le]WL[20]OW[20]C[faillen: oh dear
+Ootakamoku [3d\]: n18
+]
+;B[mb]BL[20]OB[17]
+;W[mc]WL[20]OW[20]
+;B[lf]BL[20]OB[17]
+;W[ke]WL[20]OW[20]
+;B[kf]BL[20]OB[17]
+;W[jc]WL[20]OW[20]
+;B[ic]BL[20]OB[17]
+;W[jb]WL[20]OW[20]C[Becubio [4k\]: now w is in problems!
+Ootakamoku [3d\]: fix shape around p14
+]
+;B[ig]BL[20]OB[16]
+;W[ej]WL[20]OW[20]
+;B[dl]BL[20]OB[16]C[faillen: and cut
+]
+;W[fp]WL[20]OW[20]C[nonosse [2k\]: w thinks he s fine, Becubio
+]
+;B[gp]BL[20]OB[16]C[Ootakamoku [3d\]: well, nothing works there now that w k14 is fixed
+]
+;W[eq]WL[20]OW[20]
+;B[fo]BL[20]OB[16]C[Ootakamoku [3d\]: still, it feels so flimsy :P
+]
+;W[ep]WL[20]OW[20]C[Becubio [4k\]: n3 looks delicious now...
+faillen: b still has an attack on g13
+]
+;B[hi]BL[20]OB[16]
+;W[gi]WL[20]OW[20]C[Becubio [4k\]: h11 always more juicy
+]
+;B[hh]BL[20]OB[16]
+;W[gj]WL[20]OW[20]
+;B[gh]BL[20]OB[16]
+;W[fh]WL[20]OW[20]
+;B[ff]BL[20]OB[15]C[Becubio [4k\]: i'm talking of Go being hungry...
+]
+;W[fl]WL[20]OW[20]C[faillen: theres almost no point on this board
+BHL [4k\]: f2
+]
+;B[fg]BL[20]OB[14]
+;W[gq]WL[20]OW[20]C[faillen: r7 looks pretty big
+]
+;B[hq]BL[20]OB[14]
+;W[fr]WL[20]OW[20]
+;B[fm]BL[20]OB[14]
+;W[em]WL[20]OW[20]
+;B[el]BL[20]OB[14]C[Becubio [4k\]: r7 is just space, not a killing move
+]
+;W[gl]WL[20]OW[20]
+;B[gm]BL[20]OB[14]C[nonosse [2k\]: w groups death would be bigger yet
+Ootakamoku [3d\]: white usually wins when there are few points on the board
+]
+;W[hm]WL[20]OW[20]
+;B[hn]BL[20]OB[14]
+;W[in]WL[20]OW[20]
+;B[im]BL[20]OB[14]
+;W[hl]WL[20]OW[20]C[Becubio [4k\]: cut first think later
+nonosse [2k\]: kyu proverb
+Ootakamoku [3d\]: think first, cut anyways
+go [3k?\]: this might come as a surprise, but each game there are the same number of points on the board
+Becubio [4k\]: h5 of course now, after cut like that... jaja
+faillen: you should learn to play go then
+]
+;B[jn]BL[20]OB[11]
+;W[bj]WL[20]OW[20]
+;B[cj]BL[20]OB[11]
+;W[bi]WL[20]OW[20]C[Ootakamoku [3d\]: becubio, outside ponnuki, veeeeery valuable :)
+]
+;B[dh]BL[20]OB[10]
+;W[eg]WL[20]OW[20]C[Becubio [4k\]: yeap i see, it recover g7 for a ko
+Becubio [4k\]: is nice
+]
+;B[bh]BL[20]OB[9]
+;W[bm]WL[20]OW[20]C[Becubio [4k\]: b10 was very high dan
+Ootakamoku [3d\]: b10 was fail
+faillen: failling high dan way
+Becubio [4k\]: i see it can kill
+nonosse [2k\]: b12 really, nothing better downside?
+Ootakamoku [3d\]: becubio, very strong, cause I cant
+nonosse [2k\]: like C6?
+theDude [2d\]: b10 2d level overplay :)
+]
+;B[cm]BL[20]OB[5]C[nonosse [2k\]: if b need b12 i dont see an overplay
+]
+;W[bk]WL[20]OW[19]C[Becubio [4k\]: b8?
+killmejk [5k\]: count yer liberties ppl
+faillen: hard to do so
+]
+;B[cn]BL[20]OB[4]
+;W[bl]WL[20]OW[19]C[Ootakamoku [3d\]: d10
+faillen: d10 ? :)
+killmejk [5k\]: 10 to 6?
+killmejk [5k\]: so white lives
+govegan [6k\]: e 6
+Becubio [4k\]: cut garated
+go [3k?\]: both live
+Ootakamoku [3d\]: I guess b could give up tail
+]
+;B[dj]BL[20]OB[2]C[tontonken [1k\]: whoa there were 110 moves and 110 observers when I joined
+Ootakamoku [3d\]: get reduction in corner, anda void mess with g6 aji
+killmejk [5k\]: yeah i just mean black has to save d12 so white lives
+faillen: now what ?
+]
+;W[bo]WL[20]OW[18]C[nonosse [2k\]: at this point need to save all
+killmejk [5k\]: actually im wrong
+tontonken [1k\]: e6 for b now
+]
+;B[co]BL[20]OB[2]C[killmejk [5k\]: yeah someone has to die
+Ootakamoku [3d\]: e6 such a pain
+Becubio [4k\]: c8 now!
+]
+;W[bp]WL[20]OW[18]C[Ootakamoku [3d\]: w answers with g6
+tontonken [1k\]: ah
+faillen: like a g6
+tontonken [1k\]: but then b threatens an eye with d7 no?
+Ootakamoku [3d\]: b g6 would ahve some real spirit to it
+Becubio [4k\]: e6 conects
+]
+;B[io]BL[20]OB[1]C[Ootakamoku [3d\]: ooh
+Ootakamoku [3d\]: j5 effectively the same as g6
+tontonken [1k\]: here comes some intense go, as w lives up to his name
+Ootakamoku [3d\]: plan, kill all of w
+]
+;W[en]WL[20]OW[18]C[faillen: so e6 ?
+killmejk [5k\]: plan all of black die
+Ootakamoku [3d\]: 9
+]
+;B[hj]BL[20]OB[1]C[Grashoper [2d\]: j
+nonosse [2k\]: can b live?
+Ootakamoku [3d\]: can w live?
+ikuy [3d\]: e9 c8 d13 
+faillen: can they both live ?
+theDude [2d\]: no
+Becubio [4k\]: e6 was the only connection 
+killmejk [5k\]: find out next time
+tontonken [1k\]: that result's no fun
+killmejk [5k\]: on dragon ball z
+]
+;W[ik]WL[20]OW[17]C[faillen: the bad guy always die
+faillen: who's the bad guy ?
+tontonken [1k\]: h9 wasn't an option?
+]
+;B[fk]BL[20]OB[1]
+;W[gk]WL[20]OW[17]C[Ootakamoku [3d\]: e11
+]
+;B[il]BL[20]OB[1]
+;W[hk]WL[20]OW[17]C[Becubio [4k\]: e6 was connection and the biggest ko ...
+]
+;B[jk]BL[20]OB[1]
+;W[ij]WL[20]OW[17]
+;B[jj]BL[20]OB[1]
+;W[ii]WL[20]OW[17]
+;B[ji]BL[20]OB[1]C[go [3k?\]: raw ladder
+Ootakamoku [3d\]: hmm, too early to call for resign?
+patrickn [1d\]: wah wah wee wah
+faillen: w is in trouble
+Ootakamoku [3d\]: looks to me like w got pwnd
+killmejk [5k\]: heavy 
+theDude [2d\]: wis dead
+Becubio [4k\]: e9
+faillen: so w was the bad guy ?
+tontonken [1k\]: heavy is near dead, this is dead pretty sure
+go [3k?\]: game over
+Becubio [4k\]: comme on!!! w can do it
+Ootakamoku [3d\]: I wonder if this game would be playable assuming b dies
+Ootakamoku [3d\]: w certainly would be leading, but maybe b could continue regardless
+tontonken [1k\]: menacing wall but it looks too open at the right
+Muttley [2k\]: b dies?
+Ootakamoku [3d\]: no
+Muttley [2k\]: isn't diying?
+faillen: b has potential on the bottom right
+Muttley [2k\]: isn't w dying?
+faillen: i guess it would be playable
+tontonken [1k\]: pretty sure w has too few libs
+go [3k?\]: black has 1 group
+Muttley [2k\]: what can w threaten with a semeai, I'm missing it
+Muttley [2k\]: c5?
+Ootakamoku [3d\]: black might have 2groups if they can conconate up a seki somehow
+theDude [2d\]: w short on libs, b short on byo-yomi
+]
+;W[ee]WL[20]OW[10]C[Becubio [4k\]: no... w dies for 3 moves...
+]
+;B[ed]BL[20]OB[1]
+;W[fd]WL[20]OW[10]C[faillen: w reducing his own libs ?
+killmejk [5k\]: interesting
+tontonken [1k\]: w can't do semeai so he's looking elsewhere I guess
+Muttley [2k\]: w may have something based on this damezumari
+killmejk [5k\]: plan to attack h12 and escape right?
+]
+;B[gf]BL[20]OB[1]
+;W[jh]WL[20]OW[10]C[killmejk [5k\]: ?
+faillen: w so dead
+theDude [2d\]: w looking for something conmplicated to catch b on time
+]
+;B[ih]BL[20]OB[1]C[Becubio [4k\]: w+t
+tontonken [1k\]: I don't think w can go very far even if he gets out
+killmejk [5k\]: k12???
+]
+;W[hf]WL[20]OW[10]
+;B[hg]BL[20]OB[1]
+;W[if]WL[20]OW[10]C[Ootakamoku [3d\]: did b just fall into a trapk13 only move
+killmejk [5k\]: to kill e 18???
+]
+;B[jg]BL[20]OB[1]C[killmejk [5k\]: this is crazy
+Ootakamoku [3d\]: ah, w cant quite pull out the stones
+]
+;W[gd]WL[20]OW[10]C[nonosse [2k\]: w tooo short on lib
+tontonken [1k\]: killing e18 isn't possible with how few libs he has tho...
+]
+;B[jf]BL[20]OB[1]C[faillen: gg
+tontonken [1k\]: or
+killmejk [5k\]: such a cool idea
+Becubio [4k\]: this is very afraying
+tontonken [1k\]: wait a second
+patrickn [1d\]: f17?
+Ootakamoku [3d\]: doesnt work
+Muttley [2k\]: heh
+tontonken [1k\]: no that's a spiral ladder
+tontonken [1k\]: that's gg
+]
+;W[fc]WL[20]OW[9]
+;B[fb]BL[20]OB[1]
+;W[gb]WL[20]OW[9]C[Ootakamoku [3d\]: oh
+Ootakamoku [3d\]: it does
+tontonken [1k\]: wait
+patrickn [1d\]: lol
+patrickn [1d\]: massive ownage
+]
+;B[hd]BL[20]OB[1]C[killmejk [5k\]: saving this game forever
+tontonken [1k\]: holy
+]
+;W[hc]WL[20]OW[9]C[tontonken [1k\]: shortage of libs
+]
+;B[ge]BL[20]OB[1]C[Ootakamoku [3d\]: or not
+Darkkkk [2d\]: :D
+Becubio [4k\]: imposible...
+intenseG [7d\]: thx
+Gamureg [6d\]: tx
+killmejk [5k\]: thanks
+patrickn [1d\]: that would have been golden
+faillen: nice try
+tontonken [1k\]: shoot
+tontonken [1k\]: reading is hard
+])

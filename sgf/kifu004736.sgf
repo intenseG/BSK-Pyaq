@@ -1,0 +1,278 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[900]OT[3x30 byo-yomi]
+PW[intenseG]PB[hiami]WR[5d]BR[4d]DT[2015-09-13]PC[The KGS Go Server at http://www.gokgs.com/]C[hiami [4d\]: よろしくお願いします
+]RE[W+Resign]
+;B[pd]BL[886.395]C[intenseG [5d\]: よろしくお願いします
+]
+;W[]WL[893.991]
+;B[pp]BL[883.091]
+;W[de]WL[891.862]
+;B[cp]BL[876.475]C[rispec [7k\]: おお、オーソドックスな置きですね
+]
+;W[do]WL[880.462]
+;B[dp]BL[873.257]
+;W[lj]WL[878.598]
+;B[cg]BL[822.432]
+;W[ci]WL[845.469]
+;B[cd]BL[819.849]
+;W[dd]WL[790.446]
+;B[ce]BL[812.357]
+;W[df]WL[773.704]
+;B[cf]BL[798.577]
+;W[dg]WL[767.147]
+;B[dc]BL[792.285]
+;W[ec]WL[764.423]
+;B[eb]BL[775.239]
+;W[db]WL[750.091]
+;B[cc]BL[772.794]
+;W[fc]WL[748.119]
+;B[fb]BL[769.398]
+;W[gb]WL[746.078]
+;B[cb]BL[766.983]
+;W[hc]WL[729.274]
+;B[mc]BL[759.041]
+;W[ep]WL[695.976]
+;B[eo]BL[748.266]
+;W[eq]WL[684.246]
+;B[en]BL[737.107]
+;W[co]WL[656.428]
+;B[bo]BL[734.763]
+;W[cn]WL[654.274]
+;B[cm]BL[696.811]
+;W[bn]WL[644.793]
+;B[bm]BL[690.562]
+;W[bp]WL[634.29]
+;B[bq]BL[683.537]
+;W[ao]WL[632.538]C[yaranaio [1d\]: うわっ
+yaranaio [1d\]: これ成立したらどうするん
+]
+;B[cq]BL[663.271]
+;W[dm]WL[618.004]
+;B[dn]BL[652.94]
+;W[cl]WL[615.217]C[yaranaio [1d\]: うわっうわっうわっ
+]
+;B[bl]BL[643.903]C[popon [1k\]: ｗ
+rispec [7k\]: どうなってるんですか？
+yaranaio [1d\]: 終盤戦ですね
+]
+;W[dl]WL[453.243]
+;B[bk]BL[622.474]
+;W[fm]WL[451.352]C[yaranaio [1d\]: なるほど
+popon [1k\]: どいうこと？
+yaranaio [1d\]: 左辺は諦めたんじゃなかろうか
+]
+;B[gn]BL[553.212]C[colombia2 [1k\]: でもはねるときもいか
+yaranaio [1d\]: 左辺が攻め撮りになればわんちゃん
+]
+;W[fn]WL[416.604]
+;B[fo]BL[550.829]
+;W[go]WL[403.644]
+;B[fp]BL[535.948]
+;W[hn]WL[353.292]
+;B[gp]BL[529.034]
+;W[gm]WL[346.924]
+;B[ip]BL[517.368]
+;W[bj]WL[288.606]
+;B[ck]BL[481.756]
+;W[dk]WL[266.569]C[yaranaio [1d\]: 全然わからん╮( •́ω•̀)╭=3
+]
+;B[cj]BL[463.271]
+;W[dj]WL[246.63]
+;B[bi]BL[460.378]
+;W[bh]WL[232.154]
+;B[aj]BL[457.744]
+;W[ld]WL[222.546]
+;B[lc]BL[453.251]
+;W[kd]WL[220.495]C[rispec [7k\]: アジですか、アジ！
+]
+;B[mh]BL[294.149]C[rispec [7k\]: すごいとこですね
+rispec [7k\]: これは悩む＞＜
+]
+;W[lg]WL[97.406]
+;B[lh]BL[271.834]
+;W[kh]WL[94.239]
+;B[kg]BL[266.032]
+;W[ki]WL[91.6]
+;B[lf]BL[263.15]C[litte7069 [4k\]: うお
+]
+;W[jg]WL[88.53]
+;B[mg]BL[261.05]
+;W[jf]WL[86.796]
+;B[ch]BL[257.55]C[rispec [7k\]: うおおお
+]
+;W[kq]WL[80.534]
+;B[di]BL[247.865]
+;W[ei]WL[77.097]
+;B[ej]BL[244.246]C[rispec [7k\]: そこもキルの
+]
+;W[em]WL[62.484]
+;B[eh]BL[233.322]
+;W[fi]WL[59.957]
+;B[dh]BL[231.85]
+;W[hp]WL[51.449]
+;B[hq]BL[229.63]
+;W[io]WL[47.774]
+;B[ho]BL[226.867]C[yaranaio [1d\]: おお
+]
+;W[cr]WL[34.072]
+;B[er]BL[206.343]C[popon [1k\]: おお
+]
+;W[fq]WL[28.158]
+;B[fr]BL[191.623]C[yaranaio [1d\]: あ
+colombia2 [1k\]: ひあみおつよい
+]
+;W[jp]WL[30]OW[3]C[rispec [7k\]: ひあみさんが捕らえたの？
+yaranaio [1d\]: うみゅ
+]
+;B[gn]BL[170.369]
+;W[br]WL[30]OW[3]
+;B[aq]BL[148.601]
+;W[go]WL[30]OW[3]
+;B[gq]BL[138.84]
+;W[qn]WL[30]OW[3]C[colombia2 [1k\]: おもしろい
+colombia2 [1k\]: こげいまに３，３いりするか
+colombia2 [1k\]: なら
+colombia2 [1k\]: はさむか
+]
+;B[pn]BL[46.561]C[rispec [7k\]: お互い時間延長は使わないのかな
+colombia2 [1k\]: ほ
+]
+;W[pm]WL[30]OW[3]
+;B[qo]BL[42.926]
+;W[on]WL[30]OW[3]
+;B[po]BL[40.907]
+;W[qm]WL[30]OW[3]
+;B[oq]BL[31.041]
+;W[md]WL[30]OW[3]
+;B[nd]BL[21.83]
+;W[ne]WL[30]OW[3]
+;B[od]BL[19.081]
+;W[of]WL[30]OW[3]
+;B[oh]BL[30]OB[3]
+;W[qf]WL[30]OW[3]C[colombia2 [1k\]: わんぱんげー
+]
+;B[qh]BL[30]OB[3]
+;W[mf]WL[30]OW[3]
+;B[qk]BL[30]OB[3]C[popon [1k\]: うみゅ
+]
+;W[pi]WL[30]OW[3]C[colombia2 [1k\]: つげばわたれるか
+colombia2 [1k\]: みぎうえにひびくか
+]
+;B[qi]BL[30]OB[2]
+;W[pj]WL[30]OW[3]
+;B[qg]BL[30]OB[2]C[litte7069 [4k\]: なるほど
+]
+;W[qe]WL[30]OW[3]
+;B[qd]BL[30]OB[2]
+;W[og]WL[30]OW[3]
+;B[ph]BL[30]OB[2]
+;W[ni]WL[30]OW[3]C[colombia2 [1k\]: おもしろい
+colombia2 [1k\]: きもちわるいおとしのこりか
+]
+;B[nj]BL[30]OB[2]
+;W[pk]WL[30]OW[3]
+;B[rl]BL[30]OB[2]
+;W[ro]WL[30]OW[3]
+;B[rp]BL[30]OB[2]C[colombia2 [1k\]: やりおるな
+]
+;W[rg]WL[30]OW[3]
+;B[oi]BL[30]OB[2]
+;W[mi]WL[30]OW[3]
+;B[oj]BL[30]OB[2]
+;W[ol]WL[30]OW[3]
+;B[rh]BL[30]OB[2]
+;W[rj]WL[30]OW[3]
+;B[qj]BL[30]OB[2]
+;W[rf]WL[30]OW[3]
+;B[nl]BL[30]OB[2]
+;W[nm]WL[30]OW[3]C[litte7069 [4k\]: 激しい
+popon [1k\]: すごい
+rispec [7k\]: ほんとすごいね
+]
+;B[ml]BL[30]OB[2]
+;W[ok]WL[30]OW[3]
+;B[mj]BL[30]OB[2]
+;W[li]WL[30]OW[3]C[colombia2 [1k\]: ただこれs7 きめて
+]
+;B[lm]BL[30]OB[2]C[colombia2 [1k\]: もどると
+colombia2 [1k\]: セキ以上になりそうか
+litte7069 [4k\]: 打ってない手のことは言わない方が良いんじゃ
+]
+;W[ln]WL[30]OW[3]C[colombia2 [1k\]: ああこれ
+colombia2 [1k\]: 対局者には見えてないよ
+rispec [7k\]: チャットみえないから大丈夫
+litte7069 [4k\]: あ、そうなんですか、すみません
+]
+;B[kn]BL[30]OB[2]C[colombia2 [1k\]: 終わったら見える
+colombia2 [1k\]: いい形出て行っておる
+colombia2 [1k\]: やりおる
+]
+;W[lo]WL[30]OW[3]
+;B[kl]BL[30]OB[2]
+;W[lk]WL[30]OW[3]
+;B[jo]BL[30]OB[2]
+;W[in]WL[30]OW[3]
+;B[kp]BL[30]OB[2]C[colombia2 [1k\]: まやらないってことはおそらくやってもぎりしぬってこといか
+]
+;W[mm]WL[30]OW[3]
+;B[ll]BL[30]OB[2]
+;W[jq]WL[30]OW[3]C[colombia2 [1k\]: 一眼がほしいいいいいいいいいいいいいいい
+]
+;B[jk]BL[30]OB[1]
+;W[jm]WL[30]OW[3]
+;B[ij]BL[30]OB[1]
+;W[hi]WL[30]OW[3]C[rispec [7k\]: ３子捨てましたか
+]
+;B[hj]BL[30]OB[1]C[popon [1k\]: 目が目が
+litte7069 [4k\]: 一応切りの役目がある
+]
+;W[gj]WL[30]OW[3]
+;B[ii]BL[30]OB[1]
+;W[ih]WL[30]OW[3]
+;B[gk]BL[30]OB[1]C[kikki512 [5d\]: 右辺に手があることにはきづいてないのかな？
+]
+;W[fk]WL[30]OW[3]
+;B[km]BL[30]OB[1]C[colombia2 [1k\]: おもしろい
+]
+;W[ko]WL[30]OW[2]
+;B[jn]BL[30]OB[1]C[yaranaio [1d\]: ここで継がれるとめっちゃ動揺する
+colombia2 [1k\]: これは生き死にが
+colombia2 [1k\]: きもいからな
+]
+;W[il]WL[30]OW[2]C[colombia2 [1k\]: やりおる
+]
+;B[gn]BL[30]OB[1]C[rispec [7k\]: ここでコウ！
+]
+;W[hk]WL[30]OW[2]C[colombia2 [1k\]: さっきこぴったらやっぱ
+colombia2 [1k\]: うへんぎりあれだなしんでるな
+]
+;B[mq]BL[30]OB[1]
+;W[lq]WL[30]OW[2]C[kikki512 [5d\]: いや　功はあるよ
+]
+;B[mp]BL[30]OB[1]
+;W[lp]WL[30]OW[2]C[rispec [7k\]: コウはどっちが有利なんでしょうか？
+kikki512 [5d\]: 黒ですね
+]
+;B[no]BL[30]OB[1]
+;W[mn]WL[30]OW[2]
+;B[rm]BL[30]OB[1]
+;W[rn]WL[30]OW[2]C[colombia2 [1k\]: うむこれで
+kikki512 [5d\]: あ・・・・・
+colombia2 [1k\]: r8 が
+colombia2 [1k\]: かわると
+colombia2 [1k\]: せきまでいけるか
+]
+;B[hh]BL[30]OB[1]C[kikki512 [5d\]: これは死にましたね
+]
+;W[gi]WL[30]OW[2]C[rispec [7k\]: ここでキリ！
+hiami [4d\]: ありがとうございました
+rispec [7k\]: ｇｇ
+gochiusa [-\]: GG
+yaranaio [1d\]: ｇｇ
+popon [1k\]: ｇｇ
+AZUSA [1d\]: gg
+intenseG [5d\]: ありがとうございました
+yoannjuan [12k?\]: gg
+hiami [4d\]: あかんふるえた
+litte7069 [4k\]: お疲れ様です
+])

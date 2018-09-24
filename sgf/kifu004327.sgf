@@ -1,0 +1,387 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[60]OT[25/300 Canadian]
+PW[doctorslip]PB[hasu]WR[6d]BR[6d]DT[2014-10-01]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [6d\]: hi gg
+hasu [6d\]: hi
+]RE[B+45.50]
+;B[pd]BL[53.16]
+;W[em]WL[57.192]
+;B[dp]BL[39.418]
+;W[ge]WL[53.764]
+;B[cd]BL[24.215]
+;W[og]WL[52.373]
+;B[pp]BL[20.407]
+;W[mo]WL[51.204]
+;B[jj]BL[15.365]
+;W[pn]WL[44.327]
+;B[mq]BL[9.269]
+;W[fp]WL[26.029]
+;B[cm]BL[2.063]
+;W[cq]WL[13.98]
+;B[dq]BL[294.21]OB[24]
+;W[cp]WL[13.085]
+;B[do]BL[291.682]OB[23]
+;W[co]WL[11.835]
+;B[cn]BL[289.196]OB[22]
+;W[dr]WL[7.81]
+;B[er]BL[285.909]OB[21]
+;W[cr]WL[7.047]
+;B[fq]BL[282.564]OB[20]
+;W[dn]WL[3.527]
+;B[gp]BL[276.812]OB[19]
+;W[eo]WL[1.973]
+;B[eq]BL[269.32]OB[18]
+;W[go]WL[299.862]OW[24]
+;B[hp]BL[267.032]OB[17]
+;W[ho]WL[298.048]OW[23]
+;B[ip]BL[261.577]OB[16]
+;W[io]WL[297.055]OW[22]
+;B[jp]BL[254.84]OB[15]
+;W[jo]WL[294.902]OW[21]
+;B[dk]BL[251.558]OB[14]
+;W[ek]WL[291.984]OW[20]
+;B[ej]BL[246.161]OB[13]
+;W[dj]WL[290.839]OW[19]
+;B[ck]BL[242.4]OB[12]
+;W[fk]WL[283.283]OW[18]
+;B[ei]BL[232.325]OB[11]
+;W[gi]WL[279.539]OW[17]
+;B[jh]BL[205.973]OB[10]
+;W[eh]WL[275.475]OW[16]
+;B[di]BL[203.174]OB[9]
+;W[nd]WL[273.56]OW[15]
+;B[jf]BL[197.55]OB[8]
+;W[jd]WL[268.783]OW[14]
+;B[ne]BL[189.794]OB[7]
+;W[me]WL[263.187]OW[13]
+;B[nf]BL[180.359]OB[6]
+;W[od]WL[259.606]OW[12]
+;B[pf]BL[175.489]OB[5]
+;W[pe]WL[253.594]OW[11]
+;B[qe]BL[171.6]OB[4]
+;W[oe]WL[252.233]OW[10]
+;B[of]BL[170.564]OB[3]
+;W[qd]WL[250.946]OW[9]
+;B[qf]BL[163.975]OB[2]
+;W[pc]WL[249.207]OW[8]
+;B[pj]BL[150.683]OB[1]C[cramel [1k?\]: Looks like he slipped the doctor one
+]
+;W[mf]WL[219.301]OW[7]
+;B[mg]BL[300]OB[25]
+;W[lg]WL[212.429]OW[6]
+;B[mh]BL[285.113]OB[24]
+;W[lh]WL[209.372]OW[5]
+;B[li]BL[281.757]OB[23]
+;W[mi]WL[203.359]OW[4]
+;B[ni]BL[262.05]OB[22]
+;W[mj]WL[201.752]OW[3]
+;B[lj]BL[259.29]OB[21]
+;W[nj]WL[197.926]OW[2]
+;B[oi]BL[254.138]OB[20]
+;W[kf]WL[196.493]OW[1]
+;B[mk]BL[238.065]OB[19]
+;W[nk]WL[300]OW[25]
+;B[nl]BL[233.394]OB[18]
+;W[ml]WL[297.898]OW[24]
+;B[lk]BL[231.243]OB[17]
+;W[ol]WL[296.689]OW[23]
+;B[nm]BL[228.378]OB[16]
+;W[ok]WL[295.344]OW[22]
+;B[no]BL[213.601]OB[15]C[Litt [6k\]: not so great for white . . .
+GlobalGo: easy win
+]
+;W[nn]WL[287.31]OW[21]
+;B[on]BL[206.941]OB[14]
+;W[mn]WL[284.817]OW[20]
+;B[om]BL[205.348]OB[13]
+;W[pm]WL[283.76]OW[19]
+;B[oo]BL[202.714]OB[12]
+;W[qk]WL[281.29]OW[18]
+;B[qj]BL[197.275]OB[11]
+;W[rk]WL[269.882]OW[17]
+;B[qo]BL[185.316]OB[10]C[cramel [1k?\]: not r4? hm
+]
+;W[rn]WL[267.998]OW[16]C[GlobalGo: easy wins are the easiest way to win
+]
+;B[rj]BL[166.88]OB[9]C[Litt [6k\]: White really wants to attack center but black just threatened to kill the group on the right . . .
+cramel [1k?\]: rrrrrrrrrrrrresign
+GoKid [1d\]: s8?
+]
+;W[ro]WL[121.868]OW[15]
+;B[rp]BL[150.108]OB[8]
+;W[pk]WL[116.967]OW[14]C[Tempus [-\]: q9 needed
+Rottamies [2k\]: why didnt b q9
+Romeo [2d\]: b always has l7
+]
+;B[so]BL[119.334]OB[7]C[javadesk [2k\]: s7
+cramel [1k?\]: no
+Litt [6k\]: T5 nice move
+bigfry [3d\]: dead internally
+javadesk [2k\]: s8
+GlobalGo: is cramel the ugly brother of caramel?
+]
+;W[qn]WL[59.322]OW[13]
+;B[ql]BL[98.081]OB[6]
+;W[sn]WL[46.08]OW[12]
+;B[rl]BL[91.162]OB[5]
+;W[sl]WL[44.07]OW[11]
+;B[rm]BL[85.755]OB[4]
+;W[qm]WL[41.437]OW[10]C[coconut [3k\]: ko :D
+GlobalGo: seki
+brembrem [4k\]: seki
+tontonken [2k\]: that's a seki :o
+]
+;B[mm]BL[67.531]OB[3]C[bigfry [3d\]: seki bud
+]
+;W[ki]WL[39.82]OW[9]C[Rottamies [2k\]: lol seki
+]
+;B[kh]BL[57.29]OB[2]C[cramel [1k?\]: c'est qui?
+]
+;W[ll]WL[37.96]OW[8]
+;B[kl]BL[52.601]OB[1]
+;W[lm]WL[36.378]OW[7]C[nflow [5d\]: this is so over for w
+]
+;B[km]BL[300]OB[25]
+;W[ln]WL[35.053]OW[6]C[tontonken [2k\]: w just has the oddest everything
+]
+;B[ke]BL[288.724]OB[24]
+;W[ld]WL[32.826]OW[5]
+;B[mp]BL[284.662]OB[23]
+;W[kn]WL[31.263]OW[4]
+;B[je]BL[265.456]OB[22]C[cramel [1k?\]: upper left
+]
+;W[id]WL[28.276]OW[3]C[cramel [1k?\]: corner maybe?
+]
+;B[il]BL[259.127]OB[21]
+;W[ii]WL[25.746]OW[2]
+;B[ji]BL[256.042]OB[20]
+;W[jm]WL[22.609]OW[1]C[GlobalGo: t10 double sente
+]
+;B[jl]BL[252.372]OB[19]
+;W[ik]WL[300]OW[25]C[Rottamies [2k\]: b will die XD
+]
+;B[ij]BL[237.044]OB[18]
+;W[hk]WL[296.599]OW[24]C[bigfry [3d\]: no way
+Litt [6k\]: nice
+bigfry [3d\]: white need to kill this to have a chance
+Litt [6k\]: L13
+bigfry [3d\]: just l13
+]
+;B[hi]BL[219.846]OB[17]C[bigfry [3d\]: j12 h13
+cramel [1k?\]: setting up L13
+bigfry [3d\]: i mean j12 h12 j13 h14
+Rottamies [2k\]: l9 works
+]
+;W[fi]WL[266.469]OW[23]C[Rottamies [2k\]: kills stones
+Rottamies [2k\]: gg
+bigfry [3d\]: 4 stones gg
+]
+;B[dh]BL[210.981]OB[16]C[GlobalGo: t10
+tontonken [2k\]: most important 4 stones tho
+cramel [1k?\]: 11 pts
+tontonken [2k\]: it's like... the president's child
+jubjub [3k\]: e17 looks big
+]
+;W[dd]WL[232.547]OW[22]C[GlobalGo: blunt
+cramel [1k?\]: e^17 is big
+]
+;B[dc]BL[196.696]OB[15]
+;W[cc]WL[229.705]OW[21]
+;B[ec]BL[189.883]OB[14]
+;W[ce]WL[223.31]OW[20]
+;B[bd]BL[187.379]OB[13]
+;W[cb]WL[222.099]OW[19]C[GlobalGo: your mom is bigger
+]
+;B[be]BL[177.327]OB[12]
+;W[ed]WL[221.103]OW[18]
+;B[fc]BL[175.678]OB[11]
+;W[cf]WL[218.347]OW[17]
+;B[bf]BL[173.526]OB[10]C[tontonken [2k\]: I don't understand what w's trying to do top left
+Rottamies [2k\]: glolbalgo child
+]
+;W[cg]WL[206.916]OW[16]C[GlobalGo: w failed
+]
+;B[bb]BL[164.375]OB[9]C[Litt [6k\]: trying to make things complicated and get points but failed
+]
+;W[db]WL[197.522]OW[15]
+;B[eb]BL[161.186]OB[8]
+;W[gc]WL[193.048]OW[14]
+;B[gb]BL[157.595]OB[7]
+;W[fd]WL[190.292]OW[13]C[oculus [3d\]: what if w j12 ?
+]
+;B[ib]BL[145.388]OB[6]
+;W[ea]WL[178.566]OW[12]C[GlobalGo: resign plz
+]
+;B[fb]BL[141.837]OB[5]
+;W[hc]WL[177.35]OW[11]
+;B[hb]BL[138.993]OB[4]C[tontonken [2k\]: j12 h13
+Rottamies [2k\]: gg
+]
+;W[bc]WL[168.777]OW[10]C[tontonken [2k\]: also l13 is sente
+]
+;B[ac]BL[135.92]OB[3]
+;W[ab]WL[167.754]OW[9]
+;B[aa]BL[130.81]OB[2]
+;W[ad]WL[166.405]OW[8]
+;B[ae]BL[127.568]OB[1]
+;W[ca]WL[165.535]OW[7]
+;B[bg]BL[300]OB[25]
+;W[fa]WL[162.129]OW[6]C[Rottamies [2k\]: ko!
+]
+;B[kb]BL[288.09]OB[24]C[Pharos [16k\]: white still playing in there -_-
+oculus [3d\]: j12 h13 h12 ?
+]
+;W[ch]WL[145.104]OW[5]C[GlobalGo: r  e  s  i  g  n
+]
+;B[bh]BL[281.539]OB[23]
+;W[ci]WL[142.749]OW[4]
+;B[bi]BL[276.559]OB[22]
+;W[cj]WL[136.994]OW[3]C[Rottamies [2k\]: b's stones just died
+]
+;B[bj]BL[274.369]OB[21]C[Rottamies [2k\]: gg
+]
+;W[ih]WL[132.181]OW[2]
+;B[hh]BL[271.891]OB[20]
+;W[ig]WL[130.283]OW[1]C[oculus [3d\]: ah
+]
+;B[hf]BL[269.928]OB[19]
+;W[hg]WL[300]OW[25]
+;B[gg]BL[267.737]OB[18]
+;W[gh]WL[298.657]OW[24]
+;B[hj]BL[266.154]OB[17]
+;W[gf]WL[297.25]OW[23]
+;B[fg]BL[263.78]OB[16]
+;W[if]WL[295.591]OW[22]C[rats [2d?\]: for the love of mess
+]
+;B[ie]BL[260.499]OB[15]C[Rottamies [2k\]: lol b misread
+]
+;W[he]WL[294.129]OW[21]
+;B[jg]BL[258.596]OB[14]
+;W[hf]WL[293.27]OW[20]C[tontonken [2k\]: uhhh
+]
+;B[gk]BL[256.372]OB[13]C[bigfry [3d\]: H8
+tontonken [2k\]: this game is a game of misreads
+bigfry [3d\]: black angry
+Rottamies [2k\]: hahaha b died
+hitaus [2k\]: bigfry, H8 F10 E13 G8 and miai to live
+jubjub [3k\]: not dead yet
+bigfry [3d\]: ok
+Litt [6k\]: nicely done black
+bigfry [3d\]: hitaus you are right
+bigfry [3d\]: black alive
+GlobalGo: bigfry you are right
+bigfry [3d\]: wait
+bigfry [3d\]: h8 f10 e13
+]
+;W[gl]WL[175.665]OW[19]
+;B[gj]BL[252.802]OB[12]
+;W[fj]WL[174.752]OW[18]
+;B[hl]BL[250.26]OB[11]C[tontonken [2k\]: :(
+bigfry [3d\]: yeah doesn't work
+]
+;W[bk]WL[167.093]OW[17]C[brembrem [4k\]: zombie
+]
+;B[bl]BL[245.024]OB[10]
+;W[jc]WL[153.824]OW[16]
+;B[jb]BL[241.373]OB[9]C[pcn [2d\]: r12
+Rottamies [2k\]: W STILL KO
+]
+;W[sp]WL[130.651]OW[15]
+;B[rq]BL[237.276]OB[8]C[brembrem [4k\]: where?
+]
+;W[lb]WL[125.612]OW[14]C[Rottamies [2k\]: if b g19 and eat
+Rottamies [2k\]: there is ko
+Rottamies [2k\]: GGGGGG
+ZeroRei [4d?\]: if black can make one eye no need for ko?
+]
+;B[la]BL[221.12]OB[7]
+;W[mb]WL[122.527]OW[13]C[jubjub [3k\]: what ko?
+]
+;B[sj]BL[214.314]OB[6]C[Rottamies [2k\]: gg
+brembrem [4k\]: a18 16 b19
+]
+;W[sk]WL[117.043]OW[12]
+;B[bo]BL[210.471]OB[5]
+;W[bp]WL[115.144]OW[11]
+;B[bn]BL[206.293]OB[4]
+;W[ar]WL[113.206]OW[10]
+;B[re]BL[199.566]OB[3]C[GlobalGo: b12 alive
+]
+;W[kp]WL[84.668]OW[9]
+;B[kq]BL[195.759]OB[2]
+;W[lp]WL[83.817]OW[8]
+;B[lq]BL[193.798]OB[1]
+;W[po]WL[80.978]OW[7]
+;B[qp]BL[300]OB[25]
+;W[sd]WL[77.288]OW[6]
+;B[rd]BL[296.771]OB[24]
+;W[rc]WL[75.588]OW[5]
+;B[se]BL[294.903]OB[23]
+;W[hm]WL[68.638]OW[4]
+;B[gm]BL[285.506]OB[22]
+;W[fl]WL[66.851]OW[3]
+;B[im]BL[284.615]OB[21]
+;W[hn]WL[62.366]OW[2]
+;B[jn]BL[277.342]OB[20]
+;W[ko]WL[60.87]OW[1]
+;B[ma]BL[268.477]OB[19]C[Rottamies [2k\]: t17
+]
+;W[na]WL[300]OW[25]
+;B[ka]BL[267.231]OB[18]
+;W[ob]WL[297.873]OW[24]
+;B[sc]BL[260.594]OB[17]C[thatcheese [2k\]: doctor!
+]
+;W[rb]WL[287.343]OW[23]
+;B[ds]BL[243.2]OB[16]C[GlobalGo: patient dead doctor survived
+]
+;W[cs]WL[283.91]OW[22]
+;B[es]BL[242.131]OB[15]
+;W[sq]WL[279.838]OW[21]
+;B[sr]BL[236.315]OB[14]
+;W[so]WL[278.709]OW[20]
+;B[rr]BL[235.137]OB[13]
+;W[oj]WL[272.688]OW[19]
+;B[ph]BL[227.781]OB[12]
+;W[dl]WL[269.527]OW[18]
+;B[cl]BL[223.122]OB[11]
+;W[dm]WL[268.204]OW[17]
+;B[ep]BL[220.495]OB[10]
+;W[fo]WL[266.526]OW[16]
+;B[sb]BL[206.974]OB[9]C[KTC1685 [4k\]: but the doc is behind
+]
+;W[in]WL[261.702]OW[15]
+;B[kc]BL[202.493]OB[8]
+;W[kd]WL[259.941]OW[14]C[jubjub [3k\]: game ended a while ago
+]
+;B[lc]BL[200.92]OB[7]
+;W[mc]WL[258.624]OW[13]
+;B[ra]BL[198.795]OB[6]
+;W[qb]WL[256.797]OW[12]
+;B[ap]BL[188.2]OB[5]C[Rottamies [2k\]: a4
+]
+;W[aq]WL[255.131]OW[11]
+;B[ao]BL[186.984]OB[4]
+;W[le]WL[247.579]OW[10]C[GlobalGo: close game
+]
+;B[jk]BL[172.709]OB[3]
+;W[qa]WL[245.746]OW[9]
+;B[sd]BL[170.277]OB[2]
+;W[jm]WL[244.435]OW[8]
+;B[sa]BL[166.963]OB[1]
+;W[jn]WL[243.588]OW[7]C[GlobalGo: w hoped for k7
+KTC1685 [4k\]: close??
+]
+;B[kg]BL[300]OB[25]
+;W[lf]WL[242.692]OW[6]C[KTC1685 [4k\]: not really
+]
+;B[]BL[299.967]OB[24]
+;W[]WL[242.661]OW[5]TW[oa][pa][nb][pb][nc][oc][qc][gd][hd][md][pd][de][ee][fe][df][ef][ff][dg][eg][fg][gg][dh][fh][di][ei][ej][el][fm][gm][en][fn][gn][lo][bq][br][as][bs]TB[ba][ca][da][ea][fa][ga][ha][ia][ja][ab][cb][db][bc][cc][ad][af][rf][sf][ag][ng][og][pg][qg][rg][sg][ah][nh][oh][qh][rh][sh][ai][ki][pi][qi][ri][si][aj][kj][ak][bk][hk][ik][kk][al][am][bm][an][np][op][gq][hq][iq][jq][nq][oq][pq][qq][fr][gr][hr][ir][jr][kr][lr][mr][nr][or][pr][qr][fs][gs][hs][is][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[Rottamies [2k\]: only 50pts lead
+GlobalGo: yes close game
+hasu [6d\]: thx
+doctorslip [6d\]: thx
+KTC1685 [4k\]: r8 forgotten
+rinkasei [1k\]: seki
+FoH [-\]: it's seki
+KTC1685 [4k\]: oh
+bigfry [3d\]: close game
+bigfry [3d\]: ty
+])

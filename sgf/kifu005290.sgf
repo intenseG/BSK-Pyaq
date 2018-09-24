@@ -1,0 +1,338 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[80x10 byo-yomi]
+PW[twoeye]PB[intenseG]WR[7d]BR[7d]DT[2014-11-03]PC[The KGS Go Server at http://www.gokgs.com/]C[intenseG [7d\]: hi gg
+]RE[W+Resign]
+;B[pd]BL[10]OB[80]C[twoeye [7d\]: hi
+]
+;W[qp]WL[10]OW[80]
+;B[dc]BL[10]OB[80]
+;W[dp]WL[10]OW[80]
+;B[de]BL[10]OB[80]
+;W[jc]WL[10]OW[80]
+;B[lc]BL[10]OB[80]
+;W[gc]WL[10]OW[80]
+;B[hd]BL[10]OB[80]
+;W[hc]WL[10]OW[80]
+;B[jd]BL[10]OB[80]
+;W[id]WL[10]OW[78]
+;B[ie]BL[10]OB[80]
+;W[ic]WL[10]OW[78]
+;B[kd]BL[10]OB[80]
+;W[lb]WL[10]OW[76]
+;B[mb]BL[10]OB[80]
+;W[kb]WL[10]OW[76]
+;B[qn]BL[10]OB[80]
+;W[op]WL[10]OW[76]
+;B[pj]BL[10]OB[80]
+;W[mc]WL[10]OW[76]
+;B[md]BL[10]OB[80]
+;W[nc]WL[10]OW[76]
+;B[nd]BL[10]OB[80]
+;W[oc]WL[10]OW[76]
+;B[od]BL[10]OB[80]
+;W[pc]WL[10]OW[76]
+;B[qc]BL[10]OB[80]
+;W[qb]WL[10]OW[76]
+;B[rb]BL[10]OB[80]
+;W[pa]WL[10]OW[75]
+;B[on]BL[10]OB[78]
+;W[qd]WL[10]OW[75]
+;B[qe]BL[10]OB[78]
+;W[rc]WL[10]OW[75]
+;B[rd]BL[10]OB[78]
+;W[mp]WL[10]OW[75]
+;B[cn]BL[10]OB[78]
+;W[fq]WL[10]OW[74]
+;B[bp]BL[10]OB[78]C[diethxbye [?\]: just n6
+]
+;W[cm]WL[10]OW[74]
+;B[dm]BL[10]OB[78]
+;W[cl]WL[10]OW[74]
+;B[dl]BL[10]OB[78]
+;W[bn]WL[10]OW[74]
+;B[co]BL[10]OB[78]
+;W[cj]WL[10]OW[74]
+;B[dk]BL[10]OB[78]
+;W[bi]WL[10]OW[74]
+;B[cq]BL[10]OB[78]
+;W[dq]WL[10]OW[74]
+;B[bo]BL[10]OB[78]
+;W[jp]WL[10]OW[74]
+;B[qq]BL[10]OB[78]
+;W[pq]WL[10]OW[74]
+;B[ch]BL[10]OB[78]
+;W[bh]WL[10]OW[74]
+;B[cg]BL[10]OB[58]
+;W[bg]WL[10]OW[74]C[intenseG [7d\]: sorry...
+twoeye [7d\]: np
+]
+;B[bf]BL[10]OB[57]
+;W[dj]WL[10]OW[74]
+;B[ej]BL[10]OB[57]
+;W[mn]WL[10]OW[73]
+;B[bm]BL[10]OB[53]
+;W[bl]WL[10]OW[73]
+;B[an]BL[10]OB[53]
+;W[ei]WL[10]OW[69]
+;B[fi]BL[10]OB[53]
+;W[be]WL[10]OW[64]
+;B[cf]BL[10]OB[53]
+;W[af]WL[10]OW[64]
+;B[ag]BL[10]OB[53]
+;W[ah]WL[10]OW[63]
+;B[ck]BL[10]OB[53]
+;W[bk]WL[10]OW[62]
+;B[aj]BL[10]OB[53]
+;W[cd]WL[10]OW[62]
+;B[ce]BL[10]OB[52]
+;W[bd]WL[10]OW[59]
+;B[dd]BL[10]OB[52]
+;W[cb]WL[10]OW[57]
+;B[db]BL[10]OB[52]
+;W[bb]WL[10]OW[51]C[Babibo [3d?\]: D11 is sente now
+]
+;B[bj]BL[10]OB[50]C[RichHuig [15k?\]: hi all 
+]
+;W[ci]WL[10]OW[47]
+;B[eh]BL[10]OB[50]
+;W[ai]WL[10]OW[47]
+;B[di]BL[10]OB[50]
+;W[ak]WL[10]OW[47]C[Koons [1k\]: now to use that nice wall
+]
+;B[ml]BL[10]OB[49]C[Deschain [4k?\]: what a moyo ..
+]
+;W[kl]WL[10]OW[46]C[Babibo [3d?\]: starting a fight at J4 looked like a better strategy
+yabyum [?\]: hoooow what a mojo
+]
+;B[kk]BL[10]OB[48]
+;W[jk]WL[10]OW[46]C[Babibo [3d?\]: but is it big enough
+]
+;B[lk]BL[10]OB[43]
+;W[jj]WL[10]OW[46]C[intenseG [7d\]: disconnect...
+intenseG [7d\]: sorry
+]
+;B[jl]BL[10]OB[40]
+;W[il]WL[10]OW[46]
+;B[jm]BL[10]OB[40]
+;W[im]WL[10]OW[46]
+;B[km]BL[10]OB[39]
+;W[if]WL[10]OW[42]
+;B[he]BL[10]OB[38]
+;W[hj]WL[10]OW[42]
+;B[in]BL[10]OB[38]
+;W[hn]WL[10]OW[42]
+;B[ho]BL[10]OB[38]
+;W[jn]WL[10]OW[41]C[lucasr [2k\]: twoeye die here?
+]
+;B[io]BL[10]OB[38]
+;W[lm]WL[10]OW[41]C[lucasr [2k\]: dangerous
+]
+;B[kn]BL[10]OB[36]
+;W[jo]WL[10]OW[41]
+;B[ll]BL[10]OB[36]
+;W[gn]WL[10]OW[41]
+;B[go]BL[10]OB[34]
+;W[fn]WL[10]OW[41]
+;B[iq]BL[10]OB[33]
+;W[jq]WL[10]OW[41]C[Koons [1k\]: poor b
+]
+;B[gq]BL[10]OB[32]C[lucasr [2k\]: 2h
+gozgur [5k\]: why does b insist?
+]
+;W[fp]WL[10]OW[39]C[Koons [1k\]: or maybe not, what do i know
+]
+;B[jr]BL[10]OB[31]C[RichHuig [15k?\]: its all magic to me at this point ... 
+]
+;W[kr]WL[10]OW[38]
+;B[hr]BL[10]OB[31]
+;W[fr]WL[10]OW[37]C[Babibo [3d?\]: rich men never seek quarrels. twoeye always seeks quarrels, so he must be poorer than black
+]
+;B[ks]BL[10]OB[30]
+;W[lr]WL[10]OW[36]
+;B[kq]BL[10]OB[30]
+;W[kp]WL[10]OW[36]C[Babibo [3d?\]: black is trying to get J4 in sente
+gozgur [5k\]: j4 comes
+wenjixiao [1k\]: b dead
+]
+;B[fo]BL[10]OB[22]C[gozgur [5k\]: babibo i totally agree with you
+]
+;W[eo]WL[10]OW[32]
+;B[gp]BL[10]OB[21]
+;W[gr]WL[10]OW[30]C[RichHuig [15k?\]: j4 dead now, i think ... 
+]
+;B[ip]BL[10]OB[20]
+;W[hs]WL[10]OW[30]C[lucasr [2k\]: feeling sorry for black
+]
+;B[is]BL[10]OB[19]C[Babibo [3d?\]: black has a difficult ko
+]
+;W[gs]WL[10]OW[30]
+;B[mr]BL[10]OB[19]
+;W[lq]WL[10]OW[30]
+;B[ls]BL[10]OB[19]C[Mipaline [5k\]: cats speciality
+Mipaline [5k\]: 7 lifes
+]
+;W[or]WL[10]OW[28]
+;B[en]BL[10]OB[19]
+;W[cr]WL[10]OW[28]
+;B[br]BL[10]OB[19]C[Babibo [3d?\]: life
+lucasr [2k\]: 1e
+SirFlunky [4k\]: wow
+SirFlunky [4k\]: big trade
+wither [3k\]: im confused
+SirFlunky [4k\]: h7 works doesnt it
+wither [3k\]: why h1 not j1
+lucasr [2k\]: 1e
+]
+;W[cs]WL[10]OW[27]C[Koons [1k\]: what trade?
+lucasr [2k\]: to live
+Babibo [3d?\]: no. w has G8
+NateC [3d\]: b has traded his life for shame?
+]
+;B[ii]BL[10]OB[18]
+;W[gl]WL[10]OW[27]C[wenjixiao [1k\]: game over
+wither [3k\]: couldnt w have j1
+wither [3k\]: not h1
+]
+;B[fm]BL[10]OB[17]
+;W[gm]WL[10]OW[27]C[wither [3k\]: o wait
+]
+;B[ji]BL[10]OB[16]
+;W[kj]WL[10]OW[27]
+;B[lh]BL[10]OB[16]C[wither [3k\]: no seems okay..
+]
+;W[hi]WL[10]OW[27]C[Death0 [2d\]: yeah he could
+]
+;B[hh]BL[10]OB[16]
+;W[gh]WL[10]OW[27]C[Death0 [2d\]: but no difference 
+]
+;B[hg]BL[10]OB[15]C[wither [3k\]: yeah i see its still dead. i wasnt even looking at the game now
+Taviandir [6k?\]: except with j1 w has to sacrifice two stones
+RichHuig [15k?\]: i need to play more :) 
+]
+;W[ij]WL[10]OW[27]
+;B[hk]BL[10]OB[15]
+;W[gk]WL[10]OW[27]
+;B[hl]BL[10]OB[15]C[Death0 [2d\]: tavian still the same amount of points though
+]
+;W[kh]WL[10]OW[27]C[Death0 [2d\]: in the end
+]
+;B[ki]BL[10]OB[15]
+;W[lj]WL[10]OW[27]C[Taviandir [6k?\]: hmm is it? 
+NateC [3d\]: We are depending on you to become high dan and entertain us all!
+Death0 [2d\]: he sacrifices 2 stones then get the 2 points where the 2 stones are taken
+wither [3k\]: its the circle
+]
+;B[mh]BL[10]OB[13]C[wither [3k\]: the circle of life
+]
+;W[nj]WL[10]OW[26]
+;B[nk]BL[10]OB[13]C[Koons [1k\]: poor b
+]
+;W[li]WL[10]OW[26]
+;B[kg]BL[10]OB[13]
+;W[ni]WL[10]OW[26]
+;B[ph]BL[10]OB[13]
+;W[gi]WL[10]OW[26]C[gozgur [5k\]: w escaped so nicely
+]
+;B[fj]BL[10]OB[13]
+;W[gg]WL[10]OW[26]
+;B[hf]BL[10]OB[13]C[baj [1d\]: thats what 7d do
+]
+;W[fl]WL[10]OW[24]
+;B[em]BL[10]OB[13]C[Death0 [2d\]: they always escape?
+]
+;W[oh]WL[10]OW[23]
+;B[og]BL[10]OB[13]
+;W[ok]WL[10]OW[23]
+;B[ol]BL[10]OB[13]
+;W[pi]WL[10]OW[23]
+;B[qi]BL[10]OB[13]
+;W[pk]WL[10]OW[23]
+;B[qj]BL[10]OB[13]
+;W[oj]WL[10]OW[23]
+;B[rl]BL[10]OB[13]
+;W[pg]WL[10]OW[21]
+;B[oi]BL[10]OB[13]
+;W[pl]WL[10]OW[21]
+;B[pm]BL[10]OB[13]
+;W[pi]WL[10]OW[21]
+;B[qh]BL[10]OB[13]
+;W[ng]WL[10]OW[21]
+;B[of]BL[10]OB[13]
+;W[nh]WL[10]OW[21]C[Koons [1k\]: so painful to watch
+]
+;B[gj]BL[10]OB[12]
+;W[gf]WL[10]OW[19]
+;B[ge]BL[10]OB[12]C[Death0 [2d\]: well theres always the 23094823 step ko at the bottom
+]
+;W[nf]WL[10]OW[18]
+;B[mf]BL[10]OB[12]C[Koons [1k\]: funny that w refuses to just end it
+]
+;W[ff]WL[10]OW[17]
+;B[ef]BL[10]OB[12]C[Koons [1k\]: extracting the max
+Babibo [3d?\]: will twoeye be greedy enough for this ko to be playabl ? 
+wither [3k\]: isnt it like a twopart ko to kill
+]
+;W[re]WL[10]OW[16]C[baj [1d\]: cats like too play with his prey
+]
+;B[qc]BL[10]OB[11]
+;W[jh]WL[10]OW[16]C[Babibo [3d?\]: he's playing with himself :)
+]
+;B[ih]BL[10]OB[11]
+;W[qd]WL[10]OW[16]C[NateC [3d\]:  >_>
+wither [3k\]: o no the second ko is an illusion
+wither [3k\]: because h1 makes it no ko
+]
+;B[fe]BL[10]OB[10]
+;W[qf]WL[10]OW[15]
+;B[pe]BL[10]OB[10]
+;W[sd]WL[10]OW[15]
+;B[fk]BL[10]OB[10]
+;W[ik]WL[10]OW[15]
+;B[ql]BL[10]OB[10]
+;W[ns]WL[10]OW[15]
+;B[nr]BL[10]OB[10]C[NateC [3d\]: I hope b kills and w wins
+]
+;W[os]WL[10]OW[15]
+;B[ms]BL[10]OB[10]
+;W[nq]WL[10]OW[15]C[wither [3k\]: that is...
+]
+;B[ne]BL[10]OB[10]
+;W[mq]WL[10]OW[15]C[Death0 [2d\]: i hope w kills and b wins
+]
+;B[mg]BL[10]OB[10]
+;W[js]WL[10]OW[15]
+;B[ks]BL[10]OB[10]C[Babibo [3d?\]: that would be amazing :)
+]
+;W[ls]WL[10]OW[15]C[NateC [3d\]: Hehehe, seriously
+]
+;B[fh]BL[10]OB[6]
+;W[hm]WL[10]OW[15]
+;B[mi]BL[10]OB[5]
+;W[mj]WL[10]OW[15]
+;B[nl]BL[10]OB[5]
+;W[js]WL[10]OW[15]
+;B[ae]BL[10]OB[5]
+;W[ad]WL[10]OW[15]
+;B[ks]BL[10]OB[5]C[kingstone [5k\]: o8 did not occur to me
+]
+;W[do]WL[10]OW[14]C[NateC [3d\]: Ignore everything!
+lucasr [2k\]: ?
+Koons [1k\]: mutliple times
+]
+;B[qk]BL[10]OB[4]
+;W[js]WL[10]OW[14]
+;B[cc]BL[10]OB[4]C[Death0 [2d\]: o8 was for w not having as much threats
+]
+;W[bc]WL[10]OW[14]
+;B[ks]BL[10]OB[4]
+;W[dn]WL[10]OW[14]
+;B[ek]BL[10]OB[4]
+;W[js]WL[10]OW[14]C[kingstone [5k\]: thx, yeah sure :)
+lucasr [2k\]: game ovr
+intenseG [7d\]: thx
+twoeye [7d\]: thx
+lucasr [2k\]: w leading by 100!!!
+lucasr [2k\]: from se
+kgjfj: close enough
+RichHuig [15k?\]: well there is a reason why they're both 7d ..... obviously .. 
+])

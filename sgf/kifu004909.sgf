@@ -1,0 +1,137 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[300]OT[5x20 byo-yomi]
+PW[oldsan]PB[oubeika]WR[5d]BR[5d]DT[2012-04-27]PC[The KGS Go Server at http://www.gokgs.com/]C[oldsan [5d\]: hi
+oubeika [5d\]: hi
+]RE[W+Time]
+;B[pd]BL[286.768]
+;W[qp]WL[295.492]
+;B[cd]BL[282.856]
+;W[ed]WL[291.78]
+;B[dp]BL[278.985]
+;W[df]WL[274.681]
+;B[dc]BL[259.089]
+;W[ec]WL[263.791]
+;B[eb]BL[256.122]
+;W[fb]WL[257.812]
+;B[db]BL[253.224]
+;W[be]WL[244.246]
+;B[ee]BL[244.254]
+;W[de]WL[235.415]
+;B[fc]BL[235.469]
+;W[gb]WL[212.997]
+;B[hc]BL[201.068]
+;W[gc]WL[186.693]
+;B[fd]BL[197.061]
+;W[dd]WL[183.593]
+;B[gd]BL[123.403]
+;W[hb]WL[166.85]
+;B[ic]BL[119.684]
+;W[ib]WL[163.856]
+;B[jc]BL[45.38]
+;W[jb]WL[157.83]
+;B[kc]BL[41.475]
+;W[bc]WL[126.143]
+;B[bb]BL[27.832]
+;W[cc]WL[107.344]
+;B[cb]BL[22.548]C[xio [3k\]: b has 30 points already
+]
+;W[bd]WL[100.66]
+;B[ab]BL[12.33]
+;W[kb]WL[88.205]
+;B[lc]BL[8.988]C[xio [3k\]: m17?
+]
+;W[lb]WL[46.53]
+;B[mb]BL[4.985]C[pimpolho [7k\]: b 19 for w now ?
+RedSpecJ [?\]: I agree.  b19
+]
+;W[ma]WL[20]OW[3]
+;B[nb]BL[20]OB[5]
+;W[ea]WL[20]OW[3]C[xio [3k\]: I don't know what was b thinking
+]
+;B[da]BL[20]OB[4]
+;W[ba]WL[20]OW[3]
+;B[fa]BL[20]OB[4]
+;W[ga]WL[20]OW[3]
+;B[la]BL[20]OB[3]
+;W[ka]WL[20]OW[3]
+;B[ia]BL[20]OB[3]
+;W[ac]WL[20]OW[3]
+;B[qm]BL[20]OB[3]C[xio [3k\]: even no threats yet
+xio [3k\]: b must create some
+]
+;W[op]WL[20]OW[2]C[DariusA [3d\]: double ko no need to create some
+]
+;B[pi]BL[20]OB[3]
+;W[re]WL[20]OW[2]
+;B[qd]BL[20]OB[3]
+;W[qk]WL[20]OW[2]
+;B[pk]BL[20]OB[3]
+;W[pj]WL[20]OW[2]
+;B[oj]BL[20]OB[3]
+;W[qj]WL[20]OW[2]
+;B[qi]BL[20]OB[3]
+;W[pl]WL[20]OW[2]
+;B[ok]BL[20]OB[3]
+;W[ql]WL[20]OW[2]
+;B[ol]BL[20]OB[3]
+;W[pm]WL[20]OW[2]
+;B[nh]BL[20]OB[3]C[xio [3k\]: true, but you need to be 3d to read it propoerly :)
+]
+;W[kh]WL[20]OW[2]C[ggggfgf: ojisan???????
+Prodigious [?\]: cool top left sequence
+]
+;B[fq]BL[20]OB[3]
+;W[ck]WL[20]OW[2]C[Prodigious [?\]: i get the feeling it might not appear in pro games
+Niels [2k?\]: was this joseki at the top left?
+DariusA [3d\]: i don't think it was joseki
+]
+;B[jq]BL[20]OB[3]C[DariusA [3d\]: D17 was strange
+]
+;W[mg]WL[20]OW[2]C[ggggfgf: OJISAN?????????
+]
+;B[ng]BL[20]OB[3]
+;W[mf]WL[20]OW[2]C[DariusA [3d\]: an other flooding guest
+Egad [-\]: ojisan had to leave. he left a message for you at the front desk
+]
+;B[mq]BL[20]OB[3]C[domie [1k\]: :)
+]
+;W[md]WL[20]OW[2]
+;B[mc]BL[20]OB[3]
+;W[nf]WL[20]OW[2]
+;B[of]BL[20]OB[3]C[xio [3k\]: my style is insanely aggressive, but I would never play m17 myself
+]
+;W[ri]WL[20]OW[2]C[DariusA [3d\]: "insanely" :p
+xio [3k\]: what is propoer word? :)
+Egad [-\]: mentally unstable
+DariusA [3d\]: haha
+xio [3k\]: I need averb, not adjective
+]
+;B[rh]BL[20]OB[2]
+;W[rj]WL[20]OW[2]
+;B[qg]BL[20]OB[2]C[daft [4d\]: your sentence was perfect, xio
+]
+;W[bp]WL[20]OW[2]
+;B[cq]BL[20]OB[2]
+;W[bq]WL[20]OW[2]C[Prodigious [?\]: yeah
+Prodigious [?\]: insanely is an adverb anyway
+]
+;B[cn]BL[20]OB[2]
+;W[bn]WL[20]OW[2]
+;B[cm]BL[20]OB[2]
+;W[co]WL[20]OW[2]
+;B[do]BL[20]OB[2]
+;W[bm]WL[20]OW[2]
+;B[dk]BL[20]OB[2]C[grimthor [5k\]: isnt there an exeption if you use "to be" instead of a "full verb"?
+]
+;W[dj]WL[20]OW[2]
+;B[ek]BL[20]OB[2]C[ggggfgf: i want pizza
+]
+;W[ej]WL[20]OW[2]
+;B[gk]BL[20]OB[2]
+;W[kp]WL[20]OW[2]C[Egad [-\]: ease up guys, most of us here only speak public school english
+ggggfgf: yes
+ggggfgf: ; )
+oldsan [5d\]: thx
+oubeika [5d\]: thx
+DariusA [3d\]: old player play faster than the younger one
+])

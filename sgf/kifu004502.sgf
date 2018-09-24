@@ -1,0 +1,341 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[60x10 byo-yomi]
+PW[twoeye]PB[doctorslip]WR[7d]BR[6d]DT[2012-06-13]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [6d\]: hi
+twoeye [7d\]: hi
+]RE[B+Resign]
+;B[pd]BL[10]OB[60]C[twoeye [7d\]: hi
+]
+;W[qp]WL[10]OW[60]
+;B[cd]BL[10]OB[60]
+;W[dp]WL[10]OW[60]
+;B[ic]BL[10]OB[60]
+;W[dg]WL[10]OW[60]
+;B[ed]BL[10]OB[60]
+;W[dj]WL[10]OW[60]
+;B[fq]BL[10]OB[60]
+;W[cn]WL[10]OW[60]
+;B[nq]BL[10]OB[60]
+;W[pq]WL[10]OW[60]
+;B[jp]BL[10]OB[60]
+;W[qf]WL[10]OW[60]
+;B[qh]BL[10]OB[60]
+;W[qc]WL[10]OW[60]
+;B[pc]BL[10]OB[60]
+;W[qd]WL[10]OW[60]
+;B[pe]BL[10]OB[60]
+;W[rf]WL[10]OW[60]
+;B[og]BL[10]OB[60]
+;W[ie]WL[10]OW[59]
+;B[je]BL[10]OB[59]
+;W[jf]WL[10]OW[59]
+;B[jd]BL[10]OB[59]
+;W[kf]WL[10]OW[59]
+;B[no]BL[10]OB[59]
+;W[lq]WL[10]OW[57]
+;B[lo]BL[10]OB[59]
+;W[jq]WL[10]OW[57]
+;B[iq]BL[10]OB[59]
+;W[ir]WL[10]OW[57]
+;B[kq]BL[10]OB[59]
+;W[jr]WL[10]OW[57]
+;B[kr]BL[10]OB[59]
+;W[ip]WL[10]OW[56]
+;B[kp]BL[10]OB[59]
+;W[hq]WL[10]OW[56]
+;B[dq]BL[10]OB[59]
+;W[cq]WL[10]OW[56]
+;B[cr]BL[10]OB[59]
+;W[eq]WL[10]OW[56]
+;B[dr]BL[10]OB[59]
+;W[ep]WL[10]OW[56]
+;B[cp]BL[10]OB[59]
+;W[er]WL[10]OW[56]
+;B[bq]BL[10]OB[59]
+;W[co]WL[10]OW[55]
+;B[bo]BL[10]OB[58]
+;W[gc]WL[10]OW[53]
+;B[gd]BL[10]OB[58]
+;W[fc]WL[10]OW[53]
+;B[fd]BL[10]OB[58]
+;W[cb]WL[10]OW[50]
+;B[eb]BL[10]OB[58]
+;W[ec]WL[10]OW[49]
+;B[db]BL[10]OB[58]
+;W[dc]WL[10]OW[49]
+;B[cc]BL[10]OB[58]
+;W[bb]WL[10]OW[49]
+;B[hc]BL[10]OB[58]
+;W[fb]WL[10]OW[49]
+;B[dd]BL[10]OB[58]
+;W[hb]WL[10]OW[49]
+;B[fa]BL[10]OB[58]
+;W[gb]WL[10]OW[49]
+;B[ib]BL[10]OB[58]
+;W[da]WL[10]OW[49]
+;B[hg]BL[10]OB[58]
+;W[ig]WL[10]OW[49]
+;B[hh]BL[10]OB[58]C[Sandmann [-\]: h18 at f19 the bestest
+]
+;W[ji]WL[10]OW[49]
+;B[hj]BL[10]OB[58]
+;W[jk]WL[10]OW[49]
+;B[hl]BL[10]OB[58]
+;W[gk]WL[10]OW[48]
+;B[hk]BL[10]OB[58]
+;W[bn]WL[10]OW[48]
+;B[kj]BL[10]OB[57]C[DapperDan [2k\]: oh cat
+DapperDan [2k\]: what have you done
+]
+;W[jj]WL[10]OW[47]
+;B[ll]BL[10]OB[57]C[Warfreak2 [4d\]: that went from moyo to weak group pretty fast
+]
+;W[jm]WL[10]OW[45]
+;B[in]BL[10]OB[57]
+;W[lk]WL[10]OW[45]
+;B[ml]BL[10]OB[57]
+;W[lj]WL[10]OW[45]
+;B[lh]BL[10]OB[57]
+;W[kh]WL[10]OW[44]
+;B[li]BL[10]OB[56]
+;W[ki]WL[10]OW[44]
+;B[mj]BL[10]OB[56]
+;W[mk]WL[10]OW[43]
+;B[nk]BL[10]OB[56]
+;W[kk]WL[10]OW[43]
+;B[ni]BL[10]OB[56]
+;W[lg]WL[10]OW[42]
+;B[qn]BL[10]OB[56]
+;W[rh]WL[10]OW[42]C[DapperDan [2k\]: good move
+]
+;B[ri]BL[10]OB[56]
+;W[qg]WL[10]OW[41]
+;B[qi]BL[10]OB[56]C[Warfreak2 [4d\]: what
+Warfreak2 [4d\]: why didn't w cut
+]
+;W[pn]WL[10]OW[40]
+;B[qm]BL[10]OB[55]
+;W[qo]WL[10]OW[40]C[Sandmann [-\]: chicken cat
+SteveDC [5k\]: i thought the same but then i thoguht it was probably my reading skills :)
+]
+;B[ci]BL[10]OB[54]
+;W[cj]WL[10]OW[40]
+;B[bh]BL[10]OB[54]
+;W[di]WL[10]OW[40]
+;B[cg]BL[10]OB[54]
+;W[pm]WL[10]OW[40]
+;B[qb]BL[10]OB[54]
+;W[rb]WL[10]OW[40]
+;B[pb]BL[10]OB[54]
+;W[ld]WL[10]OW[40]
+;B[ra]BL[10]OB[54]C[Warfreak2 [4d\]: must t13?
+]
+;W[sh]WL[10]OW[38]C[Warfreak2 [4d\]: or that
+]
+;B[rc]BL[10]OB[54]
+;W[rd]WL[10]OW[38]
+;B[sb]BL[10]OB[54]C[Warfreak2 [4d\]: but this is gote
+]
+;W[qe]WL[10]OW[38]
+;B[si]BL[10]OB[54]
+;W[sd]WL[10]OW[38]
+;B[le]BL[10]OB[54]
+;W[ke]WL[10]OW[38]
+;B[kd]BL[10]OB[54]
+;W[me]WL[10]OW[38]
+;B[lc]BL[10]OB[54]
+;W[md]WL[10]OW[38]
+;B[bj]BL[10]OB[54]
+;W[bk]WL[10]OW[38]
+;B[or]BL[10]OB[54]
+;W[ql]WL[10]OW[38]
+;B[rl]BL[10]OB[54]
+;W[pl]WL[10]OW[38]
+;B[rn]BL[10]OB[54]
+;W[rk]WL[10]OW[38]
+;B[sk]BL[10]OB[54]C[DapperDan [2k\]: good moves by black
+]
+;W[pr]WL[10]OW[38]
+;B[ro]BL[10]OB[54]
+;W[rp]WL[10]OW[38]
+;B[op]BL[10]OB[54]C[Greenfuse [2k\]: can W live in the corner?
+]
+;W[pp]WL[10]OW[36]C[Sandmann [-\]: can he die?
+]
+;B[oo]BL[10]OB[54]C[DapperDan [2k\]: p5
+]
+;W[po]WL[10]OW[36]C[Greenfuse [2k\]: s2
+DapperDan [2k\]: s2
+SteveDC [5k\]: p5 S2?
+DapperDan [2k\]: no choice
+]
+;B[qk]BL[10]OB[53]
+;W[pk]WL[10]OW[36]
+;B[rj]BL[10]OB[53]C[SteveDC [5k\]: now
+]
+;W[mc]WL[10]OW[36]C[Draxt [?\]: isn't S2 just a ko?
+]
+;B[rr]BL[10]OB[53]
+;W[sr]WL[10]OW[36]C[SteveDC [5k\]: ko is still party for bmlack here
+DapperDan [2k\]: woah strange response
+]
+;B[rs]BL[10]OB[52]
+;W[qr]WL[10]OW[35]C[SteveDC [5k\]: but fast so he probably knows this
+]
+;B[rq]BL[10]OB[52]
+;W[sp]WL[10]OW[35]
+;B[fm]BL[10]OB[52]
+;W[ao]WL[10]OW[35]C[benjisan [1k\]: seki!
+kairu [4k\]: seki or what?
+]
+;B[bp]BL[10]OB[52]
+;W[dh]WL[10]OW[35]C[Sandmann [-\]: s1 hm?
+DapperDan [2k\]: q1 looks deadly to me
+DapperDan [2k\]: but i'm weak
+]
+;B[cf]BL[10]OB[52]
+;W[hf]WL[10]OW[35]C[DapperDan [2k\]: q1 is seki
+]
+;B[lb]BL[10]OB[52]C[SteveDC [5k\]: yep
+Ukasuhs [5d\]: its seki now
+Draxt [?\]: q1 change nothing at all
+]
+;W[jn]WL[10]OW[33]
+;B[io]BL[10]OB[51]C[csoong [9k\]: why is it seki when W has so many outside liberty?
+]
+;W[im]WL[10]OW[32]C[csoong [9k\]: oh
+Ukasuhs [5d\]: if w captures the b stones he has a dead shape
+]
+;B[hm]BL[10]OB[51]C[csoong [9k\]: i see
+]
+;W[hn]WL[10]OW[32]C[DapperDan [2k\]: t3is why
+]
+;B[gf]BL[10]OB[50]
+;W[gg]WL[10]OW[31]C[Syu [1k\]: ouchie
+]
+;B[fg]BL[10]OB[49]
+;W[gh]WL[10]OW[31]C[SteveDC [5k\]: apparently b made mistake right bottom
+]
+;B[fi]BL[10]OB[49]C[SteveDC [5k\]: S2 should become ko
+]
+;W[ff]WL[10]OW[31]C[Ukasuhs [5d\]: i would want to peep at g11 before this cut
+SteveDC [5k\]: T2 was correct
+]
+;B[fh]BL[10]OB[49]
+;W[ge]WL[10]OW[31]
+;B[fk]BL[10]OB[49]
+;W[gi]WL[10]OW[31]C[Sandmann [-\]: b is noob
+]
+;B[gj]BL[10]OB[49]C[kairu [4k\]: g6?
+]
+;W[el]WL[10]OW[29]
+;B[hi]BL[10]OB[49]
+;W[gf]WL[10]OW[29]
+;B[dl]BL[10]OB[49]C[kairu [4k\]: b looks dead
+]
+;W[em]WL[10]OW[28]C[Warfreak2 [4d\]: still searching for his shadow, in vain
+kairu [4k\]: h5?
+beltzahara [6k\]: b resign
+]
+;B[en]BL[10]OB[46]C[empire [6k\]: g6?
+]
+;W[gn]WL[10]OW[28]
+;B[ek]BL[10]OB[44]
+;W[dm]WL[10]OW[28]
+;B[dk]BL[10]OB[44]C[vaansama [5k\]: tenuki
+mucephei [3d\]: lol...
+Draxt [?\]: e14 
+Warfreak2 [4d\]: don't tenuki
+xell [1k\]: can't
+mucephei [3d\]: teunki if u want W to die
+vaansama [5k\]: :p
+Syu [1k\]: ...
+Draxt [?\]: just E14
+Ukasuhs [5d\]: even if you can, might as well get him to res
+Warfreak2 [4d\]: connect c9 is simple
+]
+;W[ef]WL[10]OW[24]
+;B[bl]BL[10]OB[42]
+;W[ck]WL[10]OW[24]
+;B[cl]BL[10]OB[42]
+;W[aj]WL[10]OW[23]
+;B[am]BL[10]OB[42]C[ABG444 [4k?\]: e14 mistake
+Draxt [?\]: no it wasn't only answer
+]
+;W[an]WL[10]OW[21]C[Greenfuse [2k\]: e14 good
+]
+;B[fn]BL[10]OB[42]C[Warfreak2 [4d\]: c9 connect worked
+]
+;W[do]WL[10]OW[21]C[Syu [1k\]: ?
+Ukasuhs [5d\]: e14 potentially 1 more point :)
+Syu [1k\]: why not ko
+]
+;B[hp]BL[10]OB[41]C[Ukasuhs [5d\]: no ko
+Draxt [?\]: c9 c8 b8 c7 d6 b7 a6 e14 
+]
+;W[gp]WL[10]OW[21]
+;B[iq]BL[10]OB[41]C[benjisan [1k\]: h6
+]
+;W[go]WL[10]OW[19]C[DapperDan [2k\]: could just g5
+DapperDan [2k\]: hehe
+]
+;B[hr]BL[10]OB[40]
+;W[ip]WL[10]OW[19]C[Syu [1k\]: i just realized no ko after typing it
+]
+;B[ai]BL[10]OB[39]
+;W[ak]WL[10]OW[18]
+;B[iq]BL[10]OB[39]C[Warfreak2 [4d\]: draxt, what's the problem? just cut at e13
+josek [5k\]: s1 is seki?
+Ukasuhs [5d\]: w not confident to win an eye vs no eye here?
+]
+;W[gm]WL[10]OW[14]C[Warfreak2 [4d\]: this way, b got f6 in sente
+Warfreak2 [4d\]: the other way, he doesn't
+ABG444 [4k?\]: take
+]
+;B[gq]BL[10]OB[37]
+;W[fl]WL[10]OW[14]
+;B[fp]BL[10]OB[37]
+;W[fo]WL[10]OW[14]
+;B[gl]BL[10]OB[37]C[flummox [3d?\]: taking seems like a pretty clear way to lose
+Draxt [?\]: yeah nm forgot a5 my bad
+beltzahara [6k\]: e 10
+]
+;W[fr]WL[10]OW[12]
+;B[cm]BL[10]OB[37]C[benjisan [1k\]: i think h6 was better!!
+]
+;W[dn]WL[10]OW[12]
+;B[gr]BL[10]OB[37]C[ABG444 [4k?\]: e14 still mistake
+]
+;W[ej]WL[10]OW[12]
+;B[fj]BL[10]OB[37]
+;W[il]WL[10]OW[12]C[DapperDan [2k\]: hoh wow
+]
+;B[bm]BL[10]OB[37]C[zeekmund [2k\]: big eye?
+Warfreak2 [4d\]: not a big eye
+Ukasuhs [5d\]: so w is totally dead cause of g7
+]
+;W[br]WL[10]OW[11]C[SteveDC [5k\]: small after H5
+findhowHK [3d\]: w dead 
+]
+;B[ar]BL[10]OB[37]C[DapperDan [2k\]: wow
+IlanKeshet [?\]: only gains 1 lib after capturing e5
+jktu999999 [7k\]: g5 bad))
+csoong [9k\]: so exciting fight
+]
+;W[eo]WL[10]OW[10]C[DapperDan [2k\]: he got tricked
+]
+;B[fn]BL[10]OB[37]C[Ukasuhs [5d\]: yes, g7 and g5
+]
+;W[hd]WL[10]OW[10]C[Warfreak2 [4d\]: big eye, specifically, means that w can capture whenever he likes, and get 2 or more extra liberties by doing so
+Warfreak2 [4d\]: this isn't a big eye specifically because black h5 is atari so w can't save his capture for later
+]
+;B[bc]BL[10]OB[35]C[zeekmund [2k\]: thx
+IlanKeshet [?\]: big eye usally you can do it twice
+twoeye [7d\]: thx
+doctorslip [6d\]: thx
+flummox [3d?\]: big eye means more liberties than you see
+Ukasuhs [5d\]: big eye just means the eye is more liberties than the number of spaces in the eye
+Warfreak2 [4d\]: big eye means you can capture at your leisure and gain a liberty even when b answers your capture by playing inside
+Ukasuhs [5d\]: no...
+logariasmo [1k\]: big eye means capital eye
+Warfreak2 [4d\]: big eye vs small eye cannot be seki because the big eye can remove all liberties then capture to gain 2, opponent fills one, and big eye can play atari
+])

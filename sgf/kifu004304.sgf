@@ -1,0 +1,266 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[300]OT[5x30 byo-yomi]
+PW[doctorslip]PB[Cornel]WR[7d]BR[6d]DT[2013-11-27]PC[The KGS Go Server at http://www.gokgs.com/]C[doctorslip [7d\]: hi gg
+]RE[B+Resign]
+;B[pd]BL[296.289]C[Cornel [6d\]: hi gg
+]
+;W[dp]WL[296.137]
+;B[qp]BL[292.956]
+;W[dc]WL[291.974]
+;B[de]BL[289.991]
+;W[cg]WL[278.264]
+;B[cc]BL[285.236]
+;W[cd]WL[261.628]
+;B[dd]BL[280.649]
+;W[ce]WL[250.167]
+;B[cf]BL[272.702]
+;W[df]WL[235.205]
+;B[bf]BL[268.969]
+;W[bc]WL[228.863]
+;B[cb]BL[265.292]
+;W[be]WL[217.438]
+;B[ec]BL[259.247]
+;W[bg]WL[201.402]
+;B[ef]BL[254.741]
+;W[dg]WL[197.252]
+;B[fq]BL[244.669]
+;W[dn]WL[190.545]
+;B[kq]BL[241.134]
+;W[qj]WL[165.704]
+;B[qg]BL[234.951]
+;W[qm]WL[142.325]
+;B[pk]BL[225.007]
+;W[qk]WL[114.549]C[K5 [2d?\]: Is r9 too honte?
+]
+;B[pn]BL[212.602]
+;W[pl]WL[76.159]
+;B[ol]BL[204.068]
+;W[ok]WL[69.8]
+;B[nl]BL[193.483]
+;W[qq]WL[55.079]
+;B[pq]BL[190.556]
+;W[nc]WL[40.101]
+;B[pc]BL[186.715]
+;W[kc]WL[30]OW[5]
+;B[ic]BL[177.721]
+;W[eq]WL[30]OW[5]
+;B[fp]BL[157.57]
+;W[iq]WL[30]OW[5]
+;B[io]BL[152.256]
+;W[jp]WL[30]OW[5]C[TheCount [6d\]: j3 seems like an overplay
+Ikay [7k?\]: isn't b h4 insted of f4 a good idea?
+]
+;B[fn]BL[130.429]C[Machinery [1d\]: no, F4 essential
+Ikay [7k?\]: why?
+]
+;W[kp]WL[30]OW[5]
+;B[lq]BL[125.443]C[Machinery [1d\]: When you get kicked (E3), stand up (F4)
+]
+;W[lp]WL[30]OW[5]
+;B[mq]BL[112.212]C[Machinery [1d\]: Makes the side stronger, and activates loads of at C3 and C5
+Machinery [1d\]: aji*
+]
+;W[km]WL[30]OW[5]
+;B[el]BL[82.308]
+;W[cl]WL[30]OW[5]
+;B[kn]BL[76.504]C[Ikay [7k?\]: yes it give lot of aji, true, but w j3 so painfull
+]
+;W[ln]WL[30]OW[5]
+;B[jn]BL[73.906]
+;W[mm]WL[30]OW[5]C[Machinery [1d\]: Not really, I think it's overplay
+Ikay [7k?\]: oh ok
+]
+;B[ll]BL[64.097]C[Machinery [1d\]: Look how much it solidified black's bottom side
+]
+;W[ml]WL[30]OW[5]
+;B[nk]BL[54.794]
+;W[kl]WL[30]OW[5]
+;B[lk]BL[40.74]
+;W[lm]WL[30]OW[5]
+;B[mo]BL[38.304]
+;W[lo]WL[30]OW[5]
+;B[il]BL[29.241]C[K5 [2d?\]: n9?
+]
+;W[mk]WL[30]OW[5]
+;B[oj]BL[22.889]
+;W[lj]WL[30]OW[5]
+;B[cq]BL[30]OB[5]
+;W[cp]WL[30]OW[5]
+;B[er]BL[30]OB[5]
+;W[dr]WL[30]OW[5]
+;B[dq]BL[30]OB[5]
+;W[cr]WL[30]OW[5]
+;B[ep]BL[30]OB[5]
+;W[bq]WL[30]OW[5]
+;B[qn]BL[30]OB[5]
+;W[rh]WL[30]OW[5]
+;B[rg]BL[30]OB[5]
+;W[qh]WL[30]OW[5]
+;B[pg]BL[30]OB[5]
+;W[ib]WL[30]OW[5]
+;B[jb]BL[30]OB[5]
+;W[jc]WL[30]OW[5]
+;B[hb]BL[30]OB[5]
+;W[id]WL[30]OW[5]
+;B[hc]BL[30]OB[5]
+;W[kb]WL[30]OW[5]
+;B[pi]BL[30]OB[5]
+;W[rm]WL[30]OW[5]
+;B[pm]BL[30]OB[5]
+;W[ql]WL[30]OW[5]
+;B[sh]BL[30]OB[5]C[Feanor [1d\]: cornel is sandbagging
+]
+;W[si]WL[30]OW[5]
+;B[ri]BL[30]OB[5]
+;W[qi]WL[30]OW[5]
+;B[sj]BL[30]OB[5]
+;W[sk]WL[30]OW[5]
+;B[sg]BL[30]OB[5]
+;W[rj]WL[30]OW[5]
+;B[si]BL[30]OB[5]
+;W[rl]WL[30]OW[5]
+;B[rn]BL[30]OB[5]
+;W[sm]WL[30]OW[5]
+;B[je]BL[30]OB[5]
+;W[pr]WL[30]OW[5]
+;B[qr]BL[30]OB[5]
+;W[rq]WL[30]OW[5]
+;B[rr]BL[30]OB[5]C[MajorTom [3d\]: sandbagging or becoming old?
+]
+;W[rp]WL[30]OW[5]C[blibaboob3: maybe the sandbag is cornelling
+]
+;B[ro]BL[30]OB[5]
+;W[pp]WL[30]OW[5]
+;B[oq]BL[30]OB[5]C[Ikay [7k?\]: i've heard this a lot, what do you mean by a guy is sandbagin? how is this possible?
+]
+;W[op]WL[30]OW[5]
+;B[nq]BL[30]OB[5]C[Feanor [1d\]: I mean he's underranked
+blibaboob3: no
+]
+;W[no]WL[30]OW[5]
+;B[nn]BL[30]OB[5]C[limerent: sandbagging is making somebody belief that you are weaker than you are
+MajorTom [3d\]: people who are bad losers call their opponents sandbagger. thats all
+Feanor [1d\]: no? I assure you, that's what I mean
+]
+;W[mp]WL[30]OW[5]C[Feanor [1d\]: I dare think I know better
+]
+;B[np]BL[30]OB[5]C[blibaboob3: no
+]
+;W[nm]WL[30]OW[5]
+;B[ia]BL[30]OB[5]
+;W[ph]WL[30]OW[5]
+;B[oh]BL[30]OB[5]
+;W[og]WL[30]OW[5]C[steinscorn [2k\]: feanor, dont you mean INTENTIONALLY underranked?
+]
+;B[of]BL[30]OB[5]
+;W[ng]WL[30]OW[5]C[Ikay [7k?\]: ^^ ok lets say that for some people its someone with an underrank, and for other its a mindstrat. am i right?
+]
+;B[om]BL[30]OB[5]C[Poney [2d\]: Black is so up on points
+]
+;W[nf]WL[30]OW[5]
+;B[oe]BL[30]OB[5]C[MajorTom [3d\]: p5 becoming sente
+]
+;W[oo]WL[30]OW[5]C[MajorTom [3d\]: :)
+]
+;B[qo]BL[30]OB[5]C[Solidsnake [3k\]: lol u guys are assuming he was defining what sandbagging was to him, what I gather is that he just meant that cornel is stronger than 6d and should prolly have a rank to reflect that.  but alas im not feanor and cannot read his mind :)
+]
+;W[ie]WL[30]OW[5]C[limerent: According to wikipedia:  Sandbagging, hiding the strength, skill or difficulty of something or someone early in an engagement,...
+]
+;B[jf]BL[30]OB[5]
+;W[if]WL[30]OW[5]
+;B[jg]BL[30]OB[5]
+;W[ig]WL[30]OW[5]
+;B[ji]BL[30]OB[5]C[MajorTom [3d\]: Solidsn u dont have to. blibaboob3 can read feanors mind
+]
+;W[ih]WL[30]OW[5]C[blibaboob3: ^
+steinscorn [2k\]: ah. you might be right solid.
+]
+;B[md]BL[30]OB[5]
+;W[le]WL[30]OW[5]C[Solidsnake [3k\]: haha limerent because wiki is the most reliable source on the planet right...
+]
+;B[lg]BL[30]OB[5]C[limerent: So if you are a pig but you go out with a girl making her think that you are a gentleman... you are sandbagging ^^
+]
+;W[nh]WL[30]OW[5]
+;B[me]BL[30]OB[5]
+;W[mf]WL[30]OW[5]
+;B[lf]BL[30]OB[5]C[Ikay [7k?\]: its the opposite limerent
+]
+;W[ld]WL[30]OW[5]C[Caode [8k?\]: Do you know what 'a source' is, Solidsnake?
+Caode [8k?\]: Because limerent didn't use wikipedia as one.
+]
+;B[mc]BL[30]OB[5]C[Ikay [7k?\]: your a gentleman hiding in a pig body to date a girl
+Solidsnake [3k\]: ah yes he did...
+Solidsnake [3k\]: he came out with a straight definition
+]
+;W[jd]WL[30]OW[5]C[MajorTom [3d\]: Cornel lost
+]
+;B[ni]BL[30]OB[5]C[goeb [8k\]: jh
+blibaboob3: most pigs are gentlemen
+]
+;W[mi]WL[30]OW[5]C[MajorTom [3d\]: blibaboob3, u mean most gentlemen are pigs?
+]
+;B[kj]BL[30]OB[5]C[blibaboob3: no
+senpai99 [3d\]: tommie
+MajorTom [3d\]: maybe both is true
+limerent: For the definition of 'sandbagging' in KGS kibitz wikipedia as a good enough source for me :)
+]
+;W[ki]WL[30]OW[5]C[Firestorm [1d\]: b wants a double ko?
+]
+;B[mh]BL[30]OB[5]
+;W[oi]WL[30]OW[5]
+;B[li]BL[30]OB[5]
+;W[lh]WL[30]OW[5]
+;B[kh]BL[30]OB[5]C[MajorTom [3d\]: ???
+Firestorm [1d\]: err
+]
+;W[mg]WL[30]OW[5]C[blibaboob3: b drunk?
+MajorTom [3d\]: Go Billlin
+Firestorm [1d\]: kill it
+]
+;B[li]BL[30]OB[5]C[MajorTom [3d\]: oh wrong chat
+]
+;W[kk]WL[30]OW[5]
+;B[ii]BL[30]OB[5]
+;W[ik]WL[30]OW[5]
+;B[hk]BL[30]OB[5]
+;W[hj]WL[30]OW[5]
+;B[ij]BL[30]OB[5]
+;W[jk]WL[30]OW[5]
+;B[hi]BL[30]OB[5]
+;W[gj]WL[30]OW[5]
+;B[gi]BL[30]OB[5]
+;W[gk]WL[30]OW[5]
+;B[gg]BL[30]OB[5]C[greenway [2d\]: n18
+nhanh [2d\]: n18 not enough to live
+]
+;W[gm]WL[30]OW[4]C[pollux1: w lost j16 -- needs kill f4
+greenway [2d\]: sure but it is a place to dtart
+]
+;B[fj]BL[30]OB[5]C[goeb [8k\]: vinummmm
+greenway [2d\]: start
+]
+;W[fi]WL[30]OW[3]C[Poney [2d\]: w just let himself get killied on top ?
+]
+;B[fh]BL[30]OB[5]C[nhanh [2d\]: w was too greedy
+Poney [2d\]: StillN18
+]
+;W[ei]WL[30]OW[3]
+;B[hq]BL[30]OB[5]C[lupong [1d\]: b could get killed too
+pollux1: n18 1 eye gote
+nhanh [2d\]: ko here?
+]
+;W[ir]WL[30]OW[2]
+;B[ip]BL[30]OB[5]
+;W[jq]WL[30]OW[2]
+;B[hr]BL[30]OB[5]
+;W[ff]WL[30]OW[2]C[nhanh [2d\]: life
+]
+;B[gf]BL[30]OB[5]
+;W[ed]WL[30]OW[2]
+;B[ee]BL[30]OB[5]
+;W[fe]WL[30]OW[2]
+;B[eg]BL[30]OB[5]C[doctorslip [7d\]: hx
+doctorslip [7d\]: thx
+Cornel [6d\]: thx
+zum [2d?\]: big win by b
+])

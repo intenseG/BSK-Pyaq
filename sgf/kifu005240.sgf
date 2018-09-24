@@ -1,0 +1,524 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[60]OT[5x30 byo-yomi]
+PW[scaffold]PB[oubeika]WR[6d]BR[5d]DT[2012-01-21]PC[The KGS Go Server at http://www.gokgs.com/]C[scaffold [6d\]: hi
+oubeika [5d\]: hi
+]RE[W+31.50]
+;B[pd]BL[46.63]
+;W[dp]WL[50.732]
+;B[pp]BL[43.254]
+;W[dc]WL[49.81]
+;B[pj]BL[39.742]
+;W[ce]WL[48.17]
+;B[fq]BL[29.815]
+;W[cn]WL[45.128]
+;B[jp]BL[25.571]
+;W[qq]WL[40.515]
+;B[qp]BL[21.17]
+;W[pq]WL[39.202]
+;B[oq]BL[18.555]
+;W[or]WL[38.336]
+;B[nq]BL[16.222]
+;W[nr]WL[37.444]
+;B[mq]BL[14.562]
+;W[rp]WL[35.383]
+;B[ro]BL[12.494]
+;W[rq]WL[34.458]
+;B[qn]BL[10.275]
+;W[nc]WL[29.886]
+;B[lc]BL[6.107]
+;W[ld]WL[22.476]
+;B[kd]BL[1.068]
+;W[le]WL[20.361]
+;B[mc]BL[30]OB[5]
+;W[nd]WL[19.055]
+;B[pf]BL[30]OB[5]
+;W[nb]WL[16.841]
+;B[ic]BL[30]OB[5]
+;W[qc]WL[13.007]
+;B[pc]BL[30]OB[5]
+;W[pb]WL[11.75]
+;B[qd]BL[30]OB[5]
+;W[rc]WL[10.777]
+;B[ob]BL[30]OB[5]
+;W[qa]WL[9.309]
+;B[fo]BL[30]OB[5]
+;W[dr]WL[30]OW[5]
+;B[dm]BL[30]OB[5]
+;W[dn]WL[30]OW[5]
+;B[fm]BL[30]OB[5]
+;W[jk]WL[30]OW[5]
+;B[ec]BL[30]OB[5]
+;W[ed]WL[30]OW[5]
+;B[fc]BL[30]OB[5]
+;W[db]WL[30]OW[5]
+;B[mj]BL[30]OB[5]
+;W[jn]WL[30]OW[5]
+;B[dj]BL[30]OB[5]
+;W[ip]WL[30]OW[4]
+;B[iq]BL[30]OB[5]
+;W[io]WL[30]OW[3]
+;B[cm]BL[30]OB[5]
+;W[hq]WL[30]OW[3]
+;B[jq]BL[30]OB[5]
+;W[en]WL[30]OW[3]
+;B[fn]BL[30]OB[5]
+;W[em]WL[30]OW[3]
+;B[el]BL[30]OB[5]
+;W[fl]WL[30]OW[3]
+;B[ek]BL[30]OB[5]
+;W[fr]WL[30]OW[3]
+;B[gl]BL[30]OB[5]
+;W[gp]WL[30]OW[3]
+;B[cg]BL[30]OB[5]
+;W[fd]WL[30]OW[3]
+;B[gc]BL[30]OB[5]
+;W[bm]WL[30]OW[3]
+;B[bl]BL[30]OB[5]
+;W[bn]WL[30]OW[3]
+;B[cl]BL[30]OB[4]C[gary168: b has so much outside
+]
+;W[jd]WL[30]OW[3]
+;B[kc]BL[30]OB[4]
+;W[ke]WL[30]OW[3]
+;B[je]BL[30]OB[4]
+;W[pg]WL[30]OW[3]
+;B[qg]BL[30]OB[4]
+;W[qh]WL[30]OW[3]
+;B[ph]BL[30]OB[4]
+;W[og]WL[30]OW[3]
+;B[rh]BL[30]OB[4]
+;W[qi]WL[30]OW[3]
+;B[pi]BL[30]OB[4]
+;W[rg]WL[30]OW[3]
+;B[qf]BL[30]OB[4]
+;W[ri]WL[30]OW[3]
+;B[rk]BL[30]OB[4]C[gary168: bad
+]
+;W[rf]WL[30]OW[3]
+;B[re]BL[30]OB[4]
+;W[qk]WL[30]OW[3]
+;B[qj]BL[30]OB[4]C[gary168: b outside dispear quickly
+]
+;W[sh]WL[30]OW[3]C[nay4ok [1k?\]: b has nothing outside
+]
+;B[nf]BL[30]OB[4]
+;W[of]WL[30]OW[3]
+;B[oe]BL[30]OB[4]
+;W[ng]WL[30]OW[3]
+;B[mg]BL[30]OB[4]
+;W[ne]WL[30]OW[3]
+;B[mf]BL[30]OB[4]
+;W[rj]WL[30]OW[3]
+;B[pk]BL[30]OB[4]
+;W[id]WL[30]OW[3]
+;B[jc]BL[30]OB[4]
+;W[ch]WL[30]OW[3]C[andrew [3d\]: yeah white just needs to hold the line and he wins
+]
+;B[dh]BL[30]OB[4]
+;W[bg]WL[30]OW[3]
+;B[bh]BL[30]OB[4]
+;W[ci]WL[30]OW[3]
+;B[bf]BL[30]OB[4]
+;W[di]WL[30]OW[3]
+;B[ei]BL[30]OB[4]
+;W[dg]WL[30]OW[3]
+;B[ag]BL[30]OB[4]
+;W[eh]WL[30]OW[3]
+;B[bi]BL[30]OB[4]
+;W[fi]WL[30]OW[3]
+;B[fj]BL[30]OB[4]
+;W[cj]WL[30]OW[3]
+;B[gi]BL[30]OB[4]
+;W[ej]WL[30]OW[3]
+;B[hj]BL[30]OB[4]
+;W[dk]WL[30]OW[3]
+;B[dl]BL[30]OB[4]C[ChisiWahla [6k\]: Why would b not simply go for corner b17?
+]
+;W[cf]WL[30]OW[3]
+;B[bj]BL[30]OB[4]C[TheDuke [2d?\]: because one does not simply walk into Mordor.
+costco [2k\]: cant live
+wuwei [4k\]: cos he wouldn't get the corner
+]
+;W[hd]WL[30]OW[3]
+;B[gd]BL[30]OB[4]C[wuwei [4k\]: of course, TheDuke got it more poetically
+ChisiWahla [6k\]: Can't connect out to b14?
+]
+;W[ga]WL[30]OW[3]C[atarinogo [10k\]: yes, Duke expresses it very poetically
+Colorless [-\]: connect to b14 from b17?
+]
+;B[if]BL[30]OB[4]C[andrew [3d\]: black has a remarkably difficult endgame ahead of him
+ChisiWahla [6k\]: I like Duke's go sayings -- never knew Tolkien played...
+Cptngu: oh no black is gunna lose everything
+]
+;W[jf]WL[30]OW[3]
+;B[he]BL[30]OB[4]
+;W[ie]WL[30]OW[3]
+;B[hc]BL[30]OB[4]
+;W[je]WL[30]OW[3]
+;B[gf]BL[30]OB[4]C[andrew [3d\]: black is being corralled
+ChisiWahla [6k\]: As in "mommy, please let me live?"
+]
+;W[ml]WL[30]OW[3]
+;B[fp]BL[30]OB[4]
+;W[gr]WL[30]OW[3]C[TheDuke [2d?\]: hm
+TheDuke [2d?\]: I'm not sure I like F4
+]
+;B[lm]BL[30]OB[4]C[gary168: w has 4 corners
+]
+;W[lj]WL[30]OW[3]C[gary168: and broke the middle
+Cptngu: black can still have top side
+wuwei [4k\]: gery you are a pessimist
+wuwei [4k\]: gary
+]
+;B[mk]BL[30]OB[3]C[gary168: w will in
+Colorless [-\]: not just corners, black barely has anything on the first two lines
+gary168: win
+]
+;W[ll]WL[30]OW[2]
+;B[km]BL[30]OB[3]C[gary168: b will have very little top side and middle
+]
+;W[il]WL[30]OW[2]
+;B[jm]BL[30]OB[3]
+;W[im]WL[30]OW[2]
+;B[lk]BL[30]OB[3]C[gary168: i am optimistic
+]
+;W[kl]WL[30]OW[2]C[wuwei [4k\]: ok, b is playing the zombie
+]
+;B[nl]BL[30]OB[3]
+;W[mm]WL[30]OW[2]
+;B[ko]BL[30]OB[3]C[wuwei [4k\]: the zombie walk
+]
+;W[mo]WL[30]OW[2]
+;B[nn]BL[30]OB[3]C[goplayer01: hi wuwei
+goplayer01: :)
+]
+;W[nm]WL[30]OW[2]
+;B[mn]BL[30]OB[3]
+;W[on]WL[30]OW[2]
+;B[no]BL[30]OB[3]
+;W[ol]WL[30]OW[2]C[Cptngu: Is that Gary Kasparov?
+goplayer01: i hope yes
+kevinwm [3k\]: q7
+goplayer01: :D
+]
+;B[eb]BL[30]OB[3]
+;W[ea]WL[30]OW[2]
+;B[bd]BL[30]OB[3]
+;W[ql]WL[30]OW[2]C[ChisiWahla [6k\]: I can't count, but isn't B very far off?
+gary168: b will lose m7 
+]
+;B[rl]BL[30]OB[3]
+;W[pl]WL[30]OW[2]C[kevinwm [3k\]: Is who Kasparov?
+]
+;B[rm]BL[30]OB[3]
+;W[oo]WL[30]OW[2]C[Cptngu: Gary of course
+]
+;B[lo]BL[30]OB[3]C[nay4ok [1k?\]: what's the best Bond movie of all time?
+]
+;W[pe]WL[30]OW[2]C[goplayer01: i dont know
+]
+;B[qe]BL[30]OB[3]
+;W[od]WL[30]OW[2]
+;B[pe]BL[30]OB[3]
+;W[ni]WL[30]OW[2]C[goplayer01: but the best game is 007 goldeneye for nintendo 64
+wuwei [4k\]: Dr. No, of course
+IvanD [3d\]: quantum of solace
+]
+;B[nh]BL[30]OB[3]
+;W[mi]WL[30]OW[2]C[oonicks [?\]: they are all horrible
+]
+;B[nj]BL[30]OB[3]C[Cptngu: Octopussy!
+]
+;W[ok]WL[30]OW[2]C[goplayer01: octo?
+goplayer01: :D
+goplayer01: man im feeling weird
+ChisiWahla [6k\]: Why not m11 before o10?
+kevinwm [3k\]: m11 now?
+goplayer01: i eat one big xburger and all the pizza.. omg im so hot and my brain is weird 0o
+]
+;B[oh]BL[30]OB[2]
+;W[oj]WL[30]OW[2]C[kevinwm [3k\]: ???
+]
+;B[li]BL[30]OB[2]C[IvanD [3d\]: poor b
+]
+;W[lh]WL[30]OW[2]C[kevinwm [3k\]: b fine
+]
+;B[kj]BL[30]OB[2]
+;W[kh]WL[30]OW[2]
+;B[mh]BL[30]OB[2]
+;W[oi]WL[30]OW[2]C[royu [4d\]: good to know american fast food is destroying your brain as should be
+IvanD [3d\]: very fine
+TheDuke [2d?\]: hmmm, black not alive...
+kevinwm [3k\]: oof _ misswed p13
+goplayer01: i should stop to eat that foods
+TheDuke [2d?\]: on either side
+goplayer01: im gonna die some day
+goplayer01: -.-
+]
+;B[ji]BL[30]OB[2]C[kevinwm [3k\]: R
+goplayer01: the stupid soda
+]
+;W[og]WL[30]OW[2]C[wuwei [4k\]: your brain seems to be melting already
+nay4ok [1k?\]: die another day
+royu [4d\]: k8
+]
+;B[kg]BL[30]OB[2]C[nay4ok [1k?\]: whoa!
+kevinwm [3k\]: This doesn't work, does it?
+wuwei [4k\]: well,,,
+kevinwm [3k\]: k12 k13 j13 j12 
+IvanD [3d\]: nasty trick from b hiere
+ChisiWahla [6k\]: would be cool if it worked...
+IvanD [3d\]: *here
+wuwei [4k\]: it might
+nay4ok [1k?\]: can't see how
+gary168: kill
+goplayer01: i eat today, chicken frie, soda, one very big burger, all pizza with olives and now im weird
+sixrusses [6k\]: sth wiil die for sure
+IvanD [3d\]: it does
+gary168: kill and kill
+Cptngu: its an illusion
+goplayer01: yes
+]
+;W[jh]WL[30]OW[1]C[goplayer01: i fell like all my life is illusion
+nay4ok [1k?\]: oh
+goplayer01: omg crap
+kevinwm [3k\]: pretty darned good illusion
+IvanD [3d\]: oups for black
+]
+;B[jg]BL[30]OB[2]C[kevinwm [3k\]: b loses k11
+]
+;W[ig]WL[30]OW[1]C[kevinwm [3k\]: j12 now
+kevinwm [3k\]: oops...
+]
+;B[ih]BL[30]OB[2]C[IvanD [3d\]: wich group will die ?
+kevinwm [3k\]: or this, and j11
+IvanD [3d\]: black to choose
+wuwei [4k\]: something veeeery big will die
+]
+;W[hf]WL[30]OW[1]C[kevinwm [3k\]: one of 'eml, that's for sure,......
+kevinwm [3k\]: !
+TheDuke [2d?\]: H17 may die.
+goplayer01: i need a medic
+kevinwm [3k\]: lookslike m17 
+TheDuke [2d?\]: or N13
+goplayer01: OMG
+TheDuke [2d?\]: or....
+IvanD [3d\]: good choice, the group at the top is smaller
+goplayer01: im allucinating
+]
+;B[lg]BL[30]OB[2]
+;W[hh]WL[30]OW[1]
+;B[ii]BL[30]OB[2]C[TheDuke [2d?\]: black can try to cut at K8, but white can live.
+]
+;W[ha]WL[30]OW[1]C[kevinwm [3k\]: I am too - I can't see h-es
+sixrusses [6k\]: m13
+nay4ok [1k?\]: good choice?
+kevinwm [3k\]: f19
+]
+;B[gh]BL[30]OB[2]
+;W[gg]WL[30]OW[1]C[goplayer01: how to desintoxicate the stomath food?
+goplayer01: eat tomato?
+]
+;B[fe]BL[30]OB[2]C[Cptngu: drink water
+goplayer01: ok
+goplayer01: much water!
+]
+;W[ee]WL[30]OW[1]C[Cptngu: haha yes
+goplayer01: im allucinating by the food
+goplayer01: to much sodium
+]
+;B[fg]BL[30]OB[2]
+;W[ge]WL[30]OW[1]C[goplayer01: dam
+IvanD [3d\]: eat more pizza
+goplayer01: U CRAZY MAN
+goplayer01: xD!!
+]
+;B[fa]BL[30]OB[2]C[wuwei [4k\]: so you are surrounded by food
+IvanD [3d\]: b found a ghost ko
+]
+;W[fb]WL[30]OW[1]
+;B[he]BL[30]OB[2]C[goplayer01: i need VEGETABLES!
+IvanD [3d\]: is it double ko or something ?
+digua [2d?\]: double ko
+IvanD [3d\]: vegetables are not good for you
+]
+;W[op]WL[30]OW[1]C[IvanD [3d\]: just eat more pizza
+RobertT [-\]: not double ko
+goplayer01: u wanna kill me :(
+wuwei [4k\]: w could have just captured h15...
+IvanD [3d\]: with some coca
+goplayer01: haha i drink lot of coca
+kevinwm [3k\]: b n19 sente
+]
+;B[sn]BL[30]OB[2]
+;W[ge]WL[30]OW[1]C[ChisiWahla [6k\]: b ignore and connect?
+kevinwm [3k\]: b g18
+IvanD [3d\]: if w cuts at F12, is it not double ko ?
+fante7 [1k\]: W h15 leads to ko with B taking first instead of W, I think
+digua [2d?\]: I realize b could h11
+]
+;B[jl]BL[30]OB[1]C[kevinwm [3k\]: it is ivan
+fante7 [1k\]: er, W capturing h15 before starting ko
+]
+;W[ff]WL[30]OW[1]C[kevinwm [3k\]: OoO
+]
+;B[kk]BL[30]OB[1]
+;W[qo]WL[30]OW[1]C[wuwei [4k\]: nice
+ChisiWahla [6k\]: just take?
+ponnuko [1d\]: black sucks
+digua [2d?\]: nice for w
+kevinwm [3k\]: b alive
+goplayer01: wat
+TheDuke [2d?\]: as I said, white can live if black cuts.
+]
+;B[om]BL[30]OB[1]C[goplayer01: :D!!!!!!!!!!!!!!!!!!!!!!!!!!
+kevinwm [3k\]: q5 q6 !!!!
+goplayer01: LMFAO!
+digua [2d?\]: no ...
+ChisiWahla [6k\]: yes
+kevinwm [3k\]: why did b do that?!?
+]
+;W[pn]WL[30]OW[1]C[goplayer01: wow
+goplayer01: awesome
+]
+;B[pm]BL[30]OB[1]C[whuang [1d\]: Ouch
+ChisiWahla [6k\]: connected
+kevinwm [3k\]: b didn't have to give up q4
+whuang [1d\]: Killer
+]
+;W[be]WL[30]OW[1]
+;B[ae]BL[30]OB[1]
+;W[bc]WL[30]OW[1]C[kevinwm [3k\]: cloning in kgs teaching - someone help me understand that
+IvanD [3d\]: yes he had
+IvanD [3d\]: or w lives
+]
+;B[mb]BL[30]OB[1]C[ponnuko [1d\]: he had to give it up
+digua [2d?\]: lol
+nay4ok [1k?\]: i don't like w's choices for the end of the game
+RobertT [-\]: kevinwm, r5 r6 r5 o9
+]
+;W[na]WL[30]OW[1]C[IvanD [3d\]: with Q6 sente and then O9
+]
+;B[ia]BL[30]OB[1]
+;W[ib]WL[30]OW[1]C[ponnuko [1d\]: k19
+royu [4d\]: w win huge 
+ChisiWahla [6k\]: can top live? seems so hopeless?
+IvanD [3d\]: I think w is just cruching b badly
+]
+;B[sf]BL[30]OB[1]
+;W[sj]WL[30]OW[1]C[RobertT [-\]: errr q5 q6 r5 o9*
+]
+;B[eq]BL[30]OB[1]
+;W[er]WL[30]OW[1]C[Narayana [1d?\]: um se says b+165
+]
+;B[dq]BL[30]OB[1]C[Cptngu: whites been leading all game
+]
+;W[cq]WL[30]OW[1]
+;B[ac]BL[30]OB[1]C[wowoplayer: I AM SORRY BUT
+]
+;W[bb]WL[30]OW[1]C[wowoplayer: THE ANCIENT 9D IS PLAYING
+wowoplayer: BYE ALL
+RobertT [-\]: CAPS LOCK
+wowoplayer: sry
+]
+;B[mr]BL[30]OB[1]
+;W[ir]WL[30]OW[1]C[nay4ok [1k?\]: yeah, right
+wowoplayer: i am sorry ok
+]
+;B[jr]BL[30]OB[1]
+;W[bg]WL[30]OW[1]
+;B[hn]BL[30]OB[1]
+;W[in]WL[30]OW[1]
+;B[cg]BL[30]OB[1]C[nay4ok [1k?\]: you should be
+]
+;W[nm]WL[30]OW[1]
+;B[qm]BL[30]OB[1]
+;W[bg]WL[30]OW[1]
+;B[np]BL[30]OB[1]
+;W[po]WL[30]OW[1]C[RobertT [-\]: who cares about ancient, Park Yeonghun 9p is playing :p
+]
+;B[cg]BL[30]OB[1]
+;W[cd]WL[30]OW[1]
+;B[af]BL[30]OB[1]C[nay4ok [1k?\]: why are you here then?
+]
+;W[ad]WL[30]OW[1]
+;B[is]BL[30]OB[1]C[RobertT [-\]: kibitz
+]
+;W[hr]WL[30]OW[1]
+;B[bd]BL[30]OB[1]
+;W[bg]WL[30]OW[1]
+;B[ck]BL[30]OB[1]
+;W[ad]WL[30]OW[1]
+;B[cp]BL[30]OB[1]
+;W[bp]WL[30]OW[1]
+;B[bd]BL[30]OB[1]
+;W[ah]WL[30]OW[1]
+;B[ai]BL[30]OB[1]
+;W[ad]WL[30]OW[1]
+;B[jb]BL[30]OB[1]
+;W[ja]WL[30]OW[1]
+;B[bd]BL[30]OB[1]
+;W[ab]WL[30]OW[1]
+;B[ho]BL[30]OB[1]
+;W[hp]WL[30]OW[1]
+;B[ik]BL[30]OB[1]
+;W[hk]WL[30]OW[1]
+;B[ij]BL[30]OB[1]
+;W[hl]WL[30]OW[1]
+;B[fh]BL[30]OB[1]
+;W[gk]WL[30]OW[1]
+;B[fk]BL[30]OB[1]
+;W[ad]WL[30]OW[1]
+;B[cg]BL[30]OB[1]
+;W[eg]WL[30]OW[1]
+;B[bg]BL[30]OB[1]
+;W[ei]WL[30]OW[1]
+;B[sc]BL[30]OB[1]
+;W[sb]WL[30]OW[1]
+;B[sd]BL[30]OB[1]C[kevinwm [3k\]: h7 3 pts
+]
+;W[rb]WL[30]OW[1]C[nay4ok [1k?\]: so weird
+]
+;B[oc]BL[30]OB[1]
+;W[oa]WL[30]OW[1]
+;B[me]BL[30]OB[1]
+;W[md]WL[30]OW[1]
+;B[ns]BL[30]OB[1]
+;W[pr]WL[30]OW[1]
+;B[eo]BL[30]OB[1]
+;W[go]WL[30]OW[1]
+;B[gn]BL[30]OB[1]
+;W[hm]WL[30]OW[1]
+;B[do]BL[30]OB[1]
+;W[co]WL[30]OW[1]
+;B[sp]BL[30]OB[1]
+;W[sq]WL[30]OW[1]
+;B[so]BL[30]OB[1]
+;W[sk]WL[30]OW[1]
+;B[sl]BL[30]OB[1]
+;W[os]WL[30]OW[1]
+;B[ms]BL[30]OB[1]
+;W[hs]WL[30]OW[1]
+;B[js]BL[30]OB[1]
+;W[al]WL[30]OW[1]
+;B[ak]BL[30]OB[1]
+;W[am]WL[30]OW[1]
+;B[gj]BL[30]OB[1]
+;W[kn]WL[30]OW[1]C[nay4ok [1k?\]: is b going to resign just before the score count?
+]
+;B[se]BL[30]OB[1]
+;W[sg]WL[30]OW[1]
+;B[hi]BL[30]OB[1]
+;W[hg]WL[30]OW[1]
+;B[ep]BL[30]OB[1]
+;W[cp]WL[30]OW[1]
+;B[ki]BL[30]OB[1]
+;W[]WL[30]OW[1]C[kevinwm [3k\]: ??
+]
+;B[fl]BL[30]OB[1]
+;W[]WL[30]OW[1]
+;B[]BL[30]OB[1]TW[aa][ba][ca][da][fa][ia][ka][la][ma][pa][ra][sa][cb][eb][gb][hb][jb][kb][lb][mb][qb][ac][cc][ec][fc][gc][hc][ic][jc][kc][lc][mc][bd][dd][gd][kd][de][fe][he][df][ef][gf][if][dh][rh][si][an][ao][bo][ap][pp][qp][aq][bq][ar][br][cr][qr][rr][sr][as][bs][cs][ds][es][fs][gs][ps][qs][rs][ss]TB[of][ng][og][pg][ah][jh][kh][lh][mi][ni][oi][aj][jj][lj][oj][bk][jk][nk][ok][qk][kl][ll][ml][ol][pl][ql][mm][nm][sm][rn][mo][kp][lp][mp][kq][lq][kr][lr][ks][ls]C[scaffold [6d\]: ty
+oubeika [5d\]: thx
+nay4ok [1k?\]: p13 was bigger, no?
+nay4ok [1k?\]: ah.. I was hoping for a review
+])

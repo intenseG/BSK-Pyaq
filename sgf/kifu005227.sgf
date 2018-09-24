@@ -1,0 +1,243 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[5x10 byo-yomi]
+PW[roln111]PB[intenseG]WR[7d]BR[7d]DT[2014-12-26]PC[The KGS Go Server at http://www.gokgs.com/]C[roln111 [7d\]: hi
+intenseG [7d\]: hi gg
+]RE[W+Resign]
+;B[pd]BL[10]OB[5]
+;W[dp]WL[10]OW[5]
+;B[qp]BL[10]OB[5]
+;W[dc]WL[10]OW[5]
+;B[fq]BL[10]OB[5]
+;W[cn]WL[10]OW[5]
+;B[kq]BL[10]OB[5]
+;W[ce]WL[10]OW[5]
+;B[jd]BL[10]OB[5]
+;W[qf]WL[10]OW[5]
+;B[pi]BL[10]OB[5]
+;W[qk]WL[10]OW[5]
+;B[pf]BL[10]OB[4]
+;W[qn]WL[10]OW[5]
+;B[pl]BL[10]OB[4]
+;W[pp]WL[10]OW[5]
+;B[pq]BL[10]OB[4]
+;W[qq]WL[10]OW[5]
+;B[qr]BL[10]OB[4]
+;W[rq]WL[10]OW[5]
+;B[po]BL[10]OB[4]
+;W[op]WL[10]OW[5]
+;B[qo]BL[10]OB[4]
+;W[oq]WL[10]OW[5]
+;B[pr]BL[10]OB[4]
+;W[rr]WL[10]OW[5]
+;B[or]BL[10]OB[4]
+;W[oo]WL[10]OW[5]
+;B[pn]BL[10]OB[4]
+;W[nr]WL[10]OW[5]
+;B[mr]BL[10]OB[4]
+;W[on]WL[10]OW[5]
+;B[om]BL[10]OB[4]
+;W[ns]WL[10]OW[5]
+;B[nq]BL[10]OB[4]
+;W[mq]WL[10]OW[5]
+;B[np]BL[10]OB[4]
+;W[mp]WL[10]OW[5]
+;B[no]BL[10]OB[4]
+;W[nn]WL[10]OW[5]
+;B[mo]BL[10]OB[4]
+;W[mn]WL[10]OW[4]
+;B[lo]BL[10]OB[4]
+;W[lr]WL[10]OW[4]
+;B[lm]BL[10]OB[4]
+;W[ln]WL[10]OW[3]
+;B[kn]BL[10]OB[4]
+;W[ko]WL[10]OW[3]
+;B[lp]BL[10]OB[4]
+;W[km]WL[10]OW[3]
+;B[jn]BL[10]OB[4]
+;W[mm]WL[10]OW[3]
+;B[lq]BL[10]OB[4]
+;W[ms]WL[10]OW[3]
+;B[ll]BL[10]OB[4]
+;W[ml]WL[10]OW[3]
+;B[mk]BL[10]OB[4]
+;W[lk]WL[10]OW[3]
+;B[kl]BL[10]OB[4]
+;W[nk]WL[10]OW[3]
+;B[mj]BL[10]OB[4]
+;W[nl]WL[10]OW[3]
+;B[nj]BL[10]OB[4]
+;W[qs]WL[10]OW[3]
+;B[ok]BL[10]OB[4]
+;W[ps]WL[10]OW[3]
+;B[qe]BL[10]OB[4]
+;W[jm]WL[10]OW[3]C[Shenron [1d\]: Terrible for w
+]
+;B[im]BL[10]OB[4]
+;W[jl]WL[10]OW[3]
+;B[kk]BL[10]OB[4]
+;W[in]WL[10]OW[3]C[Hofobbefes [1d\]: yeah
+]
+;B[jo]BL[10]OB[4]
+;W[il]WL[10]OW[3]
+;B[hm]BL[10]OB[4]
+;W[kj]WL[10]OW[3]
+;B[lj]BL[10]OB[4]
+;W[jk]WL[10]OW[3]
+;B[lk]BL[10]OB[4]C[Hofobbefes [1d\]: with roln you never know
+]
+;W[hn]WL[10]OW[3]
+;B[hl]BL[10]OB[4]C[Shenron [1d\]: He'll make something of it
+]
+;W[ij]WL[10]OW[3]
+;B[ip]BL[10]OB[4]
+;W[gn]WL[10]OW[3]
+;B[hk]BL[10]OB[4]
+;W[hj]WL[10]OW[3]
+;B[gj]BL[10]OB[4]
+;W[gi]WL[10]OW[3]
+;B[fn]BL[10]OB[4]
+;W[fm]WL[10]OW[3]
+;B[fj]BL[10]OB[4]C[Near [8k\]: sure he can but this is the tough game for him 
+]
+;W[fi]WL[10]OW[3]C[epic [5k\]: we don't know
+Hofobbefes [1d\]: by now it's already playble
+]
+;B[gm]BL[10]OB[4]C[Zahlman [1k\]: if w kills here it will look a lot more reasonable
+]
+;W[fo]WL[10]OW[3]
+;B[en]BL[10]OB[4]
+;W[em]WL[10]OW[3]
+;B[fl]BL[10]OB[4]
+;W[eo]WL[10]OW[3]
+;B[ei]BL[10]OB[4]
+;W[eh]WL[10]OW[3]
+;B[dh]BL[10]OB[4]
+;W[ej]WL[10]OW[3]C[Hofobbefes [1d\]: I remember an early ilya game against Taranu commented by taranu himself
+]
+;B[di]BL[10]OB[4]C[Hofobbefes [1d\]: he was so angry with roln
+]
+;W[dk]WL[10]OW[3]
+;B[el]BL[10]OB[4]C[fruits: why ?
+]
+;W[dm]WL[10]OW[3]
+;B[dl]BL[10]OB[4]C[Hofobbefes [1d\]: keept saying "Ilya position is hopeless" nevertheless he won just by half a point in the end
+]
+;W[dj]WL[10]OW[2]
+;B[cl]BL[10]OB[4]
+;W[bk]WL[10]OW[2]
+;B[bl]BL[10]OB[4]
+;W[bi]WL[10]OW[2]
+;B[bn]BL[10]OB[4]
+;W[bo]WL[10]OW[2]
+;B[cm]BL[10]OB[4]
+;W[dn]WL[10]OW[2]C[Shenron [1d\]: I miss rapyuta
+]
+;B[am]BL[10]OB[4]C[fruits: well, that might depends on how messy was the game and mistakes from the opponents
+]
+;W[hh]WL[10]OW[2]C[Hofobbefes [1d\]: but at that time taranu was strong, I mean, he was 5p for real, and Ilya was kind of a newbie... so winning by only 05 was a shame for taranu
+]
+;B[bh]BL[10]OB[4]C[Zahlman [1k\]: "winning by just half a point" doesn't necessarily mean it was a hard game for the winner
+]
+;W[dg]WL[10]OW[2]
+;B[ch]BL[10]OB[4]
+;W[cj]WL[10]OW[2]
+;B[eg]BL[10]OB[4]
+;W[fh]WL[10]OW[2]
+;B[df]BL[10]OB[4]C[Hofobbefes [1d\]: when you claim that your opponet should resign in fuseki
+whatisgo [-\]: ko?
+]
+;W[fk]WL[10]OW[1]
+;B[gk]BL[10]OB[4]C[Zahlman [1k\]: w has to try this
+]
+;W[cg]WL[10]OW[1]
+;B[bg]BL[10]OB[2]C[Zahlman [1k\]: isn't c13 just wasting a ko threat though?
+]
+;W[cf]WL[10]OW[1]
+;B[ek]BL[10]OB[2]C[Zahlman [1k\]: wow, b played this way?
+]
+;W[bf]WL[10]OW[1]C[Hofobbefes [1d\]: the fact that ilya is struggling to go back to 8d makes me think
+fruits: c13 before f9 ?
+]
+;B[ck]BL[10]OB[2]
+;W[ai]WL[10]OW[1]
+;B[bj]BL[10]OB[2]
+;W[ci]WL[10]OW[1]
+;B[ak]BL[10]OB[2]
+;W[ag]WL[10]OW[1]
+;B[hc]BL[10]OB[2]
+;W[qm]WL[10]OW[1]C[Hofobbefes [1d\]: c2 for b works?
+]
+;B[pm]BL[10]OB[2]C[Zahlman [1k\]: well, b got sente, but
+]
+;W[qi]WL[10]OW[1]
+;B[qh]BL[10]OB[2]
+;W[pj]WL[10]OW[1]
+;B[oj]BL[10]OB[2]
+;W[ph]WL[10]OW[1]C[Zahlman [1k\]: I feel like b should have been able to save the top group, and get seki or ko with the rest
+]
+;B[oi]BL[10]OB[2]
+;W[rh]WL[10]OW[1]
+;B[qg]BL[10]OB[2]
+;W[rj]WL[10]OW[1]
+;B[rg]BL[10]OB[2]
+;W[lc]WL[10]OW[1]
+;B[kc]BL[10]OB[2]
+;W[le]WL[10]OW[1]
+;B[kf]BL[10]OB[2]
+;W[kb]WL[10]OW[1]
+;B[jb]BL[10]OB[2]
+;W[ob]WL[10]OW[1]
+;B[nc]BL[10]OB[2]
+;W[oc]WL[10]OW[1]
+;B[od]BL[10]OB[2]
+;W[nd]WL[10]OW[1]
+;B[md]BL[10]OB[2]
+;W[ne]WL[10]OW[1]
+;B[mc]BL[10]OB[2]
+;W[ld]WL[10]OW[1]
+;B[me]BL[10]OB[2]
+;W[mb]WL[10]OW[1]
+;B[mf]BL[10]OB[2]
+;W[lf]WL[10]OW[1]C[Hofobbefes [1d\]: amazing
+]
+;B[kg]BL[10]OB[2]
+;W[lg]WL[10]OW[1]
+;B[ki]BL[10]OB[2]
+;W[nb]WL[10]OW[1]C[Zahlman [1k\]: b couldn't o18 ever? x.x
+]
+;B[qb]BL[10]OB[1]
+;W[kh]WL[10]OW[1]C[Hofobbefes [1d\]: k16 looks like a do or die invasion by b now
+Zahlman [1k\]: oh, not 2 eyes yet hmm?
+]
+;B[nf]BL[10]OB[1]
+;W[li]WL[10]OW[1]
+;B[jj]BL[10]OB[1]
+;W[jh]WL[10]OW[1]C[Zahlman [1k\]: !
+]
+;B[ig]BL[10]OB[1]
+;W[gb]WL[10]OW[1]
+;B[ih]BL[10]OB[1]
+;W[ii]WL[10]OW[1]C[Zahlman [1k\]: how can this happen
+fruits: lol its b under attack now :)
+]
+;B[ik]BL[10]OB[1]
+;W[ji]WL[10]OW[1]
+;B[gc]BL[10]OB[1]
+;W[fb]WL[10]OW[1]
+;B[hf]BL[10]OB[1]
+;W[ie]WL[10]OW[1]
+;B[he]BL[10]OB[1]C[higgs [8k\]: f14
+]
+;W[id]WL[10]OW[1]
+;B[jc]BL[10]OB[1]
+;W[jg]WL[10]OW[1]C[Zahlman [1k\]: ouch
+roln111 [7d\]: thx
+intenseG [7d\]: thx
+Near [8k\]: what a roln  ; )\\
+Zahlman [1k\]: so scary...
+epic [5k\]: fun to watch
+Hofobbefes [1d\]: great shape in this game
+Near [8k\]: hope he gets back to 8D soon
+Hofobbefes [1d\]: you study hard, you practice daily, and sometimes a player makes you feeling a complete idiot..... 
+Hofobbefes [1d\]: go is so cruel
+])

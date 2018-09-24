@@ -1,0 +1,269 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1200]OT[3x30 byo-yomi]
+PW[oubeika]PB[natsuomi]WR[5d]BR[9k]DT[2013-01-24]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: よろしくお願いします～
+natsuomi [9k\]: よろしくお願いします
+]RE[W+Resign]
+;B[pd]BL[1183.506]
+;W[dp]WL[1188.104]
+;B[pq]BL[1174.645]
+;W[dd]WL[1184.22]
+;B[fq]BL[1171.033]
+;W[cn]WL[1179.743]
+;B[jp]BL[1163.583]
+;W[qn]WL[1166.208]
+;B[qp]BL[1132.759]
+;W[qk]WL[1137.384]
+;B[qi]BL[1112.991]
+;W[nc]WL[1124.432]
+;B[qf]BL[1085.509]
+;W[pb]WL[1113.297]
+;B[qc]BL[1075.369]
+;W[kc]WL[1108.424]
+;B[cf]BL[1050.206]
+;W[ch]WL[1092.342]
+;B[cc]BL[1047.083]
+;W[cd]WL[1088.136]
+;B[dc]BL[1027.893]
+;W[ed]WL[1085.284]
+;B[bd]BL[1025.368]
+;W[be]WL[1083.826]
+;B[bc]BL[1023.243]
+;W[ce]WL[1082.671]
+;B[fc]BL[1021.117]
+;W[hq]WL[1072.323]
+;B[hp]BL[973.691]
+;W[ip]WL[1035.708]C[oubeika [5d\]: ここですねー
+oubeika [5d\]: 上から抑えると
+oubeika [5d\]: 黒模様だった下辺がほぼ白地になってしまいます
+]
+(;B[io]BL[937.605]
+;W[iq]WL[1030.436]
+;B[gp]BL[917.808]
+;W[jq]WL[1023.957]
+;B[kp]BL[914.225]
+;W[lq]WL[1019.45]
+;B[kq]BL[866.795]
+;W[kr]WL[1006.358]
+;B[lp]BL[843.572]
+;W[mq]WL[1002.98]
+;B[np]BL[838.567]
+;W[mp]WL[994.264]
+;B[mo]BL[823.459]
+;W[nq]WL[993.146]
+;B[oo]BL[791.072]
+;W[op]WL[950.819]
+;B[no]BL[783.678]
+;W[oq]WL[927.899]
+;B[pr]BL[742.752]
+;W[dr]WL[894.007]C[natsuomi [9k\]: 覚えておきますー
+]
+;B[rm]BL[680.842]C[oubeika [5d\]: なかなか鋭い一手で
+oubeika [5d\]: 下辺に厚みがあるので
+oubeika [5d\]: 強気で攻めれますね
+]
+(;W[pp]WL[863.293]C[oubeika [5d\]: このオキは
+]
+;B[qo]BL[652.999]
+;W[po]WL[854.094]
+;B[pn]BL[647.913]
+;W[qm]WL[832.987]C[oubeika [5d\]: 見た感じは
+oubeika [5d\]: 少し薄いかな
+World [7d\]:  ｷｬｰ♪ ｏ(＞▽＜*)(*＞▽＜)ｏ ｷｬｰ♪ oubeikaaa
+natsuomi [9k\]: はい
+oubeika [5d\]: でも部分での鋭さは初段レベルあるので
+oubeika [5d\]: 後はその鋭さを活かすための力であるヨミがあれば
+oubeika [5d\]: 飛躍的に伸びると思いますー
+teaberry [6k\]: すげえ
+natsuomi [9k\]: 検討ありがとうございました
+oubeika [5d\]: 僕も昔こういう碁だったので
+teaberry [6k\]: おつかれさまでした
+oubeika [5d\]: すごくわかりますｗ
+oubeika [5d\]: まあもっと激しかったけど
+oubeika [5d\]: ところで
+oubeika [5d\]: Worldさんって誰だ？ｗ
+teaberry [6k\]: 世界さんｗ
+World [7d\]: ｏ(＞▽＜*)(*＞▽＜)ｏ
+oubeika [5d\]: 僕のことを知ってるようですけどｗ
+teaberry [6k\]: 言の葉さんｗ
+World [7d\]: ｏ(＞▽＜*)(*＞▽＜)ｏ
+oubeika [5d\]: え！！！
+oubeika [5d\]: kotonohaさんって
+World [7d\]: (*//////////////ｰ//////////////*)ﾎﾞｯ
+oubeika [5d\]: 3dか4dじゃなかった？ｗ
+World [7d\]: Aya no master ni narimashita ta ta ta...
+teaberry [6k\]: ボット鴨って上がったらしい
+oubeika [5d\]: ｗｗｗ
+World [7d\]: kiyo wa joji ga yoii sou
+oubeika [5d\]: ayaキラー
+World [7d\]: kino wa makeneko no darekaka ni doushimashita orrz
+World [7d\]: 10d ohshinataaaaaaaaaaaaaaaaaaaaaa
+World [7d\]: owaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+oubeika [5d\]: ｗｗｗ
+World [7d\]: AYAMC3 H6 B+0.5
+World [7d\]: *uck ! 
+teaberry [6k\]: 惜しいｗ
+World [7d\]: dokoro de
+World [7d\]: iya 
+World [7d\]: 10 moku gurai hararemasu 
+World [7d\]: ato wa Bot no GUSo jigan
+World [7d\]: GUSO yose jigan
+World [7d\]: dokoro de
+World [7d\]: oubeika san
+World [7d\]: tetemasu ka?
+oubeika [5d\]: はい？
+World [7d\]: Akari no taikai
+oubeika [5d\]: あの大会出てないー；
+World [7d\]: sanren :3
+oubeika [5d\]: もう出れない？
+World [7d\]: 1/26
+teaberry [6k\]: えｗ
+World [7d\]: moushuku no koto da...
+teaberry [6k\]: カイトさんの名簿、もう組んでるんじゃないの？ｗ
+World [7d\]: wakaran.....
+teaberry [6k\]: カイトさんに聞いておいたほうがいいと思うおｗ
+World [7d\]: HongKong no hito ga tetekurewa
+World [7d\]: mou Hero no oubeika san gainai doooooooooooooooo
+teaberry [6k\]: ヒーロー？ｗ
+World [7d\]: SURAINBES san teteru kana....
+World [7d\]: aa..shinai sou
+World [7d\]: hm....
+World [7d\]: jigan ganai ne...
+World [7d\]: surei shimasu
+]
+(;B[om]BL[623.731]
+;W[rn]WL[821.727]
+;B[rq]BL[583.263]
+;W[ro]WL[814.294]
+;B[or]BL[576.09]
+;W[nr]WL[802.949]
+;B[rp]BL[560.863]
+;W[ok]WL[790.158]
+;B[oi]BL[540.362]
+;W[pm]WL[761.773]
+;B[on]BL[519.963]
+;W[ho]WL[708.97]C[oubeika [5d\]: ここが敗着になってしまいましたね；
+]
+(;B[hn]BL[478.654]
+;W[jo]WL[698.245]
+;B[kn]BL[442.578]
+;W[in]WL[688.613]
+;B[fn]BL[370.015]
+;W[hm]WL[678.633]
+;B[fl]BL[323.052]
+;W[dk]WL[651.547]
+;B[rj]BL[276.998]
+;W[rl]WL[643.543]
+;B[kl]BL[212.829]
+;W[hk]WL[631.807]
+;B[fj]BL[199.76]
+;W[hi]WL[618.939]
+;B[eh]BL[163.996]
+;W[gh]WL[600.741]
+;B[bf]BL[138.858]
+;W[ei]WL[561.048]
+;B[dm]BL[14.181]
+;W[cm]WL[552.403]
+;B[dl]BL[12.511]
+;W[ek]WL[537.92]
+;B[el]BL[30]OB[3]
+;W[cl]WL[527.546]
+;B[eo]BL[30]OB[2]
+;W[go]WL[519.957]
+;B[do]BL[30]OB[2]
+;W[co]WL[514.75]
+;B[ep]BL[30]OB[2]
+;W[dq]WL[503.896]
+;B[fk]BL[30]OB[2]
+;W[fi]WL[489.017]C[oubeika [5d\]: ありがとうございました～
+natsuomi [9k\]: ありがとうございました
+majin [4d\]: 欧米ｓの指導方針にスパルタを追加したほうが良いかも・・・
+oubeika [5d\]: 検討いきますねー
+majin [4d\]: おつです
+oubeika [5d\]: えｗ
+natsuomi [9k\]: お願いします
+teaberry [6k\]: おつかれさまでした
+pritu [14k\]: おつですー
+oubeika [5d\]: 検討しやすいような碁にしてるので
+majin [4d\]: 横やりごめんね。検討どうぞー
+oubeika [5d\]: いやいいですよｗ
+oubeika [5d\]: まあ咎められるところはちゃんととがめて
+oubeika [5d\]: 後から教えるんですよねー
+])
+(;B[in]
+;W[hn]C[natsuomi [9k\]: 打った後やちゃった感がすごかったです
+oubeika [5d\]: 黒はノビるぐらいです
+natsuomi [9k\]: 左下黒は捨てるしかないですか
+oubeika [5d\]: でも左下３子を飲み込まれてしまうと
+oubeika [5d\]: さすがに足りなくなるので
+oubeika [5d\]: 結局左下で下を切っておけばよかったという結論に
+]
+(;B[hm]
+;W[gn]
+;B[gm]
+;W[fn])
+(;B[fn]C[oubeika [5d\]: ケイマで頑張っても
+]
+;W[im]
+;B[kn]
+;W[gm]
+;B[fm]
+;W[gk]C[oubeika [5d\]: なかなか逃げれそうにはないですね
+])))
+(;B[rn]C[oubeika [5d\]: 実はここ
+oubeika [5d\]: 下から抑えれるんですよ
+]
+;W[on]
+;B[pm]
+;W[ql]
+;B[om]
+;W[nn]C[natsuomi [9k\]: おうふ
+]
+(;B[ln])
+(;B[mn]
+;W[nm]
+;B[ol]
+;W[mm]
+;B[kn]C[natsuomi [9k\]: 黒の断点が気になりましたが大丈夫でしたか
+oubeika [5d\]: むしろ白が分断されていて
+oubeika [5d\]: 白のほうが苦しいです
+]
+;W[pj]
+;B[nk]
+;W[pi]C[natsuomi [9k\]: ふむふむ
+])))
+(;W[rn]
+;B[ql]C[natsuomi [9k\]: さっき教わりましたｂ
+]
+;W[pl]
+;B[rk]C[oubeika [5d\]: おお
+]))
+(;B[iq]C[natsuomi [9k\]: はいｗ
+oubeika [5d\]: ここは下を切りたかったですね
+]
+;W[io]C[oubeika [5d\]: ここで抱えずに
+natsuomi [9k\]: シチョウあとで確認してみますー
+]
+(;B[hr]C[oubeika [5d\]: あ
+oubeika [5d\]: さっきのは忘れてくださいｗ
+]
+;W[jq]
+;B[gq]
+;W[kp]C[oubeika [5d\]: あ
+oubeika [5d\]: シチョウ悪いですねｗ失礼しました
+natsuomi [9k\]: ふむシチョウが悪いと下が
+oubeika [5d\]: このシチョウ黒がいいので
+]
+;B[jo])
+(;B[jq]C[oubeika [5d\]: ツグ手もあります
+]
+;W[gp]
+;B[hr]
+;W[ho]
+;B[fr]C[oubeika [5d\]: シチョウが悪いなら
+majin [4d\]: 一応シチョウ黒大丈夫みたいですけどね・・・？
+oubeika [5d\]: でもこの場合は左辺が白模様なので
+oubeika [5d\]: ツギは打ちたくないところです
+])
+(;B[ho]C[oubeika [5d\]: 押す手もあるし
+natsuomi [9k\]: なるほど
+])))

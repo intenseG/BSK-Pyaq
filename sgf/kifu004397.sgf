@@ -1,0 +1,451 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[80x10 byo-yomi]
+PW[doctorslip]PB[twoeye]WR[7d]BR[7d]DT[2013-10-21]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+14.50]
+;B[pp]BL[10]OB[80]C[doctorslip [7d\]: hi gg
+twoeye [7d\]: hi
+]
+;W[dd]WL[10]OW[80]
+;B[pc]BL[10]OB[80]
+;W[dq]WL[10]OW[80]
+;B[do]BL[10]OB[80]
+;W[cm]WL[10]OW[80]
+;B[cq]BL[10]OB[80]
+;W[gq]WL[10]OW[80]
+;B[dp]BL[10]OB[80]
+;W[dr]WL[10]OW[80]
+;B[bo]BL[10]OB[80]
+;W[cj]WL[10]OW[80]
+;B[cr]BL[10]OB[80]
+;W[jq]WL[10]OW[80]
+;B[fc]BL[10]OB[80]
+;W[df]WL[10]OW[80]
+;B[jd]BL[10]OB[80]
+;W[qn]WL[10]OW[80]
+;B[ql]BL[10]OB[80]
+;W[pl]WL[10]OW[80]
+;B[qk]BL[10]OB[80]
+;W[np]WL[10]OW[80]
+;B[pn]BL[10]OB[80]
+;W[qo]WL[10]OW[78]
+;B[po]BL[10]OB[80]
+;W[qp]WL[10]OW[78]C[KurataSan [3d\]: q3 
+]
+;B[qq]BL[10]OB[79]
+;W[rq]WL[10]OW[78]
+;B[pq]BL[10]OB[79]
+;W[qm]WL[10]OW[78]
+;B[pm]BL[10]OB[79]
+;W[rr]WL[10]OW[78]
+;B[ol]BL[10]OB[79]
+;W[pf]WL[10]OW[78]
+;B[qh]BL[10]OB[79]
+;W[lc]WL[10]OW[78]
+;B[od]BL[10]OB[78]
+;W[hd]WL[10]OW[78]
+;B[cc]BL[10]OB[78]
+;W[dc]WL[10]OW[78]
+;B[db]BL[10]OB[78]
+;W[cd]WL[10]OW[78]
+;B[bb]BL[10]OB[78]
+;W[bc]WL[10]OW[78]
+;B[cb]BL[10]OB[78]
+;W[jc]WL[10]OW[78]
+;B[rm]BL[10]OB[77]
+;W[rn]WL[10]OW[78]
+;B[rl]BL[10]OB[77]
+;W[sn]WL[10]OW[78]
+;B[ic]BL[10]OB[76]
+;W[id]WL[10]OW[78]
+;B[kc]BL[10]OB[76]
+;W[jb]WL[10]OW[78]
+;B[kd]BL[10]OB[76]
+;W[kb]WL[10]OW[78]
+;B[ld]BL[10]OB[76]
+;W[mc]WL[10]OW[78]
+;B[md]BL[10]OB[76]
+;W[gb]WL[10]OW[78]
+;B[fb]BL[10]OB[76]
+;W[nc]WL[10]OW[78]
+;B[nd]BL[10]OB[76]
+;W[qd]WL[10]OW[78]
+;B[qc]BL[10]OB[76]
+;W[ph]WL[10]OW[78]
+;B[qg]BL[10]OB[76]
+;W[pg]WL[10]OW[77]
+;B[mh]BL[10]OB[74]
+;W[nh]WL[10]OW[76]
+;B[mi]BL[10]OB[74]
+;W[qi]WL[10]OW[76]
+;B[ri]BL[10]OB[74]
+;W[qf]WL[10]OW[75]
+;B[rg]BL[10]OB[70]
+;W[nj]WL[10]OW[75]
+;B[mj]BL[10]OB[69]
+;W[mg]WL[10]OW[74]
+;B[lg]BL[10]OB[69]
+;W[rc]WL[10]OW[74]
+;B[rb]BL[10]OB[69]
+;W[re]WL[10]OW[73]
+;B[ng]BL[10]OB[69]
+;W[sb]WL[10]OW[73]
+;B[qa]BL[10]OB[68]
+;W[pd]WL[10]OW[73]
+;B[oc]BL[10]OB[68]
+;W[nf]WL[10]OW[73]
+;B[mf]BL[10]OB[68]
+;W[ei]WL[10]OW[71]
+;B[lq]BL[10]OB[66]
+;W[lp]WL[10]OW[71]
+;B[kq]BL[10]OB[66]
+;W[jp]WL[10]OW[71]
+;B[kp]BL[10]OB[66]
+;W[ko]WL[10]OW[71]
+;B[mp]BL[10]OB[66]
+;W[lo]WL[10]OW[71]
+;B[mq]BL[10]OB[64]
+;W[mo]WL[10]OW[71]
+;B[jo]BL[10]OB[63]
+;W[nq]WL[10]OW[69]
+;B[nr]BL[10]OB[63]
+;W[jn]WL[10]OW[63]
+;B[io]BL[10]OB[63]
+;W[or]WL[10]OW[61]
+;B[mr]BL[10]OB[63]
+;W[oq]WL[10]OW[61]
+;B[no]BL[10]OB[63]
+;W[nn]WL[10]OW[61]
+;B[oo]BL[10]OB[63]
+;W[qr]WL[10]OW[61]
+;B[pr]BL[10]OB[63]
+;W[ps]WL[10]OW[61]
+;B[jr]BL[10]OB[63]
+;W[iq]WL[10]OW[61]
+;B[ir]BL[10]OB[63]
+;W[hr]WL[10]OW[61]
+;B[hp]BL[10]OB[63]
+;W[hq]WL[10]OW[61]C[melmak: though time for the doctor
+]
+;B[ns]BL[10]OB[61]
+;W[os]WL[10]OW[61]
+;B[ls]BL[10]OB[59]
+;W[fo]WL[10]OW[58]C[chute [1k\]: m1 really nec ?
+dmseya [4k\]: l1-w
+chute [1k\]: then m1
+dmseya [4k\]: l2
+godfather [-\]: j1 
+chute [1k\]: l2
+TyTaLuS [2k\]: m1 nedded?
+Werfeus [5d\]: w m1
+Werfeus [5d\]: kills
+]
+;B[pi]BL[10]OB[55]C[chute [1k\]: m1 l1 and ?
+Werfeus [5d\]: j1
+Gekirin [1d\]: l1 kills
+chute [1k\]: m2
+]
+;W[rf]WL[10]OW[57]C[Werfeus [5d\]: h1
+chute [1k\]: m1 l1 j1 m2
+Werfeus [5d\]: yes,,, h1
+]
+;B[im]BL[10]OB[53]C[chute [1k\]: ah - damezumari - thanks
+]
+;W[jm]WL[10]OW[53]
+;B[il]BL[10]OB[53]
+;W[lm]WL[10]OW[51]C[chute [1k\]: no, sorry
+]
+;B[gm]BL[10]OB[51]
+;W[fm]WL[10]OW[48]C[Msha [1k\]: m1 l1 h1 j1 
+Werfeus [5d\]: exquisit
+TyTaLuS [2k\]: m1 l1 j1 m2 h1 
+]
+;B[ml]BL[10]OB[46]C[SColbert [4d\]: slip in trouble?
+chute [1k\]: yes, black can't k1 then
+wanchan [3k?\]: the good doctor seems to like having trouble living
+chute [1k\]: ... interesting
+]
+;W[jl]WL[10]OW[46]
+;B[ik]BL[10]OB[46]C[Blubbel [3d\]: gg
+dmseya [4k\]: l1-m1- l2 - why not?
+]
+;W[jk]WL[10]OW[46]
+;B[jj]BL[10]OB[46]C[chute [1k\]: m2, dmseya
+dmseya [4k\]: n1
+]
+;W[ij]WL[10]OW[45]C[chute [1k\]: oh - self-atari too
+]
+;B[fl]BL[10]OB[46]
+;W[gn]WL[10]OW[45]C[chute [1k\]: yes, that's still better
+]
+;B[gl]BL[10]OB[44]C[Blubbel [3d\]: g8
+SColbert [4d\]: doctor slips
+wanchan [3k?\]: w running in quicksand
+Blubbel [3d\]: w down
+Salopp [1d?\]: w a little pale
+chute [1k\]: okay, black-m1 needed for two reasons
+chute [1k\]: not my day perhaps
+]
+;W[in]WL[10]OW[40]
+;B[hn]BL[10]OB[44]
+;W[hm]WL[10]OW[40]
+;B[hl]BL[10]OB[44]
+;W[em]WL[10]OW[40]
+;B[hj]BL[10]OB[44]
+;W[ii]WL[10]OW[40]C[yuzo [4k\]: w going for big kill?
+]
+;B[hi]BL[10]OB[44]C[SColbert [4d\]: b too thick
+]
+;W[kj]WL[10]OW[39]C[godfather [-\]: he cant
+]
+;B[ji]BL[10]OB[44]
+;W[ih]WL[10]OW[39]
+;B[hh]BL[10]OB[44]C[Blubbel [3d\]: w going for resign
+Bonpoc [3k\]: w need to live himself
+]
+;W[ki]WL[10]OW[37]C[SColbert [4d\]: w no lib
+]
+;B[jh]BL[10]OB[44]
+;W[ig]WL[10]OW[37]C[godfather [-\]: i will make him an offer he can't refuse
+despot [1k\]: and nowhere to go
+]
+;B[hg]BL[10]OB[44]
+;W[ll]WL[10]OW[36]C[Renovate [?\]: w is in need of a kage bunshin no jutso
+Blubbel [3d\]: b really likes this
+]
+;B[if]BL[10]OB[44]C[wanchan [3k?\]: b ahead by a ton anyway, even if w lives everywhere
+]
+;W[mm]WL[10]OW[32]
+;B[bm]BL[10]OB[44]
+;W[bl]WL[10]OW[32]C[SColbert [4d\]: thats false
+]
+;B[cn]BL[10]OB[44]C[Salopp [1d?\]: is w even alive?
+Blubbel [3d\]: cat has too man twoeyes
+despot [1k\]: yeah
+]
+;W[dm]WL[10]OW[32]
+;B[al]BL[10]OB[44]
+;W[ak]WL[10]OW[32]C[Blubbel [3d\]: yes, but too many twoeyes
+]
+;B[am]BL[10]OB[44]
+;W[bk]WL[10]OW[32]
+;B[bd]BL[10]OB[44]
+;W[be]WL[10]OW[32]
+;B[ac]BL[10]OB[44]
+;W[nl]WL[10]OW[30]C[qpqpqp [4k\]: well isnt that cute
+SColbert [4d\]: b ahead
+]
+;B[qj]BL[10]OB[40]
+;W[ok]WL[10]OW[30]
+;B[pk]BL[10]OB[40]
+;W[ae]WL[10]OW[29]
+;B[eg]BL[10]OB[40]
+;W[dg]WL[10]OW[29]
+;B[nb]BL[10]OB[40]
+;W[mb]WL[10]OW[29]
+;B[ma]BL[10]OB[40]
+;W[lb]WL[10]OW[29]
+;B[of]BL[10]OB[39]
+;W[pe]WL[10]OW[29]
+;B[gc]BL[10]OB[38]
+;W[hc]WL[10]OW[29]
+;B[hb]BL[10]OB[38]
+;W[ib]WL[10]OW[29]
+;B[ga]BL[10]OB[38]C[Blubbel [3d\]: ko?
+]
+;W[ob]WL[10]OW[29]C[Blubbel [3d\]: oh noes
+]
+;B[oa]BL[10]OB[38]C[Blubbel [3d\]: resign
+]
+;W[na]WL[10]OW[29]
+;B[rd]BL[10]OB[37]
+;W[sd]WL[10]OW[29]
+;B[nb]BL[10]OB[37]C[Blubbel [3d\]: cat plays with his food
+melmak: k13 
+lance [1d\]: k13 is a loss
+]
+;W[kr]WL[10]OW[24]
+;B[js]BL[10]OB[37]
+;W[na]WL[10]OW[24]C[Zaekk [1k\]: L12 then
+]
+;B[rp]BL[10]OB[37]C[Blubbel [3d\]: hm, why not just take and end
+]
+;W[sp]WL[10]OW[24]
+;B[nb]BL[10]OB[37]C[Blubbel [3d\]: cat really loves to play
+Salopp [1d?\]: he has quite a lot ko threats down there
+]
+;W[ge]WL[10]OW[22]C[TyTaLuS [2k\]: l2 not big enough imo
+intata [?\]: k13's not a loss.... is it?
+TyTaLuS [2k\]: 12
+]
+;B[eh]BL[10]OB[36]C[Zaekk [1k\]: K13 L12 so yeah it is
+]
+;W[dh]WL[10]OW[21]
+;B[fi]BL[10]OB[35]C[intata [?\]: wait, loss for white or black?
+]
+;W[ej]WL[10]OW[21]
+;B[mk]BL[10]OB[35]C[Zaekk [1k\]: w
+]
+;W[nk]WL[10]OW[21]C[lance [1d\]: l12 is sente
+intata [?\]: ahh
+]
+;B[pb]BL[10]OB[34]
+;W[ff]WL[10]OW[21]
+;B[eq]BL[10]OB[33]
+;W[er]WL[10]OW[21]
+;B[fr]BL[10]OB[33]
+;W[fq]WL[10]OW[21]
+;B[es]BL[10]OB[33]
+;W[ep]WL[10]OW[21]
+;B[ds]BL[10]OB[33]
+;W[eq]WL[10]OW[21]
+;B[go]BL[10]OB[33]
+;W[fn]WL[10]OW[21]
+;B[kh]BL[10]OB[32]
+;W[ef]WL[10]OW[20]
+;B[fh]BL[10]OB[32]
+;W[og]WL[10]OW[20]
+;B[ne]BL[10]OB[32]
+;W[ni]WL[10]OW[19]
+;B[li]BL[10]OB[31]
+;W[lk]WL[10]OW[19]
+;B[el]BL[10]OB[31]
+;W[gp]WL[10]OW[19]
+;B[ho]BL[10]OB[31]
+;W[ec]WL[10]OW[18]
+;B[fd]BL[10]OB[29]
+;W[eb]WL[10]OW[18]
+;B[ea]BL[10]OB[29]
+;W[ie]WL[10]OW[18]C[suechan [6d?\]: .
+]
+;B[jf]BL[10]OB[28]
+;W[je]WL[10]OW[18]
+;B[ke]BL[10]OB[28]
+;W[ia]WL[10]OW[18]
+;B[ha]BL[10]OB[28]
+;W[eo]WL[10]OW[18]
+;B[dn]BL[10]OB[27]
+;W[fj]WL[10]OW[18]C[Grit [-\]: what does this even mean?
+]
+;B[dk]BL[10]OB[26]
+;W[dj]WL[10]OW[18]
+;B[dl]BL[10]OB[26]C[intata [?\]: hrm?
+]
+;W[cl]WL[10]OW[18]
+;B[lj]BL[10]OB[26]
+;W[kk]WL[10]OW[18]
+;B[gj]BL[10]OB[26]
+;W[gg]WL[10]OW[18]
+;B[hf]BL[10]OB[26]
+;W[gh]WL[10]OW[18]
+;B[gf]BL[10]OB[26]C[Grit [-\]: . - I always see this on kgs
+]
+;W[fe]WL[10]OW[18]
+;B[gi]BL[10]OB[26]
+;W[fg]WL[10]OW[18]
+;B[ad]BL[10]OB[26]C[godfather [-\]: bad manners to see if u lag
+]
+;W[fk]WL[10]OW[18]
+;B[ed]BL[10]OB[25]
+;W[gk]WL[10]OW[17]
+;B[hk]BL[10]OB[25]
+;W[oi]WL[10]OW[17]
+;B[om]BL[10]OB[25]
+;W[nm]WL[10]OW[17]C[Grit [-\]: there is an option to see your ping inside the client!
+godfather [-\]: yup
+]
+;B[sf]BL[10]OB[24]
+;W[la]WL[10]OW[17]
+;B[na]BL[10]OB[23]
+;W[oe]WL[10]OW[17]C[polytope [1d\]: where?
+]
+;B[nf]BL[10]OB[23]C[patrickn [2k\]: yeah where
+]
+;W[sm]WL[10]OW[17]
+;B[sl]BL[10]OB[23]C[SColbert [4d\]: 15 points difference
+intata [?\]: where?
+]
+;W[pj]WL[10]OW[17]
+;B[oj]BL[10]OB[23]
+;W[sg]WL[10]OW[17]
+;B[sh]BL[10]OB[23]
+;W[pj]WL[10]OW[17]
+;B[qs]BL[10]OB[23]
+;W[rs]WL[10]OW[17]
+;B[oj]BL[10]OB[23]C[Maisha [2k\]: File -> statistics
+]
+;W[hs]WL[10]OW[17]
+;B[fs]BL[10]OB[23]
+;W[pj]WL[10]OW[17]C[intata [?\]: whoa!
+intata [?\]: kool
+]
+;B[so]BL[10]OB[23]
+;W[ro]WL[10]OW[17]
+;B[oj]BL[10]OB[23]
+;W[bn]WL[10]OW[16]C[Grit [-\]: i am on mobile version now, but it is called 'server stats' 
+]
+;B[an]BL[10]OB[23]C[SColbert [4d\]: resign
+]
+;W[pj]WL[10]OW[16]C[Grit [-\]: iirc
+godfather [-\]: j1 -1 point
+]
+;B[de]BL[10]OB[22]
+;W[ce]WL[10]OW[16]
+;B[ee]BL[10]OB[22]C[patrickn [2k\]: yeah i think people who do the "..." didn't know about that (myself included)
+]
+;W[qi]WL[10]OW[16]
+;B[cf]BL[10]OB[22]
+;W[bf]WL[10]OW[16]
+;B[pi]BL[10]OB[22]
+;W[da]WL[10]OW[16]
+;B[ca]BL[10]OB[22]
+;W[qi]WL[10]OW[16]
+;B[cg]BL[10]OB[22]
+;W[bg]WL[10]OW[16]
+;B[pi]BL[10]OB[22]
+;W[ab]WL[10]OW[16]
+;B[aa]BL[10]OB[22]
+;W[qi]WL[10]OW[16]C[Grit [-\]: now you do...
+]
+;B[ch]BL[10]OB[22]
+;W[bh]WL[10]OW[16]C[patrickn [2k\]: yes
+]
+;B[pi]BL[10]OB[22]C[polytope [1d\]: i usually just click on an active game to see if it comes up
+]
+;W[ip]WL[10]OW[16]
+;B[hm]BL[10]OB[22]
+;W[qi]WL[10]OW[16]
+;B[he]BL[10]OB[22]
+;W[gd]WL[10]OW[16]
+;B[pi]BL[10]OB[22]
+;W[is]WL[10]OW[16]
+;B[ks]BL[10]OB[22]
+;W[qi]WL[10]OW[16]C[Grit [-\]: i once lagged so much it was 40 seconds...
+]
+;B[di]BL[10]OB[22]
+;W[ci]WL[10]OW[16]
+;B[pi]BL[10]OB[22]C[intata [?\]: I always find these ko fights funny
+Grit [-\]: that works too
+wanchan [3k?\]: back when i was a kid, it wasn't uncommon to lag for days at a time
+Toge [1d\]: a5 
+Grit [-\]: haha
+]
+;W[oj]WL[10]OW[14]
+;B[qi]BL[10]OB[22]
+;W[se]WL[10]OW[14]C[keinstein [6d\]: s19 next for w
+]
+;B[ra]BL[10]OB[21]
+;W[sg]WL[10]OW[14]
+;B[sa]BL[10]OB[21]
+;W[sc]WL[10]OW[14]
+;B[sf]BL[10]OB[21]
+;W[qs]WL[10]OW[14]
+;B[sg]BL[10]OB[21]
+;W[gr]WL[10]OW[14]
+;B[cs]BL[10]OB[21]
+;W[op]WL[10]OW[14]
+;B[pl]BL[10]OB[21]
+;W[]WL[10]OW[14]C[keinstein [6d\]: actually B would win the ko
+]
+;B[]BL[10]OB[21]TW[ja][ka][ic][rd][qe][af][cf][ag][cg][ah][ch][oh][ai][bi][di][aj][bj][kl][km][kn][ln][mn][so][fp][rp][sq][sr][ss]TB[ba][da][fa][pa][ab][gb][ob][qb][bc][le][me][kf][lf][ig][jg][kg][mg][ih][lh][rh][ii][si][ij][rj][sj][rk][sk][bn][ao][co][ap][bp][cp][aq][bq][ar][br][kr][lr][as][bs][ms]C[doctorslip [7d\]: thx
+twoeye [7d\]: thx
+keinstein [6d\]: w was so clever....
+])

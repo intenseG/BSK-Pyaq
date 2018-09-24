@@ -1,0 +1,351 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[5x10 byo-yomi]
+PW[Allosaurus]PB[intenseG]WR[8d]BR[7d]DT[2014-11-29]PC[The KGS Go Server at http://www.gokgs.com/]C[intenseG [7d\]: hi gg
+Allosaurus [8d\]: hi
+]RE[W+24.50]
+;B[pd]BL[10]OB[5]
+;W[dd]WL[10]OW[5]
+;B[qp]BL[10]OB[5]
+;W[dq]WL[10]OW[5]
+;B[oq]BL[10]OB[5]
+;W[qf]WL[10]OW[5]
+;B[nc]BL[10]OB[5]
+;W[qo]WL[10]OW[5]
+;B[pl]BL[10]OB[5]
+;W[pp]WL[10]OW[5]
+;B[pq]BL[10]OB[5]
+;W[ql]WL[10]OW[5]
+;B[qk]BL[10]OB[5]
+;W[pk]WL[10]OW[5]
+;B[qm]BL[10]OB[5]
+;W[rl]WL[10]OW[5]
+;B[qj]BL[10]OB[5]
+;W[rm]WL[10]OW[5]
+;B[ok]BL[10]OB[5]
+;W[pm]WL[10]OW[5]
+;B[pj]BL[10]OB[5]
+;W[qq]WL[10]OW[5]
+;B[rp]BL[10]OB[5]
+;W[qr]WL[10]OW[5]
+;B[po]BL[10]OB[5]
+;W[op]WL[10]OW[5]
+;B[oo]BL[10]OB[5]
+;W[np]WL[10]OW[5]
+;B[qn]BL[10]OB[5]
+;W[ol]WL[10]OW[5]C[bluetable [-\]: heh
+]
+;B[no]BL[10]OB[5]
+;W[mp]WL[10]OW[5]
+;B[pk]BL[10]OB[5]
+;W[rq]WL[10]OW[5]
+;B[ro]BL[10]OB[5]
+;W[rd]WL[10]OW[5]C[TakeMasa9p [?\]: WOW WHAT A GAME!
+]
+;B[qc]BL[10]OB[5]
+;W[qh]WL[10]OW[5]C[TakeMasa9p [?\]: hello lovely kibitzers!
+]
+;B[kp]BL[10]OB[5]
+;W[mo]WL[10]OW[5]
+;B[mn]BL[10]OB[5]C[Rottamies [1k\]: 9p troll
+]
+;W[ln]WL[10]OW[5]
+;B[lo]BL[10]OB[5]
+;W[mm]WL[10]OW[5]
+;B[nn]BL[10]OB[5]
+;W[nq]WL[10]OW[5]C[honeybadgr [1d\]: wanna-be-9d troll
+]
+;B[kn]BL[10]OB[5]
+;W[lm]WL[10]OW[5]
+;B[km]BL[10]OB[5]
+;W[lk]WL[10]OW[5]C[frannk: he is fakemiya masaki
+]
+;B[kl]BL[10]OB[5]
+;W[nj]WL[10]OW[5]
+;B[pg]BL[10]OB[5]C[honeybadgr [1d\]: Exactly!
+]
+;W[ph]WL[10]OW[5]
+;B[oi]BL[10]OB[5]
+;W[og]WL[10]OW[5]
+;B[li]BL[10]OB[5]C[TakeMasa9p [?\]: :(
+]
+;W[kk]WL[10]OW[5]C[Genghis [2k\]: I want to be a fake
+readytogo [2k\]: well take that went well
+]
+;B[jk]BL[10]OB[5]
+;W[kj]WL[10]OW[5]
+;B[pf]BL[10]OB[5]C[Rottamies [1k\]: empty triangle shape fail
+]
+;W[of]WL[10]OW[5]
+;B[pe]BL[10]OB[5]C[Rottamies [1k\]: w should resign
+]
+;W[oh]WL[10]OW[5]
+;B[ni]BL[10]OB[5]
+;W[qg]WL[10]OW[5]C[TakeMasa9p [?\]: never say somebody should resign, its not nice
+]
+;B[ii]BL[10]OB[5]
+;W[ki]WL[10]OW[5]
+;B[kh]BL[10]OB[5]
+;W[jh]WL[10]OW[5]
+;B[ji]BL[10]OB[5]
+;W[lh]WL[10]OW[5]
+;B[kg]BL[10]OB[5]
+;W[mi]WL[10]OW[5]
+;B[mh]BL[10]OB[5]
+;W[lj]WL[10]OW[5]
+;B[mg]BL[10]OB[5]
+;W[jj]WL[10]OW[5]
+;B[ij]BL[10]OB[5]
+;W[ik]WL[10]OW[5]
+;B[jl]BL[10]OB[5]
+;W[hk]WL[10]OW[5]
+;B[ih]BL[10]OB[5]
+;W[jg]WL[10]OW[5]
+;B[kf]BL[10]OB[5]
+;W[jf]WL[10]OW[5]
+;B[je]BL[10]OB[5]
+;W[hg]WL[10]OW[5]
+;B[gi]BL[10]OB[5]
+;W[ke]WL[10]OW[5]C[Rottamies [1k\]: sry for telling the truth
+]
+;B[mf]BL[10]OB[5]
+;W[kd]WL[10]OW[5]
+;B[jd]BL[10]OB[5]
+;W[jc]WL[10]OW[5]
+;B[ic]BL[10]OB[5]C[agony [5k\]: but its just your opinion
+TakeMasa9p [?\]: u dont understand
+]
+;W[kc]WL[10]OW[5]C[Rottamies [1k\]: sry i dont speak to less than 1k
+]
+;B[he]BL[10]OB[5]C[TakeMasa9p [?\]: thats too agony
+]
+;W[ig]WL[10]OW[5]
+;B[gh]BL[10]OB[5]
+;W[gg]WL[10]OW[5]C[dsaun [-\]: please don't respond to the troll...it ruins my little red X
+TakeMasa9p [?\]: :)
+]
+;B[ib]BL[10]OB[5]
+;W[eg]WL[10]OW[5]C[baj [1d\]: rottamies will get banned again dont worry
+]
+;B[gk]BL[10]OB[5]
+;W[gc]WL[10]OW[5]
+;B[gd]BL[10]OB[5]
+;W[fc]WL[10]OW[5]
+;B[jb]BL[10]OB[5]
+;W[kb]WL[10]OW[5]
+;B[le]BL[10]OB[5]
+;W[id]WL[10]OW[5]
+;B[ie]BL[10]OB[5]
+;W[hc]WL[10]OW[5]
+;B[hd]BL[10]OB[5]
+;W[md]WL[10]OW[5]
+;B[nd]BL[10]OB[5]
+;W[mb]WL[10]OW[5]
+;B[mc]BL[10]OB[5]
+;W[nb]WL[10]OW[5]C[TakeMasa9p [?\]: W group in the middle is maybe not alive but black must be very carefull, when he will be forced to kill it it become small
+]
+;B[lb]BL[10]OB[5]
+;W[lc]WL[10]OW[5]
+;B[ka]BL[10]OB[5]
+;W[la]WL[10]OW[5]
+;B[ja]BL[10]OB[5]
+;W[pb]WL[10]OW[5]
+;B[ld]BL[10]OB[5]
+;W[lb]WL[10]OW[5]
+;B[qb]BL[10]OB[5]
+;W[fd]WL[10]OW[5]
+;B[ob]BL[10]OB[5]
+;W[oc]WL[10]OW[5]
+;B[pc]BL[10]OB[5]
+;W[oa]WL[10]OW[5]
+;B[od]BL[10]OB[5]
+;W[ge]WL[10]OW[5]
+;B[na]BL[10]OB[5]
+;W[gl]WL[10]OW[5]
+;B[fk]BL[10]OB[5]
+;W[im]WL[10]OW[5]C[Rottamies [1k\]: sry for being right
+readytogo [2k\]: nice thro in
+]
+;B[ob]BL[10]OB[5]
+;W[jo]WL[10]OW[5]
+;B[ko]BL[10]OB[5]
+;W[oc]WL[10]OW[5]
+;B[jp]BL[10]OB[5]C[TakeMasa9p [?\]: still a ko
+miao [6d\]: b in trouble
+miao [6d\]: f8
+]
+;W[fl]WL[10]OW[4]C[readytogo [2k\]: my fote is for b
+]
+;B[ek]BL[10]OB[5]C[readytogo [2k\]: vote
+]
+;W[el]WL[10]OW[4]
+;B[dk]BL[10]OB[5]C[TakeMasa9p [?\]: i believe in miao
+]
+;W[ip]WL[10]OW[4]
+;B[iq]BL[10]OB[5]
+;W[hq]WL[10]OW[4]
+;B[hr]BL[10]OB[5]
+;W[hp]WL[10]OW[4]
+;B[gr]BL[10]OB[5]C[miao [6d\]: W messed up hugely before
+]
+;W[jq]WL[10]OW[4]
+;B[ir]BL[10]OB[5]
+;W[hf]WL[10]OW[4]C[miao [6d\]: but now he has great momentum
+]
+;B[ob]BL[10]OB[5]C[miao [6d\]: w winnsing now
+]
+;W[kr]WL[10]OW[4]C[readytogo [2k\]: ignore
+miao [6d\]: oh
+TakeMasa9p [?\]: cant ignore
+TakeMasa9p [?\]: or wait
+]
+;B[kq]BL[10]OB[2]
+;W[oc]WL[10]OW[4]
+;B[fe]BL[10]OB[2]C[miao [6d\]: hm
+]
+;W[gf]WL[10]OW[4]
+;B[ob]BL[10]OB[2]C[aayong839 [4d\]: w so ded
+TakeMasa9p [?\]: hmm too fast for me  :)
+readytogo [2k\]: now ignore
+]
+;W[lq]WL[10]OW[4]
+;B[jr]BL[10]OB[2]
+;W[oc]WL[10]OW[4]
+;B[hb]BL[10]OB[2]
+;W[gb]WL[10]OW[4]
+;B[ob]BL[10]OB[2]C[readytogo [2k\]: now ignore
+]
+;W[rj]WL[10]OW[4]C[miao [6d\]: huh
+miao [6d\]: why
+Rottamies [1k\]: lol
+]
+;B[rk]BL[10]OB[2]C[miao [6d\]: ah
+]
+;W[oc]WL[10]OW[4]C[shoot [2k\]: a?
+]
+;B[id]BL[10]OB[2]C[shoot [2k\]: ??
+readytogo [2k\]: now?
+]
+;W[ha]WL[10]OW[4]
+;B[ob]BL[10]OB[2]C[dsaun [-\]: heh
+]
+;W[dl]WL[10]OW[4]C[miao [6d\]: didn´t see R14 was dead too
+TakeMasa9p [?\]: h12 :D
+]
+;B[ma]BL[10]OB[2]
+;W[ck]WL[10]OW[4]
+;B[cj]BL[10]OB[2]
+;W[gj]WL[10]OW[4]C[readytogo [2k\]: yess i knew it
+]
+;B[fj]BL[10]OB[2]
+;W[bj]WL[10]OW[4]
+;B[bk]BL[10]OB[2]
+;W[cl]WL[10]OW[4]
+;B[ci]BL[10]OB[2]
+;W[ei]WL[10]OW[4]
+;B[di]BL[10]OB[2]C[TakeMasa9p [?\]: great fighting by amosaurus
+]
+;W[hj]WL[10]OW[4]C[SoraNoYuki [3k\]: b will live
+]
+;B[eh]BL[10]OB[2]
+;W[fh]WL[10]OW[4]C[TakeMasa9p [?\]: its not easy to fight when u start like here
+]
+;B[fi]BL[10]OB[2]
+;W[dh]WL[10]OW[4]C[aayong839 [4d\]: wat
+cjr [3d\]: a relief to be losing so much, can play much more flexibly...
+miao [6d\]: lol
+]
+;B[dj]BL[10]OB[2]C[miao [6d\]: b suiciding big
+baj [1d\]: i respect very much w's spirit
+]
+;W[hi]WL[10]OW[4]C[Rottamies [1k\]: omg what is b doing
+]
+;B[hh]BL[10]OB[2]
+;W[bi]WL[10]OW[4]
+;B[ch]BL[10]OB[2]
+;W[cg]WL[10]OW[4]
+;B[bh]BL[10]OB[2]
+;W[bl]WL[10]OW[4]
+;B[bg]BL[10]OB[2]
+;W[cf]WL[10]OW[4]
+;B[mk]BL[10]OB[2]C[Genghis [2k\]: mystifying me too
+]
+;W[ll]WL[10]OW[4]C[miao [6d\]: oh
+]
+;B[nk]BL[10]OB[2]
+;W[nm]WL[10]OW[4]C[TakeMasa9p [?\]: hmm
+]
+;B[om]BL[10]OB[2]C[miao [6d\]: ....
+]
+;W[on]WL[10]OW[4]
+;B[pn]BL[10]OB[2]C[aayong839 [4d\]: they home from pubs
+miao [6d\]: w should have died for sure
+]
+;W[bf]WL[10]OW[4]
+;B[om]BL[10]OB[2]C[miao [6d\]: maybe still does
+miao [6d\]: geez
+]
+;W[ag]WL[10]OW[3]
+;B[ah]BL[10]OB[2]C[Rottamies [1k\]: nope b fail
+]
+;W[af]WL[10]OW[3]
+;B[in]BL[10]OB[2]
+;W[hn]WL[10]OW[3]C[Rottamies [1k\]: easy win
+TakeMasa9p [?\]: epic comeback
+Rottamies [1k\]: b should quit go
+]
+;B[il]BL[10]OB[2]
+;W[hl]WL[10]OW[3]
+;B[mj]BL[10]OB[2]
+;W[ak]WL[10]OW[3]
+;B[ri]BL[10]OB[2]
+;W[lr]WL[10]OW[3]C[baj [1d\]: rott, i would love to see you play either of these players
+]
+;B[er]BL[10]OB[2]
+;W[dr]WL[10]OW[3]C[Rottamies [1k\]: too easy for me
+]
+;B[io]BL[10]OB[2]
+;W[ho]WL[10]OW[3]
+;B[jn]BL[10]OB[2]
+;W[fq]WL[10]OW[3]C[TakeMasa9p [?\]: anyone brave ebuf to count points now? ^^
+]
+;B[fr]BL[10]OB[2]C[readytogo [2k\]: s17 
+]
+;W[eq]WL[10]OW[3]
+;B[ds]BL[10]OB[2]
+;W[cs]WL[10]OW[3]
+;B[es]BL[10]OB[2]C[aayong839 [4d\]: they will do it for us
+]
+;W[cr]WL[10]OW[3]
+;B[gq]BL[10]OB[2]C[TakeMasa9p [?\]: :D
+]
+;W[gp]WL[10]OW[3]
+;B[lp]BL[10]OB[2]
+;W[or]WL[10]OW[3]
+;B[nl]BL[10]OB[2]
+;W[ai]WL[10]OW[3]
+;B[li]BL[10]OB[2]C[frannk: no kill the lesft side
+]
+;W[ej]WL[10]OW[3]
+;B[lg]BL[10]OB[2]C[frannk: or is it dead altready
+]
+;W[sp]WL[10]OW[3]C[readytogo [2k\]: ohmy
+]
+;B[so]BL[10]OB[2]
+;W[sq]WL[10]OW[3]
+;B[jm]BL[10]OB[2]C[miao [6d\]: w has a bigger cake
+]
+;W[hm]WL[10]OW[3]
+;B[ks]BL[10]OB[2]
+;W[ls]WL[10]OW[3]
+;B[js]BL[10]OB[2]
+;W[ga]WL[10]OW[3]C[Rottamies [1k\]: r
+Rottamies [1k\]: why not resign
+]
+;B[]BL[10]OB[2]C[Rottamies [1k\]: so rude
+]
+;W[]WL[10]OW[3]TW[aa][ba][ca][da][ea][fa][ab][bb][cb][db][eb][fb][ac][bc][cc][dc][ec][ad][bd][cd][ed][ae][be][ce][de][ee][fe][df][ef][ff][bg][dg][fg][ah][bh][ch][eh][gh][hh][ih][ci][di][fi][gi][ii][ji][aj][cj][dj][fj][ij][bk][dk][ek][fk][gk][al][am][bm][cm][dm][em][fm][gm][an][bn][cn][dn][en][fn][gn][ao][bo][co][do][eo][fo][go][ap][bp][cp][dp][ep][fp][aq][bq][cq][mq][oq][pq][ar][br][mr][nr][pr][rr][sr][as][bs][ms][ns][os][ps][qs][rs][ss]TB[la][oa][pa][qa][ra][sa][kb][lb][mb][nb][pb][rb][sb][jc][kc][lc][oc][rc][sc][kd][md][qd][rd][sd][ke][me][ne][oe][qe][re][se][lf][nf][of][qf][rf][sf][ng][og][qg][rg][sg][lh][nh][oh][ph][qh][rh][sh][mi][pi][qi][si][nj][oj][rj][sj][sk][ol][ql][rl][sl][pm][rm][sm][on][rn][sn][jo][qo][jq][fs][gs][hs][is]C[ilmrahil [4k\]: +25
+intenseG [7d\]: thx
+TakeMasa9p [?\]: nice game, ty
+Allosaurus [8d\]: thx
+shoot [2k\]: wow a lot
+])

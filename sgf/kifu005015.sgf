@@ -1,0 +1,264 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[3x20 byo-yomi]
+PW[oubeika]PB[joinyee]WR[5d]BR[5d]DT[2012-06-12]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: hi
+]RE[W+Time]
+;B[qd]BL[20]OB[3]
+;W[dp]WL[20]OW[3]C[joinyee [5d\]: hi
+]
+;B[pq]BL[20]OB[3]
+;W[dd]WL[20]OW[3]
+;B[fq]BL[20]OB[3]
+;W[cn]WL[20]OW[3]
+;B[fc]BL[20]OB[3]
+;W[hc]WL[20]OW[3]
+;B[cf]BL[20]OB[3]
+;W[fd]WL[20]OW[3]
+;B[cc]BL[20]OB[3]
+;W[cd]WL[20]OW[3]
+;B[dc]BL[20]OB[3]
+;W[ed]WL[20]OW[3]
+;B[fb]BL[20]OB[3]
+;W[gd]WL[20]OW[3]
+;B[bd]BL[20]OB[3]
+;W[be]WL[20]OW[3]
+;B[bc]BL[20]OB[3]
+;W[ce]WL[20]OW[3]
+;B[gm]BL[20]OB[3]
+;W[po]WL[20]OW[3]
+;B[pl]BL[20]OB[3]
+;W[np]WL[20]OW[3]
+;B[oo]BL[20]OB[3]
+;W[op]WL[20]OW[3]
+;B[pp]BL[20]OB[3]
+;W[on]WL[20]OW[3]
+;B[qo]BL[20]OB[3]
+;W[no]WL[20]OW[3]
+;B[qn]BL[20]OB[3]
+;W[jp]WL[20]OW[3]
+;B[hq]BL[20]OB[3]
+;W[od]WL[20]OW[3]
+;B[qg]BL[20]OB[3]
+;W[qc]WL[20]OW[3]
+;B[rc]BL[20]OB[3]
+;W[pc]WL[20]OW[3]
+;B[re]BL[20]OB[3]
+;W[ld]WL[20]OW[3]
+;B[nm]BL[20]OB[3]
+;W[or]WL[20]OW[3]
+;B[pr]BL[20]OB[3]
+;W[ir]WL[20]OW[3]
+;B[mf]BL[20]OB[3]
+;W[dj]WL[20]OW[3]
+;B[fj]BL[20]OB[3]
+;W[ho]WL[20]OW[3]
+;B[fo]BL[20]OB[3]
+;W[im]WL[20]OW[3]
+;B[km]BL[20]OB[3]
+;W[hm]WL[20]OW[3]
+;B[gl]BL[20]OB[3]
+;W[ik]WL[20]OW[3]
+;B[kk]BL[20]OB[3]
+;W[og]WL[20]OW[3]
+;B[of]BL[20]OB[3]
+;W[pf]WL[20]OW[3]
+;B[pg]BL[20]OB[3]
+;W[nf]WL[20]OW[3]
+;B[ng]BL[20]OB[3]
+;W[oe]WL[20]OW[3]
+;B[oh]BL[20]OB[3]
+;W[ki]WL[20]OW[3]
+;B[jj]BL[20]OB[3]
+;W[mg]WL[20]OW[3]
+;B[of]BL[20]OB[3]
+;W[ne]WL[20]OW[3]
+;B[lf]BL[20]OB[3]
+;W[lg]WL[20]OW[3]
+;B[kf]BL[20]OB[3]
+;W[kg]WL[20]OW[3]
+;B[jf]BL[20]OB[3]
+;W[ih]WL[20]OW[3]
+;B[jc]BL[20]OB[3]C[sn9 [1k\]: looks bad
+]
+;W[jd]WL[20]OW[3]
+;B[id]BL[20]OB[3]
+;W[kc]WL[20]OW[3]
+;B[je]BL[20]OB[3]
+;W[kd]WL[20]OW[3]
+;B[ic]BL[20]OB[3]
+;W[hb]WL[20]OW[3]
+;B[hg]BL[20]OB[3]C[zum [?\]: b mess
+]
+;W[hh]WL[20]OW[3]
+;B[gg]BL[20]OB[3]
+;W[ig]WL[20]OW[3]
+;B[hf]BL[20]OB[3]
+;W[fi]WL[20]OW[3]
+;B[hd]BL[20]OB[3]
+;W[gc]WL[20]OW[3]
+;B[kb]BL[20]OB[3]C[xiaojuhua1 [7d\]: B is in trouble
+]
+;W[lb]WL[20]OW[3]
+;B[eg]BL[20]OB[3]
+;W[ge]WL[20]OW[3]
+;B[if]BL[20]OB[3]
+;W[he]WL[20]OW[3]
+;B[ie]BL[20]OB[3]
+;W[fh]WL[20]OW[3]
+;B[fg]BL[20]OB[3]C[power [-\]: b has no chance
+]
+;W[cg]WL[20]OW[3]
+;B[ch]BL[20]OB[3]C[zum [?\]: well w is no perfect either
+]
+;W[bg]WL[20]OW[3]
+;B[dh]BL[20]OB[3]
+;W[bj]WL[20]OW[3]
+;B[bh]BL[20]OB[3]
+;W[df]WL[20]OW[3]
+;B[ei]BL[20]OB[3]
+;W[ej]WL[20]OW[3]C[zum [?\]: b can win by time now
+power [-\]: no perfect but alive
+]
+;B[gh]BL[20]OB[3]
+;W[gi]WL[20]OW[3]
+;B[hi]BL[20]OB[3]C[xiaojuhua1 [7d\]: not perfect。。。B can win now
+]
+;W[gj]WL[20]OW[3]
+;B[ij]BL[20]OB[3]C[WWSD [1d\]: what did white mess up?
+]
+;W[hj]WL[20]OW[3]
+;B[ii]BL[20]OB[3]
+;W[mi]WL[20]OW[3]
+;B[fk]BL[20]OB[3]C[zum [?\]: ask power
+xiaojuhua1 [7d\]: B 10
+]
+;W[hk]WL[20]OW[3]C[nem [3k\]: b10 to b11?
+]
+;B[nj]BL[20]OB[3]
+;W[lk]WL[20]OW[3]C[power [-\]: what
+]
+;B[ll]BL[20]OB[3]C[xiaojuhua1 [7d\]: connect in the center first
+]
+;W[kj]WL[20]OW[3]C[Lancs007d: b win
+]
+;B[jk]BL[20]OB[3]C[zum [?\]: pow: what did w mess up
+]
+;W[nh]WL[20]OW[3]
+;B[og]BL[20]OB[3]C[Lancs007d: w cant live
+power [-\]: his center
+]
+;W[mk]WL[20]OW[3]
+;B[ni]BL[20]OB[3]C[zum [?\]: o8
+]
+;W[nk]WL[20]OW[3]C[xiaojuhua1 [7d\]: even B can survive，F3
+]
+;B[om]BL[20]OB[3]C[xiaojuhua1 [7d\]: group is going to die
+]
+;W[ok]WL[20]OW[3]
+;B[qj]BL[20]OB[3]C[xiaojuhua1 [7d\]: now it‘s different
+power [-\]: different?
+]
+;W[mh]WL[20]OW[3]
+;B[pj]BL[20]OB[3]C[xiaojuhua1 [7d\]: W’s center is dead
+zum [?\]: if f3 dies w may still win
+]
+;W[dg]WL[20]OW[3]C[power [-\]: pff
+]
+;B[eh]BL[20]OB[3]C[Lancs007d: is d13 bad?
+power [-\]: no
+xiaojuhua1 [7d\]: hard to kill 
+]
+;W[ep]WL[20]OW[2]C[xiaojuhua1 [7d\]: W is too fragile
+]
+;B[go]BL[20]OB[3]
+;W[hp]WL[20]OW[2]C[zum [?\]: lets see
+]
+;B[hr]BL[20]OB[3]
+;W[iq]WL[20]OW[2]
+;B[dr]BL[20]OB[3]C[Draxt [?\]: seems alive now, no?
+xiaojuhua1 [7d\]: alive
+]
+;W[cq]WL[20]OW[2]
+;B[cr]BL[20]OB[3]C[savi [2k\]: c8 
+zum [?\]: 7d alive
+]
+;W[br]WL[20]OW[2]C[xiaojuhua1 [7d\]: one eye bottom，one eye tpp
+Lancs007d: im alive
+Thymos [15k\]: is j17 dead? 
+]
+;B[dl]BL[20]OB[3]C[xiaojuhua1 [7d\]: yup
+]
+;W[bl]WL[20]OW[2]
+;B[cm]BL[20]OB[3]C[Lancs007d: ///
+zum [?\]: 5d alive now
+Channis [8k\]: not if M13 dies
+Thymos [15k\]: how can b still win this? :
+]
+;W[dm]WL[20]OW[2]C[BongoBob [6k\]: m11?
+]
+;B[em]BL[20]OB[3]
+;W[dn]WL[20]OW[2]
+;B[cl]BL[20]OB[3]
+;W[bm]WL[20]OW[2]C[zum [?\]: 5k alive now
+martin97 [2k\]: not needed
+]
+;B[en]BL[20]OB[3]C[zum [?\]: 10k alive
+]
+;W[hs]WL[20]OW[2]C[power [-\]: question mark alive
+zum [?\]: Thymos: is it alive
+zum [?\]: ?
+Thymos [15k\]: whats 10k? im 15k
+]
+;B[fr]BL[20]OB[3]C[zum [?\]: is F2 alive?
+]
+;W[cs]WL[20]OW[2]C[ddbriggs [9k\]: k10 absolutely alive
+]
+;B[ds]BL[20]OB[3]
+;W[gp]WL[20]OW[2]C[xiaojuhua1 [7d\]: ？！
+]
+;B[fp]BL[20]OB[3]
+;W[eq]WL[20]OW[2]C[sequence [2k\]: wow
+xiaojuhua1 [7d\]: 。。。
+ddbriggs [9k\]: if w cuts n7, o8, then b takes n6
+sequence [2k\]: b may not be so alive here after all
+xiaojuhua1 [7d\]: why not F1
+sequence [2k\]: g1
+xiaojuhua1 [7d\]: ？！
+Draxt [?\]: g1 ?
+]
+;B[er]BL[20]OB[2]
+;W[fs]WL[20]OW[2]C[BongoBob [6k\]: oof
+xiaojuhua1 [7d\]: ha？！
+Draxt [?\]: ???,
+zum [?\]: b 10k mess 
+]
+;B[hn]BL[20]OB[1]C[savi [2k\]: b4 
+]
+;W[in]WL[20]OW[2]C[xiaojuhua1 [7d\]: ok，still a ko
+]
+;B[ek]BL[20]OB[1]C[sequence [2k\]: g3
+]
+;W[dk]WL[20]OW[2]C[STiKk [1d\]: g1 дшмув
+STiKk [1d\]: lived
+Draxt [?\]: dead
+]
+;B[bp]BL[20]OB[1]C[sequence [2k\]: g3!
+]
+;W[bq]WL[20]OW[2]C[xiaojuhua1 [7d\]: B can survive
+]
+;B[lp]BL[20]OB[1]C[zum [?\]: b dead
+xiaojuhua1 [7d\]: once
+]
+;W[lo]WL[20]OW[2]C[xiaojuhua1 [7d\]: not now
+]
+;B[nr]BL[20]OB[1]C[zum [?\]: b 30k dead
+]
+;W[mr]WL[20]OW[2]C[STiKk [1d\]: g1 instead e2 
+Celmeo [5k?\]: hmm... was F2 the move that killed it?
+]
+;B[oq]BL[20]OB[1]
+;W[nq]WL[20]OW[2]C[xiaojuhua1 [7d\]: now it‘s dead
+ddbriggs [9k\]: what the heck is 30k dead
+oubeika [5d\]: thx
+zum [?\]: 30k dead means that you should see it's dead too
+STiKk [1d\]: b g1 and miai g3 e2 
+])

@@ -1,0 +1,306 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[600]OT[10x30 byo-yomi]
+PW[ume8]PB[oubeika]WR[6d]BR[5d]DT[2011-12-28]PC[The KGS Go Server at http://www.gokgs.com/]C[oubeika [5d\]: hi
+]RE[W+Resign]
+;B[pd]BL[594.696]C[ume8 [6d\]: hi
+]
+;W[dc]WL[589.919]
+;B[pq]BL[591.328]
+;W[dq]WL[585.437]
+;B[pk]BL[586.873]
+;W[mq]WL[573.496]
+;B[jc]BL[572.776]
+;W[co]WL[517.871]
+;B[pf]BL[555.861]
+;W[ce]WL[497.501]
+;B[jp]BL[540.093]
+;W[pp]WL[491.086]
+;B[qp]BL[532.157]
+;W[qq]WL[484.966]
+;B[oq]BL[529.842]
+;W[qo]WL[478.976]
+;B[rp]BL[525.465]
+;W[op]WL[463.015]
+;B[qr]BL[499.536]
+;W[ro]WL[457.684]
+;B[rq]BL[497.492]
+;W[np]WL[455.39]
+;B[pn]BL[483.61]
+;W[on]WL[435.108]
+;B[om]BL[464.282]
+;W[po]WL[432.292]
+;B[nn]BL[462.874]
+;W[mn]WL[429.907]
+;B[nm]BL[457.588]
+;W[no]WL[354.709]C[b8matt [3k\]: w is a horse!
+heather [1d\]: b attacking the heck out of that wall
+]
+;B[eq]BL[408.303]
+;W[dp]WL[340.989]
+;B[dr]BL[402.63]C[Host: it's a tough job, but someone has to beat their fists against a wall
+]
+;W[ep]WL[326.239]
+;B[fq]BL[400.836]
+;W[cr]WL[324.193]
+;B[kq]BL[389.617]C[b8matt [3k\]: b is just another brick in the wall...
+]
+;W[mm]WL[312.667]
+;B[nk]BL[380.819]
+;W[fp]WL[296.45]
+;B[gq]BL[377.662]
+;W[mk]WL[258.185]
+;B[mj]BL[361.381]
+;W[lk]WL[255.753]C[tom1l21 [1d?\]: n9 weird
+]
+;B[cj]BL[350.556]
+;W[lj]WL[248.219]C[Otseit [-\]: b shouldve n8
+]
+;B[mi]BL[328.737]
+;W[li]WL[244.765]
+;B[cg]BL[320.909]
+;W[mh]WL[240.057]
+;B[nh]BL[316.08]
+;W[ng]WL[238.157]
+;B[oh]BL[304.715]C[cloudo [2k\]: w could be short on points soon
+morte93 [21k?\]: yea
+tom1l21 [1d?\]: seriously
+]
+;W[nl]WL[217.639]C[morte93 [21k?\]: wouldnt this move give black sente?
+tom1l21 [1d?\]: i dont think so
+cloudo [2k\]: thats not good enough
+]
+;B[ok]BL[244.654]
+;W[gp]WL[210.889]
+;B[hq]BL[235.138]
+;W[pc]WL[193.191]C[morte93 [21k?\]: i wonder how white is going to play this out
+]
+;B[oc]BL[218.278]C[heather [1d\]: I wish I understood why people play this instead of just 3-3 invasion
+]
+;W[ob]WL[179.875]C[morte93 [21k?\]: lol yea i always go 3x3
+Otseit [-\]: because its a bigger corner than the 3-3
+]
+;B[qc]BL[199.884]
+;W[pb]WL[174.99]C[morte93 [21k?\]: ugly shape for white
+]
+;B[nc]BL[185.493]C[tom1l21 [1d?\]: standard
+charkysan [-\]: where is w's cash going to be?
+]
+;W[nb]WL[136.928]C[morte93 [21k?\]: i just dont see white living in this corner
+]
+;B[mc]BL[177.745]C[Otseit [-\]: blacks self atari on move 230
+]
+;W[rc]WL[133.13]C[tom1l21 [1d?\]: super alive
+]
+;B[qb]BL[156.485]
+;W[qd]WL[129.863]C[newnuetron: w  mayb looking4 cash in left crnrs
+morte93 [21k?\]: well then again they know more complecated joseki than me lol
+]
+;B[rd]BL[149.556]
+;W[qe]WL[127.484]
+;B[rb]BL[147.802]
+;W[pe]WL[123.697]C[tom1l21 [1d?\]: i guess he sacrificed
+]
+;B[od]BL[132.285]
+;W[re]WL[122.023]
+;B[sc]BL[130.766]C[tom1l21 [1d?\]: worth more
+Host: agreed
+newnuetron: this is not a joseki knowing constest situation
+]
+;W[oe]WL[100.207]
+;B[mg]BL[116.615]C[tom1l21 [1d?\]: u sure?
+cloudo [2k\]: sure its no joseki b had 3 stones there
+Otseit [-\]: playing a joseki properly is +10 points at the end of the game
+newnuetron: plus stns  round where b just played\\
+]
+;W[me]WL[52.17]C[heather [1d\]: this cannot be normal result from contact play that started it
+]
+;B[ld]BL[72.882]C[Otseit [-\]: it is actually, with k17 in place it makes it playable
+morte93 [21k?\]: my bad then im still trying to figure out these terms
+]
+;W[lh]WL[43.512]
+;B[nf]BL[70.099]
+;W[ne]WL[39.607]
+;B[lg]BL[68.388]C[newnuetron: ugame over i think
+]
+;W[kg]WL[11.037]C[cloudo [2k\]: haha
+]
+;B[lf]BL[58.427]C[tom1l21 [1d?\]: i think whites moves too slow in beginning
+]
+;W[le]WL[7.382]
+;B[kf]BL[56.225]
+;W[ke]WL[30]OW[10]C[Otseit [-\]: l17 is nice
+]
+;B[jf]BL[47.902]
+;W[kc]WL[30]OW[10]
+;B[kb]BL[26.637]C[morte93 [21k?\]: lol good call
+]
+;W[kd]WL[30]OW[10]C[cloudo [2k\]: ws group will be harrassed forever
+heather [1d\]: nah
+]
+;B[ib]BL[30]OB[10]
+;W[mb]WL[30]OW[10]C[Otseit [-\]: ok game over
+heather [1d\]: wow
+tom1l21 [1d?\]: ??
+cloudo [2k\]: o.o
+newnuetron: what did b just do?!
+]
+;B[fc]BL[30]OB[10]C[Otseit [-\]: he reverted to 20k reading
+morte93 [21k?\]: wow
+]
+;W[ee]WL[30]OW[10]C[morte93 [21k?\]: lol
+tom1l21 [1d?\]: too much sake
+morte93 [21k?\]: hey , i wouldnt have done that
+newnuetron: r there any strong players (5d or above) who disagree
+Otseit [-\]: probably only read m18
+]
+;B[cm]BL[30]OB[10]C[Otseit [-\]: well you are a strong 21k
+Otseit [-\]: probably sandbagging
+tom1l21 [1d?\]: lol
+]
+;W[se]WL[30]OW[10]C[morte93 [21k?\]: sandbagging?
+]
+;B[sd]BL[30]OB[10]C[Otseit [-\]: you are good
+tom1l21 [1d?\]: q11
+Otseit [-\]: thats exactly what a sandbagger would say
+Host: lol
+]
+;W[bj]WL[30]OW[10]
+;B[ci]BL[30]OB[10]
+;W[ck]WL[30]OW[10]
+;B[dk]BL[30]OB[10]
+;W[cl]WL[30]OW[10]
+;B[dl]BL[30]OB[10]
+;W[bm]WL[30]OW[10]C[morte93 [21k?\]: now im confused lol
+]
+;B[bi]BL[30]OB[10]C[tom1l21 [1d?\]: b wishes d10 was e10
+]
+;W[bk]WL[30]OW[10]C[newnuetron: now b can't get enf
+Host: Sandbagger = someone who hides their ability and presents themself as of weaker rank - not to be confused with a teabagger
+cloudo [2k\]: lol
+]
+;B[db]BL[30]OB[9]C[morte93 [21k?\]: no i only have played for 2 weeks lol
+Otseit [-\]: i hate when i confuse those two
+]
+;W[eb]WL[30]OW[10]
+;B[ec]BL[30]OB[9]
+;W[cb]WL[30]OW[10]
+;B[dd]BL[30]OB[9]
+;W[cc]WL[30]OW[10]C[Host: easy mistake
+]
+;B[fb]BL[30]OB[9]C[Otseit [-\]: ya like j18
+]
+;W[da]WL[30]OW[10]
+;B[qm]BL[30]OB[9]
+;W[ej]WL[30]OW[10]C[Host: ya know weird things can happen when your not looking
+heather [1d\]: b has dreamed of killing this wall since the beginning of the game
+]
+;B[dj]BL[30]OB[9]C[tom1l21 [1d?\]: gonna hurt now
+cloudo [2k\]: its more likley that the wall kills b now
+]
+;W[jn]WL[30]OW[9]C[tom1l21 [1d?\]: b will live
+tom1l21 [1d?\]: but at what cost
+]
+;B[rg]BL[30]OB[9]
+;W[hp]WL[30]OW[9]C[cloudo [2k\]: hoho
+]
+;B[ei]BL[30]OB[9]
+;W[iq]WL[30]OW[9]C[tom1l21 [1d?\]: dun dun dun
+]
+;B[ip]BL[30]OB[9]C[Otseit [-\]: so much for the dream
+]
+;W[ir]WL[30]OW[9]C[Host: live the dream
+]
+;B[hr]BL[30]OB[9]C[Host: then wake up
+]
+;W[er]WL[30]OW[9]
+;B[fr]BL[30]OB[9]C[Otseit [-\]: and do it all over again
+]
+;W[ds]WL[30]OW[9]
+;B[jr]BL[30]OB[9]
+;W[fi]WL[30]OW[9]C[heather [1d\]: more wall action
+]
+;B[fj]BL[30]OB[9]
+;W[gj]WL[30]OW[9]
+;B[fk]BL[30]OB[9]
+;W[gk]WL[30]OW[9]
+;B[fh]BL[30]OB[9]
+;W[gi]WL[30]OW[9]
+;B[fm]BL[30]OB[9]
+;W[fl]WL[30]OW[9]
+;B[ek]BL[30]OB[9]C[Host: ooo wall on wall action
+]
+;W[gm]WL[30]OW[9]
+;B[el]BL[30]OB[9]C[Redgold [5k\]: this costs a lot for b.
+heather [1d\]: go: what happens when an immoveable object hits... an immovable object?
+]
+;W[gl]WL[30]OW[9]C[Otseit [-\]: not the kinkiest thing i can think of
+]
+;B[ih]BL[30]OB[9]C[cloudo [2k\]: i thought its not good to make points with influence :P
+]
+;W[ii]WL[30]OW[9]
+;B[be]BL[30]OB[9]
+;W[bd]WL[30]OW[9]
+;B[bf]BL[30]OB[9]
+;W[ed]WL[30]OW[9]C[tom1l21 [1d?\]: only when theres nothing left to attack
+]
+;B[jh]BL[30]OB[9]
+;W[ji]WL[30]OW[9]C[tom1l21 [1d?\]: "_"
+heather [1d\]: there's at least a few more wall-like objects to hurl stones at
+]
+;B[mr]BL[30]OB[9]
+;W[lr]WL[30]OW[9]
+;B[nr]BL[30]OB[9]C[Host: make sure, before they go somewhere or do something
+]
+;W[of]WL[30]OW[9]
+;B[og]BL[30]OB[9]
+;W[rh]WL[30]OW[9]
+;B[sg]BL[30]OB[9]C[cloudo [2k\]: wow thats so 6d
+]
+;W[qg]WL[30]OW[9]
+;B[qh]BL[30]OB[9]C[Otseit [-\]: because a 7d would read it didnt work
+Host: lol
+cloudo [2k\]: it works
+]
+;W[qf]WL[30]OW[9]C[cloudo [2k\]: as it is sente :P
+Redgold [5k\]: Se is lying again
+]
+;B[ri]BL[30]OB[9]
+;W[ph]WL[30]OW[9]
+;B[qi]BL[30]OB[9]
+;W[pg]WL[30]OW[9]
+;B[pi]BL[30]OB[9]C[Otseit [-\]: yes, the mistake is sente so its not so bad
+tom1l21 [1d?\]: w up 25+
+]
+;W[lq]WL[30]OW[9]
+;B[in]BL[30]OB[9]
+;W[im]WL[30]OW[9]
+;B[kn]BL[30]OB[9]
+;W[jm]WL[30]OW[9]
+;B[jo]BL[30]OB[9]
+;W[qn]WL[30]OW[9]
+;B[pm]BL[30]OB[9]C[morte93 [21k?\]: wish i could figure that out lol
+]
+;W[lb]WL[30]OW[9]
+;B[lo]BL[30]OB[9]
+;W[mo]WL[30]OW[9]
+;B[km]BL[30]OB[9]C[morte93 [21k?\]: i couldnt if my life counted on it lol
+]
+;W[kl]WL[30]OW[9]
+;B[dm]BL[30]OB[9]C[cloudo [2k\]: the score?
+tom1l21 [1d?\]: just count "sure" pts
+]
+;W[ka]WL[30]OW[9]C[Otseit [-\]: aww he made a joke
+]
+;B[jb]BL[30]OB[9]C[morte93 [21k?\]: lol
+]
+;W[id]WL[30]OW[9]
+;B[hc]BL[30]OB[9]
+;W[hd]WL[30]OW[9]C[tom1l21 [1d?\]: LOL unintentional joke is unintentional
+oubeika [4d\]: thx
+ume8 [6d\]: tx
+heather [1d\]: I think this game wins an award for maximizing the number of contact plays
+tom1l21 [1d?\]: b dead up top?
+cloudo [2k\]: not dead, just sleeping
+morte93 [21k?\]: lol
+heather [1d\]: it's passed on!
+])

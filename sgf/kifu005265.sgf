@@ -1,0 +1,298 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[3x10 byo-yomi]
+PW[Star7d]PB[intenseG]WR[7d]BR[7d]DT[2014-12-18]PC[The KGS Go Server at http://www.gokgs.com/]C[intenseG [7d\]: hi gg
+]RE[W+Resign]
+;B[pd]BL[10]OB[3]C[Star7d [7d\]: hi
+]
+;W[dd]WL[10]OW[3]
+;B[qp]BL[10]OB[3]
+;W[dq]WL[10]OW[3]
+;B[oq]BL[10]OB[3]
+;W[ck]WL[10]OW[3]
+;B[fc]BL[10]OB[3]
+;W[df]WL[10]OW[3]
+;B[db]BL[10]OB[3]
+;W[cc]WL[10]OW[3]
+;B[ic]BL[10]OB[3]
+;W[qj]WL[10]OW[3]
+;B[qg]BL[10]OB[3]
+;W[qo]WL[10]OW[3]
+;B[pp]BL[10]OB[3]
+;W[rp]WL[10]OW[3]
+;B[rn]BL[10]OB[3]
+;W[ro]WL[10]OW[3]
+;B[qn]BL[10]OB[3]
+;W[po]WL[10]OW[3]
+;B[pn]BL[10]OB[3]
+;W[oo]WL[10]OW[3]
+;B[pk]BL[10]OB[3]
+;W[qq]WL[10]OW[3]
+;B[pj]BL[10]OB[3]
+;W[lp]WL[10]OW[3]
+;B[fq]BL[10]OB[3]
+;W[do]WL[10]OW[3]
+;B[dr]BL[10]OB[3]
+;W[cr]WL[10]OW[3]
+;B[jq]BL[10]OB[3]
+;W[hq]WL[10]OW[3]
+;B[hr]BL[10]OB[3]
+;W[ir]WL[10]OW[2]
+;B[iq]BL[10]OB[3]
+;W[gr]WL[10]OW[2]
+;B[hp]BL[10]OB[3]
+;W[gq]WL[10]OW[2]
+;B[jr]BL[10]OB[3]
+;W[hs]WL[10]OW[2]
+;B[gp]BL[10]OB[3]
+;W[fp]WL[10]OW[2]
+;B[mq]BL[10]OB[2]
+;W[pc]WL[10]OW[2]
+;B[qc]BL[10]OB[2]
+;W[oc]WL[10]OW[2]
+;B[qb]BL[10]OB[2]
+;W[ne]WL[10]OW[2]
+;B[lc]BL[10]OB[2]
+;W[pe]WL[10]OW[2]
+;B[od]BL[10]OB[2]C[bluetable [-\]: someone please explain
+]
+;W[nd]WL[10]OW[2]
+;B[oe]BL[10]OB[2]C[KoF [3k\]: they are placing stones
+]
+;W[of]WL[10]OW[2]C[plalx [?\]: explain what
+]
+;B[qd]BL[10]OB[2]
+;W[mg]WL[10]OW[2]C[KoF [3k\]: at seemingly random places to an untrained eye
+]
+;B[qr]BL[10]OB[2]
+;W[pq]WL[10]OW[2]
+;B[pr]BL[10]OB[2]
+;W[op]WL[10]OW[2]C[Bahamut [2k\]: waiting for someone or something to show you the way
+]
+;B[nq]BL[10]OB[2]
+;W[rr]WL[10]OW[2]
+;B[rs]BL[10]OB[2]
+;W[pi]WL[10]OW[2]
+;B[qi]BL[10]OB[2]C[einsteiger [6k\]: I'd pick b
+]
+;W[oi]WL[10]OW[2]
+;B[ph]BL[10]OB[2]
+;W[oh]WL[10]OW[2]C[sprouts [2k\]: I take w then
+]
+;B[nm]BL[10]OB[2]
+;W[sr]WL[10]OW[2]
+;B[dj]BL[10]OB[2]
+;W[dk]WL[10]OW[2]
+;B[ej]BL[10]OB[2]
+;W[ek]WL[10]OW[2]
+;B[fj]BL[10]OB[2]C[KoF [3k\]: calling dibs on people is rude
+]
+;W[fo]WL[10]OW[2]
+;B[cj]BL[10]OB[2]
+;W[hd]WL[10]OW[2]
+;B[hc]BL[10]OB[2]
+;W[fd]WL[10]OW[2]
+;B[ec]BL[10]OB[2]
+;W[ch]WL[10]OW[2]
+;B[fk]BL[10]OB[2]
+;W[bk]WL[10]OW[2]
+;B[mo]BL[10]OB[2]
+;W[hn]WL[10]OW[2]
+;B[ij]BL[10]OB[2]
+;W[kj]WL[10]OW[2]
+;B[il]BL[10]OB[2]
+;W[jn]WL[10]OW[2]
+;B[lo]BL[10]OB[2]
+;W[bj]WL[10]OW[2]
+;B[fm]BL[10]OB[2]
+;W[jk]WL[10]OW[2]
+;B[gn]BL[10]OB[2]
+;W[go]WL[10]OW[2]
+;B[ho]BL[10]OB[2]
+;W[ip]WL[10]OW[2]
+;B[io]BL[10]OB[2]
+;W[jo]WL[10]OW[2]
+;B[jp]BL[10]OB[2]
+;W[in]WL[10]OW[2]
+;B[ip]BL[10]OB[2]
+;W[jl]WL[10]OW[2]
+;B[hm]BL[10]OB[2]
+;W[el]WL[10]OW[2]
+;B[ih]BL[10]OB[2]
+;W[ji]WL[10]OW[2]
+;B[ii]BL[10]OB[2]
+;W[cb]WL[10]OW[2]
+;B[jh]BL[10]OB[2]
+;W[kh]WL[10]OW[2]
+;B[jj]BL[10]OB[2]C[oChayo [1k\]: b looks good
+oChayo [1k\]: :)
+]
+;W[ki]WL[10]OW[2]
+;B[kg]BL[10]OB[2]
+;W[lg]WL[10]OW[2]
+;B[kk]BL[10]OB[2]
+;W[ll]WL[10]OW[2]
+;B[lk]BL[10]OB[2]
+;W[mk]WL[10]OW[2]C[rsun [5d\]: ????
+]
+;B[lj]BL[10]OB[2]
+;W[mi]WL[10]OW[1]C[NotSmart: fail
+]
+;B[kl]BL[10]OB[2]
+;W[km]WL[10]OW[1]
+;B[lm]BL[10]OB[2]
+;W[ml]WL[10]OW[1]
+;B[jm]BL[10]OB[2]
+;W[im]WL[10]OW[1]
+;B[ik]BL[10]OB[2]
+;W[mm]WL[10]OW[1]
+;B[ln]BL[10]OB[2]C[easyrobot [6k?\]: pass :v
+]
+;W[mj]WL[10]OW[1]
+;B[jm]BL[10]OB[2]
+;W[js]WL[10]OW[1]C[oChayo [1k\]: gg
+]
+;B[kr]BL[10]OB[2]C[oChayo [1k\]: :)
+]
+;W[qf]WL[10]OW[1]C[rsun [5d\]: the game was quite intense, but now there's no suspense
+einsteiger [6k\]: B much better
+]
+;B[rf]BL[10]OB[2]C[YellowBell [6d\]: lololol rsun
+]
+;W[rh]WL[10]OW[1]
+;B[qh]BL[10]OB[2]
+;W[rg]WL[10]OW[1]C[oChayo [1k\]: wow
+]
+;B[ri]BL[10]OB[2]
+;W[re]WL[10]OW[1]
+;B[pf]BL[10]OB[2]
+;W[pg]WL[10]OW[1]
+;B[qe]BL[10]OB[2]
+;W[pf]WL[10]OW[1]C[oChayo [1k\]: b screwed up
+]
+;B[rj]BL[10]OB[2]
+;W[nb]WL[10]OW[1]
+;B[rd]BL[10]OB[1]
+;W[sf]WL[10]OW[1]
+;B[pb]BL[10]OB[1]
+;W[lb]WL[10]OW[1]C[oChayo [1k\]: b wins :)
+]
+;B[kc]BL[10]OB[1]
+;W[gd]WL[10]OW[1]
+;B[ob]BL[10]OB[1]C[NotSmart: yb is the best
+]
+;W[mc]WL[10]OW[1]C[NotSmart: XD
+]
+;B[kb]BL[10]OB[1]
+;W[gc]WL[10]OW[1]
+;B[gb]BL[10]OB[1]
+;W[id]WL[10]OW[1]C[YellowBell [6d\]: still hard to say who wins
+blutable: white wins
+]
+;B[jd]BL[10]OB[1]C[NotSmart: hi blutable
+YellowBell [6d\]: :0 nu miao is best xD
+]
+;W[fg]WL[10]OW[1]
+;B[ci]BL[10]OB[1]
+;W[bi]WL[10]OW[1]
+;B[em]BL[10]OB[1]C[NotSmart: miao is getting old
+]
+;W[dm]WL[10]OW[1]C[NotSmart: Ur gonna take his place
+]
+;B[en]BL[10]OB[1]C[NotSmart: ;)
+]
+;W[dn]WL[10]OW[1]
+;B[kf]BL[10]OB[1]
+;W[if]WL[10]OW[1]
+;B[li]BL[10]OB[1]
+;W[lh]WL[10]OW[1]
+;B[ol]BL[10]OB[1]C[YellowBell [6d\]: lower left corner just seems WAY to big
+]
+;W[on]WL[10]OW[1]
+;B[om]BL[10]OB[1]
+;W[sn]WL[10]OW[1]
+;B[sm]BL[10]OB[1]
+;W[so]WL[10]OW[1]
+;B[rl]BL[10]OB[1]
+;W[ca]WL[10]OW[1]
+;B[dh]BL[10]OB[1]
+;W[dg]WL[10]OW[1]
+;B[eh]BL[10]OB[1]
+;W[fh]WL[10]OW[1]
+;B[hg]BL[10]OB[1]C[oChayo [1k\]: it may be big but it has no power
+]
+;W[fl]WL[10]OW[1]
+;B[gl]BL[10]OB[1]
+;W[hf]WL[10]OW[1]
+;B[gg]BL[10]OB[1]
+;W[gf]WL[10]OW[1]C[oChayo [1k\]: :)
+]
+;B[eg]BL[10]OB[1]C[YellowBell [6d\]: it has the power of territory 
+YellowBell [6d\]: xD
+]
+;W[ef]WL[10]OW[1]
+;B[gh]BL[10]OB[1]
+;W[ei]WL[10]OW[1]C[qwerty321: maybe it hold to power to win xD
+]
+;B[di]BL[10]OB[1]C[NotSmart: what a weird thing, i read oChayo as xDragon nickname
+]
+;W[fi]WL[10]OW[1]
+;B[gi]BL[10]OB[1]
+;W[ff]WL[10]OW[1]
+;B[la]BL[10]OB[1]
+;W[mb]WL[10]OW[1]C[oChayo [1k\]: ?
+]
+;B[ks]BL[10]OB[1]
+;W[fn]WL[10]OW[1]
+;B[gm]BL[10]OB[1]
+;W[gk]WL[10]OW[1]C[oChayo [1k\]: what are u smoking
+]
+;B[gj]BL[10]OB[1]
+;W[eo]WL[10]OW[1]
+;B[hk]BL[10]OB[1]C[NotSmart: read only your message, the nickname looks like xDragon format
+NotSmart: :D
+]
+;W[is]WL[10]OW[1]
+;B[lf]BL[10]OB[1]
+;W[mf]WL[10]OW[1]
+;B[ed]BL[10]OB[1]C[oChayo [1k\]: ?
+]
+;W[ee]WL[10]OW[1]
+;B[da]BL[10]OB[1]C[NotSmart: forget
+NotSmart: xD
+]
+;W[hb]WL[10]OW[1]C[NotSmart: back to game -_-
+oChayo [1k\]: i need some of ur stuffs that u smoke
+]
+;B[fb]BL[10]OB[1]
+;W[ib]WL[10]OW[1]
+;B[jc]BL[10]OB[1]
+;W[ea]WL[10]OW[1]C[NotSmart: hahah
+]
+;B[fa]BL[10]OB[1]C[YellowBell [6d\]: w+ 20 xD its like 90.5 to 70.0
+]
+;W[dc]WL[10]OW[1]
+;B[eb]BL[10]OB[1]
+;W[ga]WL[10]OW[1]
+;B[ha]BL[10]OB[1]
+;W[ia]WL[10]OW[1]C[oChayo [1k\]: wow
+NotSmart: close game 
+NotSmart: indeed
+]
+;B[jb]BL[10]OB[1]
+;W[ga]WL[10]OW[1]C[YellowBell [6d\]: or well now its like WAY more
+]
+;B[fr]BL[10]OB[1]C[smallcat [2k\]: ouch
+NotSmart: FAIl
+]
+;W[ea]WL[10]OW[1]C[NotSmart: FAILUR
+oChayo [1k\]: k13
+rsun [5d\]: he means your name is of the form xXxxx
+]
+;B[fs]BL[10]OB[1]C[oChayo [1k\]: oh god
+]
+;W[jg]WL[10]OW[1]C[intenseG [7d\]: thx
+Star7d [7d\]: thx
+NotSmart: rsun got it
+NotSmart: lol
+bananalop [3k\]: nice
+])

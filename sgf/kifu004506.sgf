@@ -1,0 +1,596 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[80x10 byo-yomi]
+PW[twoeye]PB[doctorslip]WR[7d]BR[6d]DT[2013-12-20]PC[The KGS Go Server at http://www.gokgs.com/]C[twoeye [7d\]: hi
+doctorslip [6d\]: hi gg
+]RE[B+Resign]
+;B[pd]BL[10]OB[80]
+;W[dp]WL[10]OW[80]
+;B[qp]BL[10]OB[80]
+;W[dc]WL[10]OW[80]
+;B[fq]BL[10]OB[80]
+;W[cn]WL[10]OW[80]
+;B[lq]BL[10]OB[80]
+;W[qj]WL[10]OW[80]
+;B[qf]BL[10]OB[80]
+;W[pm]WL[10]OW[80]
+;B[qn]BL[10]OB[80]
+;W[op]WL[10]OW[79]C[awesome [4k\]: cool
+]
+;B[pn]BL[10]OB[79]
+;W[on]WL[10]OW[79]
+;B[om]BL[10]OB[79]
+;W[nn]WL[10]OW[79]
+;B[pl]BL[10]OB[78]
+;W[nm]WL[10]OW[79]
+;B[ol]BL[10]OB[78]
+;W[oj]WL[10]OW[79]
+;B[nl]BL[10]OB[78]
+;W[ml]WL[10]OW[79]
+;B[mk]BL[10]OB[78]
+;W[nk]WL[10]OW[79]
+;B[mj]BL[10]OB[78]
+;W[ll]WL[10]OW[79]C[AutoAtari [1k\]: looks like the cat is practising the r10-q7-p4 combo
+]
+;B[oi]BL[10]OB[77]
+;W[ql]WL[10]OW[78]
+;B[qm]BL[10]OB[77]C[awesome [4k\]: he played this before?
+AutoAtari [1k\]: previous game
+]
+;W[pi]WL[10]OW[77]C[sfaasda: very cat-like opening
+sfaasda: feline moves
+]
+;B[oh]BL[10]OB[77]
+;W[pk]WL[10]OW[77]
+;B[rl]BL[10]OB[77]
+;W[rk]WL[10]OW[77]
+;B[qk]BL[10]OB[77]C[sfaasda: though rather weak
+]
+;W[nj]WL[10]OW[77]
+;B[mi]BL[10]OB[77]
+;W[ql]WL[10]OW[77]
+;B[ln]BL[10]OB[77]C[awesome [4k\]: so weird
+]
+;W[rm]WL[10]OW[77]
+;B[qk]BL[10]OB[77]
+;W[ni]WL[10]OW[77]C[plotzo [6k\]: my how surprising not 40 moves into the game and a ko fight already
+]
+;B[nh]BL[10]OB[76]
+;W[ql]WL[10]OW[76]C[goren2 [2k\]: cat plays 24 hours a day
+Minjhou [7k\]: at least
+Anymous [14k?\]: lol
+Chesired [1d\]: no, cat sleeps 14-16 hours a day
+]
+;B[oq]BL[10]OB[73]C[Chesired [1d\]: plays the rest
+]
+;W[sl]WL[10]OW[75]C[plotzo [6k\]: cat said that there wasn't enough time for go in a 24 hour day and that he would have to start playing nights
+]
+;B[pq]BL[10]OB[73]C[awesome [4k\]: m5
+goren2 [2k\]:  n12
+sfaasda: cat play in sleep, insomnia-go
+]
+;W[lo]WL[10]OW[73]C[awesome [4k\]: hehe
+gotoin [6k\]: why not fighting around d17 ?
+]
+;B[ko]BL[10]OB[73]C[gotoin [6k\]: for the ko
+awesome [4k\]: there would be no fight
+Chesired [1d\]: gotoin, if either player had played top left during that the other would ignore it
+]
+;W[kn]WL[10]OW[69]C[gotoin [6k\]: a stone in the corner was not enough for taking the ko ?
+]
+;B[mo]BL[10]OB[70]
+;W[lm]WL[10]OW[69]
+;B[lp]BL[10]OB[70]
+;W[jn]WL[10]OW[69]C[SiaBBo [3k\]: what ko?
+]
+;B[ip]BL[10]OB[70]
+;W[mh]WL[10]OW[69]
+;B[kj]BL[10]OB[70]C[awesome [4k\]: the s8 ko
+]
+;W[jl]WL[10]OW[69]C[awesome [4k\]: or was it r9
+]
+;B[lh]BL[10]OB[69]
+;W[mg]WL[10]OW[69]C[plotzo [6k\]: r9
+gotoin [6k\]: r9 ko : i didn't understand why black din't send a stone in the corner
+]
+;B[lg]BL[10]OB[69]
+;W[mf]WL[10]OW[69]
+;B[lf]BL[10]OB[69]C[gotoin [6k\]: didn't*
+awesome [4k\]: not big enough
+Chesired [1d\]: look at it this way gotoin, if b gets an extra move w loses right side, if w gets an extra move b loses bottom right
+SiaBBo [3k\]: guess it's not big enough
+grmaster [3k\]: n15 
+]
+;W[pg]WL[10]OW[68]
+;B[me]BL[10]OB[69]C[grmaster [3k\]: wow
+Evandro [1k\]: hy grmaster
+]
+;W[og]WL[10]OW[68]
+;B[ne]BL[10]OB[69]C[grmaster [3k\]: W too greedy
+Evandro [1k\]: very
+grmaster [3k\]: lost so many
+Balladeer [5d\]: very good for b
+]
+;W[of]WL[10]OW[67]C[indianayk [4d\]: b needed to escape from attack in the low right corner no matter what b takes from upper left
+YuBaba [2d\]: white came of better i thin
+grmaster [3k\]: hi Evandro
+Evandro [1k\]: w is playing weirdo
+]
+;B[ce]BL[10]OB[69]
+;W[fd]WL[10]OW[67]
+;B[hc]BL[10]OB[69]
+;W[jc]WL[10]OW[67]
+;B[he]BL[10]OB[69]
+;W[mc]WL[10]OW[67]
+;B[oc]BL[10]OB[69]
+;W[ob]WL[10]OW[67]
+;B[nb]BL[10]OB[69]
+;W[nc]WL[10]OW[67]
+;B[mb]BL[10]OB[69]C[plotzo [6k\]: he gets off on experimenting with different things
+]
+;W[od]WL[10]OW[66]
+;B[pc]BL[10]OB[69]
+;W[lb]WL[10]OW[66]
+;B[pb]BL[10]OB[69]C[AutoAtari [1k\]: sounds naughty
+Chesired [1d\]: difficult life
+AnaMarco [2d\]: gett off= like a lot
+Evandro [1k\]: h18 
+annika97 [2d\]: that's a family friendly translation
+grmaster [3k\]: m16 may be
+indianayk [4d\]: w is still in trouble
+]
+;W[ld]WL[10]OW[62]
+;B[le]BL[10]OB[69]C[grmaster [3k\]: wow
+grmaster [3k\]: he played my move
+Evandro [1k\]: haha
+]
+;W[je]WL[10]OW[62]C[Evandro [1k\]: grmaster is 7d 
+AutoAtari [1k\]: 7d for one move :p
+]
+;B[jf]BL[10]OB[68]C[grmaster [3k\]: yeah somewhen in future I will be
+CrusaderGo [4k\]: :D
+Evandro [1k\]: :|
+]
+;W[ke]WL[10]OW[61]C[Evandro [1k\]: when that happens
+Evandro [1k\]: don't forgive me
+grmaster [3k\]: heh
+Evandro [1k\]: :P
+grmaster [3k\]: OK
+]
+;B[ie]BL[10]OB[66]
+;W[hb]WL[10]OW[61]
+;B[gb]BL[10]OB[64]
+;W[ib]WL[10]OW[61]C[BagaLutti [4d?\]: don't forgive him
+]
+;B[gc]BL[10]OB[63]C[Evandro [1k\]: i cheer on you
+]
+;W[de]WL[10]OW[60]
+;B[df]BL[10]OB[62]
+;W[cd]WL[10]OW[60]
+;B[ee]BL[10]OB[62]
+;W[dd]WL[10]OW[60]C[idazuwaika [5d\]: anyone knows where can i listen to songs online ? youtube blocked in china
+]
+;B[be]BL[10]OB[62]
+;W[ef]WL[10]OW[60]
+;B[dg]BL[10]OB[62]
+;W[ff]WL[10]OW[60]
+;B[cj]BL[10]OB[62]C[goren2 [2k\]: baidu music
+]
+;W[kf]WL[10]OW[60]
+;B[jg]BL[10]OB[62]
+;W[kg]WL[10]OW[60]
+;B[kh]BL[10]OB[62]
+;W[jh]WL[10]OW[60]C[idazuwaika [5d\]: got english songs on baidu?
+martin97 [-\]: spotify?
+goren2 [2k\]: yes
+]
+;B[hg]BL[10]OB[61]
+;W[gf]WL[10]OW[60]
+;B[hf]BL[10]OB[60]
+;W[ih]WL[10]OW[60]C[killfire [4k\]: soundcloud
+SiaBBo [3k\]: grooveshark
+]
+;B[ij]BL[10]OB[60]
+;W[hi]WL[10]OW[60]
+;B[gh]BL[10]OB[60]
+;W[gi]WL[10]OW[60]
+;B[fh]BL[10]OB[60]C[awesome [4k\]: just about 5% of the internet
+Evandro [1k\]:  http://www.youtube.com/ http://www.vimeo.com/ http://www.blinkx.com/ http://vids.myspace.com/ http://video.google.com/ http://en.sevenload.com/ http://www.gaatube.com/ http://photobucket.com/
+]
+;W[hk]WL[10]OW[60]
+;B[ik]BL[10]OB[60]C[Evandro [1k\]:  http://www.flixya.com/ http://www.pandora.tv/ http://www.vidiac.com/ http://www.hictu.com/ http://video.ezilon.com/ http://www.you3b.com/ http://www.uzood.com/ http://www.vidipedia.org/ http://www.5min.com/ http://www.hungryflix.com/
+]
+;W[hl]WL[10]OW[60]
+;B[il]BL[10]OB[60]
+;W[im]WL[10]OW[60]C[martin97 [-\]: lol
+grmaster [3k\]: W risks too much
+idazuwaika [5d\]: im on baidu
+]
+;B[hj]BL[10]OB[60]C[KingJoff3 [7d\]: king joffrey slays trolls !
+idazuwaika [5d\]: haha
+]
+;W[gj]WL[10]OW[60]C[Evandro [1k\]:  http://www.buzznet.com/ http://www.clipshack.com/ http://castpost.com/ http://vidmax.com/ http://www.clipmoon.com/ http://www.videowebtown.com/community/index.php http://www.dailymotion.com/us http://www.flukiest.com/ http://flurl.com/ http://www.livevideo.com/ http://www.myubo.com/page/home.html http://revver.com/revver/ http://www.snotr.com/ http://www.glumbert.com/ http://www.clevver.com/ http://www.selfcasttv.com/Selfcast/gotohome.do http://www.uvouch.com/ http://www.viddler.com/
+SiaBBo [3k\]: black can just p15
+Chesired [1d\]: w can squeeze very hard here
+]
+;B[gk]BL[10]OB[58]
+;W[fk]WL[10]OW[60]
+;B[gl]BL[10]OB[58]C[martin97 [-\]: probably half is porn :P
+]
+;W[hm]WL[10]OW[60]C[K5 [2d?\]: CHESIRED, YEAH, i WAS JUST LOOKING AT THAT
+]
+;B[fl]BL[10]OB[58]C[K5 [2d?\]: Oops, sorry 
+Evandro [1k\]: lol martin
+]
+;W[jj]WL[10]OW[60]
+;B[jk]BL[10]OB[58]
+;W[kk]WL[10]OW[60]C[sfaasda: b weak
+Chesired [1d\]: I'm glad my idea got you so excited you need all caps
+]
+;B[ji]BL[10]OB[58]
+;W[ii]WL[10]OW[60]
+;B[jj]BL[10]OB[58]
+;W[lj]WL[10]OW[60]
+;B[ki]BL[10]OB[58]C[Evandro [1k\]: CHERISED PROMOTED TO 9D 
+Chesired [1d\]: woohoo
+AutoAtari [1k\]: idazuwaika, use a vpn or something
+awesome [4k\]: huh
+grmaster [3k\]: e10 
+idazuwaika [5d\]: nah .. im listening to english songs on Baidu
+idazuwaika [5d\]: good enough
+Evandro [1k\]: ok idazu
+Evandro [1k\]: ;)
+K5 [2d?\]: Twoeye is checking up on p15
+idazuwaika [5d\]: i dismissed baidu when i saw all chinese characters
+bahaaomar [9k\]: m9
+indianayk [4d\]: e10
+dfhfhfb [1k\]: p15
+]
+;W[ej]WL[10]OW[50]C[zyklop [1k\]: p15 seems to work for w
+goren2 [2k\]: where are you in china?
+grmaster [3k\]: me wins
+idazuwaika [5d\]: guangzhou
+Prodigious [-\]: p15 would lose the semeai by one lib
+]
+;B[ek]BL[10]OB[57]C[Prodigious [-\]: have to play this one
+Death0 [1d\]: p15 didnt work
+]
+;W[fj]WL[10]OW[50]C[Chesired [1d\]: no zklop, p 15 = b captures g11 group
+goren2 [2k\]: shanghai here
+indianayk [4d\]: p15 will not do if b cut at f10
+]
+;B[oe]BL[10]OB[57]
+;W[dk]WL[10]OW[49]
+;B[el]BL[10]OB[56]
+;W[dj]WL[10]OW[49]C[Death0 [1d\]: d9 better than e8 ?
+]
+;B[eo]BL[10]OB[55]C[awesome [4k\]: looks more risky
+]
+;W[fn]WL[10]OW[49]
+;B[en]BL[10]OB[55]C[Chesired [1d\]: w looking for a cut at e12
+grmaster [3k\]: c11 
+awesome [4k\]: ok
+]
+;W[eh]WL[10]OW[46]C[indianayk [4d\]: b is going dangerously to the disaster area
+Chesired [1d\]: I'm afraid L6 might die
+awesome [4k\]: CHESIRED WINS AGAIN!!!
+]
+;B[eg]BL[10]OB[54]
+;W[ci]WL[10]OW[46]C[Evandro [1k\]: CHERISED SHOULD BE 9P NOW
+Evandro [1k\]: DUDE
+Chesired [1d\]: I had two cups of coffee today what can I say
+Evandro [1k\]: I WANT THAT COFFEE TOO
+AutoAtari [1k\]: only 1d and already has at least 3 fans screaming in caps?!
+]
+;B[dl]BL[10]OB[51]C[Chesired [1d\]: can't even walk down the street...
+]
+;W[cl]WL[10]OW[45]C[plotzo [6k\]: i want to know what was in that coffee
+killfire [4k\]: lol
+Evandro [1k\]: drugs
+Evandro [1k\]: ?
+]
+;B[dh]BL[10]OB[49]C[Evandro [1k\]: 9p drugs
+goren2 [2k\]: he's got 9d charisma
+Anymous [14k?\]: scotch
+annika97 [2d\]: like caffeine and sugar?
+Chesired [1d\]: it was a blend of bolivian, costa rican, and tsumego
+awesome [4k\]: e4
+grmaster [3k\]: b13 
+pifpaf [?\]: damezumari
+]
+;W[gp]WL[10]OW[43]C[Evandro [1k\]: cherised tell some moves
+]
+;B[ep]BL[10]OB[49]C[AutoAtari [1k\]: it wasn't marijuana, it was medicinal marijuana
+]
+;W[dm]WL[10]OW[43]C[Evandro [1k\]: i know you got crystal ball
+]
+;B[em]BL[10]OB[49]
+;W[dq]WL[10]OW[43]C[K5 [2d?\]: m7 now alive after g4
+zyklop [1k\]: e 18 looks interesting
+]
+;B[gq]BL[10]OB[48]C[Squiggles [1d\]: doesn't he need an eye at K6 stones still?
+]
+;W[io]WL[10]OW[42]C[Squiggles [1d\]: there we go
+Evandro [1k\]: yep
+]
+;B[bd]BL[10]OB[46]C[Evandro [1k\]: b16 owowowowo
+]
+;W[bc]WL[10]OW[42]C[Evandro [1k\]: gg
+grmaster [3k\]: W could kill big
+]
+;B[bb]BL[10]OB[45]
+;W[cb]WL[10]OW[42]C[Squiggles [1d\]: could also die up there
+]
+;B[ac]BL[10]OB[45]C[Evandro [1k\]: hi squiggles
+]
+;W[eb]WL[10]OW[42]
+;B[cc]BL[10]OB[45]C[Squiggles [1d\]: hi
+Evandro [1k\]: nice nick 
+grmaster [3k\]: e3 
+Chesired [1d\]: now b13
+awesome [4k\]: h4
+]
+;W[jp]WL[10]OW[40]C[Evandro [1k\]: w badd
+grmaster [3k\]: k4 not enough to kill 
+Chesired [1d\]: I fear b ignores
+pururun [3k\]: guys, pro game is up now
+pifpaf [?\]: ignore
+Evandro [1k\]: thx pururun
+]
+;B[hp]BL[10]OB[43]C[Evandro [1k\]: ciao
+]
+;W[bc]WL[10]OW[40]C[Evandro [1k\]: its private!!!
+zyklop [1k\]: w d19 would live
+pururun [3k\]: XD
+Squiggles [1d\]: it is a 1d playing white
+RankaLee [2k\]: lol
+Squiggles [1d\]: not a 1p
+Evandro [1k\]: YOU TROLLER
+Evandro [1k\]: :P
+killfire [4k\]: pro where?
+annika97 [2d\]: why would I want to watch breakfast play a 1d? :E
+pururun [3k\]: oh god i mistook the rank >.< sorry guys
+Chesired [1d\]: I'm pro kibitz
+pete038861 [5k\]: I subconsciously saw it as a 1p too because of the name Kim
+Evandro [1k\]: ok pururun
+rsun [5d\]: 1d playing white, sounds about right
+DeadTired [2d\]: killfire, it is a private game anyway
+Squiggles [1d\]: and they're playing white which makes it confusing
+Evandro [1k\]: rsun...
+]
+;B[kb]BL[10]OB[38]C[killfire [4k\]: yea
+]
+;W[ma]WL[10]OW[40]
+;B[kc]BL[10]OB[38]C[Evandro [1k\]: what is this?
+annika97 [2d\]: bizarre
+Chesired [1d\]: this is throwing away ko threats
+AutoAtari [1k\]: I beat breakfast once
+liptos [5k\]: guys, sai is playing akira, 14p vs 12p, top of egr
+grmaster [3k\]: kill attempt
+Evandro [1k\]: liptos..... this doesnt works
+Evandro [1k\]: lol
+K5 [2d?\]: B/W disagree on life/death status
+]
+;W[kd]WL[10]OW[37]
+;B[oa]BL[10]OB[38]
+;W[ig]WL[10]OW[37]
+;B[if]BL[10]OB[38]C[killfire [4k\]: would love to see pro vs pro on kgs though
+]
+;W[ha]WL[10]OW[36]C[Evandro [1k\]: strange, the observers here droped from 223 to 201......
+Evandro [1k\]: :(
+annika97 [2d\]: check out tygem. Pros play there all the time.
+Chesired [1d\]: m17
+AutoAtari [1k\]: let's kick out some more
+fuzzie [3k\]: ko
+pururun [3k\]: ko ko
+Babibo [2d?\]: L&Ç 
+]
+;B[lc]BL[10]OB[36]C[Chesired [1d\]: woohoo
+Squiggles [1d\]: white can always connect underneath now though too
+]
+;W[ka]WL[10]OW[36]C[AutoAtari [1k\]: press alt-f4 to watch a pro game, hurry, only works for first 10 observers
+Babibo [2d?\]: L19, I meant 
+]
+;B[la]BL[10]OB[36]C[killfire [4k\]: thx annika
+grmaster [3k\]: cool yose by B
+Evandro [1k\]: wow, rapyuta vs tartrate on top list games, ciao guys, have fun watching twoeye
+keepcalm [5k\]: b13
+]
+;W[ga]WL[10]OW[34]
+;B[md]BL[10]OB[36]
+;W[jo]WL[10]OW[33]C[Evandro [1k\]: hahaha 223  to 219
+Evandro [1k\]: it worked
+]
+;B[jr]BL[10]OB[36]
+;W[jd]WL[10]OW[33]
+;B[jb]BL[10]OB[36]
+;W[ic]WL[10]OW[33]C[weiqidevil [-\]: this doesn't mean much
+]
+;B[ge]BL[10]OB[36]
+;W[fe]WL[10]OW[33]
+;B[cc]BL[10]OB[36]C[Chesired [1d\]: semai
+]
+;W[bg]WL[10]OW[33]C[Evandro [1k\]: b13 cherised wins again
+grmaster [3k\]: k19 
+pifpaf [?\]: furikawari
+]
+;B[bc]BL[10]OB[35]C[Chesired [1d\]: all I do is win
+AutoAtari [1k\]: I wonder what percentage of kgs-ers ever watched a tartrate game
+grmaster [3k\]: hm
+]
+;W[bf]WL[10]OW[32]C[Evandro [1k\]: pifpaf, is your nick related to paf paf dragon ball ?
+AutoAtari [1k\]: I didn't
+Chesired [1d\]: c19
+pete038861 [5k\]: m18 keeps flashing at me dang
+]
+;B[ch]BL[10]OB[32]
+;W[bh]WL[10]OW[32]
+;B[bi]BL[10]OB[32]
+;W[di]WL[10]OW[32]C[awesome [4k\]: I'm not convinced there ever was a tartrate
+]
+;B[bj]BL[10]OB[32]C[plotzo [6k\]: a furry what???
+Evandro [1k\]: furikawari
+]
+;W[ck]WL[10]OW[32]C[Evandro [1k\]: a kind of tofu
+]
+;B[cf]BL[10]OB[32]C[Chesired [1d\]: now it's over
+Squiggles [1d\]: white needs to make his eye up there
+grmaster [3k\]: b19 
+]
+;W[ba]WL[10]OW[30]C[awesome [4k\]: CHESIRED FAILED!!! IT WASN'T OVER!!!
+plotzo [6k\]: whose furry got kawaried?
+Evandro [1k\]: white should resign
+annika97 [2d\]: doesn't w win this?
+SiaBBo [3k\]: hmh? white can kill b10 yes?
+grmaster [3k\]: W wins seniai
+grmaster [3k\]: semiai
+K5 [2d?\]: D19?
+Nightwind [1d\]: you mean b should resign
+Nightwind [1d\]: xd
+zyklop [1k\]: cat´s claws are sharper than ever ^^
+Chesired [1d\]: a game can be over even before it is finished
+AutoAtari [1k\]: grmaster keep trying
+grmaster [3k\]: B was too greedy
+SkipperV2 [1k\]: f18?
+]
+;B[fc]BL[10]OB[27]C[grmaster [3k\]: c12 shoule be c19 
+]
+;W[gd]WL[10]OW[28]
+;B[hd]BL[10]OB[27]C[Evandro [1k\]: grmaster is on the jorney for 9d
+K5 [2d?\]: e17
+SpiriT93 [9k\]: f18
+Squiggles [1d\]: E17 required
+Evandro [1k\]: e17 reqiored true
+Anymous [14k?\]: f18?
+Evandro [1k\]: anymous
+Evandro [1k\]: anonymous nick?
+SkipperV2 [1k\]: f18 e17 and d18 is not an eye
+bahaaomar [9k\]: he mst do f19 then j 16 
+Anymous [14k?\]: jea
+annika97 [2d\]: Anonymouse is a cool nick
+Evandro [1k\]: i liked it anymous
+]
+;W[lb]WL[10]OW[18]C[grmaster [3k\]: W plays tenuki I guess
+Evandro [1k\]: very cool imo too
+zyklop [1k\]: e17, f18, f19, d19
+AttoFaas [3k\]: a15
+Squiggles [1d\]: forgot about this ko
+]
+;B[nd]BL[10]OB[26]C[grmaster [3k\]: o16 
+Chesired [1d\]: how is it a ko?
+Pennylane [4d\]: this is timesuji
+grmaster [3k\]: just time tesujie
+Squiggles [1d\]: oh forgot about that
+Squiggles [1d\]: too
+annika97 [2d\]: no ko, just for a liberty at j19 I think
+Evandro [1k\]: grmaster called on the same time of the 4d
+]
+;W[ae]WL[10]OW[17]C[K5 [2d?\]: F17?
+Evandro [1k\]: dude ur getting good
+]
+;B[af]BL[10]OB[25]C[grmaster [3k\]: heh
+]
+;W[bk]WL[10]OW[17]C[Evandro [1k\]: do you play chess?
+grmaster [3k\]: thank you dude
+Evandro [1k\]: cus chess players can make fast 7d+ kgs
+grmaster [3k\]: I try to type faster next time
+]
+;B[fb]BL[10]OB[21]C[Chesired [1d\]: "a cat still has claws and mine are long and sharp my lord as long and sharp as yours and so he spoke and so he spoke that lord of kgs"
+Evandro [1k\]: chess activates another part of brain, that unlock the secrets of reading in go
+]
+;W[fa]WL[10]OW[17]C[Evandro [1k\]: so learn chess and get 7d easily
+]
+;B[ec]BL[10]OB[20]
+;W[ed]WL[10]OW[17]C[pifpaf [?\]: seki
+K5 [2d?\]: But 1 eye vs no eye
+pete038861 [5k\]: yea reading chess more difficult
+]
+;B[aa]BL[10]OB[18]C[pururun [3k\]: one eye....
+awesome [4k\]: so no seki
+pete038861 [5k\]: good chess players learn go very quickly
+K5 [2d?\]: chess easier since joseki=yose
+pururun [3k\]: vs no eye
+Pennylane [4d\]:  no chess reading easier
+]
+;W[ab]WL[10]OW[16]C[Evandro [1k\]: yes pete
+Evandro [1k\]: i know a lot of chess players who are 6d kgs
+Anymous [14k?\]: chess is easieer
+Chesired [1d\]: I can read ahead better in chess than in go and I'm not even very good at chess
+AutoAtari [1k\]: chess is boring
+]
+;B[ea]BL[10]OB[16]C[bahaaomar [9k\]: y
+Evandro [1k\]: chess is a tool for learning go faster
+]
+;W[da]WL[10]OW[16]
+;B[aa]BL[10]OB[16]C[Evandro [1k\]: learn chess, get nice rating, quit chess, go kgs, get 6d kgs 1 year
+]
+;W[ei]WL[10]OW[15]C[Evandro [1k\]: easy easy
+pifpaf [?\]: tripleko
+grmaster [3k\]: e11 
+Squiggles [1d\]: looks like black wins
+weiqidevil [-\]: isn't in the same way go a tool for learning chess faster?
+]
+;B[fg]BL[10]OB[16]C[annika97 [2d\]: Go also increases your ability to play chess.
+liptos [5k\]: let the chess vs go flame war begin
+]
+;W[ab]WL[10]OW[15]C[Squiggles [1d\]: but i haven't actually counted
+K5 [2d?\]: Who activated these chess trolls? I've been told they hunt in packs, now I find it to be true.
+Pennylane [4d\]: well both games are hard if you want to be a good player but chess reading is definitely easier.
+Evandro [1k\]: i don't know
+Bulma [8k\]: Chess is a game of tactics, where as go is a game of strategy. Tactics are set ways to play where as strategy is ever evolving 
+grmaster [3k\]: W has enough local threats 
+Evandro [1k\]: go is harder
+Evandro [1k\]: xd
+grmaster [3k\]: g13 
+annika97 [2d\]: says the 8k
+]
+;B[ja]BL[10]OB[13]C[annika97 [2d\]: I love that "strategy" nonsense
+]
+;W[aj]WL[10]OW[14]
+;B[aa]BL[10]OB[13]C[awesome [4k\]: both chess and go are about operational art
+Evandro [1k\]: i agree with bulma
+Bulma [8k\]: i was 1kyu 3 years ago...i just came back.
+Evandro [1k\]: thx bulma for sharing
+DeadTired [2d\]: go is negotiation for territory, chess is bloody massacre. Of course, the way we play go is a bloody massacre as well
+]
+;W[ca]WL[10]OW[13]C[SkipperV2 [1k\]: agree
+AutoAtari [1k\]: chess is loosely similar to 9x9, you can even play them on the same board
+Evandro [1k\]: go is just a meere question of reading....go for chess if u want get better at go
+]
+;B[la]BL[10]OB[12]C[Chesired [1d\]: wait, there are OTHER ways to play go?
+sinand [7k\]: evandro hi :(
+]
+;W[db]WL[10]OW[13]C[sinand [7k\]: :)
+Evandro [1k\]: hey sinand
+Evandro [1k\]: :D
+]
+;B[ia]BL[10]OB[11]C[pifpaf [?\]: i always massacre in go
+sinand [7k\]: white dead ?
+]
+;W[fi]WL[10]OW[13]C[Evandro [1k\]: how are u sinand}
+Minjhou [7k\]: d18?
+Evandro [1k\]: ?
+]
+;B[id]BL[10]OB[11]
+;W[ea]WL[10]OW[13]C[SkipperV2 [1k\]: lol
+sinand [7k\]: good this day :)
+]
+;B[gg]BL[10]OB[11]C[SkipperV2 [1k\]: bye white
+Evandro [1k\]: NONSE
+Evandro [1k\]: NSE
+doctorslip [6d\]: thx
+twoeye [7d\]: thx
+sinand [7k\]: i beat 4k :) without handicaps
+Beykakua [3k\]: only one eye :(
+annika97 [2d\]: check and mate.
+sinand [7k\]: good day for me :)
+Evandro [1k\]: sinand sandbagger
+Evandro [1k\]: :P
+indybirdie [8k\]: gg
+zyklop [1k\]: wow, what a fight
+pururun [3k\]: this is the first time i see no eye group kills the one eye group
+Anymous [14k?\]: why didnt move white on F18?
+grmaster [3k\]: W played wrong with filling c19 
+annika97 [2d\]: why didn't b a18 instead of g13?
+annika97 [2d\]: like this it's still an approach ko
+grmaster [3k\]: should keep play ko
+])

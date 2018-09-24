@@ -1,0 +1,331 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+PW[intenseG]PB[Zen19L]WR[8d]BR[8d]DT[2016-11-24]PC[The KGS Go Server at http://www.gokgs.com/]C[Zen19L [8d\]: GTP Engine for Zen19L (black): Zen version 13.1
+selena [3d\]: oubeikun
+]RE[B+Resign]
+;B[pd]BL[1789.747]
+;W[dp]WL[1797.846]C[intenseG [8d\]: hi gg
+superpal1 [2d\]: hi
+]
+;B[pq]BL[1770.909]
+;W[dd]WL[1795.164]
+;B[fq]BL[1751.675]
+;W[cn]WL[1790.396]C[awesome [3k\]: even game
+]
+;B[jp]BL[1735.478]
+;W[pn]WL[1777.468]C[Kellan [1k?\]: I think kgs will get stronger with zen promoting it :)
+]
+;B[qo]BL[1724.65]
+;W[pj]WL[1770.609]C[saitamma: "The number of handicap stones is limited to 3 or less."    finaly...
+awesome [3k\]: would be nice
+]
+;B[po]BL[1710.231]C[Kellan [1k?\]: That's nice change
+]
+;W[qf]WL[1761.093]
+;B[nc]BL[1707.387]C[awesome [3k\]: no more zen vs 11k
+]
+;W[rd]WL[1713.952]C[Kellan [1k?\]: Or 2d :)
+]
+;B[fc]BL[1691.664]C[selena [3d\]: s16 bad sence
+saitamma: m17 ?
+]
+;W[lc]WL[1650.602]
+;B[ic]BL[1671.879]C[selena [3d\]: fight style
+]
+;W[fd]WL[1620.256]
+;B[gd]BL[1660.991]
+;W[fe]WL[1608.659]
+;B[ec]BL[1650.652]
+;W[dc]WL[1606.54]C[saitamma: yeah.. must be blood
+]
+;B[ge]BL[1644.274]C[awesome [3k\]: bloooooood
+selena [3d\]: already w bad imo
+saitamma: TR shimari not good too
+]
+;W[df]WL[1562.228]
+;B[pf]BL[1636.138]C[RobertT [-\]: 9p = kgs 8d?
+selena [3d\]: best way for w m17 sute
+]
+;W[pg]WL[1535.645]
+;B[of]BL[1633.334]C[Kellan [1k?\]: I don't understand d15
+Kellan [1k?\]: G15
+]
+;W[og]WL[1512.459]
+;B[ng]BL[1629.782]C[Kellan [1k?\]: Oh, zen is b
+awesome [3k\]: so now you understand? :)
+Kellan [1k?\]: No, but I don't try to understand zen
+]
+;W[nf]WL[1422.201]C[selena [3d\]: hum nice fight
+]
+;B[qe]BL[1609.784]C[awesome [3k\]: is g15 just to make top bigger?
+selena [3d\]: y
+]
+;W[re]WL[1397.761]
+;B[qg]BL[1606.897]
+;W[rf]WL[1395.531]
+;B[mg]BL[1604.029]C[RobertT [-\]: it also removes whites h16 follow up
+awesome [3k\]: now it looks like w needs to come out
+selena [3d\]: ladder
+Guest0843 [3d\]: 6 win n 1 loss...
+Guest0843 [3d\]: very impressive
+]
+;W[oi]WL[1348.368]
+;B[qc]BL[1601.079]
+;W[ne]WL[1333.406]
+;B[nd]BL[1598.259]C[selena [3d\]: nn
+awesome [3k\]: and the one loss was against 3 handi
+RobertT [-\]: I guess its bad at giving handicap
+]
+;W[oe]WL[1265.478]
+;B[pe]BL[1587.965]C[Guest0843 [3d\]: giving a 6d here 3 stone... is no joke
+awesome [3k\]: I was thinking p15, so this cannot be good
+RobertT [-\]: it should be for someone that goes 1 win 2 loss vs 9p
+]
+;W[le]WL[1236.764]
+;B[lf]BL[1575.637]C[Kellan [1k?\]: Seems like trouble for w
+Guest0843 [3d\]: w overplaying?
+selena [3d\]: too overplay now
+]
+;W[jc]WL[1172.596]
+;B[jd]BL[1572.746]C[Guest0843 [3d\]: ko?
+]
+;W[kd]WL[1168.37]
+;B[je]BL[1563.005]
+;W[ib]WL[1137.172]C[selena [3d\]: ko
+]
+;B[jb]BL[1554.35]
+;W[kb]WL[1135.433]
+;B[kc]BL[1550.874]C[OhYeah [1d\]: KO big
+]
+;W[kf]WL[1130.513]
+;B[me]BL[1547.981]
+;W[jc]WL[1128.586]C[Guest0843 [3d\]: ko no good for w
+]
+;B[qh]BL[1545.142]C[selena [3d\]: w thin
+]
+;W[nh]WL[1084.083]
+;B[mh]BL[1530.903]C[RobertT [-\]: pretty light ko for black
+Hyperman1 [5d\]: white still ok though
+Guest0843 [3d\]: i doubt it is light...
+saitamma: b can cut l15 with good result'
+Kellan [1k?\]: N12 important? 
+]
+;W[qj]WL[1033.314]
+;B[kc]BL[1520.575]C[RobertT [-\]: yes, even if white wins the kos. black is out into the center and has L15 cut
+RobertT [-\]: so hard to attack that group
+]
+;W[lg]WL[1006.63]
+;B[mf]BL[1511.339]C[selena [3d\]: n12 ladder
+]
+;W[jc]WL[1004.81]
+;B[ni]BL[1507.227]
+;W[oh]WL[1000.809]
+;B[kc]BL[1504.362]C[selena [3d\]: n12 ignore q11 r11 q12 p12 p10 
+]
+;W[hq]WL[938.736]C[Hyperman1 [5d\]:  n12 already taken by black
+]
+;B[jc]BL[1495.031]C[Hyperman1 [5d\]: or am I missing something?
+awesome [3k\]: l15 looks like something zen would benefit fromfill
+]
+;W[jq]WL[930.452]C[awesome [3k\]: nvm
+]
+;B[kq]BL[1485.062]
+;W[kp]WL[928.5]
+;B[lq]BL[1475.543]C[awesome [3k\]: there should be undo for chat comments :)
+charabee: nobody can win
+]
+;W[jo]WL[899.562]C[RobertT [-\]: hyperman, selena is doing the sequence if white ignored the ko threat
+]
+;B[ip]BL[1466.01]
+;W[iq]WL[894.305]C[Kellan [1k?\]: H3 doesn't seem like a ko threat
+Hyperman1 [5d\]: ty
+]
+;B[io]BL[1463.161]C[Tictactoe [-\]: wasm't that terrence hill?
+Hyperman1 [5d\]: that's what I was missing
+RobertT [-\]: just showing that after q11. black cant be captured
+]
+;W[ko]WL[880.189]
+;B[gp]BL[1453.192]
+;W[fr]WL[875.56]C[OhYeah [1d\]: @@
+]
+;B[er]BL[1447.384]
+;W[gr]WL[874.012]
+;B[dq]BL[1438.724]
+;W[ep]WL[872.183]
+;B[eq]BL[1434.25]
+;W[hp]WL[871.367]C[selena [3d\]: hum
+OhYeah [1d\]: then KO 
+]
+;B[ho]BL[1421.273]
+;W[go]WL[870.083]C[Hyperman1 [5d\]: yay white b winning but not by alot
+]
+;B[gn]BL[1418.322]C[Hyperman1 [5d\]: go whitew
+]
+;W[fo]WL[868.297]C[Hyperman1 [5d\]: defeat this bot
+]
+;B[cp]BL[1415.404]C[Hyperman1 [5d\]: I have a grudge on it :(
+]
+;W[co]WL[845.894]
+;B[bq]BL[1405.497]
+;W[im]WL[831.508]
+;B[hn]BL[1398.82]
+;W[fm]WL[803.603]
+;B[hl]BL[1396]
+;W[hm]WL[796.708]
+;B[gm]BL[1390.847]
+;W[gl]WL[795.82]
+;B[fl]BL[1388.027]
+;W[gk]WL[794.116]
+;B[fn]BL[1385.188]
+;W[en]WL[779.696]
+;B[em]BL[1382.313]
+;W[in]WL[775.156]
+;B[fm]BL[1373.749]
+;W[dm]WL[773.98]
+;B[fk]BL[1366.161]
+;W[fj]WL[759.383]
+;B[ek]BL[1363.218]C[jinzhang [1d\]: w H3 group dead?
+]
+;W[kr]WL[731.812]
+;B[lr]BL[1352.796]C[OhYeah [1d\]: KO
+]
+;W[ks]WL[720.331]
+;B[dl]BL[1342.913]C[selena [3d\]: w thin
+]
+;W[cl]WL[712.159]
+;B[ck]BL[1338.866]
+;W[bl]WL[702.764]
+;B[gj]BL[1327.202]
+;W[hk]WL[693.45]
+;B[fi]BL[1324.345]
+;W[mi]WL[630.32]
+;B[li]BL[1312.034]
+;W[mj]WL[625.102]
+;B[hj]BL[1299.863]
+;W[lh]WL[607.223]
+;B[od]BL[1288.807]C[Kellan [1k?\]: M12 seems desperate 
+]
+;W[ik]WL[604.786]C[jinzhang [1d\]: Can B kill w H3 group by J2?
+]
+;B[ij]BL[1284.765]C[Kellan [1k?\]: Oh, nm
+Kellan [1k?\]: It's sente
+selena [3d\]: j1 h1 j2 f1 h2 k2 k1 
+]
+;W[jj]WL[583.75]
+;B[jk]BL[1273.488]
+;W[il]WL[582.454]
+;B[ji]BL[1267.743]
+;W[kj]WL[580.929]
+;B[ki]BL[1264.86]
+;W[lj]WL[574.341]C[RobertT [-\]: j2 j1 h1 k2 ko
+]
+;B[ch]BL[1251.034]C[BongoBob [-\]: poor w
+charabee: too strong
+selena [3d\]: poor
+selena [3d\]:  soon rez
+BongoBob [-\]: b pushing around all over
+mikech [4k\]: b won
+vellavu [6k\]: zen uses so little time
+awesome [3k\]: too easy for zen
+]
+;W[on]WL[500.743]
+;B[ce]BL[1239.781]C[Kellan [1k?\]: Zen needs an avatar
+selena [3d\]: nice
+]
+;W[cf]WL[493.089]
+;B[bf]BL[1233.438]
+;W[bg]WL[487.157]
+;B[be]BL[1219.658]C[Kellan [1k?\]: B18 aji?
+]
+;W[cg]WL[481.548]
+;B[de]BL[1215.292]C[RobertT [-\]: liveing shape
+selena [3d\]: w thin
+OhYeah [1d\]: trịck move
+jinzhang [1d\]: w brokern
+jinzhang [1d\]: broken
+selena [3d\]: um
+]
+;W[dh]WL[430.804]
+;B[ci]BL[1204.326]C[jinzhang [1d\]: w is broken into 3 pieces
+BongoBob [-\]: bring in the next victim
+Guest0843 [3d\]: w toasted?
+selena [3d\]: next victim who
+RobertT [-\]: kellan, locally c18 is the shape move but seems b can get more
+NateC [2d\]: Hey, it's the thing that was here and then wasn't
+NateC [2d\]: The previous 9d broke 9d though, didn't it?
+NateC [2d\]: Er, the previous Zen broke 9d
+BongoBob [-\]: this one seems to be on the 9d precipice as well, after 7 games
+NateC [2d\]: Ah man, it looks like we really have lost go to the robots
+Kellan [1k?\]: White rage quit? 
+]
+;W[ed]WL[72.149]
+;B[ef]BL[1201.527]C[Kellan [1k?\]: Lol, w thinks for 5 min, zen responds instantly 
+]
+;W[gc]WL[36.602]
+;B[gb]BL[1198.738]C[selena [3d\]: com need 10 seconds enough
+jinzhang [1d\]: w whole group dead!
+]
+;W[fb]WL[12.537]
+;B[hc]BL[1191.946]
+;W[eg]WL[0.458]
+;B[ff]BL[1181.625]
+;W[ee]WL[30]OW[5]
+;B[bc]BL[1164.659]C[RobertT [-\]: looks very dead
+]
+;W[gf]WL[30]OW[5]
+;B[fg]BL[1155.824]C[NateC [2d\]: The g14 aji looks promising
+]
+;W[fh]WL[30]OW[5]
+;B[gg]BL[1151.874]
+;W[gh]WL[30]OW[5]
+;B[hg]BL[1149.042]C[jinzhang [1d\]: hopeless
+]
+;W[ii]WL[30]OW[5]
+;B[hi]BL[1146.238]C[m1m [1k\]: zen will bring more high dans to kgs
+Kellan [1k?\]: W can sac l11
+]
+;W[ej]WL[30]OW[5]
+;B[ei]BL[1132.853]C[jinzhang [1d\]: agree
+]
+;W[dj]WL[30]OW[5]
+;B[di]BL[1127.736]
+;W[ih]WL[30]OW[5]
+;B[hh]BL[1124.745]C[OhYeah [1d\]: dead all
+flobby [-\]: someone make a post on tieba to tell the chinese pros zen is back on kgs.. although they're probably not interested anymore
+flobby [-\]: since there's that bot on yehu
+OhYeah [1d\]: Zen is pro
+]
+;W[jh]WL[30]OW[5]C[jinzhang [1d\]: resign time
+OhYeah [1d\]: Zen is 1P Japan
+Gandi [7k\]: losing l11 seems fine b/c of kill all left white
+]
+;B[rm]BL[1108.625]C[RobertT [-\]: the bot on yehu is stronger than zen
+vellavu [6k\]: that yehu bot is stronger than zen, or they say
+]
+;W[bj]WL[30]OW[5]C[yoyoma [1d?\]: what is yehu?
+SimbaRules [4d\]: What is yehu? Same as Fox go?
+RobertT [-\]: yes
+]
+;B[cj]BL[1099.278]C[OhYeah [1d\]: why w not resgin?
+Guest0843 [3d\]: did zen get 1p diploma from  Nikon Kiin?
+]
+;W[bk]WL[30]OW[5]C[m1m [1k\]: how are kgs ratings compared to fox\\
+vellavu [6k\]: zen likes to blunder in cho chikun game
+]
+;B[bi]BL[1091.114]C[RobertT [-\]: bot on yehu is top 5 pro strength
+vellavu [6k\]: maybe w is waiting for the blunder
+]
+;W[bp]WL[30]OW[5]
+;B[cq]BL[1082.146]
+;W[ao]WL[30]OW[5]
+;B[bs]BL[1074.5]C[NateC [2d\]: Who won in those games?
+charabee: nothing will happen
+nonosse [2k\]: never heard on that fox go new server?
+]
+;W[oq]WL[30]OW[5]
+;B[or]BL[1063.431]C[vellavu [6k\]: fox ratings are similar to tygem
+intenseG [7d\]: thx
+vellavu [6k\]: about 2d weaker than kgs. But it doesn't matter when you are not in the dan system
+vellavu [6k\]: they are pros
+charabee: nice try
+])

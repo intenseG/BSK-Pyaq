@@ -1,0 +1,164 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[0]OT[5x20 byo-yomi]
+PW[KingJulien]PB[intenseG]WR[8d]BR[7d]DT[2015-01-14]PC[The KGS Go Server at http://www.gokgs.com/]C[intenseG [7d\]: hi gg
+KingJulien [8d\]: hi
+]RE[W+Resign]
+;B[pd]BL[20]OB[5]
+;W[dp]WL[20]OW[5]
+;B[pq]BL[20]OB[5]
+;W[dc]WL[20]OW[5]
+;B[fq]BL[20]OB[5]
+;W[cn]WL[20]OW[5]
+;B[ql]BL[20]OB[5]
+;W[ce]WL[20]OW[5]
+;B[jc]BL[20]OB[5]
+;W[jp]WL[20]OW[5]
+;B[mp]BL[20]OB[5]
+;W[gp]WL[20]OW[5]
+;B[gq]BL[20]OB[5]
+;W[hp]WL[20]OW[5]
+;B[dq]BL[20]OB[5]
+;W[cq]WL[20]OW[5]
+;B[cr]BL[20]OB[5]
+;W[cp]WL[20]OW[5]
+;B[er]BL[20]OB[5]
+;W[di]WL[20]OW[5]
+;B[nd]BL[20]OB[5]
+;W[hc]WL[20]OW[5]
+;B[je]BL[20]OB[5]
+;W[he]WL[20]OW[5]
+;B[qe]BL[20]OB[5]
+;W[ig]WL[20]OW[5]
+;B[cd]BL[20]OB[4]
+;W[cc]WL[20]OW[5]
+;B[cf]BL[20]OB[4]
+;W[be]WL[20]OW[5]
+;B[eh]BL[20]OB[4]
+;W[ei]WL[20]OW[5]
+;B[hf]BL[20]OB[4]
+;W[if]WL[20]OW[5]
+;B[ie]BL[20]OB[4]
+;W[ge]WL[20]OW[5]
+;B[gh]BL[20]OB[4]
+;W[hi]WL[20]OW[5]
+;B[gf]BL[20]OB[4]
+;W[gi]WL[20]OW[5]
+;B[fe]BL[20]OB[4]
+;W[fc]WL[20]OW[5]
+;B[fd]BL[20]OB[4]
+;W[gc]WL[20]OW[5]
+;B[de]BL[20]OB[4]
+;W[bf]WL[20]OW[5]
+;B[cg]BL[20]OB[4]
+;W[dh]WL[20]OW[5]C[Fujiwarano [6k\]: b should have invaded bottom left rather than top left i think
+]
+;B[bg]BL[20]OB[3]
+;W[dd]WL[20]OW[5]
+;B[bi]BL[20]OB[3]C[Fujiwarano [6k\]: it was much more open and unsettled
+]
+;W[cj]WL[20]OW[5]
+;B[bj]BL[20]OB[3]
+;W[bk]WL[20]OW[5]C[manriev [3k\]: there is wall
+]
+;B[ck]BL[20]OB[3]
+;W[dk]WL[20]OW[5]
+;B[cl]BL[20]OB[3]
+;W[bl]WL[20]OW[5]
+;B[dg]BL[20]OB[3]
+;W[fh]WL[20]OW[5]
+;B[fg]BL[20]OB[3]
+;W[eg]WL[20]OW[5]
+;B[ef]BL[20]OB[3]
+;W[eh]WL[20]OW[5]C[Fujiwarano [6k\]: nvm i guess he pulled it off
+]
+;B[ih]BL[20]OB[3]C[Fujiwarano [6k\]: lol
+]
+;W[hh]WL[20]OW[5]
+;B[hg]BL[20]OB[3]C[Fujiwarano [6k\]: or not
+Emanon [2k\]: b wanted a moyo game then if opponent has a moyo b wants to go there to die big?
+]
+;W[gg]WL[20]OW[5]C[Fujiwarano [6k\]: wow
+]
+;B[ff]BL[20]OB[3]
+;W[jg]WL[20]OW[5]
+;B[jh]BL[20]OB[3]
+;W[kg]WL[20]OW[5]
+;B[kh]BL[20]OB[3]
+;W[lg]WL[20]OW[5]
+;B[lh]BL[20]OB[3]
+;W[mg]WL[20]OW[5]
+;B[mh]BL[20]OB[3]C[PinotNoir [2d\]: b hoping for semeai
+]
+;W[ng]WL[20]OW[5]C[PinotNoir [2d\]: wow
+]
+;B[nh]BL[20]OB[3]
+;W[og]WL[20]OW[5]
+;B[ed]BL[20]OB[3]
+;W[ch]WL[20]OW[5]
+;B[bh]BL[20]OB[3]
+;W[aj]WL[20]OW[5]C[Fujiwarano [6k\]: i dont know if he should have invaded at all. i just think if thats what he intended to do, bottom leftg was easier
+Fujiwarano [6k\]: and more open / less settled
+]
+;B[pi]BL[20]OB[3]
+;W[qg]WL[20]OW[5]
+;B[qh]BL[20]OB[3]
+;W[md]WL[20]OW[4]C[VitalX [1d\]: w has a lot of space b is sealed what semeai?
+]
+;B[me]BL[20]OB[3]
+;W[le]WL[20]OW[4]C[FlowYbGib [1k\]: that's not really a lot of space
+VitalX [1d\]: b just died
+]
+;B[ec]BL[20]OB[3]
+;W[eb]WL[20]OW[4]
+;B[db]BL[20]OB[3]
+;W[cb]WL[20]OW[4]
+;B[fb]BL[20]OB[3]
+;W[da]WL[20]OW[4]
+;B[ld]BL[20]OB[3]
+;W[ph]WL[20]OW[4]
+;B[qi]BL[20]OB[3]C[VitalX [1d\]: he has alredy more libs than nessesary
+]
+;W[mc]WL[20]OW[4]
+;B[lf]BL[20]OB[3]
+;W[ne]WL[20]OW[4]
+;B[ke]BL[20]OB[3]C[FlowYbGib [1k\]: that I agree with
+]
+;W[mf]WL[20]OW[4]
+;B[le]BL[20]OB[3]
+;W[od]WL[20]OW[4]
+;B[nc]BL[20]OB[3]
+;W[oc]WL[20]OW[4]
+;B[nb]BL[20]OB[3]
+;W[pe]WL[20]OW[4]C[sharma [6d\]: ko was the last chance
+zxcvbaaa: gg
+]
+;B[pc]BL[20]OB[3]
+;W[ob]WL[20]OW[4]
+;B[mb]BL[20]OB[3]
+;W[pb]WL[20]OW[4]C[PinotNoir [2d\]: b lost
+]
+;B[qb]BL[20]OB[3]
+;W[qf]WL[20]OW[4]C[VitalX [1d\]: there is still hope in 100500 step ko at g12
+PinotNoir [2d\]: ko?
+PinotNoir [2d\]: nah
+]
+;B[re]BL[20]OB[2]C[PinotNoir [2d\]: w squeeze from the left
+]
+;W[rb]WL[20]OW[4]
+;B[rc]BL[20]OB[2]C[Fujiwarano [6k\]: ^ this
+]
+;W[qa]WL[20]OW[4]
+;B[qc]BL[20]OB[2]C[AndEdhel [4k\]: p14
+]
+;W[rf]WL[20]OW[4]
+;B[oh]BL[20]OB[2]C[FlowYbGib [1k\]: dead again
+PinotNoir [2d\]: b very sucidal in this game
+]
+;W[of]WL[20]OW[4]C[FlowYbGib [1k\]: ooh
+FlowYbGib [1k\]: p14 so nice
+]
+;B[pg]BL[20]OB[2]C[VitalX [1d\]: b can only plan some uber time tesuji
+]
+;W[ra]WL[20]OW[4]C[intenseG [6d\]: thx
+KingJulien [8d\]: thx
+])
