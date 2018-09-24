@@ -48,7 +48,7 @@ def call_gtp(main_time, byoyomi, quick=False, clean=False, use_gpu=True):
         if th:
             th.join()
         Tree.stop = False
-        elif include(str, "protocol_version"):
+        if include(str, "protocol_version"):
             send("2")
         elif include(str, "name"):
             send("Pyaq")
